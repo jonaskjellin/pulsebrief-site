@@ -5,7 +5,46 @@
   <link href="https://jonaskjellin.github.io/pulsebrief-site/feed.xml" rel="self"/>
   <link href="https://jonaskjellin.github.io/pulsebrief-site/"/>
   <id>https://jonaskjellin.github.io/pulsebrief-site/</id>
-  <updated>2026-03-15T23:01:37.916Z</updated>
+  <updated>2026-03-15T23:14:01.660Z</updated>
+  <entry>
+    <title>Morning — Mar 15, 2026</title>
+    <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-03-15-morning.html"/>
+    <id>https://jonaskjellin.github.io/pulsebrief-site/2026-03-15-morning.html</id>
+    <updated>2026-03-15T23:14:01.660Z</updated>
+    <content type="html">&lt;p&gt;&lt;h1&gt;Jonas's Morning Pulse&lt;/h1&gt;&lt;br&gt;
+&lt;em&gt;Sat, Mar 14, 18:00 → Sun, Mar 15, 07:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Cyber Security&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-11-oob-hotpatch-to-fix-rras-rce-flaw/"&gt;Microsoft releases emergency Windows 11 patch for RRAS RCE vulnerability&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 14, 21:48&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Microsoft issued an out-of-band update for Windows 11 Enterprise systems using hotpatch delivery to fix a remote code execution flaw in Routing and Remote Access Service. The emergency patch breaks from normal Patch Tuesday cycles, signaling a critical vulnerability requiring immediate attention. This affects enterprises using Microsoft's newer hotpatch model instead of traditional cumulative updates.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Emergency OOB patches indicate severe risk - assess your enterprise's RRAS exposure and hotpatch deployment timelines immediately&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-11-oob-hotpatch-to-fix-rras-rce-flaw/"&gt;BleepingComputer&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;AI &amp; Machine Learning&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://simonwillison.net/2026/Mar/14/jannis-leidel/#atom-everything"&gt;AI-generated spam forces open-source projects to abandon collaborative models&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 14, 18:41&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;GitHub's flood of AI-generated spam PRs has made open membership models untenable for projects like Jazzband, with only 1 in 10 AI-generated PRs meeting project standards. Curl shut down its bug bounty after confirmation rates dropped below 5%, and GitHub introduced a kill switch to disable pull requests entirely. This represents a fundamental breakdown of traditional open-source trust and collaboration models.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Shows how AI spam is breaking OSS ecosystems that enterprises depend on - evaluate your organization's open-source contribution and consumption strategies&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://simonwillison.net/2026/Mar/14/jannis-leidel/#atom-everything"&gt;Simon Willison&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://simonwillison.net/2026/Mar/14/pragmatic-summit/#atom-everything"&gt;Developer AI adoption reaches 'nobody reads code' stage at security company&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 14, 18:19&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Simon Willison highlights the evolution of AI coding adoption, with StrongDM's controversial 'software factory' where developers neither write nor read code. The progression moves from ChatGPT queries to coding agents writing more code than humans, with trust models shifting to treat AI like external team dependencies. Notably, StrongDM is a security company claiming to build serious software without human code review.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Critical inflection point for enterprise development practices and security oversight as AI becomes the primary code author in security-sensitive contexts&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://simonwillison.net/2026/Mar/14/pragmatic-summit/#atom-everything"&gt;Simon Willison&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Technology&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/03/14/the-macbook-neo-is-the-most-repairable-macbook-in-years-according-to-ifixit/"&gt;Apple's MacBook Neo becomes most repairable MacBook in 14 years&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 14, 21:24&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;iFixit declares Apple's new affordable MacBook Neo the company's most repairable laptop in over a decade. This marks a significant departure from Apple's historical approach to device repairability and suggests potential compliance with emerging right-to-repair regulations.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Signals broader industry shift toward repairability requirements that may impact enterprise hardware procurement and lifecycle management strategies&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/03/14/the-macbook-neo-is-the-most-repairable-macbook-in-years-according-to-ifixit/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Business &amp; Markets&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/03/14/us-army-announces-contract-with-anduril-worth-up-to-20b/"&gt;US Army awards Anduril massive $20B contract consolidating 120+ procurements&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 14, 20:47&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;The Army announced a single enterprise contract with defense tech startup Anduril worth up to $20 billion, consolidating more than 120 separate procurement actions. This represents a significant shift toward streamlined defense technology acquisition and demonstrates how government agencies are embracing startup providers at enterprise scale.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Shows how defense sector is embracing startup tech providers with enterprise-scale contracts - potential model for other sectors' procurement strategies&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/03/14/us-army-announces-contract-with-anduril-worth-up-to-20b/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;hr&gt;&lt;br&gt;
+&lt;em&gt;Generated by PulseBrief at Sun, Mar 15, 23:14&lt;/em&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>Morning — Mar 15, 2026</title>
     <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-03-15-morning.html"/>
