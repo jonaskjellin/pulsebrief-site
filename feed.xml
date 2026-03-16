@@ -5,7 +5,115 @@
   <link href="https://jonaskjellin.github.io/pulsebrief-site/feed.xml" rel="self"/>
   <link href="https://jonaskjellin.github.io/pulsebrief-site/"/>
   <id>https://jonaskjellin.github.io/pulsebrief-site/</id>
-  <updated>2026-03-16T00:02:57.369Z</updated>
+  <updated>2026-03-16T06:14:46.573Z</updated>
+  <entry>
+    <title>Custom — Mar 16, 2026</title>
+    <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-03-16-custom.html"/>
+    <id>https://jonaskjellin.github.io/pulsebrief-site/2026-03-16-custom.html</id>
+    <updated>2026-03-16T06:14:46.573Z</updated>
+    <content type="html">&lt;p&gt;&lt;h1&gt;Jonas's Update Pulse&lt;/h1&gt;&lt;br&gt;
+&lt;em&gt;as of Mon, Mar 16, 06:14&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Cyber Security&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://thehackernews.com/2026/03/android-17-blocks-non-accessibility.html"&gt;Android 17 blocks non-accessibility apps from accessibility services to prevent malware abuse&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 16, 05:43&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Google is testing a security feature in Android 17 Beta 2 as part of Advanced Protection Mode that restricts accessibility API access to prevent malware exploitation. This addresses a common attack vector where malicious apps abuse accessibility services to perform unauthorized actions on enterprise devices. The change represents a significant tightening of Android's security posture for high-risk users and organizations.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Critical for enterprise mobile security strategy - assess how this affects your organization's accessibility requirements and MDM deployment models&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://thehackernews.com/2026/03/android-17-blocks-non-accessibility.html"&gt;The Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.securityweek.com/loblaw-data-breach-impacts-customer-information/"&gt;Loblaw data breach exposes customer personal information&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 15, 10:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Canada's largest retailer Loblaw suffered a data breach affecting customer names, email addresses, and phone numbers. The incident demonstrates ongoing risks to retail sector customer data and potential regulatory implications under Canadian privacy laws. Details on breach scope and attacker methods remain limited.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Retail sector breach pattern relevant to your global retail group's threat modeling and customer data protection strategies&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.securityweek.com/loblaw-data-breach-impacts-customer-information/"&gt;SecurityWeek&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.bleepingcomputer.com/news/security/betterleaks-a-new-open-source-secrets-scanner-to-replace-gitleaks/"&gt;Betterleaks open-source secrets scanner launched as Gitleaks replacement&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 15, 14:17&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;A new open-source tool called Betterleaks offers enhanced capabilities for scanning directories, files, and git repositories to identify valid secrets using customizable rules. The tool represents ongoing evolution in DevSecOps tooling as organizations struggle with credential exposure in code repositories. It positions itself as an improved alternative to the widely-used Gitleaks scanner.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Evaluate for your enterprise DevSecOps pipeline - enhanced secrets detection capabilities may improve your code repository security posture&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.bleepingcomputer.com/news/security/betterleaks-a-new-open-source-secrets-scanner-to-replace-gitleaks/"&gt;BleepingComputer&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.aikido.dev/blog/glassworm-returns-unicode-attack-github-npm-vscode"&gt;Glassworm Unicode attacks return targeting GitHub, NPM, and VSCode repositories&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 15, 13:08&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Security researchers report a new wave of invisible Unicode attacks called Glassworm that exploit bidirectional text rendering to hide malicious code in repositories. The attacks target developer environments including GitHub, NPM packages, and VSCode, making malicious code appear benign during code review. This represents a sophisticated supply chain attack vector targeting the software development lifecycle.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Critical supply chain risk - review your code review processes and developer tooling configurations to detect Unicode-based obfuscation attacks&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.aikido.dev/blog/glassworm-returns-unicode-attack-github-npm-vscode"&gt;Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;AI &amp; Machine Learning&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theverge.com/ai-artificial-intelligence/893931/ai-companies-handshake-improv-actors-training-data"&gt;AI companies recruit improv actors to train emotional intelligence models&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 15, 14:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Companies providing training data to OpenAI and other labs are actively recruiting improv actors to teach AI models authentic human emotion and character consistency. The effort highlights the industry's push beyond technical capabilities toward more nuanced human interaction modeling. This represents a shift from purely text-based training toward performance-based emotional intelligence development.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Signals the next phase of AI capabilities development - consider implications for AI-human interaction patterns in your enterprise AI strategy&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.theverge.com/ai-artificial-intelligence/893931/ai-companies-handshake-improv-actors-training-data"&gt;The Verge&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://simonwillison.net/guides/agentic-engineering-patterns/what-is-agentic-engineering/#atom-everything"&gt;Simon Willison defines 'agentic engineering' as new development paradigm&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 15, 22:41&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Simon Willison introduces the concept of 'agentic engineering' - developing software with coding agents that can write and execute code in loops to achieve goals. The practice shifts human engineers from writing code to defining requirements and navigating solution tradeoffs. Willison emphasizes that code execution capability is what makes agentic engineering fundamentally different from simple code generation.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Framework for understanding how AI coding agents change enterprise development practices and security review processes in your organization&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://simonwillison.net/guides/agentic-engineering-patterns/what-is-agentic-engineering/#atom-everything"&gt;Simon Willison&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://developer.chrome.com/blog/chrome-devtools-mcp-debug-your-browser-session"&gt;Chrome DevTools adds MCP support for AI-assisted debugging&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 15, 19:12&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Google Chrome DevTools now supports Model Context Protocol (MCP) to enable AI assistants to debug browser sessions directly. The integration allows AI models to interact with debugging tools, inspect DOM elements, and analyze network requests. This represents a significant step toward AI-native development tooling and automated debugging workflows.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;MCP security implications for your enterprise - evaluate how AI debugging access affects your web application security and development workflows&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://developer.chrome.com/blog/chrome-devtools-mcp-debug-your-browser-session"&gt;Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-chatgpt-ads-are-not-rolling-out-globally-for-now/"&gt;OpenAI clarifies ChatGPT ads limited to US markets for now&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 15, 23:13&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;OpenAI confirmed to BleepingComputer that ChatGPT advertisements on Free and Go plans are not rolling out globally despite privacy policy updates mentioning ads. The clarification comes after users outside the US noticed ad references in updated terms. This suggests a phased approach to monetizing free ChatGPT usage through advertising.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Tracks OpenAI's business model evolution that may affect enterprise AI tool procurement and user experience expectations&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-chatgpt-ads-are-not-rolling-out-globally-for-now/"&gt;BleepingComputer&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/03/15/bytedance-reportedly-pauses-global-launch-of-its-seedance-2-0-video-generator/"&gt;ByteDance pauses global Seedance 2.0 video generator launch over legal concerns&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 15, 21:01&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;ByteDance has reportedly delayed the global launch of its Seedance 2.0 AI video generation tool while engineers and lawyers address potential legal issues. The pause suggests mounting regulatory and intellectual property concerns around AI-generated video content. This follows increased scrutiny of AI companies over training data rights and content attribution.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Highlights legal risks in AI video generation that may affect your organization's content creation and AI deployment strategies&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/03/15/bytedance-reportedly-pauses-global-launch-of-its-seedance-2-0-video-generator/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/03/15/lawyer-behind-ai-psychosis-cases-warns-of-mass-casualty-risks/"&gt;Lawyer warns of AI chatbot links to mass casualty events&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 15, 18:49&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;The attorney behind AI psychosis lawsuits warns that AI chatbots previously linked to individual suicides are now appearing in mass casualty cases. The lawyer argues that AI technology is advancing faster than safety safeguards, creating systemic risks. This represents an escalation in concerns about AI's potential for causing real-world harm beyond individual cases.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Critical for enterprise AI risk assessment - evaluate your organization's AI chatbot deployments and safety protocols for potential liability exposure&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/03/15/lawyer-behind-ai-psychosis-cases-warns-of-mass-casualty-risks/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Technology&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://github.com/QAInsights/AIx"&gt;Quillx open standard proposed for disclosing AI involvement in software&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 16, 01:21&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;A new open standard called Quillx (AIx) has been proposed to standardize how software projects disclose AI involvement in their development. The standard aims to provide transparency about which parts of codebases were generated or assisted by AI tools. This addresses growing concerns about AI-generated code quality, security, and maintainability in software projects.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Consider adopting for your enterprise development standards to maintain transparency and traceability of AI-assisted code in your organization&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://github.com/QAInsights/AIx"&gt;Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://righttoprivacyact.github.io"&gt;Federal Right to Privacy Act draft legislation surfaces&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 16, 01:58&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Draft legislation for a comprehensive Federal Right to Privacy Act has been published, potentially representing the most significant privacy legislation effort in the US since CCPA. The bill aims to establish federal privacy rights and could preempt state-level privacy laws. Technical details and enforcement mechanisms are still being refined.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Monitor for potential federal privacy compliance requirements that could affect your global retail group's US operations and data handling&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://righttoprivacyact.github.io"&gt;Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.michaelgeist.ca/2026/03/a-tale-of-two-bills-lawful-access-returns-with-changes-to-warrantless-access-but-dangerous-backdoor-surveillance-risks-remains/"&gt;Canada's Bill C-22 mandates mass metadata surveillance capabilities&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 15, 21:22&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Canadian legislation Bill C-22 would mandate telecommunications providers to implement mass metadata collection and surveillance capabilities accessible to law enforcement without warrants. The bill represents a significant expansion of government surveillance powers with potential implications for privacy rights and business operations. Critics warn of dangerous backdoor surveillance risks.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Assess implications for your organization's Canadian operations and data sovereignty requirements under expanded surveillance mandates&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.michaelgeist.ca/2026/03/a-tale-of-two-bills-lawful-access-returns-with-changes-to-warrantless-access-but-dangerous-backdoor-surveillance-risks-remains/"&gt;Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://towlion.github.io"&gt;GitHub Actions experimented as PaaS control plane&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 16, 24:51&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;An experimental project called Towlion demonstrates using GitHub Actions as a control plane for Platform-as-a-Service functionality. The approach leverages GitHub's existing CI/CD infrastructure to orchestrate application deployments and infrastructure management. This represents an innovative use of existing developer tooling for platform operations.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Novel approach to PaaS that could inform your enterprise platform strategy and CI/CD infrastructure optimization&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://towlion.github.io"&gt;Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://stopsloppypasta.ai/"&gt;Stop Sloppypasta campaign targets low-quality AI code generation&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 15, 17:25&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;A new initiative called Stop Sloppypasta aims to combat the proliferation of low-quality, AI-generated code that lacks proper error handling, security considerations, and maintainability. The campaign highlights growing concerns about AI coding tools producing functional but fundamentally flawed software that creates technical debt and security vulnerabilities.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Reinforces the need for rigorous AI code review standards and quality gates in your enterprise development processes&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://stopsloppypasta.ai/"&gt;Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Business &amp; Markets&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/03/15/wiz-investor-unpacks-googles-32b-acquisition/"&gt;Google acquires Wiz for $32B in largest-ever acquisition&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 15, 15:30&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Google completed its acquisition of cloud security company Wiz for $32 billion, marking the tech giant's largest acquisition ever. Index Ventures investor Shardul Shah discussed the strategic rationale behind the deal, which significantly expands Google's enterprise security capabilities. The acquisition demonstrates the massive valuations and strategic importance of cloud security platforms.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Reshapes enterprise cloud security vendor landscape - assess impact on your organization's Google Cloud and multi-cloud security strategy&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/03/15/wiz-investor-unpacks-googles-32b-acquisition/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/03/15/unacademy-to-be-acquired-by-upgrad-in-share-swap-deal-as-indias-edtech-sector-consolidates/"&gt;Unacademy acquired by upGrad in share-swap as Indian edtech consolidates&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 15, 17:19&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Indian edtech companies Unacademy and upGrad announced a merger through share-swap deal, highlighting major consolidation in India's education technology sector. Unacademy's valuation plunged from $3.5B to under $500M, reflecting the broader struggles of India's once-booming edtech industry. The deal represents survival-driven consolidation rather than growth-driven expansion.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Demonstrates post-pandemic reality check in edtech sector that could affect enterprise learning and development vendor strategies&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/03/15/unacademy-to-be-acquired-by-upgrad-in-share-swap-deal-as-indias-edtech-sector-consolidates/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/03/15/google-and-accel-cut-through-wrappers-in-4000-ai-startup-pitches-to-pick-five-tied-to-india/"&gt;Google-Accel accelerator rejects 70% of AI startups as 'wrappers'&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 16, 24:30&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Google and Accel's Atoms accelerator program reviewed over 4,000 AI startup applications tied to India and found approximately 70% were 'AI wrappers' with limited differentiation. The accelerator ultimately selected five startups that demonstrated genuine innovation beyond basic AI integration. This reflects growing investor sophistication in evaluating AI startup value propositions.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Validates the need for genuine AI innovation over superficial integration in your organization's vendor evaluation and partnership strategies&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/03/15/google-and-accel-cut-through-wrappers-in-4000-ai-startup-pitches-to-pick-five-tied-to-india/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/03/15/the-billionaires-made-a-promise-now-some-want-out/"&gt;Billionaires retreat from Giving Pledge commitments&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 16, 04:40&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Some of the world's wealthiest individuals are stepping back from the Giving Pledge, the 2010 initiative by Warren Buffett and Bill Gates encouraging billionaires to donate more than half their wealth. The retreat suggests changing attitudes toward philanthropic commitments among the ultra-wealthy and potential shifts in how major donors approach charitable giving strategies.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;May affect corporate philanthropy expectations and CSR strategies as major donors reconsider public giving commitments&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/03/15/the-billionaires-made-a-promise-now-some-want-out/"&gt;TechCrunch&lt;/a&gt;&lt;br&gt;
+&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>Morning — Mar 16, 2026</title>
     <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-03-16-morning.html"/>
