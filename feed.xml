@@ -5,7 +5,59 @@
   <link href="https://jonaskjellin.github.io/pulsebrief-site/feed.xml" rel="self"/>
   <link href="https://jonaskjellin.github.io/pulsebrief-site/"/>
   <id>https://jonaskjellin.github.io/pulsebrief-site/</id>
-  <updated>2026-03-16T12:23:46.534Z</updated>
+  <updated>2026-03-16T12:31:54.155Z</updated>
+  <entry>
+    <title>Afternoon — Mar 16, 2026</title>
+    <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-03-16-afternoon.html"/>
+    <id>https://jonaskjellin.github.io/pulsebrief-site/2026-03-16-afternoon.html</id>
+    <updated>2026-03-16T12:31:54.155Z</updated>
+    <content type="html">&lt;p&gt;&lt;h1&gt;Jonas's Afternoon Pulse&lt;/h1&gt;&lt;br&gt;
+&lt;em&gt;Mon, Mar 16, 06:00 → Mon, Mar 16, 12:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Cyber Security&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://thehackernews.com/2026/03/why-security-validation-is-becoming.html"&gt;Security validation evolves toward agentic AI-driven continuous testing&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 16, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Security teams are increasingly adopting agentic approaches to validation, moving beyond disconnected tools like breach and attack simulation (BAS), pentesting, and vulnerability scanners. The shift toward AI-driven security validation promises to connect these traditionally siloed capabilities into more comprehensive, automated testing systems. This evolution addresses the fundamental problem of security tools providing isolated views without meaningful integration.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Directly aligns with your focus on AI-driven security tooling and represents a fundamental architecture shift in how enterprises validate their security posture&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://thehackernews.com/2026/03/why-security-validation-is-becoming.html"&gt;The Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://thehackernews.com/2026/03/clickfix-campaigns-spread-macsync-macos.html"&gt;ClickFix campaigns deploy MacSync infostealer via fake AI tool installers&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 16, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Three ClickFix campaigns are using fake AI tool installers to distribute MacSync, a macOS information stealer that relies entirely on user interaction rather than traditional exploits. The attack method tricks users into copying and executing commands, making it particularly effective against users who don't understand the implications of running untrusted code. This represents an evolution in social engineering tactics targeting the growing interest in AI tools.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Highlights how attackers exploit AI tool popularity to target enterprise users, relevant for your organization's endpoint security and user awareness programs&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://thehackernews.com/2026/03/clickfix-campaigns-spread-macsync-macos.html"&gt;The Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://thehackernews.com/2026/03/drillapp-backdoor-targets-ukraine.html"&gt;DRILLAPP backdoor abuses Microsoft Edge debugging to target Ukraine&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 16, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Russian-linked threat actors are deploying DRILLAPP backdoor against Ukrainian entities, using Microsoft Edge's debugging functionality for stealth espionage operations. The campaign shows overlaps with previous Laundry Bear (UAC-0190) operations targeting Ukrainian defense forces. The technique demonstrates sophisticated abuse of legitimate browser debugging features to maintain persistence and evade detection.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Nation-state technique innovation affecting European organizations - assess your enterprise's exposure to similar browser-based persistence mechanisms&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://thehackernews.com/2026/03/drillapp-backdoor-targets-ukraine.html"&gt;The Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.securityweek.com/forcememo-python-repositories-compromised-in-glassworm-aftermath/"&gt;ForceMemo campaign compromises hundreds of GitHub accounts post-GlassWorm&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 16, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Hundreds of GitHub accounts were compromised using credentials stolen during the VS Code GlassWorm campaign, leading to widespread compromise of Python repositories. This represents a significant supply chain attack escalation where initial developer environment compromises are being leveraged for broader repository takeovers. The campaign demonstrates the cascading effects of developer tooling attacks on open source ecosystems.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Critical supply chain risk - evaluate your organization's GitHub security posture and developer credential management following GlassWorm exposure&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.securityweek.com/forcememo-python-repositories-compromised-in-glassworm-aftermath/"&gt;SecurityWeek&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.securityweek.com/hack-attempt-reported-at-polands-nuclear-research-center/"&gt;Iran linked to cyberattack attempt on Poland's nuclear research center&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 16, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Polish officials report a hacking attempt against the country's nuclear research center, with initial evidence pointing to Iranian involvement, though authorities acknowledge it could be a false flag operation. The incident highlights continued nation-state interest in nuclear research facilities and critical infrastructure targeting in Europe. The uncertainty around attribution reflects the sophisticated nature of modern nation-state operations.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Nation-state activity targeting European critical infrastructure - assess your organization's exposure to similar advanced persistent threat campaigns&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.securityweek.com/hack-attempt-reported-at-polands-nuclear-research-center/"&gt;SecurityWeek&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.schneier.com/blog/archives/2026/03/possible-new-result-in-quantum-factorization.html"&gt;Quantum factorization breakthrough could threaten current cryptography&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 16, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Security expert Bruce Schneier reports on a potentially significant theoretical improvement in quantum computer factorization speed, though he expresses skepticism about the claims and notes he's not qualified to fully review the research. If validated, this development could accelerate the timeline for quantum computers threatening current RSA encryption methods. The research represents ongoing progress in quantum computing capabilities that could impact cryptographic security.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Potential acceleration of post-quantum cryptography timeline - monitor for validation and assess your organization's quantum-resistant encryption migration plans&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.schneier.com/blog/archives/2026/03/possible-new-result-in-quantum-factorization.html"&gt;Schneier on Security&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;AI &amp; Machine Learning&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theverge.com/ai-artificial-intelligence/895130/openai-chatgpt-adult-mode-text-smut-written-erotica"&gt;OpenAI's adult mode will support text-based erotica, not visual content&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 16, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;OpenAI's delayed adult mode for ChatGPT will initially support textual adult content described as 'smut rather than pornography' but won't include image, voice, or video generation capabilities. The feature was announced in October with CEO Sam Altman claiming sufficient mitigation of mental health concerns to relax safety restrictions. This represents a significant shift in OpenAI's content policy and approach to AI safety boundaries.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Signals major AI safety policy evolution that could affect enterprise AI deployment policies and content filtering requirements in your organization&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.theverge.com/ai-artificial-intelligence/895130/openai-chatgpt-adult-mode-text-smut-written-erotica"&gt;The Verge&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Technology&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://news.ycombinator.com/item?id=47397190"&gt;Computer science students question career viability amid industry uncertainty&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 16, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;A Hacker News discussion explores how computer science education is adapting to current industry realities, with students and professors grappling with uncertain job prospects and changing curriculum needs. The conversation reflects broader concerns about whether traditional CS education remains relevant given AI automation and market volatility. Many are questioning long-held assumptions about CS as a stable career path.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Reflects fundamental shifts in tech talent pipeline that could affect your organization's future hiring and skill development strategies&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://news.ycombinator.com/item?id=47397190"&gt;Hacker News&lt;/a&gt;&lt;br&gt;
+&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>Afternoon — Mar 16, 2026</title>
     <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-03-16-afternoon.html"/>
