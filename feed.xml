@@ -5,7 +5,39 @@
   <link href="https://jonaskjellin.github.io/pulsebrief-site/feed.xml" rel="self"/>
   <link href="https://jonaskjellin.github.io/pulsebrief-site/"/>
   <id>https://jonaskjellin.github.io/pulsebrief-site/</id>
-  <updated>2026-03-16T16:52:52.553Z</updated>
+  <updated>2026-03-17T05:51:27.558Z</updated>
+  <entry>
+    <title>Morning — Mar 17, 2026</title>
+    <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-03-17-morning.html"/>
+    <id>https://jonaskjellin.github.io/pulsebrief-site/2026-03-17-morning.html</id>
+    <updated>2026-03-17T05:51:27.558Z</updated>
+    <content type="html">&lt;p&gt;&lt;h1&gt;Jonas's Morning Pulse&lt;/h1&gt;&lt;br&gt;
+&lt;em&gt;Sun, Mar 15, 17:00 → Mon, Mar 16, 06:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Cyber Security&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://thehackernews.com/2026/03/android-17-blocks-non-accessibility.html"&gt;Android 17 blocks non-accessibility apps from accessibility API to prevent malware abuse&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 16, 05:43&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Google is testing a new security feature in Android 17 Beta 2 that restricts certain apps from accessing the accessibility services API as part of Android Advanced Protection Mode (AAPM). The change aims to prevent malware from abusing accessibility features to gain elevated permissions and control over devices. This represents Google's continued efforts to harden Android against sophisticated attack vectors that exploit legitimate system features.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Shows Google hardening mobile platform security against technique commonly used by enterprise-targeting malware - assess your BYOD and mobile security controls&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://thehackernews.com/2026/03/android-17-blocks-non-accessibility.html"&gt;The Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;AI &amp; Machine Learning&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://simonwillison.net/guides/agentic-engineering-patterns/what-is-agentic-engineering/#atom-everything"&gt;Simon Willison defines agentic engineering as AI-assisted software development&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 15, 22:41&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Prominent developer Simon Willison has published a comprehensive guide defining 'agentic engineering' as software development assisted by coding agents that can both write and execute code. He argues that while AI can generate working code iteratively, human engineers remain crucial for navigating solution tradeoffs and specifying requirements. The framework provides structure for understanding how AI coding tools fit into software engineering practice.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Essential reading for understanding AI-assisted development patterns relevant to your side projects and enterprise software architecture decisions&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://simonwillison.net/guides/agentic-engineering-patterns/what-is-agentic-engineering/#atom-everything"&gt;Simon Willison&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-chatgpt-ads-are-not-rolling-out-globally-for-now/"&gt;OpenAI clarifies ChatGPT ads limited to US market for now&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 15, 23:13&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;OpenAI confirmed to BleepingComputer that ChatGPT advertisements on Free and Go plans are not rolling out globally despite updated privacy policy language suggesting broader deployment. The ads remain limited to US users while the company apparently tests the monetization model. This represents OpenAI's ongoing efforts to diversify revenue streams beyond subscription tiers.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Indicates OpenAI's business model evolution that could affect enterprise AI service pricing and availability in European markets&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-chatgpt-ads-are-not-rolling-out-globally-for-now/"&gt;BleepingComputer&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Business &amp; Markets&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/03/15/the-billionaires-made-a-promise-now-some-want-out/"&gt;Billionaires increasingly abandoning Gates-Buffett Giving Pledge&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 16, 04:40&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;An increasing number of billionaires are distancing themselves from Bill Gates and Warren Buffett's Giving Pledge as wealth concentration reaches new peaks. The trend suggests shifting attitudes toward philanthropy among the ultra-wealthy and potential changes in how tech fortunes are deployed. This reflects broader questions about billionaire responsibility and wealth distribution in the tech industry.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Signals shifting philanthropic trends that could affect tech industry funding for security research, education, and social responsibility initiatives&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/03/15/the-billionaires-made-a-promise-now-some-want-out/"&gt;TechCrunch&lt;/a&gt;&lt;br&gt;
+&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>Evening — Mar 16, 2026</title>
     <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-03-16-evening.html"/>
