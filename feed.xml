@@ -5,7 +5,65 @@
   <link href="https://jonaskjellin.github.io/pulsebrief-site/feed.xml" rel="self"/>
   <link href="https://jonaskjellin.github.io/pulsebrief-site/"/>
   <id>https://jonaskjellin.github.io/pulsebrief-site/</id>
-  <updated>2026-03-18T05:57:20.208Z</updated>
+  <updated>2026-03-18T11:40:00.177Z</updated>
+  <entry>
+    <title>Afternoon — Mar 18, 2026</title>
+    <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-03-18-afternoon.html"/>
+    <id>https://jonaskjellin.github.io/pulsebrief-site/2026-03-18-afternoon.html</id>
+    <updated>2026-03-18T11:40:00.177Z</updated>
+    <content type="html">&lt;p&gt;&lt;h1&gt;Jonas's Afternoon Pulse&lt;/h1&gt;&lt;br&gt;
+&lt;em&gt;Tue, Mar 17, 06:00 → Tue, Mar 17, 12:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Cyber Security&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://thehackernews.com/2026/03/ai-is-everywhere-but-cisos-are-still.html"&gt;CISOs struggle to secure AI systems with outdated security tools and skills&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 17, 11:30&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;A new Pentera survey of 300 US CISOs and senior security leaders reveals that most security leaders are trying to defend AI systems using tools and skills that weren't designed for the challenge. The report highlights critical gaps tied to skills shortages and inadequate tooling for AI-specific security risks. This represents a fundamental mismatch between the security industry's current capabilities and the emerging threat landscape around AI systems.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Directly validates the skills gap you're addressing in your AI security architecture work and reinforces the need for specialized AI security capabilities in enterprise environments&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://thehackernews.com/2026/03/ai-is-everywhere-but-cisos-are-still.html"&gt;The Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://thehackernews.com/2026/03/konni-deploys-endrat-through-spear.html"&gt;North Korean Konni group uses KakaoTalk messenger to distribute malware&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 17, 09:53&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;The North Korean Konni APT group has evolved its tactics to compromise victims' KakaoTalk desktop applications and use them to distribute malicious payloads to contacts. The campaign begins with spear-phishing emails and demonstrates sophisticated social engineering by leveraging trusted communication channels for malware propagation. This technique shows how nation-state actors are adapting to use legitimate messaging platforms for lateral movement.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Nation-state evolution in using trusted communication platforms for malware distribution - relevant for assessing your organization's messaging security controls&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://thehackernews.com/2026/03/konni-deploys-endrat-through-spear.html"&gt;The Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.securityweek.com/ai-apis-and-ddos-collide-in-new-era-of-coordinated-cyberattacks/"&gt;Akamai warns of AI-powered multi-vector DDoS and API abuse campaigns&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 17, 10:30&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Akamai reports that Layer 7 DDoS attacks, API abuse, and AI-powered attacks are converging into coordinated, multi-vector campaigns that are significantly harder to detect and defend against. These sophisticated attack patterns represent a new era of coordinated cyberattacks that combine multiple techniques simultaneously. The trend suggests attackers are using AI to orchestrate more complex and effective attack sequences.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Shows how AI is being weaponized for coordinated attacks against enterprise infrastructure - critical for your understanding of AI's offensive applications in cybersecurity&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.securityweek.com/ai-apis-and-ddos-collide-in-new-era-of-coordinated-cyberattacks/"&gt;SecurityWeek&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.cisa.gov/news-events/ics-advisories/icsa-26-076-04"&gt;Multiple critical vulnerabilities disclosed in industrial control systems&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 17, 12:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;CISA released advisories for critical vulnerabilities in Siemens SICAM SIAPP SDK (CVSS 7.4), Schneider Electric EcoStruxure Data Center Expert (CVSS 7.2), SCADAPack RTUs (CVSS 9.8), and CODESYS in Festo Automation Suite (CVSS 9.8). The vulnerabilities affect critical infrastructure across energy, manufacturing, and commercial facilities sectors globally. Several involve buffer overflows, hard-coded credentials, and improper access controls that could enable remote code execution.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Critical infrastructure vulnerabilities affecting European industrial systems - assess your organization's exposure to similar control system vulnerabilities&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.cisa.gov/news-events/ics-advisories/icsa-26-076-04"&gt;CISA&lt;/a&gt; · &lt;a href="https://www.cisa.gov/news-events/ics-advisories/icsa-26-076-03"&gt;CISA&lt;/a&gt; · &lt;a href="https://www.cisa.gov/news-events/ics-advisories/icsa-26-076-02"&gt;CISA&lt;/a&gt; · &lt;a href="https://www.cisa.gov/news-events/ics-advisories/icsa-26-076-01"&gt;CISA&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.schneier.com/blog/archives/2026/03/south-korean-police-accidentally-post-cryptocurrency-wallet-password.html"&gt;South Korean police accidentally expose $4.4M cryptocurrency wallet password&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 17, 10:01&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;South Korea's National Tax Service inadvertently published photos showing the handwritten recovery phrase for a seized cryptocurrency wallet containing $4.4 million in digital assets. The exposure occurred during a press release announcing successful raids on tax evaders, with officials failing to redact the critical seed phrase information. Shortly after the release, 4 million Pre-Retogeum tokens worth approximately $4.8 million were transferred out of the wallet by an opportunistic attacker.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Demonstrates critical operational security failures in handling sensitive financial credentials - relevant for your organization's digital asset and secrets management practices&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.schneier.com/blog/archives/2026/03/south-korean-police-accidentally-post-cryptocurrency-wallet-password.html"&gt;Schneier on Security&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;AI &amp; Machine Learning&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;No significant AI developments in current time window&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 17, 12:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;The current monitoring period did not capture any major AI developments, model releases, capability announcements, or safety incidents. This represents a quieter period in AI advancement compared to recent weeks of significant announcements.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Keeping you informed of the current AI landscape pace - no critical developments requiring immediate attention for your AI security architecture work&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Technology&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.bleepingcomputer.com/news/microsoft/new-windows-11-hotpatch-fixes-bluetooth-device-visibility-issue/"&gt;Microsoft releases emergency fixes for Windows 11 and Outlook Classic issues&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 17, 11:07&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Microsoft issued an emergency hotpatch for Windows 11 Enterprise devices to fix Bluetooth device visibility problems and is working to address a separate issue where enabling the Teams Meeting Add-in breaks Outlook Classic functionality. Both issues affect enterprise productivity and device management capabilities. The fixes highlight ongoing integration challenges in Microsoft's unified workplace ecosystem.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Enterprise productivity tool disruptions affecting your organization's Windows 11 and Office deployment strategy&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.bleepingcomputer.com/news/microsoft/new-windows-11-hotpatch-fixes-bluetooth-device-visibility-issue/"&gt;BleepingComputer&lt;/a&gt; · &lt;a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-enabling-teams-meeting-add-in-breaks-outlook-classic/"&gt;BleepingComputer&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Business &amp; Markets&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.securityweek.com/tracebit-raises-20m-for-cloud-native-deception-technology/"&gt;Tracebit raises $20M Series A for cloud-native deception technology&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 17, 11:52&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Cloud security startup Tracebit secured $20 million in Series A funding to expand its cloud-native deception technology platform. The company plans to use the funding to scale products, expand to new markets, and grow marketing and engineering teams. Tracebit's approach represents the evolution of traditional honeypot technology for modern cloud environments.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Shows continued investor interest in cloud security tooling and deception technology - relevant for understanding the enterprise security vendor landscape&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.securityweek.com/tracebit-raises-20m-for-cloud-native-deception-technology/"&gt;SecurityWeek&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/03/17/amazon-adds-1-hour-and-3-hour-delivery-options-in-the-us/"&gt;Amazon expands ultra-fast delivery with 1-hour and 3-hour options in US&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 17, 11:34&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Amazon launched new 1-hour and 3-hour delivery options across the United States, making more than 90,000 items available through this expedited service. Items eligible for ultra-fast delivery will display time labels directly in the Amazon app. This expansion represents Amazon's continued push to compress delivery times and compete with local retailers and quick-commerce services.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Demonstrates supply chain innovation affecting retail sector competition and customer expectations relevant to your enterprise retail group operations&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/03/17/amazon-adds-1-hour-and-3-hour-delivery-options-in-the-us/"&gt;TechCrunch&lt;/a&gt;&lt;br&gt;
+&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>Morning — Mar 18, 2026</title>
     <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-03-18-morning.html"/>
