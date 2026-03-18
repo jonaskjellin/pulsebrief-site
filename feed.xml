@@ -5,7 +5,95 @@
   <link href="https://jonaskjellin.github.io/pulsebrief-site/feed.xml" rel="self"/>
   <link href="https://jonaskjellin.github.io/pulsebrief-site/"/>
   <id>https://jonaskjellin.github.io/pulsebrief-site/</id>
-  <updated>2026-03-17T16:55:27.756Z</updated>
+  <updated>2026-03-18T05:57:20.208Z</updated>
+  <entry>
+    <title>Morning — Mar 18, 2026</title>
+    <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-03-18-morning.html"/>
+    <id>https://jonaskjellin.github.io/pulsebrief-site/2026-03-18-morning.html</id>
+    <updated>2026-03-18T05:57:20.208Z</updated>
+    <content type="html">&lt;p&gt;&lt;h1&gt;Jonas's Morning Pulse&lt;/h1&gt;&lt;br&gt;
+&lt;em&gt;Mon, Mar 16, 17:00 → Tue, Mar 17, 06:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Cyber Security&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://thehackernews.com/2026/03/cisa-flags-actively-exploited-wing-ftp.html"&gt;CISA flags Wing FTP Server vulnerability as actively exploited&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 17, 05:23&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;CISA added CVE-2025-47813 (CVSS 4.3) to its Known Exploited Vulnerabilities catalog, citing active exploitation of an information disclosure flaw in Wing FTP Server that leaks application installation paths. Though categorized as medium severity, the vulnerability may be chained with other exploits for remote code execution attacks. U.S. government agencies must secure their Wing FTP instances by April 6, 2026.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Active exploitation of enterprise FTP infrastructure represents immediate threat to your retail organization's file transfer security&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://thehackernews.com/2026/03/cisa-flags-actively-exploited-wing-ftp.html"&gt;The Hacker News&lt;/a&gt; · &lt;a href="https://www.bleepingcomputer.com/news/security/cisa-flags-wing-ftp-server-flaw-as-actively-exploited-in-attacks/"&gt;BleepingComputer&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://thehackernews.com/2026/03/glassworm-attack-uses-stolen-github.html"&gt;GlassWorm campaign evolves to inject malware into Python repositories via stolen GitHub tokens&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 16, 19:37&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;The GlassWorm malware campaign has escalated beyond VS Code infections to compromise hundreds of Python repositories using stolen GitHub tokens. Attackers inject obfuscated code into setup.py, main.py, and app.py files across Django apps, ML research code, Streamlit dashboards, and PyPI packages. The campaign now uses more sophisticated evasion techniques and hides malware in project dependencies.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Critical supply chain threat affecting your organization's software development pipeline and open source dependency management&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://thehackernews.com/2026/03/glassworm-attack-uses-stolen-github.html"&gt;The Hacker News&lt;/a&gt; · &lt;a href="https://www.darkreading.com/application-security/glassworm-malware-evolves-hide-dependencies"&gt;Dark Reading&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.bleepingcomputer.com/news/security/stryker-attack-wiped-tens-of-thousands-of-devices-no-malware-needed/"&gt;Stryker cyberattack remotely wiped tens of thousands of devices without malware&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 16, 19:17&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Medical technology giant Stryker suffered a cyberattack limited to its internal Microsoft environment that remotely wiped tens of thousands of employee devices without deploying traditional malware. The attack demonstrates sophisticated abuse of legitimate system administration capabilities to cause widespread disruption. Details about the attack vector and recovery timeline remain limited.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Shows evolution of attacks leveraging legitimate admin tools for mass device destruction - assess your organization's remote wipe controls and monitoring&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.bleepingcomputer.com/news/security/stryker-attack-wiped-tens-of-thousands-of-devices-no-malware-needed/"&gt;BleepingComputer&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.bleepingcomputer.com/news/security/uks-companies-house-confirms-security-flaw-exposed-business-data/"&gt;UK Companies House confirms security flaw exposed business data since October 2025&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 16, 17:07&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Companies House, the UK government registry for all British companies, closed its WebFiling service to fix a security vulnerability that exposed company information for five months. The flaw in the online filing system allowed unauthorized access to sensitive business data. The service has since been restored with security patches implemented.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Government data breach affecting European business sector demonstrates regulatory system vulnerabilities relevant to your NIS2 compliance considerations&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.bleepingcomputer.com/news/security/uks-companies-house-confirms-security-flaw-exposed-business-data/"&gt;BleepingComputer&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.darkreading.com/threat-intelligence/china-nexus-hackers-southeast-asian-military-orgs"&gt;China-linked hackers maintain years-long access to Southeast Asian military organizations&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 17, 01:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Researchers uncovered an extensive cyber espionage campaign using novel backdoors and familiar evasion techniques to maintain persistent access to military targets across Southeast Asia. The China-nexus operation demonstrates sophisticated long-term infiltration capabilities and advanced persistence mechanisms. The campaign highlights continued nation-state interest in regional military intelligence gathering.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Nation-state persistence techniques and targeting patterns relevant to your threat intelligence and advanced persistent threat detection capabilities&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.darkreading.com/threat-intelligence/china-nexus-hackers-southeast-asian-military-orgs"&gt;Dark Reading&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;AI &amp; Machine Learning&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theverge.com/ai-artificial-intelligence/895639/xai-grok-teens-lawsuit-grok-ai-elon-musk"&gt;Teens sue Elon Musk's xAI over Grok generating child sexual abuse material&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 16, 21:44&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Three Tennessee teens filed a class action lawsuit against xAI, alleging that Grok's 'spicy mode' generated sexualized images and videos of minors. The plaintiffs claim Musk and xAI leadership knew the AI would produce CSAM when launching the unrestricted mode. The case highlights critical AI safety failures in content generation systems and potential legal liability for AI companies.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major AI safety and legal precedent case that could impact enterprise AI deployment policies and content filtering requirements&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.theverge.com/ai-artificial-intelligence/895639/xai-grok-teens-lawsuit-grok-ai-elon-musk"&gt;The Verge&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theverge.com/ai-artificial-intelligence/895372/encyclopedia-britannica-openai-lawsuit"&gt;Encyclopedia Britannica sues OpenAI for copyright infringement and content memorization&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 16, 17:04&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Encyclopedia Britannica and Merriam-Webster filed suit against OpenAI alleging unauthorized use of copyrighted content to train AI models, with GPT-4 allegedly 'memorizing' and outputting near-verbatim copies of their content. The lawsuit claims OpenAI's models generate responses substantially similar to their proprietary content without permission. This represents another major copyright challenge facing foundation model companies.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Legal precedent case that could affect your organization's enterprise AI content policies and training data compliance requirements&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.theverge.com/ai-artificial-intelligence/895372/encyclopedia-britannica-openai-lawsuit"&gt;The Verge&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://simonwillison.net/2026/Mar/16/mistral-small-4/#atom-everything"&gt;Mistral releases Small 4: unified multimodal model with reasoning capabilities&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 16, 23:41&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Mistral launched Small 4, a 119B parameter Apache 2 licensed model that unifies reasoning, multimodal, and coding capabilities from their flagship models into a single system. The mixture-of-experts model supports both standard and high-effort reasoning modes, with the latter providing enhanced verbosity similar to previous Magistral models. They also released Leanstral, specifically tuned for the Lean 4 formal verification language.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;New unified multimodal architecture pattern relevant to your AI system design and evaluation of open-source alternatives to proprietary models&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://simonwillison.net/2026/Mar/16/mistral-small-4/#atom-everything"&gt;Simon Willison&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://simonwillison.net/2026/Mar/16/codex-subagents/#atom-everything"&gt;OpenAI Codex and Claude Code add subagents for parallel task execution&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 16, 23:03&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;OpenAI announced general availability of subagents in Codex, following similar implementations in Claude Code and other coding platforms. The feature allows users to define custom agents with specific instructions and models, enabling parallel execution of coding tasks like debugging, code mapping, and implementing fixes. Simon Willison notes this pattern is becoming widely supported across coding agent platforms.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Represents evolution in agentic AI architecture patterns directly relevant to your MCP security work and AI-native system design&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://simonwillison.net/2026/Mar/16/codex-subagents/#atom-everything"&gt;Simon Willison&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.technologyreview.com/2026/03/16/1134315/where-openais-technology-could-show-up-in-iran/"&gt;MIT Technology Review examines OpenAI technology potential in Iran&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 16, 17:06&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Analysis explores where OpenAI's AI technology could potentially appear in Iran following the company's controversial agreement to allow Pentagon use in classified environments. The piece examines geopolitical implications of AI technology access and potential dual-use applications. The coverage follows ongoing questions about AI governance and international technology transfer restrictions.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Highlights AI governance and technology transfer issues relevant to your understanding of AI regulation and enterprise AI deployment restrictions&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.technologyreview.com/2026/03/16/1134315/where-openais-technology-could-show-up-in-iran/"&gt;MIT Technology Review&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Technology&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theverge.com/news/895472/nvidia-dlss5-generative-ai-pc-graphics"&gt;NVIDIA DLSS 5 introduces generative AI for real-time graphics enhancement&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 16, 21:56&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;NVIDIA announced DLSS 5 at GTC conference, describing it as the 'GPT moment for graphics' by blending traditional rendering with generative AI for dramatic improvements in lighting and shadows. The technology has sparked controversy with some calling it 'slop' that unacceptably alters artistic intent. Jensen Huang claims it delivers visual realism leaps while preserving artistic control, though early reactions suggest divisive reception.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Represents convergence of AI and graphics technology that could influence enterprise AI infrastructure requirements and workload patterns&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.theverge.com/news/895472/nvidia-dlss5-generative-ai-pc-graphics"&gt;The Verge&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://simonwillison.net/2026/Mar/16/guilherme-rambo/#atom-everything"&gt;MacBook Neo camera indicator light runs in secure hardware exclave&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 16, 20:34&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Developer Guilherme Rambo revealed that the MacBook Neo's camera indicator light operates within the secure exclave portion of Apple's chip, making it nearly as secure as hardware-based indicators. The light runs in a privileged environment separate from the kernel and renders directly to screen hardware, meaning even kernel-level exploits cannot activate the camera without triggering the visual indicator.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Advanced hardware security architecture approach relevant to your evaluation of enterprise device security and privacy controls&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://simonwillison.net/2026/Mar/16/guilherme-rambo/#atom-everything"&gt;Simon Willison&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcommunity.microsoft.com/blog/microsoft-security-blog/new-microsoft-purview-innovations-for-fabric-to-safely-accelerate-your-ai-transf/4502156"&gt;Microsoft releases new Purview innovations for Fabric AI governance&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 16, 17:10&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Microsoft announced new Purview capabilities for Fabric designed to provide security and governance primitives for AI transformation initiatives. The updates focus on enabling safe AI acceleration while maintaining compliance and data protection standards. Microsoft positions security and governance as core requirements for enterprise AI adoption rather than afterthoughts.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Enterprise AI governance tooling directly relevant to your organization's AI security architecture and compliance requirements&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://techcommunity.microsoft.com/blog/microsoft-security-blog/new-microsoft-purview-innovations-for-fabric-to-safely-accelerate-your-ai-transf/4502156"&gt;Microsoft Security Blog&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theverge.com/tech/895453/ai-deepfake-netanyahu-claims-conspiracy"&gt;Netanyahu struggles to disprove AI clone conspiracy theories&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 16, 20:41&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Social media platforms are flooded with conspiracy theories claiming Benjamin Netanyahu has been replaced by AI-generated deepfakes, with users pointing to supposed visual anomalies like extra fingers and impossible coffee cup physics. The situation demonstrates how AI's convincing cloning capabilities across image, video, and audio formats make it increasingly difficult to conclusively prove authenticity. The case highlights the erosion of easily verifiable reality in the age of sophisticated deepfake technology.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Illustrates emerging challenges in authenticity verification that could impact your organization's threat intelligence and disinformation detection capabilities&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.theverge.com/tech/895453/ai-deepfake-netanyahu-claims-conspiracy"&gt;The Verge&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Business &amp; Markets&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://therecord.media/luxembourg-court-overturns-amazon-gdpr-fine"&gt;Luxembourg court overturns Amazon's $858 million GDPR fine&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 16, 17:46&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;A Luxembourg court overturned Amazon's massive privacy fine related to how the company obtained consent from European consumers under GDPR regulations. The case originated in 2018 and represented one of the largest GDPR enforcement actions to date. The ruling could significantly impact how privacy regulators pursue major technology companies for consent violations.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major GDPR enforcement precedent that could affect your organization's privacy compliance strategy and regulatory risk assessment in European markets&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://therecord.media/luxembourg-court-overturns-amazon-gdpr-fine"&gt;The Record&lt;/a&gt;&lt;br&gt;
+&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>Evening — Mar 17, 2026</title>
     <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-03-17-evening.html"/>
