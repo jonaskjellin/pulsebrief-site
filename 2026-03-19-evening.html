@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Evening — Mar 19, 2026 — PulseBrief</title>
+  <link rel="alternate" type="application/atom+xml" title="PulseBrief Feed" href="feed.xml">
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { font-family: -apple-system, system-ui, sans-serif; max-width: 720px; margin: 0 auto; padding: 24px 16px; color: #1a1a1a; line-height: 1.6; }
+    h1 { font-size: 1.6em; margin-bottom: 4px; }
+    h2 { font-size: 1.2em; margin-top: 32px; margin-bottom: 16px; color: #444; border-bottom: 1px solid #eee; padding-bottom: 8px; }
+    h3 { font-size: 1em; margin-top: 20px; margin-bottom: 4px; }
+    h3 a { color: #1a1a1a; text-decoration: none; border-bottom: 1px solid #ccc; }
+    h3 a:hover { border-color: #333; }
+    p { margin-bottom: 12px; }
+    blockquote { border-left: 3px solid #ddd; padding-left: 12px; color: #555; margin: 8px 0 12px; }
+    em { font-style: italic; }
+    a { color: #0066cc; }
+    hr { border: none; border-top: 1px solid #eee; margin: 32px 0; }
+    .meta { color: #888; font-size: 0.9em; }
+    .sources { font-size: 0.85em; color: #666; }
+    .nav { margin-bottom: 24px; font-size: 0.9em; }
+    .nav a { color: #0066cc; text-decoration: none; }
+    .brief-list { list-style: none; }
+    .brief-list li { padding: 8px 0; border-bottom: 1px solid #f0f0f0; }
+    .brief-list a { text-decoration: none; color: #1a1a1a; }
+    .brief-list .date { color: #888; font-size: 0.85em; }
+  </style>
+</head>
+<body>
+  <div class="nav"><a href="./">← All Briefs</a> · <a href="feed.xml">RSS</a></div>
+  <p><h1>Jonas's Evening Pulse</h1><br>
+<em>Wed, Mar 18, 12:00 → Wed, Mar 18, 17:00</em></p><br>
+<p><h2>Cyber Security</h2></p><br>
+<p><h3><a href="https://thehackernews.com/2026/03/interlock-ransomware-exploits-cisco-fmc.html">Interlock ransomware exploits critical Cisco FMC zero-day in active campaign since January</a></h3><br>
+<em>Mar 18, 16:00</em></p><br>
+<p>Amazon Threat Intelligence reports the Interlock ransomware group has been actively exploiting CVE-2026-20131, a maximum severity (CVSS 10.0) insecure deserialization vulnerability in Cisco Secure Firewall Management Center (FMC) software since late January. The vulnerability allows unauthenticated remote attackers to gain complete system control through malicious Java byte stream deserialization. Cisco has since patched the vulnerability, but organizations running unpatched FMC systems face immediate compromise risk.</p><br>
+<p><blockquote><em>Critical zero-day affecting enterprise firewall management infrastructure that could provide ransomware gangs complete network visibility and control</em></blockquote></p><br>
+<p>Sources: <a href="https://thehackernews.com/2026/03/interlock-ransomware-exploits-cisco-fmc.html">The Hacker News</a> · <a href="https://www.bleepingcomputer.com/news/security/interlock-ransomware-exploited-secure-fmc-flaw-in-zero-day-attacks-since-january/">BleepingComputer</a></p><br>
+<p><h3><a href="https://thehackernews.com/2026/03/critical-telnetd-flaw-cve-2026-32746.html">Critical unpatched telnetd vulnerability enables unauthenticated root RCE across Unix systems</a></h3><br>
+<em>Mar 18, 12:30</em></p><br>
+<p>Security researchers disclosed CVE-2026-32746, a critical vulnerability (CVSS 9.8) in GNU InetUtils telnet daemon that allows unauthenticated remote attackers to execute arbitrary code with root privileges. The flaw stems from an out-of-bounds write in the LINEMODE Set functionality and affects systems still running telnetd services. Given telnet's widespread deployment in legacy infrastructure and embedded systems, the vulnerability poses significant risk to organizations with inherited Unix environments.</p><br>
+<p><blockquote><em>High-severity RCE vulnerability affecting legacy Unix infrastructure common in enterprise environments, particularly relevant for OT and embedded systems in retail operations</em></blockquote></p><br>
+<p>Sources: <a href="https://thehackernews.com/2026/03/critical-telnetd-flaw-cve-2026-32746.html">The Hacker News</a></p><br>
+<p><h3><a href="https://www.bleepingcomputer.com/news/security/marquis-ransomware-gang-stole-data-of-672-000-people-in-2025-cyberattack/">Marquis ransomware breach exposes 672,000 financial records, disrupts 74 US banks</a></h3><br>
+<em>Mar 18, 15:32</em></p><br>
+<p>Texas-based financial services provider Marquis disclosed that a ransomware attack in August 2025 compromised personal data of over 670,000 individuals and disrupted operations at 74 banks across the United States. The breach demonstrates the cascading impact of ransomware attacks on financial service providers that support multiple banking institutions. The incident highlights vulnerabilities in the interconnected financial services ecosystem where a single provider compromise can affect dozens of downstream institutions.</p><br>
+<p><blockquote><em>Major financial sector breach showing how ransomware targeting service providers can cascade across multiple institutions, relevant to your retail banking partnerships and payment processing security</em></blockquote></p><br>
+<p>Sources: <a href="https://www.bleepingcomputer.com/news/security/marquis-ransomware-gang-stole-data-of-672-000-people-in-2025-cyberattack/">BleepingComputer</a></p><br>
+<p><h3><a href="https://www.darkreading.com/vulnerabilities-threats/claudy-day-trio-flaws-claude-users-data-theft">Claude prompt injection vulnerability chains with Google search to enable enterprise network attacks</a></h3><br>
+<em>Mar 18, 15:05</em></p><br>
+<p>Researchers discovered a 'Claudy Day' vulnerability chain where prompt injection attacks against Anthropic's Claude can be triggered through seemingly innocent Google searches, potentially compromising enterprise networks. The attack leverages multiple flaws to turn routine web searches into full attack sequences that could threaten corporate environments. This represents a new class of AI-mediated attack vector where enterprise AI assistants become unwitting conduits for system compromise.</p><br>
+<p><blockquote><em>Novel AI attack vector directly relevant to your enterprise Claude deployments and AI security architecture - demonstrates how AI assistants can become attack entry points</em></blockquote></p><br>
+<p>Sources: <a href="https://www.darkreading.com/vulnerabilities-threats/claudy-day-trio-flaws-claude-users-data-theft">Dark Reading</a></p><br>
+<p><h3><a href="https://www.bleepingcomputer.com/news/security/new-darksword-ios-exploit-used-in-infostealer-attack-on-iphones/">DarkSword iOS exploit kit targets iPhone users with comprehensive data theft capabilities</a></h3><br>
+<em>Mar 18, 14:02</em></p><br>
+<p>A sophisticated new iOS exploit framework called DarkSword has emerged, targeting iPhone users with advanced information-stealing capabilities including cryptocurrency wallet data extraction. The exploit represents an escalation in iOS-targeted malware sophistication, demonstrating that mobile security assumptions no longer hold against determined attackers. The framework's focus on financial data and crypto assets indicates commercially motivated threat actors are investing heavily in iOS exploitation capabilities.</p><br>
+<p><blockquote><em>New iOS threat vector affecting your organization's mobile security strategy and BYOD policies, particularly relevant given retail sector mobile payment and employee device usage</em></blockquote></p><br>
+<p>Sources: <a href="https://www.bleepingcomputer.com/news/security/new-darksword-ios-exploit-used-in-infostealer-attack-on-iphones/">BleepingComputer</a></p><br>
+<p><h3><a href="https://www.darkreading.com/threat-intelligence/sidewinder-espionage-campaign-expands-across-southeast-asia">SideWinder espionage campaign expands across Southeast Asia targeting critical infrastructure</a></h3><br>
+<em>Mar 18, 13:00</em></p><br>
+<p>The suspected India-linked SideWinder APT group has significantly expanded operations across Southeast Asia, targeting government entities, telecommunications, and critical infrastructure through spear-phishing and exploitation of older vulnerabilities. The group employs rapidly rotating infrastructure to maintain persistent access and avoid detection. Their campaign demonstrates sophisticated nation-state capabilities focused on intelligence gathering from regional critical infrastructure providers.</p><br>
+<p><blockquote><em>Nation-state activity targeting critical infrastructure sectors relevant to your understanding of APT threats against retail and telecommunications infrastructure globally</em></blockquote></p><br>
+<p>Sources: <a href="https://www.darkreading.com/threat-intelligence/sidewinder-espionage-campaign-expands-across-southeast-asia">Dark Reading</a></p><br>
+<p><h2>AI & Machine Learning</h2></p><br>
+<p><h3><a href="https://www.microsoft.com/en-us/security/blog/2026/03/18/observability-ai-systems-strengthening-visibility-proactive-risk-detection/">Microsoft publishes AI systems observability framework for proactive risk detection</a></h3><br>
+<em>Mar 18, 16:00</em></p><br>
+<p>Microsoft released guidance on implementing observability for autonomous AI systems, emphasizing the critical need for visibility into AI behavior as systems become more independent. The framework focuses on strengthening secure AI development practices through proactive risk detection and monitoring capabilities. The guidance addresses the growing challenge of maintaining security oversight as AI systems operate with increasing autonomy and decision-making authority.</p><br>
+<p><blockquote><em>Essential framework for your AI security architecture work, providing Microsoft's approach to monitoring and securing autonomous AI systems in enterprise environments</em></blockquote></p><br>
+<p>Sources: <a href="https://www.microsoft.com/en-us/security/blog/2026/03/18/observability-ai-systems-strengthening-visibility-proactive-risk-detection/">Microsoft Security Blog</a></p><br>
+<p><h3><a href="https://www.darkreading.com/cyber-risk/meta-tiktok-steal-sensitive-pii">Meta and TikTok tracking pixels extract sensitive financial data from advertiser sites</a></h3><br>
+<em>Mar 18, 13:00</em></p><br>
+<p>Research reveals that Meta and TikTok use tracking pixels to collect sensitive personal and financial information, including credit card details and geolocation data, when users click on advertisements and visit third-party sites. The tracking continues beyond the social media platforms, capturing detailed user behavior and financial information from advertiser websites. This represents a significant privacy violation that extends social media surveillance into financial and commercial interactions.</p><br>
+<p><blockquote><em>Privacy violation affecting your organization's digital marketing partnerships and customer data protection obligations, particularly relevant for retail customer tracking compliance</em></blockquote></p><br>
+<p>Sources: <a href="https://www.darkreading.com/cyber-risk/meta-tiktok-steal-sensitive-pii">Dark Reading</a></p><br>
+<p><h2>Technology</h2></p><br>
+<p><h3><a href="https://www.theverge.com/games/896518/nvidia-dlss-5-ai-3d-rendering">NVIDIA DLSS 5 faces backlash over AI-generated graphics quality issues</a></h3><br>
+<em>Mar 18, 12:30</em></p><br>
+<p>NVIDIA's DLSS 5 technology, which uses generative AI for real-time 3D rendering and material changes in games, is receiving significant criticism from the gaming community for producing distorted visuals and 'yassified' character appearances that deviate from original artistic intent. The backlash highlights broader concerns about AI-generated content quality and acceptance in creative applications. Critics compare the technology unfavorably to motion smoothing, suggesting it degrades rather than enhances the gaming experience.</p><br>
+<p><blockquote><em>Shows AI quality challenges in real-time applications that could affect your evaluation of AI-enhanced enterprise graphics, visualization tools, and user acceptance of AI-generated content</em></blockquote></p><br>
+<p>Sources: <a href="https://www.theverge.com/games/896518/nvidia-dlss-5-ai-3d-rendering">The Verge</a></p><br>
+<p><h2>Business & Markets</h2></p><br>
+<p><h3><a href="https://www.bleepingcomputer.com/news/security/the-refund-fraud-economy-exploiting-major-retailers-and-payment-platforms/">Organized refund fraud economy targets major retailers through systematic exploitation</a></h3><br>
+<em>Mar 18, 14:05</em></p><br>
+<p>A sophisticated refund fraud ecosystem has emerged where methods and tutorials are sold as a service to systematically exploit return policies of major retailers and payment platforms for profit. Flare's research shows fraudsters have industrialized refunds and chargebacks into repeatable profit models, moving beyond individual opportunistic fraud to organized criminal enterprises. The fraud economy demonstrates how traditional retail policies are being weaponized at scale through coordinated attacks.</p><br>
+<p><blockquote><em>Direct threat to your retail organization's return policies and payment processing, showing how fraud has evolved from individual attempts to organized systematic exploitation</em></blockquote></p><br>
+<p>Sources: <a href="https://www.bleepingcomputer.com/news/security/the-refund-fraud-economy-exploiting-major-retailers-and-payment-platforms/">BleepingComputer</a></p><br>
+<p><h3><a href="https://www.bleepingcomputer.com/news/security/nordstroms-email-system-abused-to-send-crypto-scams-to-customers/">Nordstrom email system compromised to distribute cryptocurrency scams to customers</a></h3><br>
+<em>Mar 18, 13:55</em></p><br>
+<p>Upscale retailer Nordstrom's legitimate email system was abused by attackers to send cryptocurrency scam messages disguised as St. Patrick's Day promotions directly to customers. The incident demonstrates how attackers are leveraging trusted brand communications channels to bypass email security filters and increase victim trust. The compromise of Nordstrom's email infrastructure shows how retail brands become unwilling participants in fraud schemes targeting their own customers.</p><br>
+<p><blockquote><em>Email system compromise at a major retailer directly relevant to your organization's email security controls and brand protection against customer-targeting scams</em></blockquote></p><br>
+<p>Sources: <a href="https://www.bleepingcomputer.com/news/security/nordstroms-email-system-abused-to-send-crypto-scams-to-customers/">BleepingComputer</a><br>
+</p>
+</body>
+</html>
