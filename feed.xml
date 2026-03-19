@@ -5,7 +5,70 @@
   <link href="https://jonaskjellin.github.io/pulsebrief-site/feed.xml" rel="self"/>
   <link href="https://jonaskjellin.github.io/pulsebrief-site/"/>
   <id>https://jonaskjellin.github.io/pulsebrief-site/</id>
-  <updated>2026-03-18T16:49:45.944Z</updated>
+  <updated>2026-03-19T05:51:42.400Z</updated>
+  <entry>
+    <title>Morning — Mar 19, 2026</title>
+    <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-03-19-morning.html"/>
+    <id>https://jonaskjellin.github.io/pulsebrief-site/2026-03-19-morning.html</id>
+    <updated>2026-03-19T05:51:42.400Z</updated>
+    <content type="html">&lt;p&gt;&lt;h1&gt;Jonas's Morning Pulse&lt;/h1&gt;&lt;br&gt;
+&lt;em&gt;Tue, Mar 17, 17:00 → Wed, Mar 18, 06:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Cyber Security&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.bleepingcomputer.com/news/security/apple-pushes-first-background-security-improvements-update-to-fix-webkit-flaw/"&gt;Apple introduces Background Security Improvements for automatic WebKit vulnerability patching&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 18, 01:06&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Apple released its first Background Security Improvements update to fix WebKit vulnerability CVE-2026-20643 on iOS, iPadOS, and macOS without requiring full OS upgrades. This represents a new automated patching mechanism allowing Apple to deliver critical security fixes more rapidly than traditional update cycles. The change addresses a significant gap in mobile security by enabling background vulnerability remediation similar to browser auto-updates.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;New automated security patching model that could influence your organization's mobile device management strategy and security update policies&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.bleepingcomputer.com/news/security/apple-pushes-first-background-security-improvements-update-to-fix-webkit-flaw/"&gt;BleepingComputer&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.bleepingcomputer.com/news/security/glassworm-malware-hits-400-plus-code-repos-on-github-npm-vscode-openvsx/"&gt;GlassWorm campaign expands to 400+ repositories across GitHub, npm, and VS Code ecosystem&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 17, 21:42&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;The GlassWorm supply chain attack has significantly escalated, now targeting hundreds of packages and extensions across GitHub repositories, npm packages, and VS Code/OpenVSX extensions in a coordinated campaign. This represents a major evolution from previous isolated attacks to a comprehensive ecosystem compromise strategy. The campaign demonstrates how attackers are systematically targeting the entire software development toolchain rather than individual components.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Massive supply chain threat directly affecting your organization's development environment security and open source dependency management across multiple platforms&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.bleepingcomputer.com/news/security/glassworm-malware-hits-400-plus-code-repos-on-github-npm-vscode-openvsx/"&gt;BleepingComputer&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.bleepingcomputer.com/news/security/europe-sanctions-chinese-and-iranian-firms-for-cyberattacks/"&gt;European Union sanctions Chinese and Iranian entities for critical infrastructure cyberattacks&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 17, 18:41&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;The EU Council imposed sanctions on three entities and two individuals for conducting cyberattacks against European critical infrastructure. This marks escalating regulatory response to nation-state cyber operations targeting European assets. The sanctions represent concrete policy action following sustained attacks on critical systems across the region.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;EU regulatory enforcement affecting the geopolitical cybersecurity landscape your organization operates in, particularly relevant for NIS2 compliance context&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.bleepingcomputer.com/news/security/europe-sanctions-chinese-and-iranian-firms-for-cyberattacks/"&gt;BleepingComputer&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.darkreading.com/identity-access-management-security/more-attackers-logging-in-not-breaking-in"&gt;Credential theft dominates attack patterns as ransomware market profitability declines&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 17, 22:04&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Security research shows attackers increasingly favor credential-based access over traditional exploitation, driven by industrialized infostealer malware and AI-enhanced social engineering. Simultaneously, declining ransomware payment rates are forcing threat actors to abandon Cobalt Strike for native Windows tools and shift toward data theft operations. These trends indicate a fundamental shift in the threat landscape from disruptive attacks to persistent credential harvesting.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Critical evolution in attack methodology directly impacting your identity security architecture and ransomware defense strategies&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.darkreading.com/identity-access-management-security/more-attackers-logging-in-not-breaking-in"&gt;Dark Reading&lt;/a&gt; · &lt;a href="https://www.darkreading.com/threat-intelligence/less-lucrative-ransomware-market-makes-attackers-alter-methods"&gt;Dark Reading&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://arstechnica.com/security/2026/03/researchers-disclose-vulnerabilities-in-ip-kvms-from-4-manufacturers/"&gt;Critical vulnerabilities disclosed in IP KVMs from four major manufacturers&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 17, 17:07&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Security researchers revealed vulnerabilities in internet-exposed IP KVM devices from four manufacturers, creating significant risk given these systems provide BIOS-level access to servers and workstations. The vulnerabilities affect remote management infrastructure that many organizations rely on for data center and server administration. These devices are frequently internet-accessible, amplifying the potential impact of successful exploitation.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Critical infrastructure vulnerabilities affecting your organization's remote server management and data center security controls&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://arstechnica.com/security/2026/03/researchers-disclose-vulnerabilities-in-ip-kvms-from-4-manufacturers/"&gt;Ars Technica&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;AI &amp; Machine Learning&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.technologyreview.com/2026/03/17/1134351/the-pentagon-is-planning-for-ai-companies-to-train-on-classified-data-defense-official-says/"&gt;Pentagon plans classified data training environments for AI companies&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 17, 22:30&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;The Department of Defense is developing secure environments where AI companies can train military-specific model versions on classified data, according to a defense official speaking to MIT Technology Review. Current applications already include AI models like Claude analyzing targets in Iran within classified settings. This represents a significant expansion from current question-answering uses to actual model training on sensitive defense data.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major shift in government AI deployment that could influence enterprise AI security architecture patterns and classified data handling requirements&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.technologyreview.com/2026/03/17/1134351/the-pentagon-is-planning-for-ai-companies-to-train-on-classified-data-defense-official-says/"&gt;MIT Technology Review&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://simonwillison.net/2026/Mar/17/mini-and-nano/#atom-everything"&gt;OpenAI releases GPT-5.4 mini and nano models with dramatically reduced pricing&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 17, 19:39&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;OpenAI launched GPT-5.4 mini and nano models, with nano priced at just $0.20 per million input tokens and $1.25 per million output tokens—cheaper than Google's Gemini Flash-Lite. The nano model can process 76,000 photo descriptions for approximately $52, demonstrating massive cost reductions for high-volume AI applications. Performance benchmarks show nano outperforming the previous GPT-5 mini at maximum reasoning effort.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Significant cost reduction making AI processing economically viable for large-scale enterprise applications and changing competitive dynamics in your AI vendor evaluation&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://simonwillison.net/2026/Mar/17/mini-and-nano/#atom-everything"&gt;Simon Willison&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Technology&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theverge.com/entertainment/896213/nvidia-dlss-5-ai-faces-motion-smoothing"&gt;NVIDIA DLSS 5 faces criticism for AI-generated graphics quality issues&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 17, 18:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;NVIDIA's DLSS 5 technology, which uses generative AI to enhance game graphics in real-time, is receiving harsh criticism for producing distorted character faces and unrealistic visual artifacts. Critics describe the output as resembling 'AI slop' with characters looking heavily filtered rather than photorealistically enhanced. The controversy highlights ongoing challenges in AI-generated content quality and acceptance in creative applications.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Shows AI quality challenges in real-time applications that could affect your evaluation of AI-enhanced enterprise graphics and visualization tools&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.theverge.com/entertainment/896213/nvidia-dlss-5-ai-faces-motion-smoothing"&gt;The Verge&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://simonwillison.net/2026/Mar/17/ken-jin/#atom-everything"&gt;Python 3.15 JIT compiler achieves performance goals ahead of schedule&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 17, 21:48&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;CPython's Just-In-Time compiler development has hit performance targets early, delivering 11-12% speed improvements on macOS AArch64 and 5-6% improvements on x86_64 Linux compared to standard interpreters. The achievement comes over a year ahead of the original schedule for macOS and several months early for Linux. This represents a significant milestone in Python's performance optimization efforts.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Python performance improvements affecting enterprise application development and AI/ML workload efficiency in your organization's tech stack&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://simonwillison.net/2026/Mar/17/ken-jin/#atom-everything"&gt;Simon Willison&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Business &amp; Markets&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/03/17/kalshis-legal-troubles-pile-up-as-arizona-files-first-ever-criminal-charges-over-illegal-gambling-business/"&gt;Kalshi faces first criminal charges for allegedly operating illegal gambling business&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 17, 21:39&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Arizona filed the first-ever criminal charges against prediction market platform Kalshi, alleging it operates an illegal gambling business in violation of state law. The charges represent a significant escalation in the regulatory battle between state authorities and prediction market operators who claim they're not subject to gambling regulations. This case could set important legal precedent for the prediction market industry.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Regulatory precedent case affecting fintech and prediction market sectors that could influence your understanding of regulatory risk in financial services technology&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/03/17/kalshis-legal-troubles-pile-up-as-arizona-files-first-ever-criminal-charges-over-illegal-gambling-business/"&gt;TechCrunch&lt;/a&gt;&lt;br&gt;
+&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>Evening — Mar 18, 2026</title>
     <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-03-18-evening.html"/>
@@ -965,49 +1028,5 @@
 &lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/03/14/us-army-announces-contract-with-anduril-worth-up-to-20b/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
 &lt;p&gt;&lt;hr&gt;&lt;br&gt;
 &lt;em&gt;Generated by PulseBrief at Sun, Mar 15, 22:58&lt;/em&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>Morning — Mar 15, 2026</title>
-    <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-03-15-morning.html"/>
-    <id>https://jonaskjellin.github.io/pulsebrief-site/2026-03-15-morning.html</id>
-    <updated>2026-03-15T22:53:07.920Z</updated>
-    <content type="html">&lt;p&gt;&lt;h1&gt;Jonas's Morning Pulse&lt;/h1&gt;&lt;br&gt;
-&lt;em&gt;Sat, Mar 14, 18:00 → Sun, Mar 15, 07:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;Cyber Security&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-11-oob-hotpatch-to-fix-rras-rce-flaw/"&gt;Microsoft releases out-of-band Windows 11 patch for RRAS RCE vulnerability&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 14, 22:48&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Microsoft issued an emergency patch for Windows 11 Enterprise systems to fix a remote code execution flaw in Routing and Remote Access Service. The OOB update targets environments using hotpatch delivery instead of regular Patch Tuesday cycles. This represents a critical vulnerability requiring immediate attention given Microsoft's decision to break from normal patching cadence.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Emergency patches signal severe risk; assess enterprise exposure to RRAS and hotpatch deployment timelines&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-11-oob-hotpatch-to-fix-rras-rce-flaw/"&gt;BleepingComputer&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;AI &amp; Machine Learning&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://simonwillison.net/2026/Mar/14/jannis-leidel/#atom-everything"&gt;AI-generated spam forces Jazzband to abandon open-source collaboration model&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 14, 19:41&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;GitHub's flood of AI-generated spam PRs has made open membership models untenable for projects like Jazzband. Only 1 in 10 AI-generated PRs now meet project standards, and curl shut down its bug bounty after confirmation rates dropped below 5%. GitHub's response included a kill switch to disable pull requests entirely. This represents a fundamental shift in how open-source projects must manage AI-generated contributions.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Shows how AI spam is breaking traditional open-source trust models, relevant for any enterprise using or contributing to OSS&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://simonwillison.net/2026/Mar/14/jannis-leidel/#atom-everything"&gt;Simon Willison&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://simonwillison.net/2026/Mar/14/pragmatic-summit/#atom-everything"&gt;Developer adoption of AI coding tools reaches 'nobody reads code' stage&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 14, 19:19&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Simon Willison discusses evolution of AI adoption in software development, highlighting StrongDM's controversial 'software factory' approach where developers neither write nor read code. The progression moves from ChatGPT queries to coding agents writing more code than humans, with trust models shifting to treat AI like external team dependencies. StrongDM, a security company, claims to build serious software without human code review.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Critical inflection point for enterprise development practices and security oversight models as AI becomes primary code author&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://simonwillison.net/2026/Mar/14/pragmatic-summit/#atom-everything"&gt;Simon Willison&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;Technology&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/03/14/the-macbook-neo-is-the-most-repairable-macbook-in-years-according-to-ifixit/"&gt;Apple's MacBook Neo becomes most repairable MacBook in 14 years&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 14, 22:24&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;iFixit declares Apple's new affordable MacBook Neo the company's most repairable laptop in over a decade. This marks a significant departure from Apple's historical approach to device repairability and suggests potential compliance with right-to-repair regulations.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Signals broader industry shift toward repairability requirements that may affect enterprise hardware procurement and lifecycle management&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/03/14/the-macbook-neo-is-the-most-repairable-macbook-in-years-according-to-ifixit/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;Business &amp; Markets&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/03/14/us-army-announces-contract-with-anduril-worth-up-to-20b/"&gt;US Army awards Anduril up to $20B contract consolidating 120+ procurement actions&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 14, 21:47&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;The Army announced a massive single enterprise contract with defense tech startup Anduril worth up to $20 billion. The deal consolidates more than 120 separate procurement actions into one comprehensive agreement, representing a significant shift toward streamlined defense technology acquisition.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Shows how defense sector is embracing startup tech providers with enterprise-scale contracts, potential model for other sectors&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/03/14/us-army-announces-contract-with-anduril-worth-up-to-20b/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/03/14/honda-is-killing-its-evs-and-any-chance-of-competing-in-the-future/"&gt;Honda abandons three US EV models, retreats from electric vehicle market&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 14, 18:23&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Honda is killing its three electric vehicles designed for the US market, effectively withdrawing from EV competition. The decision will impact Honda's position beyond North America as the automotive industry rapidly shifts toward electrification. This represents a major strategic retreat by a traditional automaker.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Illustrates how established companies can miscalculate technology transitions, relevant for enterprise digital transformation strategy&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/03/14/honda-is-killing-its-evs-and-any-chance-of-competing-in-the-future/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;hr&gt;&lt;br&gt;
-&lt;em&gt;Generated by PulseBrief at Sun, Mar 15, 23:53&lt;/em&gt;&lt;/p&gt;</content>
   </entry>
 </feed>
