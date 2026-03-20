@@ -5,7 +5,80 @@
   <link href="https://jonaskjellin.github.io/pulsebrief-site/feed.xml" rel="self"/>
   <link href="https://jonaskjellin.github.io/pulsebrief-site/"/>
   <id>https://jonaskjellin.github.io/pulsebrief-site/</id>
-  <updated>2026-03-20T12:27:59.874Z</updated>
+  <updated>2026-03-20T16:32:06.555Z</updated>
+  <entry>
+    <title>Evening — Mar 20, 2026</title>
+    <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-03-20-evening.html"/>
+    <id>https://jonaskjellin.github.io/pulsebrief-site/2026-03-20-evening.html</id>
+    <updated>2026-03-20T16:32:06.555Z</updated>
+    <content type="html">&lt;p&gt;&lt;h1&gt;Jonas's Evening Pulse&lt;/h1&gt;&lt;br&gt;
+&lt;em&gt;Thu, Mar 19, 12:00 → Thu, Mar 19, 17:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Cyber Security&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/03/19/fbi-seizes-pro-iranian-hacking-groups-websites-after-destructive-stryker-hack/"&gt;FBI seizes Handala data leak sites after Iran-linked group's destructive Stryker attack&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 19, 15:10&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;The FBI seized multiple websites used by the Iran-linked Handala hacktivist group after they conducted a destructive cyberattack on medical technology giant Stryker that wiped approximately 80,000 devices using Microsoft Intune. U.S. officials confirmed Handala's connection to the Iranian government amid the takedown of the group's psychological operations infrastructure. CISA and FBI warned organizations to secure Microsoft Intune systems following the attack that demonstrated how endpoint management tools can become vectors for system-wide destruction.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Demonstrates state-sponsored attacks targeting centralized device management systems critical to your endpoint security architecture&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/03/19/fbi-seizes-pro-iranian-hacking-groups-websites-after-destructive-stryker-hack/"&gt;TechCrunch&lt;/a&gt; · &lt;a href="https://www.bleepingcomputer.com/news/security/fbi-seizes-handala-data-leak-site-after-stryker-cyberattack/"&gt;BleepingComputer&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.bleepingcomputer.com/news/security/russian-apt28-military-hackers-exploit-zimbra-flaw-in-ukrainian-govt-attacks/"&gt;Russian APT28 exploits Zimbra XSS vulnerability in 'Operation GhostMail' targeting Ukrainian government&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 19, 14:55&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Russian state-backed APT28 hackers are exploiting a cross-site scripting vulnerability in Zimbra Collaboration Suite to target Ukrainian government entities in a campaign dubbed 'Operation GhostMail.' The sophisticated attack uses no malicious attachments or suspicious links, relying entirely on email body content to steal credentials and sensitive data. The campaign demonstrates advanced techniques to bypass traditional email security controls through legitimate platform vulnerabilities.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Nation-state exploitation of collaboration platforms your organization likely uses, demonstrating advanced evasion techniques targeting government and enterprise email systems&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.bleepingcomputer.com/news/security/russian-apt28-military-hackers-exploit-zimbra-flaw-in-ukrainian-govt-attacks/"&gt;BleepingComputer&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://thehackernews.com/2026/03/new-perseus-android-banking-malware.html"&gt;Perseus Android malware targets note-taking apps to extract sensitive credentials and financial data&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 19, 12:43&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;A new Android banking malware called Perseus specifically monitors note-taking applications to steal passwords, recovery phrases, and financial information that users commonly store in seemingly innocuous apps. Built on the foundations of Cerberus and Phoenix malware families, Perseus represents an evolution in mobile threats that exploits user behavior patterns. The malware is distributed through dropper apps and demonstrates how threat actors are adapting to target non-traditional data storage locations.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Mobile threat targeting user behavior patterns relevant to your organization's mobile security awareness training and BYOD data handling policies&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://thehackernews.com/2026/03/new-perseus-android-banking-malware.html"&gt;The Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.bleepingcomputer.com/news/security/ubiquiti-warns-of-unifi-flaw-that-may-enable-account-takeover/"&gt;Max severity Ubiquiti UniFi flaw may allow account takeover&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 19, 13:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Ubiquiti has patched two vulnerabilities in the UniFi Network Application, including a maximum-severity flaw that may allow attackers to take over user accounts. The vulnerability affects widely-deployed network management infrastructure used in enterprise environments. Organizations using Ubiquiti UniFi systems should prioritize immediate patching to prevent potential network compromise.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Critical network infrastructure vulnerability affecting widely-deployed enterprise networking equipment requiring immediate patching&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.bleepingcomputer.com/news/security/ubiquiti-warns-of-unifi-flaw-that-may-enable-account-takeover/"&gt;BleepingComputer&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;AI &amp; Machine Learning&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://simonwillison.net/2026/Mar/19/openai-acquiring-astral/#atom-everything"&gt;OpenAI acquires Astral, maker of Python development tools Ruff and uv&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 19, 16:45&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;OpenAI announced the acquisition of Astral, the company behind popular Python development tools including the Ruff linter and uv package manager that have become increasingly critical to the Python ecosystem. The Astral team will join OpenAI's Codex division to accelerate AI-powered developer tooling while continuing to maintain their open source projects. The acquisition signals OpenAI's strategic focus on developer infrastructure and positions the company to compete more directly with GitHub Copilot in AI-assisted development.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Strategic AI industry consolidation affecting your evaluation of Python development toolchain stability and OpenAI's expanding influence in enterprise development workflows&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://simonwillison.net/2026/Mar/19/openai-acquiring-astral/#atom-everything"&gt;Simon Willison&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.wired.com/story/signals-creator-is-helping-encrypt-meta-ai/"&gt;Signal's creator helps encrypt Meta AI through Confer technology integration&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 19, 14:09&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Moxie Marlinspike, creator of the Signal messaging app, announced that technology from his encrypted AI chatbot Confer will be integrated into Meta AI to protect user conversations. The move could bring end-to-end encryption to AI interactions for millions of Meta users across its platforms. This represents a significant step toward privacy-preserving AI communications at scale, potentially setting new standards for AI conversation protection.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major privacy enhancement for enterprise AI communications that could influence your organization's AI privacy strategy and vendor evaluation criteria&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.wired.com/story/signals-creator-is-helping-encrypt-meta-ai/"&gt;Wired Security&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.wired.com/story/chatgpt-adult-mode-new-era-of-intimate-surveillance/"&gt;ChatGPT's 'Adult Mode' Could Spark a New Era of Intimate Surveillance&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 19, 16:06&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;OpenAI plans to allow sexting with ChatGPT through an adult mode feature, raising significant privacy and surveillance concerns according to human-AI interaction experts. The development represents a major shift in AI capabilities that could create new vectors for data collection and privacy violations. The feature highlights growing concerns about intimate AI interactions and their potential for misuse or exploitation.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;AI privacy and governance implications for your organization's AI usage policies and risk assessment frameworks for employee AI interactions&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.wired.com/story/chatgpt-adult-mode-new-era-of-intimate-surveillance/"&gt;Wired AI&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theverge.com/ai-artificial-intelligence/897250/fitbits-ai-health-coach-reads-medical-records"&gt;Fitbit's AI health coach will soon be able to read your medical records&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 19, 12:27&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Google announced that Fitbit's AI health coach will gain the ability to access users' medical records, including lab results, medications, and visit history, to provide more personalized health advice. Starting next month in preview for US users, the feature follows rivals like Amazon, OpenAI, and Microsoft in betting that users will trade sensitive health data for AI-powered insights. The development represents a significant expansion of AI into healthcare data processing with potential privacy implications.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Healthcare AI development affecting your organization's health data privacy policies and employee wellness program AI integration considerations&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.theverge.com/ai-artificial-intelligence/897250/fitbits-ai-health-coach-reads-medical-records"&gt;The Verge - AI&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Technology&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/03/19/google-introduces-a-new-way-for-users-to-sideload-android-apps-that-still-protects-against-scams/"&gt;Google implements 24-hour wait period for Android sideloading of unverified apps&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 19, 17:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Google introduced a new 'advanced flow' for Android sideloading that requires a mandatory 24-hour wait period to install apps from unverified developers, balancing platform openness with security. The change comes amid a developer verification mandate requiring all Android apps to be registered by verified developers. Users can disable app verification through a multistep security process, but must wait 24 hours before installation can proceed.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Significant Android security change affecting your organization's mobile app deployment and BYOD security policies for sideloaded enterprise applications&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/03/19/google-introduces-a-new-way-for-users-to-sideload-android-apps-that-still-protects-against-scams/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theverge.com/tech/897243/adobe-firefly-ai-custom-models-image-public-beta"&gt;Adobe's AI image generator can now be trained on your own art&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 19, 13:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Adobe launched customizable AI image generators called Firefly Custom Models in public beta, allowing creators and brands to train models on their own assets to ensure generated images follow consistent aesthetic styles. The tool aims to streamline workflows for teams producing high volumes of content by providing a reusable foundation that preserves visual consistency. This represents a significant advancement in enterprise-focused AI content generation capabilities.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Enterprise AI content generation advancement relevant to your organization's brand consistency and creative workflow automation strategies&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.theverge.com/tech/897243/adobe-firefly-ai-custom-models-image-public-beta"&gt;The Verge - AI&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/03/19/meta-decides-not-to-shut-down-horizon-worlds-on-vr-after-all/"&gt;Meta decides not to shut down Horizon Worlds on VR after all&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 19, 15:36&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Meta reversed its decision to shut down Horizon Worlds on VR platforms after the social metaverse application was slated for closure following years of underperformance. Horizon Worlds was once a cornerstone of Meta's metaverse strategy but had struggled to maintain user engagement and relevance. The reversal suggests Meta is reconsidering its VR content strategy and platform investment priorities.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Enterprise VR platform stability consideration for your organization's immersive technology strategy and Meta ecosystem dependencies&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/03/19/meta-decides-not-to-shut-down-horizon-worlds-on-vr-after-all/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Business &amp; Markets&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/03/19/doordash-launches-a-new-tasks-app-that-pays-couriers-to-submit-videos-to-train-ai/"&gt;DoorDash launches a new 'Tasks' app that pays couriers to submit videos to train AI&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 19, 16:14&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;DoorDash introduced a Tasks app that compensates delivery couriers for completing AI training activities like filming everyday tasks or recording themselves speaking in different languages. The initiative represents a new model for collecting training data for AI systems by leveraging existing workforce networks. This approach demonstrates how gig economy platforms are evolving to support AI development while providing additional income streams for workers.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;AI training data collection model affecting your understanding of workforce integration with AI development and potential vendor data sourcing practices&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/03/19/doordash-launches-a-new-tasks-app-that-pays-couriers-to-submit-videos-to-train-ai/"&gt;TechCrunch&lt;/a&gt;&lt;br&gt;
+&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>Custom — Mar 20, 2026</title>
     <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-03-20-custom.html"/>
@@ -1222,44 +1295,6 @@
     <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-03-16-morning.html"/>
     <id>https://jonaskjellin.github.io/pulsebrief-site/2026-03-16-morning.html</id>
     <updated>2026-03-16T00:02:57.369Z</updated>
-    <content type="html">&lt;p&gt;&lt;h1&gt;Jonas's Morning Pulse&lt;/h1&gt;&lt;br&gt;
-&lt;em&gt;Sat, Mar 14, 18:00 → Sun, Mar 15, 07:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;Cyber Security&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-11-oob-hotpatch-to-fix-rras-rce-flaw/"&gt;Microsoft releases emergency Windows 11 patch for RRAS RCE vulnerability&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 14, 21:48&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Microsoft issued an out-of-band update for Windows 11 Enterprise systems using hotpatch delivery to fix a remote code execution flaw in Routing and Remote Access Service. The emergency patch breaks from normal Patch Tuesday cycles, signaling a critical vulnerability requiring immediate attention. This affects enterprises using Microsoft's newer hotpatch model instead of traditional cumulative updates.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Emergency OOB patches indicate severe risk - assess your enterprise's RRAS exposure and hotpatch deployment timelines immediately&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-11-oob-hotpatch-to-fix-rras-rce-flaw/"&gt;BleepingComputer&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;AI &amp; Machine Learning&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://simonwillison.net/2026/Mar/14/jannis-leidel/#atom-everything"&gt;AI-generated spam forces open-source projects to abandon collaborative models&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 14, 18:41&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;GitHub's flood of AI-generated spam PRs has made open membership models untenable for projects like Jazzband, with only 1 in 10 AI-generated PRs meeting project standards. Curl shut down its bug bounty after confirmation rates dropped below 5%, and GitHub introduced a kill switch to disable pull requests entirely. This represents a fundamental breakdown of traditional open-source trust and collaboration models.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Shows how AI spam is breaking OSS ecosystems that enterprises depend on - evaluate your organization's open-source contribution and consumption strategies&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://simonwillison.net/2026/Mar/14/jannis-leidel/#atom-everything"&gt;Simon Willison&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://simonwillison.net/2026/Mar/14/pragmatic-summit/#atom-everything"&gt;Developer AI adoption reaches 'nobody reads code' stage at security company&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 14, 18:19&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Simon Willison highlights the evolution of AI coding adoption, with StrongDM's controversial 'software factory' where developers neither write nor read code. The progression moves from ChatGPT queries to coding agents writing more code than humans, with trust models shifting to treat AI like external team dependencies. Notably, StrongDM is a security company claiming to build serious software without human code review.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Critical inflection point for enterprise development practices and security oversight as AI becomes the primary code author in security-sensitive contexts&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://simonwillison.net/2026/Mar/14/pragmatic-summit/#atom-everything"&gt;Simon Willison&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;Technology&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/03/14/the-macbook-neo-is-the-most-repairable-macbook-in-years-according-to-ifixit/"&gt;Apple's MacBook Neo becomes most repairable MacBook in 14 years&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 14, 21:24&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;iFixit declares Apple's new affordable MacBook Neo the company's most repairable laptop in over a decade. This marks a significant departure from Apple's historical approach to device repairability and suggests potential compliance with emerging right-to-repair regulations.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Signals broader industry shift toward repairability requirements that may impact enterprise hardware procurement and lifecycle management strategies&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/03/14/the-macbook-neo-is-the-most-repairable-macbook-in-years-according-to-ifixit/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;Business &amp; Markets&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/03/14/us-army-announces-contract-with-anduril-worth-up-to-20b/"&gt;US Army awards Anduril massive $20B contract consolidating 120+ procurements&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 14, 20:47&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;The Army announced a single enterprise contract with defense tech startup Anduril worth up to $20 billion, consolidating more than 120 separate procurement actions. This represents a significant shift toward streamlined defense technology acquisition and demonstrates how government agencies are embracing startup providers at enterprise scale.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Shows how defense sector is embracing startup tech providers with enterprise-scale contracts - potential model for other sectors' procurement strategies&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/03/14/us-army-announces-contract-with-anduril-worth-up-to-20b/"&gt;TechCrunch&lt;/a&gt;&lt;br&gt;
-&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>Morning — Mar 15, 2026</title>
-    <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-03-15-morning.html"/>
-    <id>https://jonaskjellin.github.io/pulsebrief-site/2026-03-15-morning.html</id>
-    <updated>2026-03-15T23:50:31.591Z</updated>
     <content type="html">&lt;p&gt;&lt;h1&gt;Jonas's Morning Pulse&lt;/h1&gt;&lt;br&gt;
 &lt;em&gt;Sat, Mar 14, 18:00 → Sun, Mar 15, 07:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
 &lt;p&gt;&lt;h2&gt;Cyber Security&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
