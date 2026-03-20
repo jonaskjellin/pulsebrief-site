@@ -5,7 +5,95 @@
   <link href="https://jonaskjellin.github.io/pulsebrief-site/feed.xml" rel="self"/>
   <link href="https://jonaskjellin.github.io/pulsebrief-site/"/>
   <id>https://jonaskjellin.github.io/pulsebrief-site/</id>
-  <updated>2026-03-19T22:57:45.847Z</updated>
+  <updated>2026-03-20T05:44:09.021Z</updated>
+  <entry>
+    <title>Morning — Mar 20, 2026</title>
+    <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-03-20-morning.html"/>
+    <id>https://jonaskjellin.github.io/pulsebrief-site/2026-03-20-morning.html</id>
+    <updated>2026-03-20T05:44:09.021Z</updated>
+    <content type="html">&lt;p&gt;&lt;h1&gt;Jonas's Morning Pulse&lt;/h1&gt;&lt;br&gt;
+&lt;em&gt;Wed, Mar 18, 17:00 → Thu, Mar 19, 06:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Cyber Security&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://thehackernews.com/2026/03/ofac-sanctions-dprk-it-worker-network.html"&gt;OFAC sanctions North Korean IT workers funding WMD through fake remote jobs&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 18, 17:26&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;The U.S. Treasury sanctioned six individuals and two entities involved in a North Korean IT worker scheme that generates revenue for the regime's weapons programs by obtaining remote technology jobs under false identities. The scheme demonstrates how state-sponsored actors are systematically infiltrating Western technology companies to fund military capabilities. This represents a new dimension of nation-state economic warfare targeting the technology sector directly.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Direct threat to your organization's remote hiring practices and vendor due diligence - North Korean operatives may be embedded in your technology supply chain&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://thehackernews.com/2026/03/ofac-sanctions-dprk-it-worker-network.html"&gt;The Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.bleepingcomputer.com/news/security/aura-confirms-data-breach-exposing-900-000-marketing-contacts/"&gt;Aura identity protection service breached, 900,000 marketing contacts exposed&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 18, 22:56&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Identity protection company Aura confirmed unauthorized access to nearly 900,000 customer records containing names and email addresses. The breach highlights the irony of security companies themselves becoming victims of data compromise. The incident affects a company specifically focused on protecting customer identities and personal information.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Demonstrates that even specialized security vendors face breach risks, relevant to your vendor security assessments and third-party data protection evaluations&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.bleepingcomputer.com/news/security/aura-confirms-data-breach-exposing-900-000-marketing-contacts/"&gt;BleepingComputer&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-zimbra-xss-flaw-exploited-in-attacks/"&gt;CISA orders federal agencies to patch actively exploited Zimbra XSS vulnerability&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 18, 19:57&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;CISA directed U.S. government agencies to secure servers against an actively exploited cross-site scripting vulnerability in Zimbra Collaboration Suite. The vulnerability is being leveraged in ongoing attacks against government infrastructure. The order reflects immediate threat activity targeting enterprise collaboration platforms.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Active exploitation of collaboration platform your organization may use - immediate patching priority if running Zimbra systems&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-zimbra-xss-flaw-exploited-in-attacks/"&gt;BleepingComputer&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.bleepingcomputer.com/news/security/connectwise-patches-new-flaw-allowing-screenconnect-hijacking/"&gt;ConnectWise patches ScreenConnect vulnerability enabling session hijacking&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 18, 18:10&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;ConnectWise warned ScreenConnect customers of a cryptographic signature verification vulnerability that could allow unauthorized access and privilege escalation in remote access sessions. The flaw affects the integrity of remote administration sessions used for IT support and system management. The vulnerability demonstrates risks in remote access tools that provide privileged system access.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Critical for your organization's remote access security strategy and IT support tool risk assessment - ScreenConnect is widely used for enterprise remote management&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.bleepingcomputer.com/news/security/connectwise-patches-new-flaw-allowing-screenconnect-hijacking/"&gt;BleepingComputer&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.darkreading.com/cyberattacks-data-breaches/new-c2-implant-snappyclient-targets-crypto-wallets"&gt;SnappyClient C2 malware targets cryptocurrency wallets with comprehensive data theft&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 18, 21:49&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;A new command-and-control implant called SnappyClient has emerged with capabilities specifically designed to target cryptocurrency wallets alongside broader data theft and espionage functions. The malware supports wide-ranging remote access capabilities including surveillance and financial data extraction. The tool represents the continuing evolution of malware targeting digital financial assets.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Financial malware threat relevant to your organization's cryptocurrency policies and employee financial security awareness programs&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.darkreading.com/cyberattacks-data-breaches/new-c2-implant-snappyclient-targets-crypto-wallets"&gt;Dark Reading&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.darkreading.com/threat-intelligence/darksword-iphone-exploit-spies-thieves"&gt;DarkSword iPhone exploit kit leverages zero-days for targeted espionage campaigns&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 18, 21:15&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;A sophisticated iOS exploit framework called DarkSword uses multiple zero-day vulnerabilities to target iPhone users in Saudi Arabia, Turkey, Malaysia, and Ukraine for espionage purposes. The exploit chain demonstrates advanced mobile attack capabilities that serve both intelligence gathering and financial theft objectives. The targeting suggests state-sponsored or commercially motivated threat actors with significant resources.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Advanced iOS threat affecting your organization's mobile security strategy and BYOD policies, particularly relevant for employees traveling to targeted regions&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.darkreading.com/threat-intelligence/darksword-iphone-exploit-spies-thieves"&gt;Dark Reading&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://arstechnica.com/information-technology/2026/03/federal-cyber-experts-called-microsofts-cloud-a-pile-of-shit-approved-it-anyway/"&gt;Federal experts criticized Microsoft cloud security before approving government use&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 18, 17:36&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Internal documents reveal federal cybersecurity experts privately criticized Microsoft cloud products using colorful language while ultimately approving them for government use despite years of security concerns. The approval process highlights tensions between practical technology needs and security reservations in government cloud adoption. The documents expose the gap between private security assessments and public procurement decisions.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Shows government security evaluation processes for Microsoft cloud services your organization likely uses - reveals ongoing institutional security concerns&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://arstechnica.com/information-technology/2026/03/federal-cyber-experts-called-microsofts-cloud-a-pile-of-shit-approved-it-anyway/"&gt;Ars Technica&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;AI &amp; Machine Learning&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://openai.com/index/openai-to-acquire-astral"&gt;OpenAI acquires Python tooling company Astral to accelerate developer platform growth&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 19, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;OpenAI announced the acquisition of Astral, the company behind popular Python development tools like Ruff and uv, to power the next generation of Python developer tools through its Codex platform. The acquisition signals OpenAI's strategic focus on developer tooling and programming assistance capabilities. This move positions OpenAI to compete more directly with GitHub Copilot and other AI-powered development environments.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Strategic AI industry move affecting your evaluation of AI development tools and OpenAI's competitive positioning in enterprise development workflows&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://openai.com/index/openai-to-acquire-astral"&gt;OpenAI Blog&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.wired.com/story/ai-lab-walmart-openai-shaking-up-agentic-shopping-deal/"&gt;Walmart shifts from OpenAI Instant Checkout to embedded chatbot approach after feature underperforms&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 18, 18:01&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;After OpenAI's Instant Checkout feature failed to meet expectations, Walmart is pivoting to embed its Sparky chatbot directly into ChatGPT and Google Gemini instead of relying on OpenAI's shopping features. The strategic shift demonstrates challenges in AI-powered e-commerce applications and the importance of retailer-controlled experiences. This change reflects broader industry lessons about AI feature adoption and customer experience integration.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Retail AI implementation lessons directly relevant to your organization's customer experience strategy and AI vendor relationship management&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.wired.com/story/ai-lab-walmart-openai-shaking-up-agentic-shopping-deal/"&gt;Wired AI&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theverge.com/ai-artificial-intelligence/896878/ai-did-not-cure-this-dogs-cancer"&gt;ChatGPT cancer cure claims debunked as AI medical misinformation spreads&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 18, 18:14&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;A viral story claiming ChatGPT helped cure a dog's cancer has been debunked, revealing how AI medical success stories spread without proper verification. The original narrative simplified a complex medical case and overstated AI's role in treatment decisions. The incident highlights the danger of AI medical misinformation and the public's readiness to believe transformative AI capabilities without scientific backing.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;AI misinformation case study relevant to your organization's AI governance policies and employee AI usage guidelines, particularly for health-related applications&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.theverge.com/ai-artificial-intelligence/896878/ai-did-not-cure-this-dogs-cancer"&gt;The Verge - AI&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://simonwillison.net/2026/Mar/18/snowflake-cortex-ai/#atom-everything"&gt;Snowflake Cortex AI agent sandbox escape enables malware execution through prompt injection&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 18, 17:43&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Security researchers discovered a prompt injection attack chain that allowed Snowflake's Cortex Agent to escape its sandbox and execute malware by exploiting process substitution in supposedly safe cat commands. The attack started with a hidden prompt injection in a GitHub repository that tricked the agent into running malicious code. The vulnerability has been fixed but highlights fundamental challenges in securing AI agents with command execution capabilities.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Critical AI security vulnerability demonstrating sandbox escape risks in your enterprise AI agent deployments and code review automation systems&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://simonwillison.net/2026/Mar/18/snowflake-cortex-ai/#atom-everything"&gt;Simon Willison&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://simonwillison.net/2026/Mar/18/llm-in-a-flash/#atom-everything"&gt;Researcher runs 397B parameter model locally using Apple's LLM-in-a-Flash techniques with Claude Code&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 18, 23:56&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Security researcher Dan Woods successfully ran Qwen3.5-397B locally on a 48GB MacBook Pro at 5.5+ tokens/second using techniques from Apple's 2023 'LLM in a Flash' paper, despite the model requiring 209GB on disk. The implementation involved Claude Code generating 90 experiments and producing optimized MLX and Metal code through an autoresearch pattern. The approach demonstrates advanced local AI deployment techniques that could enable enterprise-scale models on consumer hardware.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Advanced AI deployment technique relevant to your evaluation of local AI model deployment strategies and enterprise AI infrastructure cost optimization&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://simonwillison.net/2026/Mar/18/llm-in-a-flash/#atom-everything"&gt;Simon Willison&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Technology&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theverge.com/column/896949/regulator-david-sacks-iran-polymarket"&gt;David Sacks' Iran AI warnings receive limited policy attention despite security concerns&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 18, 18:44&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;AI policy advisor David Sacks' warnings about Iran-related AI threats and regulatory concerns are reportedly being overlooked by policymakers and industry leaders. The dismissal of these warnings highlights ongoing tensions between AI safety advocates and commercial interests. The situation reflects broader challenges in translating AI security concerns into effective policy action.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;AI policy development affecting your organization's AI risk assessment and regulatory compliance planning for AI systems&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.theverge.com/column/896949/regulator-david-sacks-iran-polymarket"&gt;The Verge - AI&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Business &amp; Markets&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://news.crunchbase.com/public/potential-defense-tech-ipo-candidates-swmr/"&gt;Defense tech IPO surge continues as 12 companies position for public offerings after Swarmer success&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 18, 20:20&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Following AI drone company Swarmer's 520% first-day trading surge on Nasdaq, twelve other defense technology startups are positioning for potential IPOs in the growing defense tech sector. The successful debut demonstrates strong investor appetite for defense-focused AI and autonomous systems companies. The trend reflects increasing military technology investment amid global security concerns.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Defense tech investment trends relevant to your understanding of AI market dynamics and potential enterprise security technology vendor landscape changes&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://news.crunchbase.com/public/potential-defense-tech-ipo-candidates-swmr/"&gt;Crunchbase News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://news.crunchbase.com/startups/tech-layoffs/"&gt;Tech layoffs continue into 2026 with over 127,000 workers cut in 2025&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 18, 17:34&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Crunchbase tracking shows over 127,000 technology workers were laid off in mass job cuts at U.S.-based tech companies during 2025, with layoffs continuing into 2026. The ongoing workforce reductions reflect continued industry restructuring and economic pressure on technology companies. The pattern suggests sustained challenges in the technology employment market despite AI growth.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Technology workforce trends affecting your organization's talent acquisition strategy and technology vendor stability assessment&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://news.crunchbase.com/startups/tech-layoffs/"&gt;Crunchbase News&lt;/a&gt;&lt;br&gt;
+&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>Custom — Mar 19, 2026</title>
     <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-03-19-custom.html"/>
@@ -1091,44 +1179,5 @@
 &lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/03/14/us-army-announces-contract-with-anduril-worth-up-to-20b/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
 &lt;p&gt;&lt;hr&gt;&lt;br&gt;
 &lt;em&gt;Generated by PulseBrief at Sun, Mar 15, 23:42&lt;/em&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>Morning — Mar 15, 2026</title>
-    <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-03-15-morning.html"/>
-    <id>https://jonaskjellin.github.io/pulsebrief-site/2026-03-15-morning.html</id>
-    <updated>2026-03-15T23:19:39.568Z</updated>
-    <content type="html">&lt;p&gt;&lt;h1&gt;Jonas's Morning Pulse&lt;/h1&gt;&lt;br&gt;
-&lt;em&gt;Sat, Mar 14, 18:00 → Sun, Mar 15, 07:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;Cyber Security&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-11-oob-hotpatch-to-fix-rras-rce-flaw/"&gt;Microsoft releases emergency Windows 11 patch for RRAS RCE vulnerability&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 14, 21:48&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Microsoft issued an out-of-band update for Windows 11 Enterprise systems using hotpatch delivery to fix a remote code execution flaw in Routing and Remote Access Service. The emergency patch breaks from normal Patch Tuesday cycles, signaling a critical vulnerability requiring immediate attention. This affects enterprises using Microsoft's newer hotpatch model instead of traditional cumulative updates.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Emergency OOB patches indicate severe risk - assess your enterprise's RRAS exposure and hotpatch deployment timelines immediately&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-11-oob-hotpatch-to-fix-rras-rce-flaw/"&gt;BleepingComputer&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;AI &amp; Machine Learning&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://simonwillison.net/2026/Mar/14/jannis-leidel/#atom-everything"&gt;AI-generated spam forces open-source projects to abandon collaborative models&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 14, 18:41&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;GitHub's flood of AI-generated spam PRs has made open membership models untenable for projects like Jazzband, with only 1 in 10 AI-generated PRs meeting project standards. Curl shut down its bug bounty after confirmation rates dropped below 5%, and GitHub introduced a kill switch to disable pull requests entirely. This represents a fundamental breakdown of traditional open-source trust and collaboration models.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Shows how AI spam is breaking OSS ecosystems that enterprises depend on - evaluate your organization's open-source contribution and consumption strategies&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://simonwillison.net/2026/Mar/14/jannis-leidel/#atom-everything"&gt;Simon Willison&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://simonwillison.net/2026/Mar/14/pragmatic-summit/#atom-everything"&gt;Developer AI adoption reaches 'nobody reads code' stage at security company&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 14, 18:19&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Simon Willison highlights the evolution of AI coding adoption, with StrongDM's controversial 'software factory' where developers neither write nor read code. The progression moves from ChatGPT queries to coding agents writing more code than humans, with trust models shifting to treat AI like external team dependencies. Notably, StrongDM is a security company claiming to build serious software without human code review.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Critical inflection point for enterprise development practices and security oversight as AI becomes the primary code author in security-sensitive contexts&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://simonwillison.net/2026/Mar/14/pragmatic-summit/#atom-everything"&gt;Simon Willison&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;Technology&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/03/14/the-macbook-neo-is-the-most-repairable-macbook-in-years-according-to-ifixit/"&gt;Apple's MacBook Neo becomes most repairable MacBook in 14 years&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 14, 21:24&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;iFixit declares Apple's new affordable MacBook Neo the company's most repairable laptop in over a decade. This marks a significant departure from Apple's historical approach to device repairability and suggests potential compliance with emerging right-to-repair regulations.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Signals broader industry shift toward repairability requirements that may impact enterprise hardware procurement and lifecycle management strategies&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/03/14/the-macbook-neo-is-the-most-repairable-macbook-in-years-according-to-ifixit/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;Business &amp; Markets&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/03/14/us-army-announces-contract-with-anduril-worth-up-to-20b/"&gt;US Army awards Anduril massive $20B contract consolidating 120+ procurements&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 14, 20:47&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;The Army announced a single enterprise contract with defense tech startup Anduril worth up to $20 billion, consolidating more than 120 separate procurement actions. This represents a significant shift toward streamlined defense technology acquisition and demonstrates how government agencies are embracing startup providers at enterprise scale.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Shows how defense sector is embracing startup tech providers with enterprise-scale contracts - potential model for other sectors' procurement strategies&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/03/14/us-army-announces-contract-with-anduril-worth-up-to-20b/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;hr&gt;&lt;br&gt;
-&lt;em&gt;Generated by PulseBrief at Sun, Mar 15, 23:19&lt;/em&gt;&lt;/p&gt;</content>
   </entry>
 </feed>
