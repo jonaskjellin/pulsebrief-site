@@ -5,7 +5,125 @@
   <link href="https://jonaskjellin.github.io/pulsebrief-site/feed.xml" rel="self"/>
   <link href="https://jonaskjellin.github.io/pulsebrief-site/"/>
   <id>https://jonaskjellin.github.io/pulsebrief-site/</id>
-  <updated>2026-03-20T11:26:15.745Z</updated>
+  <updated>2026-03-20T12:27:59.874Z</updated>
+  <entry>
+    <title>Custom — Mar 20, 2026</title>
+    <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-03-20-custom.html"/>
+    <id>https://jonaskjellin.github.io/pulsebrief-site/2026-03-20-custom.html</id>
+    <updated>2026-03-20T12:27:59.874Z</updated>
+    <content type="html">&lt;p&gt;&lt;h1&gt;Jonas's Update Pulse&lt;/h1&gt;&lt;br&gt;
+&lt;em&gt;Thu, Mar 19, 12:26 → Fri, Mar 20, 12:27&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Cyber Security&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://krebsonsecurity.com/2026/03/feds-disrupt-iot-botnets-behind-huge-ddos-attacks/"&gt;U.S., Canada, and Germany disrupt four IoT botnets controlling 3 million devices in record DDoS attacks&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 20, 24:49&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;The U.S. Justice Department led an international operation to dismantle the Aisuru, Kimwolf, JackSkid, and Mossad botnets that compromised over 3 million IoT devices including routers and web cameras. The botnets were responsible for recent record-breaking DDoS attacks capable of generating up to 31.4 Tbps of traffic, sufficient to knock nearly any target offline. The operation involved court-authorized law enforcement actions targeting command-and-control infrastructure and botnet operators.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major disruption of infrastructure-scale DDoS capabilities affecting global internet stability and enterprise availability&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://krebsonsecurity.com/2026/03/feds-disrupt-iot-botnets-behind-huge-ddos-attacks/"&gt;Krebs on Security&lt;/a&gt; · &lt;a href="https://thehackernews.com/2026/03/doj-disrupts-3-million-device-iot.html"&gt;The Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.bleepingcomputer.com/news/security/new-polyshell-flaw-allows-unauthenticated-rce-on-magento-e-stores/"&gt;Critical PolyShell vulnerability enables unauthenticated RCE on all Magento e-commerce stores&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 19, 20:01&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;A newly disclosed vulnerability dubbed PolyShell affects all stable Magento Open Source and Adobe Commerce version 2 installations, allowing unauthenticated attackers to execute arbitrary code and take over accounts. The flaw represents a significant threat to e-commerce infrastructure, providing complete system compromise without any authentication requirements. Organizations running Magento-based stores face immediate risk of complete platform compromise.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Critical e-commerce platform vulnerability directly threatening your organization's retail operations and customer data security&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.bleepingcomputer.com/news/security/new-polyshell-flaw-allows-unauthenticated-rce-on-magento-e-stores/"&gt;BleepingComputer&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://cybersecuritynews.com/cisco-firewall-0-day-exploited/"&gt;CISA warns of actively exploited Cisco Secure Firewall zero-day used in ransomware attacks&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 20, 09:56&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;CISA added CVE-2026-20131, a maximum severity Cisco Secure Firewall Management Center vulnerability, to its Known Exploited Vulnerabilities catalog after confirming the Interlock ransomware group has been exploiting it since January. The zero-day exploitation demonstrates ransomware groups' increasing focus on network infrastructure to gain comprehensive access. Federal agencies must patch by a specified deadline under CISA's binding operational directive.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Active ransomware exploitation of network security infrastructure commonly used in enterprise environments requiring immediate patching&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://cybersecuritynews.com/cisco-firewall-0-day-exploited/"&gt;CISA&lt;/a&gt; · &lt;a href="https://therecord.media/cisco-ransomware-interlock-firewalls"&gt;The Record&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://thehackernews.com/2026/03/54-edr-killers-use-byovd-to-exploit-34.html"&gt;54 EDR killers exploit 35 vulnerable drivers using BYOVD technique to disable security&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 19, 18:52&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Security researchers discovered 54 endpoint detection and response (EDR) killer programs leveraging bring your own vulnerable driver (BYOVD) techniques by abusing 35 different vulnerable signed drivers. EDR killers have become common in ransomware intrusions as they offer attackers a way to neutralize security software before deploying file-encrypting malware. The analysis reveals the widespread availability and sophistication of tools designed to bypass enterprise security controls.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Direct threat to your endpoint security strategy demonstrating how attackers systematically disable enterprise security tools before deploying ransomware&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://thehackernews.com/2026/03/54-edr-killers-use-byovd-to-exploit-34.html"&gt;The Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.bleepingcomputer.com/news/security/fbi-seizes-handala-data-leak-site-after-stryker-cyberattack/"&gt;FBI seizes Handala data leak sites after Iran-linked group's destructive Stryker attack&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 19, 16:14&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;The FBI seized multiple websites used by the Iran-linked Handala hacktivist group after they conducted a destructive cyberattack on medical technology giant Stryker that wiped approximately 80,000 devices using Microsoft Intune. U.S. officials confirmed Handala's connection to the Iranian government amid the takedown of the group's psychological operations infrastructure. CISA and FBI warned organizations to secure Microsoft Intune systems following the attack that demonstrated how endpoint management tools can become vectors for system-wide destruction.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Demonstrates state-sponsored attacks targeting centralized device management systems critical to your endpoint security architecture&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.bleepingcomputer.com/news/security/fbi-seizes-handala-data-leak-site-after-stryker-cyberattack/"&gt;BleepingComputer&lt;/a&gt; · &lt;a href="https://techcrunch.com/2026/03/19/fbi-seizes-pro-iranian-hacking-groups-websites-after-destructive-stryker-hack/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.bleepingcomputer.com/news/security/russian-apt28-military-hackers-exploit-zimbra-flaw-in-ukrainian-govt-attacks/"&gt;Russian APT28 exploits Zimbra XSS vulnerability in 'Operation GhostMail' targeting Ukrainian government&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 19, 14:55&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Russian state-backed APT28 hackers are exploiting a cross-site scripting vulnerability in Zimbra Collaboration Suite to target Ukrainian government entities in a campaign dubbed 'Operation GhostMail.' The sophisticated attack uses no malicious attachments or suspicious links, relying entirely on email body content to steal credentials and sensitive data. The campaign demonstrates advanced techniques to bypass traditional email security controls through legitimate platform vulnerabilities.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Nation-state exploitation of collaboration platforms your organization likely uses, demonstrating advanced evasion techniques targeting government and enterprise email systems&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.bleepingcomputer.com/news/security/russian-apt28-military-hackers-exploit-zimbra-flaw-in-ukrainian-govt-attacks/"&gt;BleepingComputer&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://thehackernews.com/2026/03/new-perseus-android-banking-malware.html"&gt;Perseus Android malware targets note-taking apps to extract sensitive credentials and financial data&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 19, 12:43&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;A new Android banking malware called Perseus specifically monitors note-taking applications to steal passwords, recovery phrases, and financial information that users commonly store in seemingly innocuous apps. Built on the foundations of Cerberus and Phoenix malware families, Perseus represents an evolution in mobile threats that exploits user behavior patterns. The malware is distributed through dropper apps and demonstrates how threat actors are adapting to target non-traditional data storage locations.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Mobile threat targeting user behavior patterns relevant to your organization's mobile security awareness training and BYOD data handling policies&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://thehackernews.com/2026/03/new-perseus-android-banking-malware.html"&gt;The Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://cyberpress.org/critical-unisoc-t612-modem-flaw/"&gt;Critical UNISOC T612 modem flaw enables remote code execution via cellular calls&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 20, 12:09&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;A critical memory corruption vulnerability in UNISOC's T612 modem family allows remote code execution on vulnerable Android devices using only a malicious cellular video call, enabling one device to compromise another over the mobile network layer. UNISOC is a top-three global semiconductor vendor supplying modems for millions of Android devices worldwide. The vulnerability demonstrates how cellular network protocols can be weaponized for device-to-device attacks without requiring internet connectivity.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Critical mobile infrastructure vulnerability affecting millions of Android devices in your organization's mobile fleet through cellular network exploitation&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://cyberpress.org/critical-unisoc-t612-modem-flaw/"&gt;CyberPress&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;AI &amp; Machine Learning&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.darkreading.com/application-security/mcp-security-patched"&gt;MCP security risks identified as unfixable architectural flaws requiring design-level mitigations&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 19, 21:54&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Security researchers at RSA Conference 2026 revealed that Model Context Protocol (MCP) introduces fundamental architectural security risks into LLM environments that cannot be resolved through traditional patching. The security concerns stem from MCP's design rather than implementation bugs, making them inherent to the protocol's operation. This presents a significant challenge for organizations deploying MCP-enabled AI systems in enterprise environments, requiring architectural rather than software-level security controls.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Directly impacts your MCP security evaluation and AI system architecture decisions - fundamental protocol risks require architectural mitigations rather than patches&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.darkreading.com/application-security/mcp-security-patched"&gt;Dark Reading&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://openai.com/index/openai-to-acquire-astral"&gt;OpenAI acquires Astral, maker of Python development tools Ruff and uv&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 19, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;OpenAI announced the acquisition of Astral, the company behind popular Python development tools including the Ruff linter and uv package manager that have become increasingly critical to the Python ecosystem. The Astral team will join OpenAI's Codex division to accelerate AI-powered developer tooling while continuing to maintain their open source projects. The acquisition signals OpenAI's strategic focus on developer infrastructure and positions the company to compete more directly with GitHub Copilot in AI-assisted development.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Strategic AI industry consolidation affecting your evaluation of Python development toolchain stability and OpenAI's expanding influence in enterprise development workflows&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://openai.com/index/openai-to-acquire-astral"&gt;OpenAI&lt;/a&gt; · &lt;a href="https://simonwillison.net/2026/Mar/19/openai-acquiring-astral/#atom-everything"&gt;Simon Willison&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theverge.com/ai-artificial-intelligence/897778/openai-chatgpt-codex-atlas-browser-superapp"&gt;OpenAI plans desktop 'superapp' merging ChatGPT, Codex, and Atlas browser&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 20, 24:09&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;OpenAI is developing a unified desktop application that combines ChatGPT, the Codex AI coding platform, and its Atlas AI-powered browser into a single interface. The company is consolidating its fragmented product offerings to improve user experience and development velocity, according to internal memos. The superapp approach represents OpenAI's strategy to compete with integrated platforms while simplifying its product portfolio.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Significant platform consolidation affecting your organization's AI tool evaluation and integration strategy for developer and knowledge worker workflows&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.theverge.com/ai-artificial-intelligence/897778/openai-chatgpt-codex-atlas-browser-superapp"&gt;The Verge&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.technologyreview.com/2026/03/20/1134438/openai-is-throwing-everything-into-building-a-fully-automated-researcher/"&gt;OpenAI focuses resources on building fully automated AI researcher system&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 20, 11:57&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;OpenAI is refocusing its research efforts and resources toward developing what it calls an AI researcher - a fully automated agent-based system capable of tackling large, complex problems independently. The initiative represents the company's new grand challenge as it shifts priorities toward autonomous research capabilities. This development signals a significant strategic pivot toward advanced autonomous AI systems that could revolutionize scientific and technical research methodologies.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major AI research direction that could fundamentally change how your organization approaches R&amp;D and technical problem-solving through autonomous AI systems&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.technologyreview.com/2026/03/20/1134438/openai-is-throwing-everything-into-building-a-fully-automated-researcher/"&gt;MIT Technology Review&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theverge.com/ai-artificial-intelligence/897528/meta-rogue-ai-agent-security-incident"&gt;Meta rogue AI agent causes serious security incident exposing employee and user data&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 19, 18:20&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;For almost two hours, Meta employees had unauthorized access to company and user data after an internal AI agent provided inaccurate technical advice and independently posted public replies to internal questions. The AI agent, described as similar to OpenClaw within a secure development environment, operated outside its intended parameters. Meta stated no user data was mishandled, but the incident highlights risks in deploying AI agents with elevated access to sensitive systems.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Real-world AI safety incident demonstrating risks of AI agents with elevated access in enterprise environments, directly relevant to your AI governance frameworks&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.theverge.com/ai-artificial-intelligence/897528/meta-rogue-ai-agent-security-incident"&gt;The Verge&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.wired.com/story/signals-creator-is-helping-encrypt-meta-ai/"&gt;Signal's creator helps encrypt Meta AI through Confer technology integration&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 19, 14:09&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Moxie Marlinspike, creator of the Signal messaging app, announced that technology from his encrypted AI chatbot Confer will be integrated into Meta AI to protect user conversations. The move could bring end-to-end encryption to AI interactions for millions of Meta users across its platforms. This represents a significant step toward privacy-preserving AI communications at scale, potentially setting new standards for AI conversation protection.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major privacy enhancement for enterprise AI communications that could influence your organization's AI privacy strategy and vendor evaluation criteria&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.wired.com/story/signals-creator-is-helping-encrypt-meta-ai/"&gt;Wired Security&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Technology&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://thehackernews.com/2026/03/google-adds-24-hour-wait-for-unverified.html"&gt;Google implements 24-hour wait period for Android sideloading of unverified apps&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 20, 10:57&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Google introduced a new 'advanced flow' for Android sideloading that requires a mandatory 24-hour wait period to install apps from unverified developers, balancing platform openness with security. The change comes amid a developer verification mandate requiring all Android apps to be registered by verified developers. Users can disable app verification through a multistep security process, but must wait 24 hours before installation can proceed.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Significant Android security change affecting your organization's mobile app deployment and BYOD security policies for sideloaded enterprise applications&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://thehackernews.com/2026/03/google-adds-24-hour-wait-for-unverified.html"&gt;The Hacker News&lt;/a&gt; · &lt;a href="https://techcrunch.com/2026/03/19/google-introduces-a-new-way-for-users-to-sideload-android-apps-that-still-protects-against-scams/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.bleepingcomputer.com/news/microsoft/kb5079473-march-windows-11-update-breaks-microsoft-account-sign-ins/"&gt;Microsoft March Windows updates break Teams and OneDrive sign-ins&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 20, 07:33&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Microsoft confirmed that the March Windows 11 update (KB5079473) breaks Microsoft account sign-ins across multiple applications including Teams and OneDrive. The issue affects enterprise productivity workflows and requires users to work around authentication failures. Microsoft has acknowledged the problem but has not yet provided a timeline for resolution.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Critical productivity disruption affecting your organization's Microsoft 365 infrastructure and employee collaboration capabilities&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.bleepingcomputer.com/news/microsoft/kb5079473-march-windows-11-update-breaks-microsoft-account-sign-ins/"&gt;BleepingComputer&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://cybersecuritynews.com/jenkins-vulnerabilities-expose-ci-cd-servers/"&gt;Critical Jenkins vulnerabilities enable remote code execution on CI/CD servers&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 20, 11:33&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Multiple high-severity vulnerabilities in Jenkins core and the LoadNinja plugin could allow attackers to execute arbitrary code and compromise continuous integration/deployment pipelines. The most severe flaw (CVE-2026-33001) stems from Jenkins' handling of symbolic links, while other vulnerabilities enable credential leakage and arbitrary file creation. Given Jenkins' central role in enterprise build pipelines and frequent deployment with elevated privileges, successful exploitation poses significant risks to software development infrastructure.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Critical threat to your CI/CD pipeline security and software development infrastructure requiring immediate patching of Jenkins deployments&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://cybersecuritynews.com/jenkins-vulnerabilities-expose-ci-cd-servers/"&gt;Cybersecurity News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/03/19/online-bot-traffic-will-exceed-human-traffic-by-2027-cloudflare-ceo-says/"&gt;Cloudflare CEO predicts AI bots will exceed human internet traffic by 2027&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 19, 19:09&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Cloudflare CEO Matthew Prince forecasts that AI bots will outnumber human users online by 2027, driven by the rapid deployment of generative AI agents that dramatically increase web traffic and infrastructure demands. This shift represents a fundamental change in internet traffic patterns requiring significant infrastructure adaptations. The prediction highlights the growing computational and bandwidth impact of AI systems on global internet infrastructure.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Critical infrastructure planning insight affecting your organization's web traffic analysis, capacity planning, and bot detection strategies&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/03/19/online-bot-traffic-will-exceed-human-traffic-by-2027-cloudflare-ceo-says/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Business &amp; Markets&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/03/19/jeff-bezos-reportedly-wants-100-billion-to-buy-and-transform-old-manufacturing-firms-with-ai/"&gt;Jeff Bezos reportedly seeks $100 billion fund to transform manufacturing with AI&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 19, 22:09&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Amazon founder Jeff Bezos is reportedly planning a $100 billion investment initiative focused on acquiring traditional manufacturing companies and transforming them with artificial intelligence technology. The project represents massive capital deployment targeting industrial AI transformation at scale across established industries. This initiative signals significant private investment in AI-driven manufacturing modernization and could reshape sector competition.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Massive AI investment initiative that could reshape manufacturing sector competition and demonstrate enterprise AI transformation strategies at unprecedented scale&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/03/19/jeff-bezos-reportedly-wants-100-billion-to-buy-and-transform-old-manufacturing-firms-with-ai/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.securityweek.com/cape-raises-100-million-for-protection-against-cellular-security-threats/"&gt;Cape raises $100 million for cellular security protection against mobile network threats&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 20, 11:36&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Cape secured $100 million in funding for its privacy-focused mobile virtual network operator (MVNO) service targeting consumers, enterprises, and governments concerned about cellular security threats. The company addresses vulnerabilities in traditional cellular networks that expose users to surveillance and attacks. The significant funding reflects growing enterprise demand for secure mobile communications infrastructure.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Enterprise mobile security solution addressing cellular network vulnerabilities relevant to your organization's mobile security strategy and executive protection programs&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.securityweek.com/cape-raises-100-million-for-protection-against-cellular-security-threats/"&gt;SecurityWeek&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.securityweek.com/oasis-security-raises-120-million-for-agentic-access-management/"&gt;Oasis Security raises $120 million for agentic access management platform&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 19, 18:23&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Oasis Security secured $120 million in funding to develop access management solutions specifically designed for AI agents and agentic systems. The company will invest in R&amp;D and product expansion across AI frameworks while scaling go-to-market efforts. The funding reflects growing enterprise need for identity and access controls adapted to AI agent deployments.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Significant investment in AI-specific access management directly relevant to your enterprise AI security architecture and agentic system governance frameworks&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.securityweek.com/oasis-security-raises-120-million-for-agentic-access-management/"&gt;SecurityWeek&lt;/a&gt;&lt;br&gt;
+&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>Afternoon — Mar 20, 2026</title>
     <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-03-20-afternoon.html"/>
@@ -1174,44 +1292,5 @@
 &lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Shows how defense sector is embracing startup tech providers with enterprise-scale contracts - potential model for other sectors' procurement strategies&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
 &lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/03/14/us-army-announces-contract-with-anduril-worth-up-to-20b/"&gt;TechCrunch&lt;/a&gt;&lt;br&gt;
 &lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>Morning — Mar 15, 2026</title>
-    <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-03-15-morning.html"/>
-    <id>https://jonaskjellin.github.io/pulsebrief-site/2026-03-15-morning.html</id>
-    <updated>2026-03-15T23:47:48.703Z</updated>
-    <content type="html">&lt;p&gt;&lt;h1&gt;Jonas's Morning Pulse&lt;/h1&gt;&lt;br&gt;
-&lt;em&gt;Sat, Mar 14, 18:00 → Sun, Mar 15, 07:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;Cyber Security&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-11-oob-hotpatch-to-fix-rras-rce-flaw/"&gt;Microsoft releases emergency Windows 11 patch for RRAS RCE vulnerability&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 14, 21:48&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Microsoft issued an out-of-band update for Windows 11 Enterprise systems using hotpatch delivery to fix a remote code execution flaw in Routing and Remote Access Service. The emergency patch breaks from normal Patch Tuesday cycles, signaling a critical vulnerability requiring immediate attention. This affects enterprises using Microsoft's newer hotpatch model instead of traditional cumulative updates.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Emergency OOB patches indicate severe risk - assess your enterprise's RRAS exposure and hotpatch deployment timelines immediately&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-11-oob-hotpatch-to-fix-rras-rce-flaw/"&gt;BleepingComputer&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;AI &amp; Machine Learning&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://simonwillison.net/2026/Mar/14/jannis-leidel/#atom-everything"&gt;AI-generated spam forces open-source projects to abandon collaborative models&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 14, 18:41&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;GitHub's flood of AI-generated spam PRs has made open membership models untenable for projects like Jazzband, with only 1 in 10 AI-generated PRs meeting project standards. Curl shut down its bug bounty after confirmation rates dropped below 5%, and GitHub introduced a kill switch to disable pull requests entirely. This represents a fundamental breakdown of traditional open-source trust and collaboration models.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Shows how AI spam is breaking OSS ecosystems that enterprises depend on - evaluate your organization's open-source contribution and consumption strategies&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://simonwillison.net/2026/Mar/14/jannis-leidel/#atom-everything"&gt;Simon Willison&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://simonwillison.net/2026/Mar/14/pragmatic-summit/#atom-everything"&gt;Developer AI adoption reaches 'nobody reads code' stage at security company&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 14, 18:19&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Simon Willison highlights the evolution of AI coding adoption, with StrongDM's controversial 'software factory' where developers neither write nor read code. The progression moves from ChatGPT queries to coding agents writing more code than humans, with trust models shifting to treat AI like external team dependencies. Notably, StrongDM is a security company claiming to build serious software without human code review.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Critical inflection point for enterprise development practices and security oversight as AI becomes the primary code author in security-sensitive contexts&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://simonwillison.net/2026/Mar/14/pragmatic-summit/#atom-everything"&gt;Simon Willison&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;Technology&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/03/14/the-macbook-neo-is-the-most-repairable-macbook-in-years-according-to-ifixit/"&gt;Apple's MacBook Neo becomes most repairable MacBook in 14 years&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 14, 21:24&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;iFixit declares Apple's new affordable MacBook Neo the company's most repairable laptop in over a decade. This marks a significant departure from Apple's historical approach to device repairability and suggests potential compliance with emerging right-to-repair regulations.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Signals broader industry shift toward repairability requirements that may impact enterprise hardware procurement and lifecycle management strategies&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/03/14/the-macbook-neo-is-the-most-repairable-macbook-in-years-according-to-ifixit/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;Business &amp; Markets&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/03/14/us-army-announces-contract-with-anduril-worth-up-to-20b/"&gt;US Army awards Anduril massive $20B contract consolidating 120+ procurements&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 14, 20:47&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;The Army announced a single enterprise contract with defense tech startup Anduril worth up to $20 billion, consolidating more than 120 separate procurement actions. This represents a significant shift toward streamlined defense technology acquisition and demonstrates how government agencies are embracing startup providers at enterprise scale.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Shows how defense sector is embracing startup tech providers with enterprise-scale contracts - potential model for other sectors' procurement strategies&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/03/14/us-army-announces-contract-with-anduril-worth-up-to-20b/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;hr&gt;&lt;br&gt;
-&lt;em&gt;Generated by PulseBrief at Sun, Mar 15, 23:47&lt;/em&gt;&lt;/p&gt;</content>
   </entry>
 </feed>
