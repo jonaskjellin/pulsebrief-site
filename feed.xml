@@ -5,7 +5,130 @@
   <link href="https://jonaskjellin.github.io/pulsebrief-site/feed.xml" rel="self"/>
   <link href="https://jonaskjellin.github.io/pulsebrief-site/"/>
   <id>https://jonaskjellin.github.io/pulsebrief-site/</id>
-  <updated>2026-03-21T11:17:49.527Z</updated>
+  <updated>2026-03-21T16:18:23.008Z</updated>
+  <entry>
+    <title>Evening — Mar 21, 2026</title>
+    <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-03-21-evening.html"/>
+    <id>https://jonaskjellin.github.io/pulsebrief-site/2026-03-21-evening.html</id>
+    <updated>2026-03-21T16:18:23.008Z</updated>
+    <content type="html">&lt;p&gt;&lt;h1&gt;Jonas's Evening Pulse&lt;/h1&gt;&lt;br&gt;
+&lt;em&gt;Fri, Mar 20, 12:00 → Fri, Mar 20, 17:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Cyber Security&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://thehackernews.com/2026/03/critical-langflow-flaw-cve-2026-33017.html"&gt;Critical Langflow vulnerability exploited hours after public disclosure&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 20, 15:15&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;A critical vulnerability in Langflow, a visual AI workflow platform, was exploited in the wild within 20 hours of public disclosure, leading to unauthenticated remote code execution. The flaw stems from missing authentication combined with code injection that could result in complete system compromise. This rapid exploitation timeline demonstrates the speed at which attackers capitalize on newly disclosed vulnerabilities in AI development platforms.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;AI development platform compromise highlighting the rapid threat timeline for your organization's AI toolchain security&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://thehackernews.com/2026/03/critical-langflow-flaw-cve-2026-33017.html"&gt;The Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-max-severity-cisco-flaw-by-sunday/"&gt;CISA orders federal agencies to patch maximum-severity Cisco firewall flaw by Sunday&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 20, 15:09&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;The Cybersecurity and Infrastructure Security Agency has ordered federal agencies to patch CVE-2026-20131, a maximum-severity vulnerability in Cisco Secure Firewall Management Center, by Sunday March 22. The flaw is already being exploited by the Interlock ransomware group, which had access to the vulnerability weeks before public disclosure. This demonstrates ransomware groups' increasing focus on network infrastructure to gain comprehensive access.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Active ransomware exploitation of network security infrastructure commonly used in enterprise environments requiring immediate patching&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-max-severity-cisco-flaw-by-sunday/"&gt;BleepingComputer&lt;/a&gt; · &lt;a href="https://www.darkreading.com/threat-intelligence/interlock-ransomware-targets-cisco-enterprise-firewalls"&gt;Dark Reading&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://therecord.media/us-seizes-botnet-infrastructure-four-large-networks"&gt;U.S., Canada, and Germany disrupt four IoT botnets controlling 3 million devices in record DDoS attacks&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 20, 14:25&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;The U.S. Justice Department led an international operation to dismantle the Aisuru, KimWolf, JackSkid, and Mossad botnets that compromised over 3 million IoT devices including routers and web cameras. The botnets were responsible for recent record-breaking DDoS attacks capable of generating up to 31.4 Tbps of traffic, sufficient to knock nearly any target offline. The operation involved court-authorized law enforcement actions targeting command-and-control infrastructure.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major disruption of infrastructure-scale DDoS capabilities affecting global internet stability and enterprise availability&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://therecord.media/us-seizes-botnet-infrastructure-four-large-networks"&gt;The Record&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://cybersecuritynews.com/hackers-compromised-7500-magento-websites/"&gt;Hackers compromised 7,500+ Magento websites in massive defacement campaign&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 20, 15:08&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Since late February 2026, over 7,500 Magento e-commerce websites have been targeted in a sweeping cyberattack campaign affecting commercial brands, government agencies, universities, and non-profits across multiple countries. Attackers uploaded hidden malicious files into publicly accessible web directories across thousands of domains, affecting over 15,000 hostnames. The campaign represents one of the largest coordinated attacks on e-commerce platform integrity.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Large-scale e-commerce platform attacks affecting your organization's retail infrastructure and brand protection strategies&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://cybersecuritynews.com/hackers-compromised-7500-magento-websites/"&gt;Cybersecurity News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://cybersecuritynews.com/new-voidstealer-variant-bypasses-chrome-abe/"&gt;New VoidStealer variant bypasses Chrome security without injection or privilege escalation&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 20, 14:45&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;A newly identified variant of VoidStealer has become the first malware known to bypass Google Chrome's Application-Bound Encryption (ABE) without requiring code injection or elevated system privileges. The variant, introduced in VoidStealer version 2.0 on March 13, uses a debugger-based technique to silently extract protected data. This breakthrough represents a significant evolution in credential theft capabilities targeting enterprise browser security controls.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;First successful bypass of Chrome's latest security protections affecting your organization's browser-based authentication and data protection strategies&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://cybersecuritynews.com/new-voidstealer-variant-bypasses-chrome-abe/"&gt;Cybersecurity News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://cyberpress.org/critical-unisoc-t612-modem-flaw/"&gt;Critical UNISOC T612 modem flaw enables RCE via cellular video calls&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 20, 12:09&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;A critical memory-corruption vulnerability in UNISOC's T612 modem family allows remote code execution on vulnerable Android devices using only a malicious cellular video call, enabling one phone to compromise another over the mobile network layer. UNISOC is a top-three global fabless semiconductor vendor supplying 2G-5G modems widely used in Android devices. The flaw represents a significant threat to mobile device security through carrier network exploitation.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Critical mobile infrastructure vulnerability affecting your organization's BYOD security and mobile device management strategies&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://cyberpress.org/critical-unisoc-t612-modem-flaw/"&gt;CyberPress&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/03/20/u-s-accuses-irans-government-of-operating-hacktivist-group-that-hacked-stryker/"&gt;U.S. confirms Iran government operates Handala hacktivist group behind Stryker attack&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 20, 16:18&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;The U.S. Justice Department confirmed that an Iranian security ministry operates the fake activist persona known as Handala, which conducted a destructive cyberattack on medical technology giant Stryker. The attack wiped approximately 80,000 devices using Microsoft Intune, demonstrating how endpoint management tools can become vectors for system-wide destruction. The FBI has seized multiple websites used by the group for psychological operations.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;State-sponsored attacks targeting centralized device management systems critical to your endpoint security architecture&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/03/20/u-s-accuses-irans-government-of-operating-hacktivist-group-that-hacked-stryker/"&gt;TechCrunch&lt;/a&gt; · &lt;a href="https://www.securityweek.com/us-confirms-handala-link-to-iran-government-amid-takedown-of-hackers-sites/"&gt;SecurityWeek&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.securityweek.com/3-men-charged-with-conspiring-to-smuggle-us-artificial-intelligence-to-china/"&gt;Three men charged with conspiring to smuggle U.S. AI technology to China&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 20, 14:43&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Federal prosecutors charged three men with violating U.S. export control laws by scheming to divert massive quantities of high-performance AI servers assembled in the United States to China. The case demonstrates ongoing efforts by foreign adversaries to acquire restricted American artificial intelligence technology for strategic advantage. The charges highlight the intersection of AI technology and national security export controls.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;AI technology export control enforcement affecting your organization's international AI technology partnerships and compliance requirements&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.securityweek.com/3-men-charged-with-conspiring-to-smuggle-us-artificial-intelligence-to-china/"&gt;SecurityWeek&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/03/20/cyberattack-on-vehicle-breathalyzer-company-leaves-drivers-stranded-across-the-us/"&gt;Cyberattack on vehicle breathalyzer company leaves drivers stranded across U.S.&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 20, 15:01&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;A cyberattack on a U.S. car breathalyzer company has left drivers across the United States reportedly stranded and unable to start their vehicles. The incident demonstrates how cyberattacks on specialized service providers can have immediate physical-world consequences for consumers. The attack highlights vulnerabilities in connected automotive systems and their dependencies on cloud-based services.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;IoT and connected vehicle security incident demonstrating real-world impacts of cyberattacks on transportation infrastructure&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/03/20/cyberattack-on-vehicle-breathalyzer-company-leaves-drivers-stranded-across-the-us/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;AI &amp; Machine Learning&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.technologyreview.com/2026/03/20/1134448/the-download-openai-building-fully-automated-researcher-psychedelic-drug-trial/"&gt;OpenAI focuses resources on building fully automated AI researcher system&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 20, 13:15&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;OpenAI is refocusing its research efforts and resources toward developing what it calls an AI researcher - a fully automated agent-based system capable of tackling large, complex problems independently. The initiative represents the company's new grand challenge as it shifts priorities toward autonomous research capabilities. This development signals a significant strategic pivot toward advanced autonomous AI systems that could revolutionize scientific and technical research methodologies.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major AI research direction that could fundamentally change how your organization approaches R&amp;D and technical problem-solving through autonomous AI systems&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.technologyreview.com/2026/03/20/1134448/the-download-openai-building-fully-automated-researcher-psychedelic-drug-trial/"&gt;MIT Technology Review&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.wired.com/story/palantir-developer-conference-ai-war-alex-karp/"&gt;Palantir's developer conference showcases AI built for battlefield advantage&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 20, 15:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;At Palantir's developer conference, the company doubled down on its vision of AI built specifically for battlefield advantage, attracting customers who agree with this military-focused approach. As business soars, Palantir is positioning itself as a leader in defense-oriented artificial intelligence applications. The conference demonstrates the growing militarization of AI technology and its commercial success in government contracts.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Defense AI development trends affecting your understanding of AI ethics, governance frameworks, and potential dual-use technology considerations&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.wired.com/story/palantir-developer-conference-ai-war-alex-karp/"&gt;Wired AI&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://therecord.media/man-pleads-guilty-8-million-ai-music-scheme"&gt;Man pleads guilty to $8 million AI-generated music streaming fraud scheme&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 20, 13:57&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Michael Smith, 54, admitted to inflating streaming numbers for hundreds of thousands of AI-generated songs by deploying thousands of fake accounts across major platforms including Amazon Music, Apple Music, Spotify and YouTube Music. The scheme generated approximately $8 million in fraudulent streaming royalties through automated content creation and manipulation. This case represents the first major prosecution for AI-powered content fraud in the music industry.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;AI content fraud prosecution establishing legal precedents for AI-generated content misuse affecting your organization's AI content policies and compliance frameworks&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://therecord.media/man-pleads-guilty-8-million-ai-music-scheme"&gt;The Record&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/03/20/wordpress-com-now-lets-ai-agents-write-and-publish-posts-and-more/"&gt;WordPress.com enables AI agents to write and publish posts autonomously&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 20, 16:43&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;WordPress.com now allows AI agents to write and publish posts automatically, potentially lowering barriers to publishing while significantly increasing machine-generated content across the web. The new capability enables autonomous content creation and publishing workflows without human oversight. This development could fundamentally change content creation patterns and quality across millions of websites.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;AI agent publishing capabilities affecting your organization's content strategy and web presence management in an increasingly AI-generated content landscape&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/03/20/wordpress-com-now-lets-ai-agents-write-and-publish-posts-and-more/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Technology&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theverge.com/tech/896490/google-replace-news-headlines-in-search-canary-coal-mine-experiment"&gt;Google Search begins replacing news headlines with AI-generated versions&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 20, 14:30&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Google has started replacing news headlines in its search results with AI-generated versions, sometimes changing their meaning in the process. After implementing similar changes in Google Discover, the company is now modifying headlines in traditional search results without publisher consent. This represents a significant shift from Google's long-standing promise that "the website you click is the website you get."&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major search platform change affecting your organization's content discoverability, SEO strategy, and brand messaging control&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.theverge.com/tech/896490/google-replace-news-headlines-in-search-canary-coal-mine-experiment"&gt;The Verge&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theverge.com/tech/897915/amazon-transformer-alexa-phone"&gt;Amazon developing new Alexa-focused smartphone after 10-year Fire Phone hiatus&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 20, 13:42&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Over 10 years after shelving the Fire Phone, Amazon is reportedly developing a new smartphone codenamed "Transformer" that centers around Alexa functionality. The device is being developed by Amazon's ZeroOne group, led by former Microsoft executive J Allard, and would feature personalized features for Amazon's app ecosystem. The project explores both smartphone and minimalist "dumbphone" designs inspired by devices like the Light Phone.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major tech platform re-entry into mobile affecting your mobile strategy evaluation and enterprise device management considerations&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.theverge.com/tech/897915/amazon-transformer-alexa-phone"&gt;The Verge&lt;/a&gt; · &lt;a href="https://techcrunch.com/2026/03/20/amazon-working-on-new-smartphone-with-alexa-at-its-core-report-says/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://cybersecuritynews.com/windows-11-march-update-breaks-teams/"&gt;Windows 11 March update breaks Microsoft Teams and OneDrive sign-ins&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 20, 15:49&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Microsoft confirmed that the March Windows 11 update (KB5079473) breaks Microsoft account sign-ins across multiple applications including Teams and OneDrive. The issue affects enterprise productivity workflows and requires users to work around authentication failures. Microsoft has acknowledged the problem but has not yet provided a timeline for resolution.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Critical productivity disruption affecting your organization's Microsoft 365 infrastructure and employee collaboration capabilities&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://cybersecuritynews.com/windows-11-march-update-breaks-teams/"&gt;Cybersecurity News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://cyberpress.org/google-chrome-update-fixes-26-security-flaws/"&gt;Google Chrome update fixes 26 security flaws including critical RCE vulnerabilities&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 20, 13:30&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Google released a Chrome stable update patching 26 security vulnerabilities, including three critical bugs that could allow remote code execution when victims visit malicious web pages or process crafted web content. The update is rolling out to Windows and macOS as version 146.0.7680.153/154 and to Linux as 146.0.7680.153. The critical vulnerabilities pose immediate risks to enterprise browser security.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Critical browser security updates requiring immediate deployment across your organization's endpoint infrastructure&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://cyberpress.org/google-chrome-update-fixes-26-security-flaws/"&gt;CyberPress&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/03/20/jeff-bezos-blue-origin-enters-the-space-data-center-game/"&gt;Jeff Bezos' Blue Origin enters space data center market with massive satellite constellation&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 20, 16:27&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Blue Origin announced "Project Sunrise," a space-based data center initiative that would include more than 50,000 satellites performing high-energy compute on orbit. The project represents a significant expansion of space-based computing infrastructure beyond traditional satellite communications. This initiative could revolutionize cloud computing by moving processing capabilities directly into space.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Space-based computing infrastructure development affecting your long-term cloud strategy and data sovereignty considerations&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/03/20/jeff-bezos-blue-origin-enters-the-space-data-center-game/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.lemonde.fr/en/international/article/2026/03/20/stravaleaks-france-s-aircraft-carrier-located-in-real-time-by-le-monde-through-fitness-app_6751640_4.html"&gt;France's aircraft carrier located in real-time through fitness app data leak&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 20, 13:01&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Le Monde successfully tracked France's aircraft carrier Charles de Gaulle in real-time using publicly available data from the Strava fitness app, revealing precise locations and movement patterns of military personnel. The incident demonstrates how consumer fitness tracking apps can compromise operational security of sensitive military assets. This represents a significant OPSEC failure with national security implications.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;OPSEC failure demonstrating how consumer apps can compromise your organization's security and location privacy for sensitive personnel and facilities&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.lemonde.fr/en/international/article/2026/03/20/stravaleaks-france-s-aircraft-carrier-located-in-real-time-by-le-monde-through-fitness-app_6751640_4.html"&gt;Le Monde&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Business &amp; Markets&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/03/20/ai-startups-are-eating-the-venture-industry-and-the-returns-so-far-are-good/"&gt;AI startups consumed 41% of venture funding in 2026, showing strong returns&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 20, 15:41&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;AI startups accounted for 41% of the $128 billion in venture dollars raised by companies on Carta last year, representing a record-high annual share of venture investment. The concentration of funding in AI companies reflects investor confidence in the sector's growth potential and market opportunity. Early returns from AI investments are reportedly showing positive performance, justifying the massive capital allocation.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Venture capital concentration in AI affecting your understanding of market dynamics, competitive landscape, and potential acquisition targets in the AI space&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/03/20/ai-startups-are-eating-the-venture-industry-and-the-returns-so-far-are-good/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/03/20/trumps-ai-framework-targets-state-laws-shifts-child-safety-burden-to-parents/"&gt;Trump's AI framework targets state laws, shifts child safety burden to parents&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 20, 16:14&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;The Trump administration released an AI framework that pushes federal preemption of state laws, emphasizes innovation over regulation, and shifts responsibility for child safety toward parents while laying out lighter-touch rules for tech companies. The framework represents a significant departure from previous AI governance approaches and could reshape the regulatory landscape for enterprise AI deployment. The policy prioritizes industry growth over restrictive oversight.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Federal AI policy changes affecting your organization's regulatory compliance strategy and AI governance framework development&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/03/20/trumps-ai-framework-targets-state-laws-shifts-child-safety-burden-to-parents/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.securityweek.com/eclypsium-raises-25-million-for-device-supply-chain-security/"&gt;Eclypsium raises $25 million for device supply chain security&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 20, 13:25&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Device security company Eclypsium raised $25 million in funding to expand its platform's capabilities and grow channel partnerships focused on supply chain security. The investment reflects growing enterprise demand for hardware and firmware security solutions addressing supply chain risks. The company will use the funding to enhance detection and response capabilities for device-level threats.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Supply chain security investment reflecting market demand for hardware security solutions relevant to your device trust and supply chain risk management strategies&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.securityweek.com/eclypsium-raises-25-million-for-device-supply-chain-security/"&gt;SecurityWeek&lt;/a&gt;&lt;br&gt;
+&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>Afternoon — Mar 21, 2026</title>
     <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-03-21-afternoon.html"/>
@@ -1361,21 +1484,6 @@
 &lt;p&gt;A Hacker News discussion explores how computer science education is adapting to current industry realities, with students and professors grappling with uncertain job prospects and changing curriculum needs. The conversation reflects broader concerns about whether traditional CS education remains relevant given AI automation and market volatility. Many are questioning long-held assumptions about CS as a stable career path.&lt;/p&gt;&lt;br&gt;
 &lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Reflects fundamental shifts in tech talent pipeline that could affect your organization's future hiring and skill development strategies&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
 &lt;p&gt;Sources: &lt;a href="https://news.ycombinator.com/item?id=47397190"&gt;Hacker News&lt;/a&gt;&lt;br&gt;
-&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>Afternoon — Mar 16, 2026</title>
-    <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-03-16-afternoon.html"/>
-    <id>https://jonaskjellin.github.io/pulsebrief-site/2026-03-16-afternoon.html</id>
-    <updated>2026-03-16T11:40:59.468Z</updated>
-    <content type="html">&lt;p&gt;&lt;h1&gt;Jonas's Afternoon Pulse&lt;/h1&gt;&lt;br&gt;
-&lt;em&gt;Sun, Mar 15, 07:00 → Sun, Mar 15, 13:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;Cyber Security&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.securityweek.com/loblaw-data-breach-impacts-customer-information/"&gt;Loblaw data breach exposes customer personal information&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 15, 10:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Canada's largest retailer Loblaw suffered a data breach affecting customer names, email addresses, and phone numbers. The incident demonstrates ongoing risks to retail sector customer data and potential regulatory implications under Canadian privacy laws. Details on breach scope and attacker methods remain limited.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Retail sector breach pattern relevant to your global retail group's threat modeling and customer data protection strategies&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.securityweek.com/loblaw-data-breach-impacts-customer-information/"&gt;SecurityWeek&lt;/a&gt;&lt;br&gt;
 &lt;/p&gt;</content>
   </entry>
 </feed>
