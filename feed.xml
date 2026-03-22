@@ -5,7 +5,105 @@
   <link href="https://jonaskjellin.github.io/pulsebrief-site/feed.xml" rel="self"/>
   <link href="https://jonaskjellin.github.io/pulsebrief-site/"/>
   <id>https://jonaskjellin.github.io/pulsebrief-site/</id>
-  <updated>2026-03-21T16:18:23.008Z</updated>
+  <updated>2026-03-22T05:46:27.867Z</updated>
+  <entry>
+    <title>Morning — Mar 22, 2026</title>
+    <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-03-22-morning.html"/>
+    <id>https://jonaskjellin.github.io/pulsebrief-site/2026-03-22-morning.html</id>
+    <updated>2026-03-22T05:46:27.867Z</updated>
+    <content type="html">&lt;p&gt;&lt;h1&gt;Jonas's Morning Pulse&lt;/h1&gt;&lt;br&gt;
+&lt;em&gt;Fri, Mar 20, 17:00 → Sat, Mar 21, 06:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Cyber Security&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://thehackernews.com/2026/03/trivy-security-scanner-github-actions.html"&gt;Trivy Security Scanner GitHub Actions Breached, 75 Tags Hijacked to Steal CI/CD Secrets&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 20, 17:47&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Trivy, a popular open-source vulnerability scanner maintained by Aqua Security, was compromised for the second time in a month to deliver malware that steals sensitive CI/CD secrets. The attack targeted GitHub Actions "aquasecurity/trivy-action" and "aquasecurity/setup-trivy," which are widely used to scan Docker container images for vulnerabilities in CI/CD pipelines. This represents a significant supply chain attack affecting organizations that rely on Trivy for container security scanning.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Direct threat to your CI/CD pipeline security and container vulnerability management - rotate secrets immediately if using affected Trivy actions&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://thehackernews.com/2026/03/trivy-security-scanner-github-actions.html"&gt;The Hacker News&lt;/a&gt; · &lt;a href="https://arstechnica.com/security/2026/03/widely-used-trivy-scanner-compromised-in-ongoing-supply-chain-attack/"&gt;Ars Technica&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.bleepingcomputer.com/news/security/fbi-links-signal-phishing-attacks-to-russian-intelligence-services/"&gt;FBI Links Signal Phishing Attacks to Russian Intelligence Services&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 20, 20:45&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;The FBI issued a public service announcement warning that Russian intelligence-linked threat actors are actively targeting users of encrypted messaging apps such as Signal and WhatsApp in phishing campaigns that have compromised thousands of accounts. The attackers bypass Signal's robust end-to-end encryption by hijacking user accounts through sophisticated phishing techniques. The campaign specifically targets high-value individuals and demonstrates nation-state efforts to circumvent secure communications.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Nation-state targeting of secure communication platforms affecting your organization's executive communication security and threat modeling&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.bleepingcomputer.com/news/security/fbi-links-signal-phishing-attacks-to-russian-intelligence-services/"&gt;BleepingComputer&lt;/a&gt; · &lt;a href="https://cybersecuritynews.com/fbi-cisa-warn-russian-hackers/"&gt;Cybersecurity News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.bleepingcomputer.com/news/security/oracle-pushes-emergency-fix-for-critical-identity-manager-rce-flaw/"&gt;Oracle Issues Emergency Fix for Critical Identity Manager RCE Flaw&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 20, 18:48&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Oracle released an out-of-band security update to fix a critical unauthenticated remote code execution vulnerability (CVE-2026-21992) in Identity Manager and Web Services Manager with a CVSS score of 9.8. Attackers can execute arbitrary code without authentication if Oracle's Identity or Web Services Managers are exposed to the web. The vulnerability affects two widely deployed Fusion Middleware components used in enterprise identity management systems.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Critical threat to your identity management infrastructure requiring immediate patching of Oracle Fusion Middleware components&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.bleepingcomputer.com/news/security/oracle-pushes-emergency-fix-for-critical-identity-manager-rce-flaw/"&gt;BleepingComputer&lt;/a&gt; · &lt;a href="https://www.darkreading.com/vulnerabilities-threats/patch-oracle-fusion-middleware-rce-flaw"&gt;Dark Reading&lt;/a&gt; · &lt;a href="https://cybersecuritynews.com/oracle-urgent-security-update/"&gt;Cybersecurity News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://therecord.media/fbi-takes-down-leak-sites-iran-mois"&gt;FBI Takes Down Leak Sites Tied to Iran's Ministry of Intelligence and Security&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 20, 17:21&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;The FBI seized multiple websites used by Iran's Ministry of Intelligence and Security (MOIS) for psychological operations, most recently operating under the name "Handala." A 40-page seizure warrant outlined multiple digital campaigns launched by MOIS through various online monikers targeting Western audiences. This action represents ongoing efforts to disrupt Iranian state-sponsored information operations and cyber activities.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Iran state-sponsored information warfare disruption affecting your threat intelligence on nation-state psychological operations targeting Western organizations&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://therecord.media/fbi-takes-down-leak-sites-iran-mois"&gt;The Record&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://cybersecuritynews.com/chrome-security-update-patches-26-vulnerabilities/"&gt;Google Chrome Updates Fix 26 Security Flaws Including Critical RCE Vulnerabilities&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 21, 02:15&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Google released Chrome stable updates patching 26 security vulnerabilities, including three critical bugs that could allow remote code execution when victims visit malicious web pages or process crafted web content. The update rolls out to Windows and macOS as version 146.0.7680.153/154 and to Linux as 146.0.7680.153. The critical vulnerabilities pose immediate risks to enterprise browser security requiring immediate deployment.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Critical browser security updates requiring immediate deployment across your organization's endpoint infrastructure&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://cybersecuritynews.com/chrome-security-update-patches-26-vulnerabilities/"&gt;Cybersecurity News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://cyberpress.org/copyright-themed-emails-to-drop-purelog-stealer/"&gt;Threat Actors Deploy PureLog Stealer via Copyright-Themed Phishing Campaign&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 21, 04:09&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Threat actors are conducting a sophisticated multi-stage malware campaign distributing PureLog Stealer disguised as localized copyright violation notices. The campaign heavily targets critical infrastructure including healthcare and government sectors, using fileless execution and encrypted payloads to harvest browser credentials and cryptocurrency wallets while evading traditional security controls. The attack demonstrates advanced social engineering combined with technical evasion techniques.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Sophisticated stealer campaign targeting critical infrastructure sectors through social engineering relevant to your phishing awareness and endpoint protection strategies&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://cyberpress.org/copyright-themed-emails-to-drop-purelog-stealer/"&gt;CyberPress&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://therecord.media/california-city-reports-ransomware-attack-la-metro"&gt;California City Reports Ransomware Attack as LA Transit Agency Finds 'Unauthorized Activity'&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 20, 19:21&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Foster City warned that hackers may have obtained public information, urging anyone who has done business with the city to change personal passwords and take protective measures. Simultaneously, LA Metro reported detecting unauthorized activity on its systems. These incidents represent ongoing ransomware targeting of municipal infrastructure and public transportation systems.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Municipal infrastructure ransomware attacks demonstrating ongoing threats to public sector systems and third-party service dependencies&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://therecord.media/california-city-reports-ransomware-attack-la-metro"&gt;The Record&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/03/20/a-french-navy-officer-accidentally-leaked-the-location-of-an-aircraft-carrier-by-logging-his-run-on-strava/"&gt;French Aircraft Carrier Location Leaked Through Strava Fitness Data&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 20, 17:21&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;A French naval officer accidentally revealed the real-time location of the Charles de Gaulle aircraft carrier by uploading his workout to Strava after running around the ship's deck. Le Monde successfully tracked the aircraft carrier using publicly available fitness app data, demonstrating how consumer tracking apps can compromise operational security of sensitive military assets. This represents a significant OPSEC failure with national security implications.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;OPSEC failure demonstrating how consumer apps can compromise your organization's security and location privacy for sensitive personnel and facilities&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/03/20/a-french-navy-officer-accidentally-leaked-the-location-of-an-aircraft-carrier-by-logging-his-run-on-strava/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;AI &amp; Machine Learning&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theverge.com/ai-artificial-intelligence/898055/trump-new-ai-policy-framework"&gt;Trump Administration Releases AI Framework Targeting State Laws, Shifts Child Safety Burden to Parents&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 20, 18:17&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;The Trump administration unveiled a seven-point AI legislative blueprint that prioritizes federal preemption of state laws, emphasizes innovation over regulation, and shifts responsibility for child safety toward parents while laying out lighter-touch rules for tech companies. The framework represents a significant departure from previous AI governance approaches and could reshape the regulatory landscape for enterprise AI deployment. The policy prioritizes industry growth over restrictive oversight.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Federal AI policy changes affecting your organization's regulatory compliance strategy and AI governance framework development&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.theverge.com/ai-artificial-intelligence/898055/trump-new-ai-policy-framework"&gt;The Verge - AI&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/03/20/new-court-filing-reveals-pentagon-told-anthropic-the-two-sides-were-nearly-aligned-a-week-after-trump-declared-the-relationship-kaput/"&gt;Pentagon and Anthropic Legal Battle Escalates Over National Security Claims&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 21, 01:40&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Anthropic submitted sworn declarations to a California federal court pushing back on the Pentagon's assertion that the AI company poses an "unacceptable risk to national security." The company argues the government's case relies on technical misunderstandings and claims never raised during months of negotiations. Court filings reveal the Pentagon told Anthropic they were "nearly aligned" just a week after Trump declared the relationship over.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major AI-government contract dispute affecting your understanding of AI national security considerations and federal AI procurement policies&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/03/20/new-court-filing-reveals-pentagon-told-anthropic-the-two-sides-were-nearly-aligned-a-week-after-trump-declared-the-relationship-kaput/"&gt;TechCrunch&lt;/a&gt; · &lt;a href="https://www.wired.com/story/anthropic-denies-sabotage-ai-tools-war-claude/"&gt;Wired AI&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://cybersecuritynews.com/projects-feature-claude-cowork-desktop/"&gt;Anthropic Launches Projects Feature for Claude Cowork Desktop&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 20, 17:08&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Anthropic expanded Claude Cowork Desktop with a new Projects feature designed to keep files, instructions, and task context organized within a single workspace. For paid users, the update enables easier workflow management by allowing users to start from scratch, import existing chats, or connect local folders so Claude can maintain context between sessions. This represents continued development of AI workspace organization tools.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;AI workspace productivity enhancement affecting your evaluation of AI tools for knowledge worker collaboration and document management workflows&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://cybersecuritynews.com/projects-feature-claude-cowork-desktop/"&gt;Cybersecurity News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://simonwillison.net/2026/Mar/20/cursor-on-kimi/#atom-everything"&gt;Kimi.ai Confirms Cursor Composer 2 Built on Kimi K2.5 Model&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 20, 20:29&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Kimi.ai confirmed that Cursor's new Composer 2 AI coding assistant is built on their Kimi-k2.5 model foundation, accessed through Fireworks AI's hosted platform as part of an authorized commercial partnership. The model underwent continued pretraining and high-compute reinforcement learning training specifically for Cursor's implementation. This represents significant progress in AI-powered code generation capabilities and open model ecosystem collaboration.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major AI coding assistant advancement affecting your organization's developer productivity tools evaluation and AI-assisted software development strategies&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://simonwillison.net/2026/Mar/20/cursor-on-kimi/#atom-everything"&gt;Simon Willison&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Technology&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/03/20/microsoft-rolls-back-some-of-its-copilot-ai-bloat-on-windows/"&gt;Microsoft Rolls Back Copilot AI Bloat on Windows&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 20, 20:53&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Microsoft is reducing Copilot entry points on Windows, starting with Photos, Widgets, Notepad, and other applications in response to user feedback about excessive AI integration. The company is pulling back some of its aggressive Copilot deployment across Windows applications. This represents a strategic adjustment in Microsoft's AI integration approach based on user adoption patterns and feedback.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Microsoft AI integration strategy adjustment affecting your Windows enterprise deployment planning and user experience considerations&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/03/20/microsoft-rolls-back-some-of-its-copilot-ai-bloat-on-windows/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://pbxscience.com/ubuntu-26-04-ends-46-years-of-silent-sudo-passwords/"&gt;Ubuntu 26.04 Ends 46 Years of Silent sudo Passwords&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 21, 05:06&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Ubuntu 26.04 will end nearly five decades of silent password entry for sudo commands, introducing visible password feedback during authentication. This represents a significant change to a fundamental Unix security behavior that has remained unchanged since the 1970s. The modification aims to improve user experience while maintaining security standards.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Fundamental Unix security behavior change affecting your Linux infrastructure and user training for system administration workflows&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://pbxscience.com/ubuntu-26-04-ends-46-years-of-silent-sudo-passwords/"&gt;Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Business &amp; Markets&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/video/what-happened-at-nvidia-gtc-nemoclaw-robot-olaf-and-a-1-trillion-bet/"&gt;Nvidia GTC Conference Projects $1 Trillion AI Chip Sales Through 2027&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 20, 20:02&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;CEO Jensen Huang delivered a two-and-a-half-hour keynote at Nvidia's GTC conference projecting $1 trillion in AI chip sales through 2027 and declaring that every company needs an "OpenClaw strategy." The presentation emphasized Nvidia's dominant position in AI infrastructure and outlined the company's aggressive growth projections. The message reinforced Nvidia's strategy to maintain leadership in AI hardware acceleration.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major AI infrastructure market projection affecting your organization's AI hardware planning and vendor strategy for large-scale AI deployments&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/video/what-happened-at-nvidia-gtc-nemoclaw-robot-olaf-and-a-1-trillion-bet/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/03/20/pinterest-ceo-calls-on-governments-to-ban-social-media-for-users-under-16/"&gt;Pinterest CEO Calls for Government Ban on Social Media for Users Under 16&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 20, 19:01&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Pinterest's chief executive compared social media to tobacco and alcohol, calling on governments to ban social media platforms for users under 16, saying children need similar protections. The statement represents a significant industry leader advocating for restrictive age-based social media regulation. This position could influence broader regulatory discussions around social media and child safety.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major platform executive advocating age-based social media regulation that could affect your organization's social media strategy and regulatory compliance planning&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/03/20/pinterest-ceo-calls-on-governments-to-ban-social-media-for-users-under-16/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/03/20/elon-musk-misled-twitter-investors-while-trying-to-get-out-of-acquisition-jury-says/"&gt;Elon Musk Found to Have Misled Twitter Investors During Acquisition Attempt&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 20, 23:29&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;A jury found that Elon Musk misled Twitter investors while trying to get out of his acquisition commitment, particularly around claims that Twitter had too many bots. The ruling addresses Musk's public statements and tweets during the contentious acquisition process that ultimately led to his purchase of the platform. This represents significant legal consequences for executive communications during major corporate transactions.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Executive communication liability during M&amp;A transactions affecting your understanding of disclosure requirements and social media communication risks during corporate deals&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/03/20/elon-musk-misled-twitter-investors-while-trying-to-get-out-of-acquisition-jury-says/"&gt;TechCrunch&lt;/a&gt;&lt;br&gt;
+&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>Evening — Mar 21, 2026</title>
     <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-03-21-evening.html"/>
@@ -1429,58 +1527,6 @@
 &lt;p&gt;&lt;h2&gt;Technology&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
 &lt;p&gt;&lt;h3&gt;&lt;a href="https://news.ycombinator.com/item?id=47397190"&gt;Computer science students question career viability amid industry uncertainty&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
 &lt;em&gt;Mar 16, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;A Hacker News discussion explores how computer science education is adapting to current industry realities, with students and professors grappling with uncertain job prospects and changing curriculum needs. The conversation reflects broader concerns about whether traditional CS education remains relevant given AI automation and market volatility. Many are questioning long-held assumptions about CS as a stable career path.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Reflects fundamental shifts in tech talent pipeline that could affect your organization's future hiring and skill development strategies&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://news.ycombinator.com/item?id=47397190"&gt;Hacker News&lt;/a&gt;&lt;br&gt;
-&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>Afternoon — Mar 16, 2026</title>
-    <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-03-16-afternoon.html"/>
-    <id>https://jonaskjellin.github.io/pulsebrief-site/2026-03-16-afternoon.html</id>
-    <updated>2026-03-16T12:23:46.534Z</updated>
-    <content type="html">&lt;p&gt;&lt;h1&gt;Jonas's Afternoon Pulse&lt;/h1&gt;&lt;br&gt;
-&lt;em&gt;Mon, Mar 16, 06:00 → Mon, Mar 16, 12:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;Cyber Security&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://thehackernews.com/2026/03/why-security-validation-is-becoming.html"&gt;Security validation evolves toward agentic AI-driven continuous testing&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 16, 11:58&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Security teams are increasingly adopting agentic approaches to validation, moving beyond disconnected tools like breach and attack simulation (BAS), pentesting, and vulnerability scanners. The shift toward AI-driven security validation promises to connect these traditionally siloed capabilities into more comprehensive, automated testing systems. This evolution addresses the fundamental problem of security tools providing isolated views without meaningful integration.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Directly aligns with your focus on AI-driven security tooling and represents a fundamental architecture shift in how enterprises validate their security posture&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://thehackernews.com/2026/03/why-security-validation-is-becoming.html"&gt;The Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://thehackernews.com/2026/03/clickfix-campaigns-spread-macsync-macos.html"&gt;ClickFix campaigns deploy MacSync infostealer via fake AI tool installers&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 16, 11:41&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Three ClickFix campaigns are using fake AI tool installers to distribute MacSync, a macOS information stealer that relies entirely on user interaction rather than traditional exploits. The attack method tricks users into copying and executing commands, making it particularly effective against users who don't understand the implications of running untrusted code. This represents an evolution in social engineering tactics targeting the growing interest in AI tools.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Highlights how attackers exploit AI tool popularity to target enterprise users, relevant for your organization's endpoint security and user awareness programs&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://thehackernews.com/2026/03/clickfix-campaigns-spread-macsync-macos.html"&gt;The Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://thehackernews.com/2026/03/drillapp-backdoor-targets-ukraine.html"&gt;DRILLAPP backdoor abuses Microsoft Edge debugging to target Ukraine&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 16, 09:07&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Russian-linked threat actors are deploying DRILLAPP backdoor against Ukrainian entities, using Microsoft Edge's debugging functionality for stealth espionage operations. The campaign shows overlaps with previous Laundry Bear (UAC-0190) operations targeting Ukrainian defense forces. The technique demonstrates sophisticated abuse of legitimate browser debugging features to maintain persistence and evade detection.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Nation-state technique innovation affecting European organizations - assess your enterprise's exposure to similar browser-based persistence mechanisms&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://thehackernews.com/2026/03/drillapp-backdoor-targets-ukraine.html"&gt;The Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.securityweek.com/forcememo-python-repositories-compromised-in-glassworm-aftermath/"&gt;ForceMemo campaign compromises hundreds of GitHub accounts post-GlassWorm&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 16, 11:51&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Hundreds of GitHub accounts were compromised using credentials stolen during the VS Code GlassWorm campaign, leading to widespread compromise of Python repositories. This represents a significant supply chain attack escalation where initial developer environment compromises are being leveraged for broader repository takeovers. The campaign demonstrates the cascading effects of developer tooling attacks on open source ecosystems.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Critical supply chain risk - evaluate your organization's GitHub security posture and developer credential management following GlassWorm exposure&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.securityweek.com/forcememo-python-repositories-compromised-in-glassworm-aftermath/"&gt;SecurityWeek&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.securityweek.com/hack-attempt-reported-at-polands-nuclear-research-center/"&gt;Iran linked to cyberattack attempt on Poland's nuclear research center&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 16, 08:56&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Polish officials report a hacking attempt against the country's nuclear research center, with initial evidence pointing to Iranian involvement, though authorities acknowledge it could be a false flag operation. The incident highlights continued nation-state interest in nuclear research facilities and critical infrastructure targeting in Europe. The uncertainty around attribution reflects the sophisticated nature of modern nation-state operations.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Nation-state activity targeting European critical infrastructure - assess your organization's exposure to similar advanced persistent threat campaigns&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.securityweek.com/hack-attempt-reported-at-polands-nuclear-research-center/"&gt;SecurityWeek&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.schneier.com/blog/archives/2026/03/possible-new-result-in-quantum-factorization.html"&gt;Quantum factorization breakthrough could threaten current cryptography&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 16, 09:46&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Security expert Bruce Schneier reports on a potentially significant theoretical improvement in quantum computer factorization speed, though he expresses skepticism about the claims and notes he's not qualified to fully review the research. If validated, this development could accelerate the timeline for quantum computers threatening current RSA encryption methods. The research represents ongoing progress in quantum computing capabilities that could impact cryptographic security.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Potential acceleration of post-quantum cryptography timeline - monitor for validation and assess your organization's quantum-resistant encryption migration plans&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.schneier.com/blog/archives/2026/03/possible-new-result-in-quantum-factorization.html"&gt;Schneier on Security&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;AI &amp; Machine Learning&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theverge.com/ai-artificial-intelligence/895130/openai-chatgpt-adult-mode-text-smut-written-erotica"&gt;OpenAI's adult mode will support text-based erotica, not visual content&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 16, 11:18&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;OpenAI's delayed adult mode for ChatGPT will initially support textual adult content described as 'smut rather than pornography' but won't include image, voice, or video generation capabilities. The feature was announced in October with CEO Sam Altman claiming sufficient mitigation of mental health concerns to relax safety restrictions. This represents a significant shift in OpenAI's content policy and approach to AI safety boundaries.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Signals major AI safety policy evolution that could affect enterprise AI deployment policies and content filtering requirements in your organization&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.theverge.com/ai-artificial-intelligence/895130/openai-chatgpt-adult-mode-text-smut-written-erotica"&gt;The Verge&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;Technology&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://news.ycombinator.com/item?id=47397190"&gt;Computer science students question career viability amid industry uncertainty&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 16, 10:24&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
 &lt;p&gt;A Hacker News discussion explores how computer science education is adapting to current industry realities, with students and professors grappling with uncertain job prospects and changing curriculum needs. The conversation reflects broader concerns about whether traditional CS education remains relevant given AI automation and market volatility. Many are questioning long-held assumptions about CS as a stable career path.&lt;/p&gt;&lt;br&gt;
 &lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Reflects fundamental shifts in tech talent pipeline that could affect your organization's future hiring and skill development strategies&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
 &lt;p&gt;Sources: &lt;a href="https://news.ycombinator.com/item?id=47397190"&gt;Hacker News&lt;/a&gt;&lt;br&gt;
