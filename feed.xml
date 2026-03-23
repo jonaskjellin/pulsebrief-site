@@ -5,7 +5,34 @@
   <link href="https://jonaskjellin.github.io/pulsebrief-site/feed.xml" rel="self"/>
   <link href="https://jonaskjellin.github.io/pulsebrief-site/"/>
   <id>https://jonaskjellin.github.io/pulsebrief-site/</id>
-  <updated>2026-03-23T11:38:45.166Z</updated>
+  <updated>2026-03-23T16:44:55.017Z</updated>
+  <entry>
+    <title>Evening — Mar 23, 2026</title>
+    <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-03-23-evening.html"/>
+    <id>https://jonaskjellin.github.io/pulsebrief-site/2026-03-23-evening.html</id>
+    <updated>2026-03-23T16:44:55.017Z</updated>
+    <content type="html">&lt;p&gt;&lt;h1&gt;Jonas's Evening Pulse&lt;/h1&gt;&lt;br&gt;
+&lt;em&gt;Sun, Mar 22, 12:00 → Sun, Mar 22, 17:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Cyber Security&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.bleepingcomputer.com/news/security/voidstealer-malware-steals-chrome-master-key-via-debugger-trick/"&gt;VoidStealer Malware Bypasses Chrome Security Using New Debugger Technique&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 22, 14:32&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;A new variant of VoidStealer has become the first malware to successfully bypass Google Chrome's Application-Bound Encryption (ABE) without requiring code injection or elevated privileges. The malware uses a debugger-based technique to silently extract protected browser data, representing a significant evolution in credential theft capabilities. This breakthrough affects Chrome's latest security protections designed to protect sensitive user data.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;First successful bypass of Chrome's newest security controls affecting your browser-based authentication and data protection strategies&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.bleepingcomputer.com/news/security/voidstealer-malware-steals-chrome-master-key-via-debugger-trick/"&gt;BleepingComputer&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Technology&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theverge.com/ai-artificial-intelligence/898722/musk-terafab-chip-plant"&gt;Elon Musk Announces Terafab Chip Manufacturing Plant for Tesla and SpaceX&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 22, 14:06&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Elon Musk revealed plans to build a Terafab chip manufacturing plant in Austin, Texas, jointly operated by Tesla and SpaceX to produce chips for robotics, AI, and space-based data centers. The initiative addresses concerns about chip industry capacity to meet AI demand, though building chip fabrication facilities requires billions of dollars, specialized equipment, and many years. Musk has no background in semiconductor production and a history of overpromising on project timelines.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major tech executive entering chip manufacturing affecting your understanding of AI hardware supply chain and vertical integration trends&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.theverge.com/ai-artificial-intelligence/898722/musk-terafab-chip-plant"&gt;The Verge - AI&lt;/a&gt; · &lt;a href="https://techcrunch.com/2026/03/22/elon-musk-unveils-chip-manufacturing-plans-for-spacex-and-tesla/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Business &amp; Markets&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/03/22/delve-accused-of-misleading-customers-with-fake-compliance/"&gt;Delve Accused of Misleading Customers with 'Fake Compliance'&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 22, 14:43&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;An anonymous Substack post alleges that compliance startup Delve falsely convinced hundreds of customers they were compliant with privacy and security regulations when they were not. The accusations raise serious questions about the company's practices in helping organizations meet regulatory requirements. This incident highlights potential risks in outsourcing compliance verification to third-party vendors.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Compliance vendor credibility concerns affecting your evaluation of third-party compliance service providers and regulatory risk management&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/03/22/delve-accused-of-misleading-customers-with-fake-compliance/"&gt;TechCrunch&lt;/a&gt;&lt;br&gt;
+&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>Afternoon — Mar 23, 2026</title>
     <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-03-23-afternoon.html"/>
@@ -1522,52 +1549,6 @@
 &lt;p&gt;The Russian city of Perm has restored its parking payment system after a cyberattack knocked the municipal service offline. The incident represents ongoing targeting of civilian infrastructure systems amid geopolitical tensions. Recovery appears to have been successful, though attack attribution and technical details remain unclear.&lt;/p&gt;&lt;br&gt;
 &lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Demonstrates civilian infrastructure targeting patterns that could affect similar municipal systems globally - assess your organization's critical service dependencies&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
 &lt;p&gt;Sources: &lt;a href="https://therecord.media/cyberattack-russia-parking-system"&gt;The Record&lt;/a&gt;&lt;br&gt;
-&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>Afternoon — Mar 17, 2026</title>
-    <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-03-17-afternoon.html"/>
-    <id>https://jonaskjellin.github.io/pulsebrief-site/2026-03-17-afternoon.html</id>
-    <updated>2026-03-17T11:38:34.220Z</updated>
-    <content type="html">&lt;p&gt;&lt;h1&gt;Jonas's Afternoon Pulse&lt;/h1&gt;&lt;br&gt;
-&lt;em&gt;Mon, Mar 16, 06:00 → Mon, Mar 16, 12:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;Cyber Security&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://thehackernews.com/2026/03/why-security-validation-is-becoming.html"&gt;Security validation evolves toward agentic AI-driven continuous testing&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 16, 11:58&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Security teams are increasingly adopting agentic approaches to validation, moving beyond disconnected tools like breach and attack simulation (BAS), pentesting, and vulnerability scanners. The shift toward AI-driven security validation promises to connect these traditionally siloed capabilities into more comprehensive, automated testing systems. This evolution addresses the fundamental problem of security tools providing isolated views without meaningful integration.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Directly aligns with your focus on AI-driven security tooling and represents a fundamental architecture shift in how enterprises validate their security posture&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://thehackernews.com/2026/03/why-security-validation-is-becoming.html"&gt;The Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://thehackernews.com/2026/03/clickfix-campaigns-spread-macsync-macos.html"&gt;ClickFix campaigns deploy MacSync infostealer via fake AI tool installers&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 16, 11:41&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Three ClickFix campaigns are using fake AI tool installers to distribute MacSync, a macOS information stealer that relies entirely on user interaction rather than traditional exploits. The attack method tricks users into copying and executing commands, making it particularly effective against users who don't understand the implications of running untrusted code. This represents an evolution in social engineering tactics targeting the growing interest in AI tools.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Highlights how attackers exploit AI tool popularity to target enterprise users, relevant for your organization's endpoint security and user awareness programs&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://thehackernews.com/2026/03/clickfix-campaigns-spread-macsync-macos.html"&gt;The Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://thehackernews.com/2026/03/drillapp-backdoor-targets-ukraine.html"&gt;DRILLAPP backdoor abuses Microsoft Edge debugging to target Ukraine&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 16, 09:07&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Russian-linked threat actors are deploying DRILLAPP backdoor against Ukrainian entities, using Microsoft Edge's debugging functionality for stealth espionage operations. The campaign shows overlaps with previous Laundry Bear (UAC-0190) operations targeting Ukrainian defense forces. The technique demonstrates sophisticated abuse of legitimate browser debugging features to maintain persistence and evade detection.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Nation-state technique innovation affecting European organizations - assess your enterprise's exposure to similar browser-based persistence mechanisms&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://thehackernews.com/2026/03/drillapp-backdoor-targets-ukraine.html"&gt;The Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.securityweek.com/forcememo-python-repositories-compromised-in-glassworm-aftermath/"&gt;ForceMemo campaign compromises hundreds of GitHub accounts post-GlassWorm&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 16, 11:51&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Hundreds of GitHub accounts were compromised using credentials stolen during the VS Code GlassWorm campaign, leading to widespread compromise of Python repositories. This represents a significant supply chain attack escalation where initial developer environment compromises are being leveraged for broader repository takeovers. The campaign demonstrates the cascading effects of developer tooling attacks on open source ecosystems.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Critical supply chain risk - evaluate your organization's GitHub security posture and developer credential management following GlassWorm exposure&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.securityweek.com/forcememo-python-repositories-compromised-in-glassworm-aftermath/"&gt;SecurityWeek&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.securityweek.com/hack-attempt-reported-at-polands-nuclear-research-center/"&gt;Iran linked to cyberattack attempt on Poland's nuclear research center&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 16, 08:56&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Polish officials report a hacking attempt against the country's nuclear research center, with initial evidence pointing to Iranian involvement, though authorities acknowledge it could be a false flag operation. The incident highlights continued nation-state interest in nuclear research facilities and critical infrastructure targeting in Europe. The uncertainty around attribution reflects the sophisticated nature of modern nation-state operations.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Nation-state activity targeting European critical infrastructure - assess your organization's exposure to similar advanced persistent threat campaigns&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.securityweek.com/hack-attempt-reported-at-polands-nuclear-research-center/"&gt;SecurityWeek&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.schneier.com/blog/archives/2026/03/possible-new-result-in-quantum-factorization.html"&gt;Quantum factorization breakthrough could threaten current cryptography&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 16, 09:46&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Security expert Bruce Schneier reports on a potentially significant theoretical improvement in quantum computer factorization speed, though he expresses skepticism about the claims and notes he's not qualified to fully review the research. If validated, this development could accelerate the timeline for quantum computers threatening current RSA encryption methods. The research represents ongoing progress in quantum computing capabilities that could impact cryptographic security.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Potential acceleration of post-quantum cryptography timeline - monitor for validation and assess your organization's quantum-resistant encryption migration plans&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.schneier.com/blog/archives/2026/03/possible-new-result-in-quantum-factorization.html"&gt;Schneier on Security&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;AI &amp; Machine Learning&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theverge.com/ai-artificial-intelligence/895130/openai-chatgpt-adult-mode-text-smut-written-erotica"&gt;OpenAI's adult mode will support text-based erotica, not visual content&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 16, 11:18&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;OpenAI's delayed adult mode for ChatGPT will initially support textual adult content described as 'smut rather than pornography' but won't include image, voice, or video generation capabilities. The feature was announced in October with CEO Sam Altman claiming sufficient mitigation of mental health concerns to relax safety restrictions. This represents a significant shift in OpenAI's content policy and approach to AI safety boundaries.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Signals major AI safety policy evolution that could affect enterprise AI deployment policies and content filtering requirements in your organization&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.theverge.com/ai-artificial-intelligence/895130/openai-chatgpt-adult-mode-text-smut-written-erotica"&gt;The Verge&lt;/a&gt;&lt;br&gt;
 &lt;/p&gt;</content>
   </entry>
 </feed>
