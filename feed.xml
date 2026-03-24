@@ -5,7 +5,39 @@
   <link href="https://jonaskjellin.github.io/pulsebrief-site/feed.xml" rel="self"/>
   <link href="https://jonaskjellin.github.io/pulsebrief-site/"/>
   <id>https://jonaskjellin.github.io/pulsebrief-site/</id>
-  <updated>2026-03-23T16:44:55.017Z</updated>
+  <updated>2026-03-24T05:53:03.086Z</updated>
+  <entry>
+    <title>Morning — Mar 24, 2026</title>
+    <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-03-24-morning.html"/>
+    <id>https://jonaskjellin.github.io/pulsebrief-site/2026-03-24-morning.html</id>
+    <updated>2026-03-24T05:53:03.086Z</updated>
+    <content type="html">&lt;p&gt;&lt;h1&gt;Jonas's Morning Pulse&lt;/h1&gt;&lt;br&gt;
+&lt;em&gt;Sun, Mar 22, 17:00 → Mon, Mar 23, 06:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Cyber Security&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.securityweek.com/oracle-releases-emergency-patch-for-critical-identity-manager-vulnerability/"&gt;Oracle Releases Emergency Patch for Critical Identity Manager RCE Vulnerability&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 23, 05:34&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Oracle issued an out-of-band security update for CVE-2026-21992, a critical vulnerability in Identity Manager and Web Services Manager that allows unauthenticated remote code execution. The flaw has a CVSS score of 9.8 and may have been exploited in the wild. Attackers can execute arbitrary code without authentication if Oracle's Identity or Web Services Managers are exposed to the web.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Critical threat to your identity management infrastructure requiring immediate patching of Oracle Fusion Middleware components&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.securityweek.com/oracle-releases-emergency-patch-for-critical-identity-manager-vulnerability/"&gt;SecurityWeek&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;AI &amp; Machine Learning&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theverge.com/ai-artificial-intelligence/898781/ai-personality-of-the-year-influencer-contest"&gt;AI Personality of the Year Contest Launches as Influencer Economy Matures&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 23, 24:01&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;A joint venture between generative AI studio OpenArt and AI-powered creator platform Fanvue has launched an "AI Personality of the Year" contest, marking the evolution of AI influencers from novelty to serious commercial industry. The month-long competition, backed by ElevenLabs, aims to celebrate creative talent behind AI influencers and their growing cultural impact. This represents the formalization and commercialization of the AI influencer economy.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;AI influencer economy maturation affecting your understanding of AI-generated content marketing and brand authenticity considerations&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.theverge.com/ai-artificial-intelligence/898781/ai-personality-of-the-year-influencer-contest"&gt;The Verge - AI&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Technology&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theverge.com/games/898771/crimson-desert-dev-apologizes-ai-art"&gt;Crimson Desert Developer Apologizes for AI Art in Final Game Release&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 22, 17:34&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;The developer of Crimson Desert acknowledged that AI-generated assets made it into the final release after being discovered by players, contrary to intentions to replace them before launch. The company is conducting a "comprehensive audit" to identify and replace any remaining AI-generated content and apologized for lack of transparency about AI use during development. This incident highlights ongoing controversies around AI content in commercial game development.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;AI content disclosure controversy in gaming affecting your organization's AI content policies and transparency requirements&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.theverge.com/games/898771/crimson-desert-dev-apologizes-ai-art"&gt;The Verge - AI&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://simonwillison.net/2026/Mar/22/starlette/#atom-everything"&gt;Starlette 1.0 Released with Breaking Changes to Startup/Shutdown Handling&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 22, 23:57&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Starlette, the ASGI framework underlying FastAPI, has reached its 1.0 milestone with several breaking changes including a new lifespan mechanism replacing on_startup and on_shutdown parameters. The framework now uses async context managers for managing application lifecycle events. The release marks a significant stability milestone for the framework that has powered FastAPI's success while maintaining relatively low brand recognition.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major Python framework stability milestone affecting your evaluation of ASGI frameworks for AI-native system development&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://simonwillison.net/2026/Mar/22/starlette/#atom-everything"&gt;Simon Willison&lt;/a&gt;&lt;br&gt;
+&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>Evening — Mar 23, 2026</title>
     <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-03-23-evening.html"/>
@@ -1471,84 +1503,6 @@
 &lt;p&gt;A Luxembourg court overturned Amazon's massive privacy fine related to how the company obtained consent from European consumers under GDPR regulations. The case originated in 2018 and represented one of the largest GDPR enforcement actions to date. The ruling could significantly impact how privacy regulators pursue major technology companies for consent violations.&lt;/p&gt;&lt;br&gt;
 &lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major GDPR enforcement precedent that could affect your organization's privacy compliance strategy and regulatory risk assessment in European markets&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
 &lt;p&gt;Sources: &lt;a href="https://therecord.media/luxembourg-court-overturns-amazon-gdpr-fine"&gt;The Record&lt;/a&gt;&lt;br&gt;
-&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>Evening — Mar 17, 2026</title>
-    <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-03-17-evening.html"/>
-    <id>https://jonaskjellin.github.io/pulsebrief-site/2026-03-17-evening.html</id>
-    <updated>2026-03-17T16:55:27.756Z</updated>
-    <content type="html">&lt;p&gt;&lt;h1&gt;Jonas's Evening Pulse&lt;/h1&gt;&lt;br&gt;
-&lt;em&gt;Mon, Mar 16, 12:00 → Mon, Mar 16, 17:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;Cyber Security&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-outage-blocks-access-to-mailboxes/"&gt;Microsoft Exchange Online outage prevents access to mailboxes globally&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 16, 16:05&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Microsoft is addressing an ongoing Exchange Online outage blocking customers from accessing mailboxes and calendars. The disruption affects enterprise communication systems globally, highlighting the dependency risks of cloud-based email infrastructure. No timeline for resolution has been provided, though Microsoft is actively working on the issue.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Critical service disruption affecting enterprise productivity - assess your organization's email continuity plans and communication redundancy&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-outage-blocks-access-to-mailboxes/"&gt;BleepingComputer&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.bleepingcomputer.com/news/security/shadow-ai-is-everywhere-heres-how-to-find-and-secure-it/"&gt;Shadow AI spreading across enterprise SaaS environments without IT oversight&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 16, 14:01&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Employees are adopting AI tools without IT knowledge, creating visibility and governance gaps across SaaS environments. Nudge Security outlines methods for security teams to discover unauthorized AI applications, monitor usage patterns, and implement governance controls for risky AI activity. The trend represents a significant expansion of shadow IT into AI-powered services.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Directly impacts your enterprise security architecture - evaluate your organization's AI governance framework and shadow IT detection capabilities&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.bleepingcomputer.com/news/security/shadow-ai-is-everywhere-heres-how-to-find-and-secure-it/"&gt;BleepingComputer&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.microsoft.com/en-us/security/blog/2026/03/16/help-on-the-line-how-a-microsoft-teams-support-call-led-to-compromise/"&gt;Microsoft Teams voice phishing attack exploits trusted communication platform&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 16, 16:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Microsoft DART investigation reveals how attackers used Microsoft Teams voice calls to conduct social engineering attacks, impersonating support staff to enable identity-led intrusions. The attack demonstrates how trusted communication platforms can be weaponized for sophisticated social engineering campaigns. Microsoft details detection and prevention strategies for Teams-based phishing attempts.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Shows evolution of social engineering targeting enterprise communication platforms - review your organization's Teams security policies and user training&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.microsoft.com/en-us/security/blog/2026/03/16/help-on-the-line-how-a-microsoft-teams-support-call-led-to-compromise/"&gt;Microsoft Security Blog&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.darkreading.com/threat-intelligence/attackers-livechat-phish-credit-card-personal-data"&gt;LiveChat platform abused for PayPal and Amazon phishing campaigns&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 16, 14:10&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Social engineering campaign impersonates PayPal and Amazon customer support through LiveChat interactions to harvest credit card information and personal data. Attackers exploit the trust users place in legitimate customer support channels to conduct credential harvesting. The technique represents an evolution in phishing tactics beyond traditional email-based approaches.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Novel phishing vector affecting retail sector - assess your organization's customer support channel security and user awareness training&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.darkreading.com/threat-intelligence/attackers-livechat-phish-credit-card-personal-data"&gt;Dark Reading&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://therecord.media/russia-ukraine-cyber-espionage-group"&gt;Russia-linked group targets Ukraine with Starlink and charity-themed spyware&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 16, 13:15&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Russian espionage campaign uses fake documents about Starlink satellite terminals and a well-known Ukrainian charity to distribute spyware to Ukrainian organizations. The operation demonstrates continued nation-state interest in exploiting current events and humanitarian themes for intelligence gathering. The campaign represents ongoing Russian cyber operations against Ukrainian infrastructure and organizations.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Nation-state tactics affecting European organizations - evaluate your threat intelligence for similar themed attacks targeting your region&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://therecord.media/russia-ukraine-cyber-espionage-group"&gt;The Record&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.securityweek.com/oracle-ebs-hack-only-4-corporate-giants-still-silent-on-potential-impact/"&gt;Oracle EBS breach impact remains unclear as major corporations stay silent&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 16, 15:44&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Only Broadcom, Bechtel, Estée Lauder, and Abbott Technologies have yet to issue public statements regarding potential impact from the Oracle E-Business Suite security incident. The continued silence from major corporations suggests either limited impact or ongoing assessment of potential exposure. The incident highlights the challenge of determining breach scope in enterprise software systems.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major enterprise software breach with unclear scope - assess your organization's Oracle EBS exposure and incident response communication strategy&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.securityweek.com/oracle-ebs-hack-only-4-corporate-giants-still-silent-on-potential-impact/"&gt;SecurityWeek&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;AI &amp; Machine Learning&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://simonwillison.net/guides/agentic-engineering-patterns/how-coding-agents-work/#atom-everything"&gt;Coding agents fundamentals explained by Simon Willison&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 16, 14:01&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Developer Simon Willison provides comprehensive technical explanation of how coding agents function as LLM harnesses with additional capabilities powered by invisible prompts and callable tools. The guide covers token processing, chat templates, and the technical architecture underlying AI-assisted development tools. Willison emphasizes understanding these fundamentals for better decision-making in applying coding agents.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Essential technical foundation for your AI-assisted development projects and understanding enterprise AI coding tool capabilities&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://simonwillison.net/guides/agentic-engineering-patterns/how-coding-agents-work/#atom-everything"&gt;Simon Willison&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.technologyreview.com/2026/03/16/1133979/nurturing-agentic-ai-beyond-the-toddler-stage/"&gt;MIT Technology Review explores nurturing agentic AI development stages&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 16, 13:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Comparison of agentic AI development to child development milestones, examining how AI systems progress through different capability stages. The piece explores the challenges of advancing AI agents beyond current limitations toward more sophisticated autonomous behavior. The developmental analogy provides framework for understanding AI capability progression and potential risks.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Relevant perspective for understanding AI agent maturity levels and trust models in your agentic AI system architecture work&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.technologyreview.com/2026/03/16/1133979/nurturing-agentic-ai-beyond-the-toddler-stage/"&gt;MIT Technology Review&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theverge.com/ai-artificial-intelligence/894587/fly-brain-computer-upload"&gt;Eon Systems demonstrates virtual embodied fly brain simulation&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 16, 12:49&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;San Francisco startup Eon Systems shows virtual 'embodied fly' as part of ambitious goal to build full digital mouse brain emulation within two years. The Verge criticizes the timeline as unrealistic while noting the project represents early attempts at whole-brain simulation technology. The demonstration sparked significant discussion about the feasibility and implications of digital consciousness research.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Early indicator of brain emulation research that could influence future AI architecture approaches and consciousness modeling in AI systems&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.theverge.com/ai-artificial-intelligence/894587/fly-brain-computer-upload"&gt;The Verge&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;Technology&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-pulls-samsung-app-blocking-windows-c-drive-from-store/"&gt;Microsoft removes Samsung Galaxy Connect app blocking Windows C: drive&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 16, 13:14&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Microsoft pulled the Samsung Galaxy Connect app from the Microsoft Store after it caused system access issues on Samsung Galaxy Book 4 and desktop models running Windows 11. The app was preventing proper C: drive functionality on affected systems. The incident highlights quality control challenges in the Microsoft Store ecosystem and vendor app compatibility issues.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Enterprise device management concern - assess your organization's Samsung device deployment and Windows app governance policies&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-pulls-samsung-app-blocking-windows-c-drive-from-store/"&gt;BleepingComputer&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.technologyreview.com/2026/03/16/1134301/the-download-glass-ai-chips-ai-free-logo/"&gt;MIT Technology Review highlights glass chips as future AI hardware&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 16, 12:35&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;The publication's daily newsletter features glass as a potential substrate for future AI chip manufacturing, representing a significant departure from traditional silicon-based semiconductors. Glass offers unique properties that could benefit AI workload processing, though the technology remains in early development stages. The coverage suggests growing interest in alternative materials for next-generation computing hardware.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Early indicator of hardware architecture shifts that could affect your long-term enterprise AI infrastructure planning and investment decisions&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.technologyreview.com/2026/03/16/1134301/the-download-glass-ai-chips-ai-free-logo/"&gt;MIT Technology Review&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;Business &amp; Markets&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theverge.com/podcast/895221/yahoo-jim-lanzone-scout-ai-sports-finance-open-web"&gt;Yahoo CEO Jim Lanzone discusses platform revival strategy in Verge interview&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 16, 15:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Yahoo CEO Jim Lanzone outlines the company's growth strategy as an independent, profitable entity focusing on sports, finance, and unexpectedly, email services popular with Gen Z users. The company launched AI-powered search called Scout but faces questions about competing with Google's market dominance. Lanzone also addresses Yahoo's approach to sports betting and finance gambling integration.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Shows alternative approaches to AI search and platform monetization strategies relevant for understanding enterprise AI service market dynamics&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.theverge.com/podcast/895221/yahoo-jim-lanzone-scout-ai-sports-finance-open-web"&gt;The Verge&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://therecord.media/cyberattack-russia-parking-system"&gt;Cyberattack disrupts parking payment system in Russian city of Perm&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 16, 16:30&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;The Russian city of Perm has restored its parking payment system after a cyberattack knocked the municipal service offline. The incident represents ongoing targeting of civilian infrastructure systems amid geopolitical tensions. Recovery appears to have been successful, though attack attribution and technical details remain unclear.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Demonstrates civilian infrastructure targeting patterns that could affect similar municipal systems globally - assess your organization's critical service dependencies&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://therecord.media/cyberattack-russia-parking-system"&gt;The Record&lt;/a&gt;&lt;br&gt;
 &lt;/p&gt;</content>
   </entry>
 </feed>
