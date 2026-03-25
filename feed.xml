@@ -5,7 +5,43 @@
   <link href="https://jonaskjellin.github.io/pulsebrief-site/feed.xml" rel="self"/>
   <link href="https://jonaskjellin.github.io/pulsebrief-site/"/>
   <id>https://jonaskjellin.github.io/pulsebrief-site/</id>
-  <updated>2026-03-25T05:54:52.253Z</updated>
+  <updated>2026-03-25T11:36:13.880Z</updated>
+  <entry>
+    <title>Afternoon — Mar 25, 2026</title>
+    <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-03-25-afternoon.html"/>
+    <id>https://jonaskjellin.github.io/pulsebrief-site/2026-03-25-afternoon.html</id>
+    <updated>2026-03-25T11:36:13.880Z</updated>
+    <content type="html">&lt;p&gt;&lt;h1&gt;PulseBrief's Afternoon Pulse&lt;/h1&gt;&lt;br&gt;
+&lt;em&gt;Tue, Mar 24, 06:00 → Tue, Mar 24, 12:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Cyber Security&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://thehackernews.com/2026/03/ghost-campaign-uses-7-npm-packages-to.html"&gt;Ghost Campaign Uses 7 npm Packages to Steal Crypto Wallets and Credentials&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 24, 12:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Cybersecurity researchers have uncovered a new malicious npm campaign called Ghost that uses seven packages published by user 'mikilanjillo' to steal cryptocurrency wallets and sensitive data. The packages masquerade as legitimate React performance tools and AI trading utilities, including react-performance-suite, react-state-optimizer-core, and ai-fast-auto-trader. This represents another supply chain attack targeting the widely-used npm ecosystem that developers rely on for JavaScript packages.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;npm supply chain threat affecting your JavaScript development security and package vetting processes&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://thehackernews.com/2026/03/ghost-campaign-uses-7-npm-packages-to.html"&gt;The Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://thehackernews.com/2026/03/teampcp-hacks-checkmarx-github-actions.html"&gt;TeamPCP Hacks Checkmarx GitHub Actions Using Stolen CI Credentials&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 24, 10:38&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;The TeamPCP threat group has compromised two additional GitHub Actions workflows maintained by supply chain security company Checkmarx, including checkmarx/ast-github-action and checkmarx/kics-github-action. This follows the same credential-stealing malware tactics used in the Trivy supply chain attack, demonstrating the group's continued focus on compromising CI/CD infrastructure. The attack highlights the irony of security tool providers becoming victims of supply chain attacks themselves.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;CI/CD supply chain security affecting your GitHub Actions security and trusted security tool vendor risk assessment&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://thehackernews.com/2026/03/teampcp-hacks-checkmarx-github-actions.html"&gt;The Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://thehackernews.com/2026/03/us-sentences-russian-hacker-to-675.html"&gt;U.S. Sentences Russian Hacker to 6.75 Years for Role in $9M Ransomware Damage&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 24, 06:49&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;A 26-year-old Russian citizen, Aleksei Olegovich Volkov, has been sentenced to 6.75 years in prison for facilitating dozens of ransomware attacks by major cybercrime groups including the Yanluowang ransomware crew. The Department of Justice case demonstrates successful prosecution of international cybercriminals who provide support services to ransomware operations. The sentencing represents ongoing U.S. efforts to hold ransomware enablers accountable through criminal prosecution.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Ransomware prosecution success affecting your understanding of legal accountability for cybercrime support services&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://thehackernews.com/2026/03/us-sentences-russian-hacker-to-675.html"&gt;The Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Technology&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.schneier.com/blog/archives/2026/03/team-mirai-and-democracy.html"&gt;Team Mirai Demonstrates AI-Enhanced Democratic Participation in Japan&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 24, 11:03&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Japan's Team Mirai political party has successfully implemented AI-driven voter engagement, with constituents spending 8,000 hours using their AI Interviewer for policy discussions and 100,000 daily organizer actions through their gamified Action Board app. The party's founder, software engineer Takahiro Anno, won a seat in Japan's Upper Chamber after pioneering technology-enhanced democratic processes that help voters engage directly with policy formation. This represents a practical implementation of AI systems designed to strengthen rather than undermine democratic participation.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;AI democracy application affecting your understanding of constructive AI governance and civic technology implementation&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.schneier.com/blog/archives/2026/03/team-mirai-and-democracy.html"&gt;Schneier on Security&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.wired.com/story/book-excerpt-your-data-will-be-used-against-you-andrew-guthrie-ferguson/"&gt;Biometric Surveillance Expansion Undermines Privacy Protections&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 24, 10:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Growing attachment to smart devices and expanding biometric surveillance systems are leaving Americans increasingly vulnerable to police searches and privacy violations. The pervasive data collection through connected devices creates new attack surfaces for law enforcement access to personal information. Without proper checks, this trend toward ubiquitous biometric monitoring will continue eroding traditional privacy expectations and legal protections.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Biometric privacy erosion affecting your personal data protection strategy and organizational surveillance risk assessment&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.wired.com/story/book-excerpt-your-data-will-be-used-against-you-andrew-guthrie-ferguson/"&gt;Wired Security&lt;/a&gt;&lt;br&gt;
+&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>Morning — Mar 25, 2026</title>
     <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-03-25-morning.html"/>
@@ -1398,69 +1434,6 @@
 &lt;p&gt;Y Combinator-backed startup Ndea is hiring for symbolic reinforcement learning search guidance roles, indicating significant development in AI reasoning and search technologies. The company appears to be working on advanced AI systems that combine symbolic reasoning with reinforcement learning approaches. The hiring push suggests venture funding and expansion in specialized AI research areas.&lt;/p&gt;&lt;br&gt;
 &lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Emerging AI technology development in symbolic reasoning that could influence future AI system architectures and capabilities you're evaluating&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
 &lt;p&gt;Sources: &lt;a href="https://ndea.com/jobs/search-guidance"&gt;Ndea&lt;/a&gt;&lt;br&gt;
-&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>Morning — Mar 19, 2026</title>
-    <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-03-19-morning.html"/>
-    <id>https://jonaskjellin.github.io/pulsebrief-site/2026-03-19-morning.html</id>
-    <updated>2026-03-19T05:51:42.400Z</updated>
-    <content type="html">&lt;p&gt;&lt;h1&gt;Jonas's Morning Pulse&lt;/h1&gt;&lt;br&gt;
-&lt;em&gt;Tue, Mar 17, 17:00 → Wed, Mar 18, 06:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;Cyber Security&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.bleepingcomputer.com/news/security/apple-pushes-first-background-security-improvements-update-to-fix-webkit-flaw/"&gt;Apple introduces Background Security Improvements for automatic WebKit vulnerability patching&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 18, 01:06&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Apple released its first Background Security Improvements update to fix WebKit vulnerability CVE-2026-20643 on iOS, iPadOS, and macOS without requiring full OS upgrades. This represents a new automated patching mechanism allowing Apple to deliver critical security fixes more rapidly than traditional update cycles. The change addresses a significant gap in mobile security by enabling background vulnerability remediation similar to browser auto-updates.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;New automated security patching model that could influence your organization's mobile device management strategy and security update policies&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.bleepingcomputer.com/news/security/apple-pushes-first-background-security-improvements-update-to-fix-webkit-flaw/"&gt;BleepingComputer&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.bleepingcomputer.com/news/security/glassworm-malware-hits-400-plus-code-repos-on-github-npm-vscode-openvsx/"&gt;GlassWorm campaign expands to 400+ repositories across GitHub, npm, and VS Code ecosystem&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 17, 21:42&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;The GlassWorm supply chain attack has significantly escalated, now targeting hundreds of packages and extensions across GitHub repositories, npm packages, and VS Code/OpenVSX extensions in a coordinated campaign. This represents a major evolution from previous isolated attacks to a comprehensive ecosystem compromise strategy. The campaign demonstrates how attackers are systematically targeting the entire software development toolchain rather than individual components.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Massive supply chain threat directly affecting your organization's development environment security and open source dependency management across multiple platforms&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.bleepingcomputer.com/news/security/glassworm-malware-hits-400-plus-code-repos-on-github-npm-vscode-openvsx/"&gt;BleepingComputer&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.bleepingcomputer.com/news/security/europe-sanctions-chinese-and-iranian-firms-for-cyberattacks/"&gt;European Union sanctions Chinese and Iranian entities for critical infrastructure cyberattacks&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 17, 18:41&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;The EU Council imposed sanctions on three entities and two individuals for conducting cyberattacks against European critical infrastructure. This marks escalating regulatory response to nation-state cyber operations targeting European assets. The sanctions represent concrete policy action following sustained attacks on critical systems across the region.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;EU regulatory enforcement affecting the geopolitical cybersecurity landscape your organization operates in, particularly relevant for NIS2 compliance context&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.bleepingcomputer.com/news/security/europe-sanctions-chinese-and-iranian-firms-for-cyberattacks/"&gt;BleepingComputer&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.darkreading.com/identity-access-management-security/more-attackers-logging-in-not-breaking-in"&gt;Credential theft dominates attack patterns as ransomware market profitability declines&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 17, 22:04&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Security research shows attackers increasingly favor credential-based access over traditional exploitation, driven by industrialized infostealer malware and AI-enhanced social engineering. Simultaneously, declining ransomware payment rates are forcing threat actors to abandon Cobalt Strike for native Windows tools and shift toward data theft operations. These trends indicate a fundamental shift in the threat landscape from disruptive attacks to persistent credential harvesting.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Critical evolution in attack methodology directly impacting your identity security architecture and ransomware defense strategies&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.darkreading.com/identity-access-management-security/more-attackers-logging-in-not-breaking-in"&gt;Dark Reading&lt;/a&gt; · &lt;a href="https://www.darkreading.com/threat-intelligence/less-lucrative-ransomware-market-makes-attackers-alter-methods"&gt;Dark Reading&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://arstechnica.com/security/2026/03/researchers-disclose-vulnerabilities-in-ip-kvms-from-4-manufacturers/"&gt;Critical vulnerabilities disclosed in IP KVMs from four major manufacturers&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 17, 17:07&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Security researchers revealed vulnerabilities in internet-exposed IP KVM devices from four manufacturers, creating significant risk given these systems provide BIOS-level access to servers and workstations. The vulnerabilities affect remote management infrastructure that many organizations rely on for data center and server administration. These devices are frequently internet-accessible, amplifying the potential impact of successful exploitation.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Critical infrastructure vulnerabilities affecting your organization's remote server management and data center security controls&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://arstechnica.com/security/2026/03/researchers-disclose-vulnerabilities-in-ip-kvms-from-4-manufacturers/"&gt;Ars Technica&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;AI &amp; Machine Learning&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.technologyreview.com/2026/03/17/1134351/the-pentagon-is-planning-for-ai-companies-to-train-on-classified-data-defense-official-says/"&gt;Pentagon plans classified data training environments for AI companies&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 17, 22:30&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;The Department of Defense is developing secure environments where AI companies can train military-specific model versions on classified data, according to a defense official speaking to MIT Technology Review. Current applications already include AI models like Claude analyzing targets in Iran within classified settings. This represents a significant expansion from current question-answering uses to actual model training on sensitive defense data.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major shift in government AI deployment that could influence enterprise AI security architecture patterns and classified data handling requirements&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.technologyreview.com/2026/03/17/1134351/the-pentagon-is-planning-for-ai-companies-to-train-on-classified-data-defense-official-says/"&gt;MIT Technology Review&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://simonwillison.net/2026/Mar/17/mini-and-nano/#atom-everything"&gt;OpenAI releases GPT-5.4 mini and nano models with dramatically reduced pricing&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 17, 19:39&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;OpenAI launched GPT-5.4 mini and nano models, with nano priced at just $0.20 per million input tokens and $1.25 per million output tokens—cheaper than Google's Gemini Flash-Lite. The nano model can process 76,000 photo descriptions for approximately $52, demonstrating massive cost reductions for high-volume AI applications. Performance benchmarks show nano outperforming the previous GPT-5 mini at maximum reasoning effort.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Significant cost reduction making AI processing economically viable for large-scale enterprise applications and changing competitive dynamics in your AI vendor evaluation&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://simonwillison.net/2026/Mar/17/mini-and-nano/#atom-everything"&gt;Simon Willison&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;Technology&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theverge.com/entertainment/896213/nvidia-dlss-5-ai-faces-motion-smoothing"&gt;NVIDIA DLSS 5 faces criticism for AI-generated graphics quality issues&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 17, 18:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;NVIDIA's DLSS 5 technology, which uses generative AI to enhance game graphics in real-time, is receiving harsh criticism for producing distorted character faces and unrealistic visual artifacts. Critics describe the output as resembling 'AI slop' with characters looking heavily filtered rather than photorealistically enhanced. The controversy highlights ongoing challenges in AI-generated content quality and acceptance in creative applications.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Shows AI quality challenges in real-time applications that could affect your evaluation of AI-enhanced enterprise graphics and visualization tools&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.theverge.com/entertainment/896213/nvidia-dlss-5-ai-faces-motion-smoothing"&gt;The Verge&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://simonwillison.net/2026/Mar/17/ken-jin/#atom-everything"&gt;Python 3.15 JIT compiler achieves performance goals ahead of schedule&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 17, 21:48&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;CPython's Just-In-Time compiler development has hit performance targets early, delivering 11-12% speed improvements on macOS AArch64 and 5-6% improvements on x86_64 Linux compared to standard interpreters. The achievement comes over a year ahead of the original schedule for macOS and several months early for Linux. This represents a significant milestone in Python's performance optimization efforts.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Python performance improvements affecting enterprise application development and AI/ML workload efficiency in your organization's tech stack&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://simonwillison.net/2026/Mar/17/ken-jin/#atom-everything"&gt;Simon Willison&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;Business &amp; Markets&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/03/17/kalshis-legal-troubles-pile-up-as-arizona-files-first-ever-criminal-charges-over-illegal-gambling-business/"&gt;Kalshi faces first criminal charges for allegedly operating illegal gambling business&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 17, 21:39&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Arizona filed the first-ever criminal charges against prediction market platform Kalshi, alleging it operates an illegal gambling business in violation of state law. The charges represent a significant escalation in the regulatory battle between state authorities and prediction market operators who claim they're not subject to gambling regulations. This case could set important legal precedent for the prediction market industry.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Regulatory precedent case affecting fintech and prediction market sectors that could influence your understanding of regulatory risk in financial services technology&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/03/17/kalshis-legal-troubles-pile-up-as-arizona-files-first-ever-criminal-charges-over-illegal-gambling-business/"&gt;TechCrunch&lt;/a&gt;&lt;br&gt;
 &lt;/p&gt;</content>
   </entry>
 </feed>
