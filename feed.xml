@@ -5,7 +5,90 @@
   <link href="https://jonaskjellin.github.io/pulsebrief-site/feed.xml" rel="self"/>
   <link href="https://jonaskjellin.github.io/pulsebrief-site/"/>
   <id>https://jonaskjellin.github.io/pulsebrief-site/</id>
-  <updated>2026-03-24T16:50:58.640Z</updated>
+  <updated>2026-03-25T05:54:52.253Z</updated>
+  <entry>
+    <title>Morning — Mar 25, 2026</title>
+    <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-03-25-morning.html"/>
+    <id>https://jonaskjellin.github.io/pulsebrief-site/2026-03-25-morning.html</id>
+    <updated>2026-03-25T05:54:52.253Z</updated>
+    <content type="html">&lt;p&gt;&lt;h1&gt;PulseBrief's Morning Pulse&lt;/h1&gt;&lt;br&gt;
+&lt;em&gt;Mon, Mar 23, 17:00 → Tue, Mar 24, 06:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Cyber Security&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://thehackernews.com/2026/03/citrix-urges-patching-critical.html"&gt;Citrix Issues Emergency Patch for Critical NetScaler Memory Overread Vulnerability&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 24, 05:59&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Citrix has released security updates for two vulnerabilities in NetScaler ADC and NetScaler Gateway, including CVE-2026-3055 (CVSS 9.3) that allows unauthenticated attackers to leak sensitive data through memory overread attacks. The critical flaw stems from insufficient input validation and could expose application data without authentication. A second vulnerability (CVE-2026-4368, CVSS 7.7) involves a race condition leading to user privilege issues.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Critical infrastructure vulnerability affecting your network security appliance patching and data exposure risk assessment&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://thehackernews.com/2026/03/citrix-urges-patching-critical.html"&gt;The Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://thehackernews.com/2026/03/north-korean-hackers-abuse-vs-code-auto.html"&gt;North Korean Hackers Use VS Code Auto-Tasks to Deploy StoatWaffle Malware&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 23, 18:09&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;North Korean threat actors behind the Contagious Interview campaign are now using malicious Microsoft Visual Studio Code projects with tasks.json files to distribute StoatWaffle malware. The WaterPlum group has adopted this VS Code auto-run task technique since December 2025, targeting developers through seemingly legitimate project files. This represents a new attack vector exploiting developer tools and workflows.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Developer security threat affecting your code review processes and IDE security policies in development environments&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://thehackernews.com/2026/03/north-korean-hackers-abuse-vs-code-auto.html"&gt;The Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.darkreading.com/application-security/trivy-supply-chain-attack-targets-ci-cd-secrets"&gt;Trivy Supply Chain Attack Compromises CI/CD Pipelines for Secret Theft&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 23, 21:43&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Attackers have compromised the widely-used open source security tool Trivy to deploy infostealers targeting CI/CD workflows and steal cloud credentials, SSH keys, tokens, and other sensitive secrets. The supply chain attack leverages the trust placed in security scanning tools to infiltrate development pipelines. This represents a particularly insidious attack vector since Trivy is used specifically for security scanning in DevOps environments.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Supply chain security crisis affecting your DevOps tool trust model and CI/CD pipeline security assessment&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.darkreading.com/application-security/trivy-supply-chain-attack-targets-ci-cd-secrets"&gt;Dark Reading&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.bleepingcomputer.com/news/security/tycoon2fa-phishing-platform-returns-after-recent-police-disruption/"&gt;Tycoon2FA Phishing Service Returns to Full Operation After Police Disruption&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 23, 21:52&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;The Tycoon2FA phishing-as-a-service platform has returned to previously observed activity levels just weeks after a Europol-coordinated disruption on March 4. The platform's rapid recovery demonstrates the resilience of cybercriminal infrastructure and the challenges law enforcement faces in permanently dismantling criminal services. Tycoon2FA specializes in bypassing multi-factor authentication through sophisticated phishing techniques.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Phishing-as-a-service resilience affecting your 2FA bypass threat assessment and multi-factor authentication security controls&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.bleepingcomputer.com/news/security/tycoon2fa-phishing-platform-returns-after-recent-police-disruption/"&gt;BleepingComputer&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.bleepingcomputer.com/news/security/teampcp-deploys-iran-targeted-wiper-in-kubernetes-attacks/"&gt;TeamPCP Deploys Iran-Targeted Wiper in Kubernetes Cluster Attacks&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 23, 20:09&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;The TeamPCP hacking group is targeting Kubernetes clusters with a malicious script that automatically wipes all machines when it detects systems configured for Iran. The attack represents geopolitically motivated cybercriminals targeting cloud infrastructure based on geographic configuration. The wiper demonstrates how threat actors are combining container orchestration exploitation with geopolitical targeting.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Geopolitical cyber warfare affecting your Kubernetes security posture and geographic risk assessment for cloud deployments&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.bleepingcomputer.com/news/security/teampcp-deploys-iran-targeted-wiper-in-kubernetes-attacks/"&gt;BleepingComputer&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.bleepingcomputer.com/news/security/crunchyroll-probes-breach-after-hacker-claims-to-steal-68m-users-data/"&gt;Crunchyroll Investigates Alleged Breach of 6.8 Million User Records&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 23, 19:21&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Popular anime streaming platform Crunchyroll is investigating a security breach after hackers claimed to have stolen personal information for approximately 6.8 million users. The breach allegation involves a significant portion of the platform's user base and potentially exposes customer data including account details and personal information. The incident highlights ongoing risks to entertainment streaming platforms storing large customer databases.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Large-scale consumer data breach affecting your customer data protection and incident response planning for user-facing services&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.bleepingcomputer.com/news/security/crunchyroll-probes-breach-after-hacker-claims-to-steal-68m-users-data/"&gt;BleepingComputer&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.bleepingcomputer.com/news/security/mazda-discloses-security-breach-exposing-employee-and-partner-data/"&gt;Mazda Discloses Security Breach Exposing Employee and Partner Data&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 23, 22:12&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Mazda Motor Corporation has disclosed a security incident detected in December 2025 that exposed information belonging to employees and business partners. The automotive manufacturer's breach demonstrates ongoing cybersecurity challenges in the automotive industry's digital infrastructure. The company has not specified the full scope of compromised data or the attack vector used.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Automotive industry breach affecting your supplier security risk assessment and employee data protection policies&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.bleepingcomputer.com/news/security/mazda-discloses-security-breach-exposing-employee-and-partner-data/"&gt;BleepingComputer&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.wired.com/story/a-mysterious-numbers-station-is-broadcasting-through-the-iran-war/"&gt;Mysterious Numbers Station Broadcasts Through Iran War from US Military Base&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 23, 18:59&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;A shortwave radio numbers station has been broadcasting encrypted transmissions since US and Israeli strikes on Iran began, with the signal traced to a US military base in Germany. The purpose and operator of the station remain unclear despite the confirmed military connection. Numbers stations typically broadcast coded messages for intelligence operations, suggesting possible covert communication during the conflict.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Military intelligence communication affecting your understanding of nation-state information warfare and encrypted communication methods&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.wired.com/story/a-mysterious-numbers-station-is-broadcasting-through-the-iran-war/"&gt;Wired Security&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;AI &amp; Machine Learning&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theverge.com/ai-artificial-intelligence/899086/jensen-huang-nvidia-agi"&gt;Nvidia CEO Jensen Huang Claims 'We've Achieved AGI'&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 23, 19:42&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Nvidia CEO Jensen Huang stated 'I think we've achieved AGI' during a Lex Fridman podcast episode, making a significant claim about artificial general intelligence. The statement comes as tech leaders have been distancing themselves from AGI terminology in favor of less hyped alternatives, though these new terms essentially mean the same thing. Huang's declaration represents one of the most direct AGI claims from a major tech CEO amid ongoing debates about AI capabilities.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major AGI claim from leading AI hardware provider affecting your AI capability assessment and strategic technology planning&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.theverge.com/ai-artificial-intelligence/899086/jensen-huang-nvidia-agi"&gt;The Verge - AI&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.bleepingcomputer.com/news/artificial-intelligence/openai-rolls-out-chatgpt-library-to-store-your-personal-files/"&gt;OpenAI Launches ChatGPT Library for Personal File Storage&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 23, 23:47&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;OpenAI has rolled out a new 'Library' feature for ChatGPT that allows users to store personal files and images on OpenAI's cloud storage for future chat references. The feature enables persistent file access across chat sessions, expanding ChatGPT's capabilities beyond single-session interactions. This development represents a significant shift toward more stateful AI interactions with personal data storage implications.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;AI data storage expansion affecting your personal data governance and AI service privacy risk assessment&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.bleepingcomputer.com/news/artificial-intelligence/openai-rolls-out-chatgpt-library-to-store-your-personal-files/"&gt;BleepingComputer&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://simonwillison.net/2026/Mar/24/streaming-experts/#atom-everything"&gt;Researchers Demonstrate Running Trillion-Parameter Models on Consumer Hardware&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 24, 05:09&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Researchers are successfully running massive language models like the 1 trillion parameter Kimi K2.5 on consumer hardware through 'streaming experts' techniques that load model weights from SSD as needed. The breakthrough allows running models that previously required data center infrastructure on devices with limited RAM, including demonstrations on MacBook Pros and even iPhones. This represents a significant advancement in making large AI models accessible outside of cloud environments.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;AI model accessibility breakthrough affecting your AI deployment strategy and on-premise AI capability planning&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://simonwillison.net/2026/Mar/24/streaming-experts/#atom-everything"&gt;Simon Willison&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.darkreading.com/cybersecurity-operations/ai-soc-go-wrong"&gt;Security Leaders Test AI in SOC Operations for Six Months&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 23, 22:07&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Two cybersecurity leaders completed six-month trials of AI integration in their Security Operations Centers, providing real-world insights into AI's practical applications and limitations in security operations. The testing revealed both opportunities and challenges in deploying AI for threat detection, incident response, and security analysis. Their findings offer concrete data on AI's current effectiveness in production security environments.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;AI in security operations validation affecting your SOC modernization strategy and AI security tool evaluation&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.darkreading.com/cybersecurity-operations/ai-soc-go-wrong"&gt;Dark Reading&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Technology&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theverge.com/tech/898992/google-pixel-10-ads-moving-on-stalker-lying-beach-view-100-zoom"&gt;Google Pixel 10 Ads Suggest Misleading Photo Capabilities&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 23, 19:49&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Google's new Pixel 10 advertisements are drawing criticism for appearing to encourage deceptive photography practices, particularly an ad suggesting users should lie about vacation views using 100x zoom capabilities. The marketing campaign seems to promote using advanced camera technology to misrepresent reality rather than capture authentic moments. The ads have sparked debate about responsible marketing of AI-enhanced photography features.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;AI photography ethics controversy affecting your content authenticity policies and AI-enhanced media guidelines&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.theverge.com/tech/898992/google-pixel-10-ads-moving-on-stalker-lying-beach-view-100-zoom"&gt;The Verge - AI&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Business &amp; Markets&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://news.crunchbase.com/business/us-startup-funding-slows-march-2026-data/"&gt;US Startup Funding Drops Sharply in March Due to Fewer AI Megarounds&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 23, 17:36&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;US startup funding has slowed significantly in March 2026, with the decline attributed almost entirely to fewer giant AI funding rounds closing this month. The funding slowdown suggests a potential cooling in the AI investment frenzy that has characterized recent quarters. This represents a notable shift in the venture capital landscape's AI investment patterns.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;AI investment market cooling affecting your startup funding environment and AI sector investment strategy&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://news.crunchbase.com/business/us-startup-funding-slows-march-2026-data/"&gt;Crunchbase News&lt;/a&gt;&lt;br&gt;
+&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>Evening — Mar 24, 2026</title>
     <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-03-24-evening.html"/>
@@ -1378,89 +1461,6 @@
 &lt;p&gt;Arizona filed the first-ever criminal charges against prediction market platform Kalshi, alleging it operates an illegal gambling business in violation of state law. The charges represent a significant escalation in the regulatory battle between state authorities and prediction market operators who claim they're not subject to gambling regulations. This case could set important legal precedent for the prediction market industry.&lt;/p&gt;&lt;br&gt;
 &lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Regulatory precedent case affecting fintech and prediction market sectors that could influence your understanding of regulatory risk in financial services technology&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
 &lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/03/17/kalshis-legal-troubles-pile-up-as-arizona-files-first-ever-criminal-charges-over-illegal-gambling-business/"&gt;TechCrunch&lt;/a&gt;&lt;br&gt;
-&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>Evening — Mar 18, 2026</title>
-    <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-03-18-evening.html"/>
-    <id>https://jonaskjellin.github.io/pulsebrief-site/2026-03-18-evening.html</id>
-    <updated>2026-03-18T16:49:45.944Z</updated>
-    <content type="html">&lt;p&gt;&lt;h1&gt;Jonas's Evening Pulse&lt;/h1&gt;&lt;br&gt;
-&lt;em&gt;Tue, Mar 17, 12:00 → Tue, Mar 17, 17:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;Cyber Security&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://thehackernews.com/2026/03/ai-flaws-in-amazon-bedrock-langsmith.html"&gt;AI platform vulnerabilities enable data exfiltration through DNS queries and code execution&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 17, 16:39&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Security researchers discovered vulnerabilities in Amazon Bedrock, LangSmith, and SGLang that allow attackers to exfiltrate sensitive data from AI code execution environments using DNS queries. The Amazon Bedrock AgentCore Code Interpreter's sandbox mode permits outbound DNS queries that can be exploited to establish interactive shells and execute remote code. These vulnerabilities demonstrate how AI development platforms can introduce new attack vectors for data theft and system compromise.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Critical vulnerabilities in enterprise AI platforms you may be evaluating or deploying - assess your organization's AI development environment security controls&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://thehackernews.com/2026/03/ai-flaws-in-amazon-bedrock-langsmith.html"&gt;The Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://thehackernews.com/2026/03/leaknet-ransomware-uses-clickfix-via.html"&gt;LeakNet ransomware adopts ClickFix social engineering through compromised websites&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 17, 14:34&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;The LeakNet ransomware operation has evolved its initial access tactics to use ClickFix social engineering delivered through hacked websites, tricking users into manually executing malicious commands to fix fake errors. The group also deploys a stealthy malware loader based on the open-source Deno runtime for JavaScript and TypeScript. This represents a shift away from traditional credential-based initial access toward user-driven execution of malicious code.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;New ransomware attack vector affecting web browsing security - evaluate your organization's user training and web filtering controls for social engineering attempts&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://thehackernews.com/2026/03/leaknet-ransomware-uses-clickfix-via.html"&gt;The Hacker News&lt;/a&gt; · &lt;a href="https://www.bleepingcomputer.com/news/security/leaknet-ransomware-uses-clickfix-and-deno-runtime-for-stealthy-attacks/"&gt;BleepingComputer&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.bleepingcomputer.com/news/security/new-font-rendering-trick-hides-malicious-commands-from-ai-tools/"&gt;Font rendering attack hides malicious commands from AI security tools&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 17, 13:59&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;A novel attack technique uses HTML font rendering to hide malicious commands from AI assistants and security tools by making them appear as harmless text visually while containing hidden executable code. The attack exploits how AI systems process and interpret visual content versus underlying markup. This represents a new class of evasion technique specifically targeting AI-powered security analysis.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Novel AI evasion technique directly relevant to your evaluation of AI-powered security tooling effectiveness and detection capabilities&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.bleepingcomputer.com/news/security/new-font-rendering-trick-hides-malicious-commands-from-ai-tools/"&gt;BleepingComputer&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.bleepingcomputer.com/news/security/top-5-things-cisos-need-to-do-today-to-secure-ai-agents/"&gt;Five essential CISO actions for securing AI agents revealed&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 17, 14:02&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Token Security outlines critical steps CISOs must take to secure AI agents, emphasizing that these are autonomous actors with real system access, not passive copilots. The guidance focuses on identity-based access control as fundamental to preventing AI agent misuse and data exposure. The recommendations address the gap between traditional security approaches and AI-specific risks.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Actionable guidance directly applicable to your AI security architecture work and enterprise AI agent deployment strategy&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.bleepingcomputer.com/news/security/top-5-things-cisos-need-to-do-today-to-secure-ai-agents/"&gt;BleepingComputer&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.darkreading.com/threat-intelligence/warlock-ransomware-post-exploitation-activities"&gt;Warlock ransomware group enhances stealth with BYOVD techniques&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 17, 15:36&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;The Warlock ransomware group has augmented its post-exploitation activities with new bring-your-own-vulnerable-driver (BYOVD) techniques and additional tools for stealthier cross-network movement. The group's evolution demonstrates increasing sophistication in lateral movement and persistence mechanisms. Their enhanced toolkit allows for more covert operations within compromised enterprise environments.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Advanced ransomware tactics affecting enterprise network security - assess your organization's driver signing policies and lateral movement detection capabilities&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.darkreading.com/threat-intelligence/warlock-ransomware-post-exploitation-activities"&gt;Dark Reading&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;AI &amp; Machine Learning&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theverge.com/ai-artificial-intelligence/896107/google-expands-personal-intelligence"&gt;Google expands Gemini Personal Intelligence to all US users&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 17, 16:33&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Google announced that Personal Intelligence, which connects various Google apps to provide context for Gemini's responses, is now available to all US users after being limited to paid subscribers. The feature works through AI Mode in Search, Gemini in Chrome, and the Gemini app, using data from YouTube, Google Photos, and Gmail. However, it remains restricted to personal accounts, excluding business, enterprise, and education users.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major AI assistant capability expansion that could influence enterprise AI adoption patterns and competitive positioning in your AI strategy evaluation&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.theverge.com/ai-artificial-intelligence/896107/google-expands-personal-intelligence"&gt;The Verge&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theverge.com/news/895963/microsoft-copilot-leadership-changes-consumer-commercial"&gt;Microsoft reorganizes Copilot leadership to unify consumer and commercial teams&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 17, 15:17&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Microsoft is restructuring its Copilot organization by unifying parts of the consumer and commercial engineering teams to create a more cohesive assistant experience. Microsoft AI CEO Mustafa Suleyman will focus on developing Microsoft's own AI models rather than directly working on Copilot's assistant features. The reorganization aims to address fragmentation between different Copilot implementations across business and consumer markets.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Significant strategic shift in Microsoft's AI assistant approach that could impact your enterprise Copilot deployment roadmap and vendor relationship&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.theverge.com/news/895963/microsoft-copilot-leadership-changes-consumer-commercial"&gt;The Verge&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://simonwillison.net/2026/Mar/17/tim-schilling/#atom-everything"&gt;Django maintainer warns against LLM overuse in open source contributions&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 17, 16:13&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Django core developer Tim Schilling criticized contributors who use LLMs without understanding the code, feedback, or solutions they're submitting, calling it dehumanizing for reviewers. He emphasized that AI should be a complementary tool rather than the primary vehicle for contributions to open source projects. The warning highlights growing tensions around AI-generated code quality in collaborative development environments.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Important perspective on AI code generation quality and community standards relevant to your organization's AI-assisted development policies&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://simonwillison.net/2026/Mar/17/tim-schilling/#atom-everything"&gt;Simon Willison&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://simonwillison.net/guides/agentic-engineering-patterns/subagents/#atom-everything"&gt;Simon Willison details subagents pattern for managing AI context limits&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 17, 12:32&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Willison explains how subagents provide an effective solution for handling larger tasks without exceeding LLM context limits, which typically max out around 1,000,000 tokens. Subagents work by dispatching fresh copies of an AI agent to achieve specific goals with new context windows, as demonstrated in Claude Code's exploration capabilities. The pattern represents a key architectural approach for building scalable agentic AI systems.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Core architectural pattern directly relevant to your MCP security work and design of AI-native systems with proper context management&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://simonwillison.net/guides/agentic-engineering-patterns/subagents/#atom-everything"&gt;Simon Willison&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;Technology&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-stops-force-installing-the-microsoft-365-copilot-app/"&gt;Microsoft stops force-installing Copilot app after user complaints&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 17, 13:54&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Microsoft has halted the automatic installation of the Microsoft 365 Copilot app on Windows devices with Microsoft 365 desktop applications following user pushback. The change represents a reversal of Microsoft's aggressive AI integration strategy after enterprise and consumer resistance. The decision reflects broader concerns about unwanted AI feature deployment in enterprise environments.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Enterprise AI deployment policy shift affecting your organization's Windows and Office management strategies and user adoption approach&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-stops-force-installing-the-microsoft-365-copilot-app/"&gt;BleepingComputer&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-fix-for-windows-c-drive-access-issues-on-samsung-pcs/"&gt;Microsoft provides fix for Samsung PC C: drive access issues&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 17, 12:03&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Microsoft shared guidance to resolve C: drive access problems and application failures affecting Samsung laptops running Windows 11 versions 25H2 and 24H2. The issues appear related to Samsung device-specific compatibility problems with recent Windows updates. Microsoft's response includes specific troubleshooting steps for affected Samsung hardware models.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Windows compatibility issue affecting Samsung enterprise devices - assess your organization's Samsung device inventory and Windows update policies&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-fix-for-windows-c-drive-access-issues-on-samsung-pcs/"&gt;BleepingComputer&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/03/17/googles-data-center-power-playbook-comes-into-focus/"&gt;Google shifts data center power strategy with new clean energy deals&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 17, 16:46&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Google is changing its approach to powering data centers and operations with recent deals showing new tactics in clean energy procurement. The company has historically been a major buyer of clean power but is adjusting its strategy amid growing energy demands from AI workloads. The shift reflects broader industry challenges in securing adequate clean power for expanding AI infrastructure.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Data center power strategy evolution relevant to your organization's sustainability planning and AI infrastructure energy requirements&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/03/17/googles-data-center-power-playbook-comes-into-focus/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;Business &amp; Markets&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.securityweek.com/tech-giants-invest-12-5-million-in-open-source-security/"&gt;Tech giants invest $12.5 million in open source security initiatives&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 17, 16:01&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Anthropic, AWS, Google, Microsoft, and OpenAI are funding the Linux Foundation's long-term security initiatives focused on open source software with a combined $12.5 million investment. The funding represents coordinated industry effort to address security vulnerabilities in critical open source infrastructure. The initiative aims to improve security across the open source ecosystem that underpins most enterprise and AI systems.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major industry investment in open source security affecting the foundation of your enterprise infrastructure and AI development stack&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.securityweek.com/tech-giants-invest-12-5-million-in-open-source-security/"&gt;SecurityWeek&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/03/17/vurt-mobile-first-vertical-video-streaming-platform-indie-filmmakers/"&gt;Vurt launches mobile-first streaming platform for vertical video content&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 17, 16:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;VURT launched a streaming app allowing indie filmmakers to capitalize on the vertical video trend, following the billion-dollar success of micro-drama apps in consumer spending. The platform focuses on mobile-first viewing experiences optimized for vertical content formats. The launch represents growing market recognition of vertical video as a legitimate entertainment format beyond social media.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;New streaming platform model relevant to understanding consumer behavior shifts affecting retail and entertainment industry digital strategies&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/03/17/vurt-mobile-first-vertical-video-streaming-platform-indie-filmmakers/"&gt;TechCrunch&lt;/a&gt;&lt;br&gt;
 &lt;/p&gt;</content>
   </entry>
 </feed>
