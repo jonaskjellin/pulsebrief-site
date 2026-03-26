@@ -5,7 +5,95 @@
   <link href="https://jonaskjellin.github.io/pulsebrief-site/feed.xml" rel="self"/>
   <link href="https://jonaskjellin.github.io/pulsebrief-site/"/>
   <id>https://jonaskjellin.github.io/pulsebrief-site/</id>
-  <updated>2026-03-26T11:44:19.168Z</updated>
+  <updated>2026-03-26T16:53:05.020Z</updated>
+  <entry>
+    <title>Evening — Mar 26, 2026</title>
+    <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-03-26-evening.html"/>
+    <id>https://jonaskjellin.github.io/pulsebrief-site/2026-03-26-evening.html</id>
+    <updated>2026-03-26T16:53:05.020Z</updated>
+    <content type="html">&lt;p&gt;&lt;h1&gt;PulseBrief's Evening Pulse&lt;/h1&gt;&lt;br&gt;
+&lt;em&gt;Wed, Mar 25, 12:00 → Wed, Mar 25, 17:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Cyber Security&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://thehackernews.com/2026/03/glassworm-malware-uses-solana-dead.html"&gt;GlassWorm Malware Uses Solana Blockchain for Command and Control&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 25, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Cybersecurity researchers discovered an evolution of the GlassWorm campaign using Solana blockchain "dead drops" for command and control while delivering multi-stage data theft frameworks. The malware captures screenshots, logs keystrokes, dumps cookies and session tokens, and installs a malicious Chrome extension disguised as offline Google Docs. This represents a sophisticated use of blockchain infrastructure for malware operations.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Advanced blockchain-based malware affecting your understanding of cryptocurrency infrastructure abuse and browser security threats&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://thehackernews.com/2026/03/glassworm-malware-uses-solana-dead.html"&gt;The Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://arstechnica.com/security/2026/03/google-bumps-up-q-day-estimate-to-2029-far-sooner-than-previously-thought/"&gt;Google Warns Quantum Computing Could Break RSA Encryption by 2029&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 25, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Google bumped up its "Q Day" deadline estimate to 2029, warning that quantum computers capable of breaking RSA and elliptic curve cryptography could arrive far sooner than previously thought. The company is urging the entire technology industry to move off vulnerable encryption algorithms more quickly. This represents an acceleration of the quantum cryptography threat timeline.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Quantum cryptography threat timeline acceleration affecting your encryption migration strategy and cryptographic infrastructure planning&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://arstechnica.com/security/2026/03/google-bumps-up-q-day-estimate-to-2029-far-sooner-than-previously-thought/"&gt;Ars Technica&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.bleepingcomputer.com/news/security/citrix-urges-admins-to-patch-netscaler-flaws-as-soon-as-possible/"&gt;Citrix Patches NetScaler Vulnerabilities Similar to Critical CitrixBleed Flaws&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 25, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Citrix has patched two NetScaler ADC and NetScaler Gateway vulnerabilities, one of which is very similar to the CitrixBleed and CitrixBleed2 flaws exploited in zero-day attacks in recent years. The company is urging administrators to patch as soon as possible given the severity and similarity to previously exploited vulnerabilities. This highlights ongoing risks in enterprise networking infrastructure.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Critical networking infrastructure vulnerabilities affecting your Citrix security patching priorities and enterprise network security&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.bleepingcomputer.com/news/security/citrix-urges-admins-to-patch-netscaler-flaws-as-soon-as-possible/"&gt;BleepingComputer&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.securityweek.com/russian-cybercriminal-gets-2-year-prison-sentence-in-us/"&gt;Russian TA551 Botnet Manager Gets 2-Year Prison Sentence&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 25, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Russian national Ilya Angelov received a two-year prison sentence and $100,000 fine for co-managing the TA551 botnet that facilitated BitPaymer ransomware attacks against 72 U.S. companies. The group conducted large-scale phishing campaigns that provided initial access for ransomware operators, causing millions in damages across multiple sectors. This represents continued U.S. success in prosecuting international cybercriminals who enable ransomware ecosystems.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Ransomware ecosystem prosecution affecting your understanding of legal accountability for cybercrime enablement and botnet operations&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.securityweek.com/russian-cybercriminal-gets-2-year-prison-sentence-in-us/"&gt;SecurityWeek&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.bleepingcomputer.com/news/security/paid-ai-accounts-are-now-a-hot-underground-commodity/"&gt;Paid AI Accounts Become Hot Commodity in Underground Cybercrime Markets&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 25, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;AI accounts are becoming part of the cybercrime supply chain, sold like email accounts or VPS access on underground markets. Flare Systems research shows how cybercriminals are bundling and reselling premium AI access at scale to other threat actors. This demonstrates the monetization of AI services for malicious purposes and new attack vector development.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;AI service abuse affecting your understanding of AI account security and cybercriminal tool evolution&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.bleepingcomputer.com/news/security/paid-ai-accounts-are-now-a-hot-underground-commodity/"&gt;BleepingComputer&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.darkreading.com/threat-intelligence/sans-most-dangerous-attack-techniques"&gt;SANS Identifies Top 5 AI-Powered Attack Techniques as Major Threat&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 25, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;For the first time, SANS Institute's five top attack techniques all have one thing in common — AI. The research highlights how artificial intelligence is fundamentally changing the threat landscape across multiple attack vectors. This represents a significant shift in how security professionals need to prepare for AI-enhanced cyber threats.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;AI-powered attack evolution affecting your threat model and security operations strategy for defending against AI-enhanced attacks&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.darkreading.com/threat-intelligence/sans-most-dangerous-attack-techniques"&gt;Dark Reading&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.darkreading.com/cyberattacks-data-breaches/phishers-pose-palo-alto-networks-recruiters-job-scam"&gt;Phishers Impersonate Palo Alto Networks Recruiters in Months-Long Job Scam&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 25, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;A series of campaigns that began in August aim to defraud job candidates, using psychological tactics and data scraped from LinkedIn profiles to pose as Palo Alto Networks recruiters. The sophisticated social engineering attacks target cybersecurity professionals with fake job opportunities. This demonstrates how threat actors are exploiting job market dynamics and professional networking platforms.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;HR-targeted social engineering affecting your recruitment process security and employee awareness training for job-related phishing&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.darkreading.com/cyberattacks-data-breaches/phishers-pose-palo-alto-networks-recruiters-job-scam"&gt;Dark Reading&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;AI &amp; Machine Learning&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.wired.com/story/openai-shuts-down-sora-ipo-ai-superapp/"&gt;OpenAI Shuts Down Sora, Ending Billion-Dollar Disney Partnership&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 25, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;OpenAI announced it is discontinuing Sora, its video generation tool, effectively ending the $1 billion licensing deal with Disney announced just months ago. The TikTok-like Sora app and API access for developers will be discontinued with no plans to integrate the feature into ChatGPT as previously rumored. This represents a major strategic retreat as OpenAI focuses on its core ChatGPT offerings ahead of a potential IPO.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major AI product discontinuation affecting your video generation tool strategy and understanding of OpenAI's strategic focus shifts&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.wired.com/story/openai-shuts-down-sora-ipo-ai-superapp/"&gt;Wired AI&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.wired.com/story/new-bernie-sanders-ai-safety-bill-would-halt-data-center-construction/"&gt;Bernie Sanders and AOC Propose Data Center Construction Moratorium&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 25, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Senator Bernie Sanders and Rep. Alexandria Ocasio-Cortez introduced companion legislation to halt construction on new data centers until Congress passes comprehensive AI regulation. Sanders stated the moratorium would give lawmakers time to "ensure that AI is safe" as data centers supporting AI workloads rapidly expand. The proposal represents the most aggressive legislative approach to AI infrastructure regulation to date.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major AI infrastructure regulation proposal affecting your data center expansion plans and cloud service provider capacity planning&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.wired.com/story/new-bernie-sanders-ai-safety-bill-would-halt-data-center-construction/"&gt;Wired AI&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theverge.com/tech/900363/reddit-human-verification-bots-crackdown"&gt;Reddit Implements Human Verification to Combat Bot Proliferation&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 25, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Reddit is introducing a labeling system for bot accounts and will require users with "automated" or "fishy behavior" to verify they're human using methods like fingerprint scanning or ID submission. The platform will label developer-registered automated accounts with "[APP]" tags while actively hunting for unlabeled suspicious accounts. This represents a major platform response to AI-driven bot proliferation.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Platform bot detection affecting your social media strategy and understanding of AI-generated content detection measures&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.theverge.com/tech/900363/reddit-human-verification-bots-crackdown"&gt;The Verge - AI&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.darkreading.com/cybersecurity-operations/ai-dominates-rsac-innovation-sandbox"&gt;Geordie AI Wins RSA Conference Innovation Sandbox Competition&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 25, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Ten AI-focused finalists competed in the RSA Conference Innovation Sandbox, with Geordie AI winning the 2026 contest for most innovative young security company. AI dominated the competition, reflecting the technology's central role in next-generation cybersecurity solutions. This highlights the industry's shift toward AI-native security approaches.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;AI security innovation trends affecting your cybersecurity vendor evaluation and AI-powered security tool adoption strategy&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.darkreading.com/cybersecurity-operations/ai-dominates-rsac-innovation-sandbox"&gt;Dark Reading&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Technology&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.securityweek.com/ios-macos-26-4-roll-out-with-fresh-security-updates/"&gt;Apple Releases iOS and macOS 26.4 with Security Patches&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 25, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Apple released security fixes for current and older devices in iOS 26.4, macOS 26.4, iOS 18.7.7, iPadOS 18.7.7, macOS Sequoia 15.7.5, and macOS Sonoma 14.8.5. The updates address multiple security vulnerabilities across Apple's device ecosystem. Users should update immediately to protect against potential exploits.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Apple security updates affecting your device management and patch deployment processes for iOS and macOS systems&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.securityweek.com/ios-macos-26-4-roll-out-with-fresh-security-updates/"&gt;SecurityWeek&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.bleepingcomputer.com/news/linux/kali-linux-20261-released-with-8-new-tools-new-backtrack-mode/"&gt;Kali Linux 2026.1 Introduces BackTrack Mode and 8 New Security Tools&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 25, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Kali Linux 2026.1, the first release of the year, features 8 new penetration testing tools, a theme refresh, and a new BackTrack mode for Kali-Undercover. The release continues Kali's evolution as the premier penetration testing and security research platform. The BackTrack mode provides nostalgic functionality for veteran security professionals.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Penetration testing platform updates affecting your security testing tools and cybersecurity training capabilities&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.bleepingcomputer.com/news/linux/kali-linux-20261-released-with-8-new-tools-new-backtrack-mode/"&gt;BleepingComputer&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Business &amp; Markets&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://news.crunchbase.com/venture/construction-tech-automation-trayd-ai-seriesa/"&gt;Construction Tech Startup Trayd Raises $10M Series A with Y Combinator Support&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 25, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Trayd, a startup building a back office operating system for the construction industry, raised $10 million in Series A funding with continued Y Combinator backing. The company is applying AI and automation to streamline construction industry operations and administrative processes. This reflects growing investor interest in digitizing traditional industries with modern technology.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Construction technology investment affecting your understanding of AI applications in traditional industries and operational automation trends&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://news.crunchbase.com/venture/construction-tech-automation-trayd-ai-seriesa/"&gt;Crunchbase News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.securityweek.com/onit-security-raises-11-million-for-exposure-management-platform/"&gt;Onit Security Raises $11M for Exposure Management Platform Expansion&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 25, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Cybersecurity startup Onit Security raised $11 million to expand its exposure management platform into new sectors and enhance product development. The funding will support go-to-market efforts as the company scales its cybersecurity risk assessment solutions. This reflects continued investor confidence in next-generation cybersecurity management tools.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Cybersecurity investment trends affecting your exposure management strategy and understanding of security risk assessment market growth&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.securityweek.com/onit-security-raises-11-million-for-exposure-management-platform/"&gt;SecurityWeek&lt;/a&gt;&lt;br&gt;
+&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>Afternoon — Mar 26, 2026</title>
     <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-03-26-afternoon.html"/>
@@ -1390,94 +1478,6 @@
 &lt;p&gt;Industry experts argue that AI pilot failures stem from focusing on technological metrics rather than measurable business improvements, proposing a framework that varies AI tools until sustainable business impact is achieved. The approach emphasizes outcome-based measurement over feature adoption or technical performance metrics. This methodology could improve enterprise AI project success rates by aligning technology deployment with concrete business value.&lt;/p&gt;&lt;br&gt;
 &lt;p&gt;&lt;blockquote&gt;&lt;em&gt;AI implementation strategy directly applicable to your evaluation of AI project success criteria and business value measurement for enterprise AI initiatives&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
 &lt;p&gt;Sources: &lt;a href="https://news.crunchbase.com/ai/measuring-business-outputs-morse-fanucchi/"&gt;Crunchbase News&lt;/a&gt;&lt;br&gt;
-&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>Morning — Mar 20, 2026</title>
-    <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-03-20-morning.html"/>
-    <id>https://jonaskjellin.github.io/pulsebrief-site/2026-03-20-morning.html</id>
-    <updated>2026-03-20T05:44:09.021Z</updated>
-    <content type="html">&lt;p&gt;&lt;h1&gt;Jonas's Morning Pulse&lt;/h1&gt;&lt;br&gt;
-&lt;em&gt;Wed, Mar 18, 17:00 → Thu, Mar 19, 06:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;Cyber Security&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://thehackernews.com/2026/03/ofac-sanctions-dprk-it-worker-network.html"&gt;OFAC sanctions North Korean IT workers funding WMD through fake remote jobs&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 18, 17:26&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;The U.S. Treasury sanctioned six individuals and two entities involved in a North Korean IT worker scheme that generates revenue for the regime's weapons programs by obtaining remote technology jobs under false identities. The scheme demonstrates how state-sponsored actors are systematically infiltrating Western technology companies to fund military capabilities. This represents a new dimension of nation-state economic warfare targeting the technology sector directly.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Direct threat to your organization's remote hiring practices and vendor due diligence - North Korean operatives may be embedded in your technology supply chain&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://thehackernews.com/2026/03/ofac-sanctions-dprk-it-worker-network.html"&gt;The Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.bleepingcomputer.com/news/security/aura-confirms-data-breach-exposing-900-000-marketing-contacts/"&gt;Aura identity protection service breached, 900,000 marketing contacts exposed&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 18, 22:56&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Identity protection company Aura confirmed unauthorized access to nearly 900,000 customer records containing names and email addresses. The breach highlights the irony of security companies themselves becoming victims of data compromise. The incident affects a company specifically focused on protecting customer identities and personal information.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Demonstrates that even specialized security vendors face breach risks, relevant to your vendor security assessments and third-party data protection evaluations&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.bleepingcomputer.com/news/security/aura-confirms-data-breach-exposing-900-000-marketing-contacts/"&gt;BleepingComputer&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-zimbra-xss-flaw-exploited-in-attacks/"&gt;CISA orders federal agencies to patch actively exploited Zimbra XSS vulnerability&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 18, 19:57&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;CISA directed U.S. government agencies to secure servers against an actively exploited cross-site scripting vulnerability in Zimbra Collaboration Suite. The vulnerability is being leveraged in ongoing attacks against government infrastructure. The order reflects immediate threat activity targeting enterprise collaboration platforms.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Active exploitation of collaboration platform your organization may use - immediate patching priority if running Zimbra systems&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-zimbra-xss-flaw-exploited-in-attacks/"&gt;BleepingComputer&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.bleepingcomputer.com/news/security/connectwise-patches-new-flaw-allowing-screenconnect-hijacking/"&gt;ConnectWise patches ScreenConnect vulnerability enabling session hijacking&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 18, 18:10&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;ConnectWise warned ScreenConnect customers of a cryptographic signature verification vulnerability that could allow unauthorized access and privilege escalation in remote access sessions. The flaw affects the integrity of remote administration sessions used for IT support and system management. The vulnerability demonstrates risks in remote access tools that provide privileged system access.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Critical for your organization's remote access security strategy and IT support tool risk assessment - ScreenConnect is widely used for enterprise remote management&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.bleepingcomputer.com/news/security/connectwise-patches-new-flaw-allowing-screenconnect-hijacking/"&gt;BleepingComputer&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.darkreading.com/cyberattacks-data-breaches/new-c2-implant-snappyclient-targets-crypto-wallets"&gt;SnappyClient C2 malware targets cryptocurrency wallets with comprehensive data theft&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 18, 21:49&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;A new command-and-control implant called SnappyClient has emerged with capabilities specifically designed to target cryptocurrency wallets alongside broader data theft and espionage functions. The malware supports wide-ranging remote access capabilities including surveillance and financial data extraction. The tool represents the continuing evolution of malware targeting digital financial assets.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Financial malware threat relevant to your organization's cryptocurrency policies and employee financial security awareness programs&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.darkreading.com/cyberattacks-data-breaches/new-c2-implant-snappyclient-targets-crypto-wallets"&gt;Dark Reading&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.darkreading.com/threat-intelligence/darksword-iphone-exploit-spies-thieves"&gt;DarkSword iPhone exploit kit leverages zero-days for targeted espionage campaigns&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 18, 21:15&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;A sophisticated iOS exploit framework called DarkSword uses multiple zero-day vulnerabilities to target iPhone users in Saudi Arabia, Turkey, Malaysia, and Ukraine for espionage purposes. The exploit chain demonstrates advanced mobile attack capabilities that serve both intelligence gathering and financial theft objectives. The targeting suggests state-sponsored or commercially motivated threat actors with significant resources.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Advanced iOS threat affecting your organization's mobile security strategy and BYOD policies, particularly relevant for employees traveling to targeted regions&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.darkreading.com/threat-intelligence/darksword-iphone-exploit-spies-thieves"&gt;Dark Reading&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://arstechnica.com/information-technology/2026/03/federal-cyber-experts-called-microsofts-cloud-a-pile-of-shit-approved-it-anyway/"&gt;Federal experts criticized Microsoft cloud security before approving government use&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 18, 17:36&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Internal documents reveal federal cybersecurity experts privately criticized Microsoft cloud products using colorful language while ultimately approving them for government use despite years of security concerns. The approval process highlights tensions between practical technology needs and security reservations in government cloud adoption. The documents expose the gap between private security assessments and public procurement decisions.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Shows government security evaluation processes for Microsoft cloud services your organization likely uses - reveals ongoing institutional security concerns&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://arstechnica.com/information-technology/2026/03/federal-cyber-experts-called-microsofts-cloud-a-pile-of-shit-approved-it-anyway/"&gt;Ars Technica&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;AI &amp; Machine Learning&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://openai.com/index/openai-to-acquire-astral"&gt;OpenAI acquires Python tooling company Astral to accelerate developer platform growth&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 19, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;OpenAI announced the acquisition of Astral, the company behind popular Python development tools like Ruff and uv, to power the next generation of Python developer tools through its Codex platform. The acquisition signals OpenAI's strategic focus on developer tooling and programming assistance capabilities. This move positions OpenAI to compete more directly with GitHub Copilot and other AI-powered development environments.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Strategic AI industry move affecting your evaluation of AI development tools and OpenAI's competitive positioning in enterprise development workflows&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://openai.com/index/openai-to-acquire-astral"&gt;OpenAI Blog&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.wired.com/story/ai-lab-walmart-openai-shaking-up-agentic-shopping-deal/"&gt;Walmart shifts from OpenAI Instant Checkout to embedded chatbot approach after feature underperforms&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 18, 18:01&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;After OpenAI's Instant Checkout feature failed to meet expectations, Walmart is pivoting to embed its Sparky chatbot directly into ChatGPT and Google Gemini instead of relying on OpenAI's shopping features. The strategic shift demonstrates challenges in AI-powered e-commerce applications and the importance of retailer-controlled experiences. This change reflects broader industry lessons about AI feature adoption and customer experience integration.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Retail AI implementation lessons directly relevant to your organization's customer experience strategy and AI vendor relationship management&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.wired.com/story/ai-lab-walmart-openai-shaking-up-agentic-shopping-deal/"&gt;Wired AI&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theverge.com/ai-artificial-intelligence/896878/ai-did-not-cure-this-dogs-cancer"&gt;ChatGPT cancer cure claims debunked as AI medical misinformation spreads&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 18, 18:14&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;A viral story claiming ChatGPT helped cure a dog's cancer has been debunked, revealing how AI medical success stories spread without proper verification. The original narrative simplified a complex medical case and overstated AI's role in treatment decisions. The incident highlights the danger of AI medical misinformation and the public's readiness to believe transformative AI capabilities without scientific backing.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;AI misinformation case study relevant to your organization's AI governance policies and employee AI usage guidelines, particularly for health-related applications&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.theverge.com/ai-artificial-intelligence/896878/ai-did-not-cure-this-dogs-cancer"&gt;The Verge - AI&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://simonwillison.net/2026/Mar/18/snowflake-cortex-ai/#atom-everything"&gt;Snowflake Cortex AI agent sandbox escape enables malware execution through prompt injection&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 18, 17:43&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Security researchers discovered a prompt injection attack chain that allowed Snowflake's Cortex Agent to escape its sandbox and execute malware by exploiting process substitution in supposedly safe cat commands. The attack started with a hidden prompt injection in a GitHub repository that tricked the agent into running malicious code. The vulnerability has been fixed but highlights fundamental challenges in securing AI agents with command execution capabilities.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Critical AI security vulnerability demonstrating sandbox escape risks in your enterprise AI agent deployments and code review automation systems&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://simonwillison.net/2026/Mar/18/snowflake-cortex-ai/#atom-everything"&gt;Simon Willison&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://simonwillison.net/2026/Mar/18/llm-in-a-flash/#atom-everything"&gt;Researcher runs 397B parameter model locally using Apple's LLM-in-a-Flash techniques with Claude Code&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 18, 23:56&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Security researcher Dan Woods successfully ran Qwen3.5-397B locally on a 48GB MacBook Pro at 5.5+ tokens/second using techniques from Apple's 2023 'LLM in a Flash' paper, despite the model requiring 209GB on disk. The implementation involved Claude Code generating 90 experiments and producing optimized MLX and Metal code through an autoresearch pattern. The approach demonstrates advanced local AI deployment techniques that could enable enterprise-scale models on consumer hardware.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Advanced AI deployment technique relevant to your evaluation of local AI model deployment strategies and enterprise AI infrastructure cost optimization&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://simonwillison.net/2026/Mar/18/llm-in-a-flash/#atom-everything"&gt;Simon Willison&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;Technology&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theverge.com/column/896949/regulator-david-sacks-iran-polymarket"&gt;David Sacks' Iran AI warnings receive limited policy attention despite security concerns&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 18, 18:44&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;AI policy advisor David Sacks' warnings about Iran-related AI threats and regulatory concerns are reportedly being overlooked by policymakers and industry leaders. The dismissal of these warnings highlights ongoing tensions between AI safety advocates and commercial interests. The situation reflects broader challenges in translating AI security concerns into effective policy action.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;AI policy development affecting your organization's AI risk assessment and regulatory compliance planning for AI systems&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.theverge.com/column/896949/regulator-david-sacks-iran-polymarket"&gt;The Verge - AI&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;Business &amp; Markets&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://news.crunchbase.com/public/potential-defense-tech-ipo-candidates-swmr/"&gt;Defense tech IPO surge continues as 12 companies position for public offerings after Swarmer success&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 18, 20:20&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Following AI drone company Swarmer's 520% first-day trading surge on Nasdaq, twelve other defense technology startups are positioning for potential IPOs in the growing defense tech sector. The successful debut demonstrates strong investor appetite for defense-focused AI and autonomous systems companies. The trend reflects increasing military technology investment amid global security concerns.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Defense tech investment trends relevant to your understanding of AI market dynamics and potential enterprise security technology vendor landscape changes&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://news.crunchbase.com/public/potential-defense-tech-ipo-candidates-swmr/"&gt;Crunchbase News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://news.crunchbase.com/startups/tech-layoffs/"&gt;Tech layoffs continue into 2026 with over 127,000 workers cut in 2025&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 18, 17:34&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Crunchbase tracking shows over 127,000 technology workers were laid off in mass job cuts at U.S.-based tech companies during 2025, with layoffs continuing into 2026. The ongoing workforce reductions reflect continued industry restructuring and economic pressure on technology companies. The pattern suggests sustained challenges in the technology employment market despite AI growth.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Technology workforce trends affecting your organization's talent acquisition strategy and technology vendor stability assessment&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://news.crunchbase.com/startups/tech-layoffs/"&gt;Crunchbase News&lt;/a&gt;&lt;br&gt;
 &lt;/p&gt;</content>
   </entry>
 </feed>
