@@ -5,7 +5,104 @@
   <link href="https://jonaskjellin.github.io/pulsebrief-site/feed.xml" rel="self"/>
   <link href="https://jonaskjellin.github.io/pulsebrief-site/"/>
   <id>https://jonaskjellin.github.io/pulsebrief-site/</id>
-  <updated>2026-03-27T11:36:55.247Z</updated>
+  <updated>2026-03-27T16:42:40.000Z</updated>
+  <entry>
+    <title>Evening — Mar 27, 2026</title>
+    <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-03-27-evening.html"/>
+    <id>https://jonaskjellin.github.io/pulsebrief-site/2026-03-27-evening.html</id>
+    <updated>2026-03-27T16:42:40.000Z</updated>
+    <content type="html">&lt;p&gt;&lt;h1&gt;PulseBrief's Evening Pulse&lt;/h1&gt;&lt;br&gt;
+&lt;em&gt;Thu, Mar 26, 12:00 → Thu, Mar 26, 17:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Cyber Security&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://thehackernews.com/2026/03/claude-extension-flaw-enabled-zero.html"&gt;Claude Chrome Extension Zero-Click Vulnerability Enabled Silent Prompt Injection&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 26, 13:11&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Researchers disclosed a critical zero-click vulnerability in Anthropic's Claude Chrome Extension that allowed any website to silently inject prompts into the AI assistant without user interaction. The flaw could have enabled attackers to steal Gmail access tokens, read Google Drive files, export chat history, and send emails invisibly across over 3 million users. Anthropic has patched the vulnerability, but it demonstrates serious security risks in AI browser integrations.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major AI browser security flaw affecting your understanding of AI extension risks and prompt injection attack vectors&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://thehackernews.com/2026/03/claude-extension-flaw-enabled-zero.html"&gt;The Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.securityweek.com/chinese-hackers-caught-deep-within-telecom-backbone-infrastructure/"&gt;China-Linked Red Menshen Embeds Deep in Telecom Networks for Long-Term Espionage&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 26, 13:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Security researchers discovered a long-term espionage campaign by China-nexus threat actor Red Menshen (Earth Bluecrow) that has embedded stealthy BPFDoor implants within telecom network infrastructure. The campaign involves implanting and maintaining persistent access mechanisms within critical telecommunications environments to conduct surveillance against government networks. This represents sophisticated strategic positioning for intelligence collection through telecom backbone infiltration.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Critical infrastructure compromise affecting your telecommunications security and understanding of state-sponsored persistent threats targeting government communications&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.securityweek.com/chinese-hackers-caught-deep-within-telecom-backbone-infrastructure/"&gt;SecurityWeek&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.bleepingcomputer.com/news/security/uk-sanctions-xinbi-marketplace-linked-to-asian-scam-centers/"&gt;UK Sanctions Xinbi Cryptocurrency Marketplace Linked to Asian Scam Centers&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 26, 15:15&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;The United Kingdom sanctioned Xinbi, a Chinese-language cryptocurrency-based online marketplace that sells stolen data and satellite internet equipment to scam networks in Southeast Asia. The Telegram-based platform represents a $20 billion crypto scam market that helps prop up fraud operations. This represents significant international action against cryptocurrency-enabled cybercrime infrastructure.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major cryptocurrency scam marketplace disruption affecting your understanding of crypto-enabled fraud operations and international sanctions responses&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.bleepingcomputer.com/news/security/uk-sanctions-xinbi-marketplace-linked-to-asian-scam-centers/"&gt;BleepingComputer&lt;/a&gt; · &lt;a href="https://www.wired.com/story/20-billion-xinbi-guarantee-uk-sanctions/"&gt;Wired Security&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.bleepingcomputer.com/news/security/coruna-ios-exploit-framework-linked-to-triangulation-attacks/"&gt;Coruna iOS Exploit Framework Linked to 2023 Operation Triangulation Campaign&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 26, 13:10&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Kaspersky researchers confirmed that the recently discovered Coruna iOS exploit kit reuses updated kernel exploit code from the 2023 Operation Triangulation espionage campaign. The connection was established through code analysis showing Coruna as an evolution of the same framework used in zero-click iMessage attacks that targeted high-profile individuals. This demonstrates how sophisticated nation-state exploit tools continue to evolve and resurface in new campaigns.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;iOS exploit evolution affecting your understanding of persistent nation-state threat capabilities and mobile device security risks&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.bleepingcomputer.com/news/security/coruna-ios-exploit-framework-linked-to-triangulation-attacks/"&gt;BleepingComputer&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.bleepingcomputer.com/news/security/russia-arrests-suspected-owner-and-admin-of-leakbase-cybercrime-forum/"&gt;Russian Authorities Arrest LeakBase Cybercrime Forum Administrator&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 26, 12:50&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Russian law enforcement arrested the alleged administrator of LeakBase, a major international cybercrime forum that operated as a marketplace for stolen data and hacking tools for four years. The suspect, a resident of Taganrog, was detained by officers from the Ministry of Internal Affairs in coordination with regional security services. This represents rare Russian action against domestic cybercrime operations typically tolerated by authorities.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major cybercrime forum disruption affecting the underground credential marketplace that enables data breaches and account takeovers&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.bleepingcomputer.com/news/security/russia-arrests-suspected-owner-and-admin-of-leakbase-cybercrime-forum/"&gt;BleepingComputer&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.securityweek.com/hightower-holding-data-breach-impacts-130000/"&gt;Hightower Holding Data Breach Impacts 130,000 Individuals&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 26, 14:07&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;The holdings company disclosed that hackers stole names, Social Security numbers, and driver's license numbers from its environment, affecting 130,000 individuals. The breach represents another significant compromise of sensitive personal information at a financial services organization.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Large-scale financial services data breach affecting your understanding of personal data exposure risks and breach notification trends&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.securityweek.com/hightower-holding-data-breach-impacts-130000/"&gt;SecurityWeek&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.securityweek.com/bind-updates-patch-high-severity-vulnerabilities-2/"&gt;BIND Updates Patch High-Severity DNS Vulnerabilities&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 26, 13:31&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Specially crafted domains could be used to cause out-of-memory conditions, leading to memory leaks in the BIND resolvers. The vulnerabilities affect critical DNS infrastructure and require immediate patching to prevent denial-of-service attacks.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Critical DNS infrastructure vulnerabilities affecting your network infrastructure security and internet connectivity reliability&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.securityweek.com/bind-updates-patch-high-severity-vulnerabilities-2/"&gt;SecurityWeek&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.bleepingcomputer.com/news/security/tiktok-for-business-accounts-targeted-in-new-phishing-campaign/"&gt;TikTok for Business Accounts Targeted in New Phishing Campaign&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 26, 14:09&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Threat actors are targeting TikTok for Business accounts in a phishing campaign that prevents security bots from analyzing malicious pages. The campaign demonstrates advanced evasion techniques to avoid detection while compromising business social media accounts.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Business social media account targeting affecting your social media security controls and marketing team phishing awareness training&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.bleepingcomputer.com/news/security/tiktok-for-business-accounts-targeted-in-new-phishing-campaign/"&gt;BleepingComputer&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;AI &amp; Machine Learning&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://futuresearch.ai/blog/litellm-attack-transcript/"&gt;LiteLLM AI Project Hit by Malware Attack in Major Supply Chain Compromise&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 26, 15:48&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;The popular open-source AI project LiteLLM, used by millions, was compromised with credential harvesting malware in versions 1.82.7 and 1.82.8 published to PyPI. The attack represents a significant supply chain compromise targeting AI development infrastructure. Security compliance company Delve was reportedly involved in the project's security assessment prior to the incident.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major AI supply chain attack affecting your AI development dependencies and open source package security practices&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://futuresearch.ai/blog/litellm-attack-transcript/"&gt;Hacker News&lt;/a&gt; · &lt;a href="https://techcrunch.com/2026/03/26/delve-did-the-security-compliance-on-litellm-an-ai-project-hit-by-malware/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theverge.com/tech/901461/wikipedia-ai-generated-article-ban"&gt;Wikipedia Bans AI-Generated Articles Citing Policy Violations&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 26, 15:02&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Wikipedia updated its guidelines to prohibit editors from writing or rewriting articles using AI, citing AI-written content's tendency to violate "several of Wikipedia's core content policies." The ban applies to English Wikipedia while still allowing AI use for basic copyediting suggestions and translation from other language versions. The change reflects growing concerns about AI-generated content quality and accuracy in authoritative sources.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major knowledge platform AI policy affecting your understanding of AI content restrictions and information quality standards&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.theverge.com/tech/901461/wikipedia-ai-generated-article-ban"&gt;The Verge&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theverge.com/policy/901404/senators-warren-hawley-eia-letter-data-centers"&gt;Senators Warren and Hawley Demand Mandatory Data Center Energy Reporting&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 26, 14:25&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Senators Elizabeth Warren and Josh Hawley sent a letter to the Energy Information Administration requesting comprehensive, annual energy-use disclosures from data centers with public availability. They're urging mandatory annual reporting requirements, calling the data "essential for accurate grid planning" and ensuring tech companies adhere to their Ratepayer Protection Pledge commitments. This follows EIA's announcement of a voluntary pilot program for data center energy reporting.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Significant AI infrastructure regulation proposal affecting your data center energy planning and understanding of government oversight expansion&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.theverge.com/policy/901404/senators-warren-hawley-eia-letter-data-centers"&gt;The Verge&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/03/26/bytedances-new-ai-video-generation-model-dreamina-seedance-2-0-comes-to-capcut/"&gt;ByteDance Launches Dreamina Seedance 2.0 AI Video Model in CapCut&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 26, 15:25&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;ByteDance released its new AI video generation model, Dreamina Seedance 2.0, integrated into the CapCut video editing platform. The new model includes built-in protections against creating videos from real faces or unauthorized intellectual property. This represents ByteDance's continued investment in AI video generation capabilities to compete with other platforms.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major AI video generation platform update affecting your content creation strategy and understanding of AI-powered creative tools&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/03/26/bytedances-new-ai-video-generation-model-dreamina-seedance-2-0-comes-to-capcut/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theverge.com/ai-artificial-intelligence/899108/webtoon-canvas-ai-translation-localization-yongsoo-kim"&gt;Webtoon Adds AI Localization Tools to Comics Platform&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 26, 13:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Canvas, Webtoon's platform for user-uploaded comics, is rolling out AI-powered translation tools to help creators localize their scripts into English, Spanish, French, Indonesian, Thai, Traditional Chinese, and German. The feature aims to help manga creators build global followings and reach wider audiences through automated localization.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Creative industry AI localization affecting your understanding of AI-powered content translation and global content distribution&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.theverge.com/ai-artificial-intelligence/899108/webtoon-canvas-ai-translation-localization-yongsoo-kim"&gt;The Verge&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Technology&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/03/26/google-is-launching-search-live-globally/"&gt;Google Launches Search Live Feature Globally with AI-Powered Visual Search&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 26, 16:37&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Google is rolling out Search Live globally, allowing users to point their phone camera at objects to get real-time assistance through back-and-forth conversations that draw on visual context from the camera feed. The feature represents a significant expansion of AI-powered visual search capabilities.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major search platform AI feature affecting your understanding of visual search evolution and mobile AI capabilities&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/03/26/google-is-launching-search-live-globally/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theverge.com/column/901314/meta-new-ray-ban-ai-glasses"&gt;Meta Prepares Next-Generation Ray-Ban AI Glasses Launch&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 26, 16:30&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Meta and EssilorLuxottica are preparing to launch the next generation of Ray-Ban AI glasses, according to FCC filings describing production units. The filings suggest Meta may launch the new models soon, following the success of their second-generation Ray-Ban smart glasses released in late 2023.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;AI wearable technology evolution affecting your understanding of smart glasses market development and AI hardware integration&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.theverge.com/column/901314/meta-new-ray-ban-ai-glasses"&gt;The Verge&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.securityweek.com/cisco-patches-multiple-vulnerabilities-in-ios-software/"&gt;Cisco Patches Multiple High-Severity Vulnerabilities in IOS Software&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 26, 12:32&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Cisco released patches for multiple high- and medium-severity vulnerabilities in IOS software that could lead to denial-of-service, secure boot bypass, information disclosure, and privilege escalation. The vulnerabilities affect critical network infrastructure and require immediate attention from network administrators.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Network infrastructure security updates affecting your Cisco device patching priorities and enterprise network security&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.securityweek.com/cisco-patches-multiple-vulnerabilities-in-ios-software/"&gt;SecurityWeek&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.bleepingcomputer.com/news/software/whatsapp-rolls-out-more-ai-features-ios-multi-account-support/"&gt;WhatsApp Rolls Out AI Features and iOS Multi-Account Support&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 26, 14:06&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;WhatsApp is launching multiple new features including AI-powered message replies and photo retouching, support for two accounts on iOS, and chat history transfer between iOS and Android devices. The updates represent significant platform enhancements combining AI capabilities with improved user experience.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major messaging platform AI integration affecting your understanding of consumer AI adoption and cross-platform communication tools&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.bleepingcomputer.com/news/software/whatsapp-rolls-out-more-ai-features-ios-multi-account-support/"&gt;BleepingComputer&lt;/a&gt;&lt;br&gt;
+&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>Afternoon — Mar 27, 2026</title>
     <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-03-27-afternoon.html"/>
@@ -1380,79 +1477,6 @@
 &lt;p&gt;Major industry leaders have agreed to share information and collaborate to strengthen defenses against online scams as government regulatory response remains uncertain. The initiative represents private sector coordination to address rising fraud threats through information sharing and collaborative defense strategies. This business-led approach reflects concerns about the adequacy of current regulatory frameworks for addressing sophisticated online fraud.&lt;/p&gt;&lt;br&gt;
 &lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Industry fraud defense coordination relevant to your organization's participation in threat intelligence sharing and collaborative security initiatives&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
 &lt;p&gt;Sources: &lt;a href="https://www.darkreading.com/cyber-risk/with-government-role-uncertain-businesses-unite-to-combat-fraud"&gt;Dark Reading&lt;/a&gt;&lt;br&gt;
-&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>Evening — Mar 20, 2026</title>
-    <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-03-20-evening.html"/>
-    <id>https://jonaskjellin.github.io/pulsebrief-site/2026-03-20-evening.html</id>
-    <updated>2026-03-20T16:32:06.555Z</updated>
-    <content type="html">&lt;p&gt;&lt;h1&gt;Jonas's Evening Pulse&lt;/h1&gt;&lt;br&gt;
-&lt;em&gt;Thu, Mar 19, 12:00 → Thu, Mar 19, 17:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;Cyber Security&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/03/19/fbi-seizes-pro-iranian-hacking-groups-websites-after-destructive-stryker-hack/"&gt;FBI seizes Handala data leak sites after Iran-linked group's destructive Stryker attack&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 19, 15:10&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;The FBI seized multiple websites used by the Iran-linked Handala hacktivist group after they conducted a destructive cyberattack on medical technology giant Stryker that wiped approximately 80,000 devices using Microsoft Intune. U.S. officials confirmed Handala's connection to the Iranian government amid the takedown of the group's psychological operations infrastructure. CISA and FBI warned organizations to secure Microsoft Intune systems following the attack that demonstrated how endpoint management tools can become vectors for system-wide destruction.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Demonstrates state-sponsored attacks targeting centralized device management systems critical to your endpoint security architecture&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/03/19/fbi-seizes-pro-iranian-hacking-groups-websites-after-destructive-stryker-hack/"&gt;TechCrunch&lt;/a&gt; · &lt;a href="https://www.bleepingcomputer.com/news/security/fbi-seizes-handala-data-leak-site-after-stryker-cyberattack/"&gt;BleepingComputer&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.bleepingcomputer.com/news/security/russian-apt28-military-hackers-exploit-zimbra-flaw-in-ukrainian-govt-attacks/"&gt;Russian APT28 exploits Zimbra XSS vulnerability in 'Operation GhostMail' targeting Ukrainian government&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 19, 14:55&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Russian state-backed APT28 hackers are exploiting a cross-site scripting vulnerability in Zimbra Collaboration Suite to target Ukrainian government entities in a campaign dubbed 'Operation GhostMail.' The sophisticated attack uses no malicious attachments or suspicious links, relying entirely on email body content to steal credentials and sensitive data. The campaign demonstrates advanced techniques to bypass traditional email security controls through legitimate platform vulnerabilities.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Nation-state exploitation of collaboration platforms your organization likely uses, demonstrating advanced evasion techniques targeting government and enterprise email systems&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.bleepingcomputer.com/news/security/russian-apt28-military-hackers-exploit-zimbra-flaw-in-ukrainian-govt-attacks/"&gt;BleepingComputer&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://thehackernews.com/2026/03/new-perseus-android-banking-malware.html"&gt;Perseus Android malware targets note-taking apps to extract sensitive credentials and financial data&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 19, 12:43&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;A new Android banking malware called Perseus specifically monitors note-taking applications to steal passwords, recovery phrases, and financial information that users commonly store in seemingly innocuous apps. Built on the foundations of Cerberus and Phoenix malware families, Perseus represents an evolution in mobile threats that exploits user behavior patterns. The malware is distributed through dropper apps and demonstrates how threat actors are adapting to target non-traditional data storage locations.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Mobile threat targeting user behavior patterns relevant to your organization's mobile security awareness training and BYOD data handling policies&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://thehackernews.com/2026/03/new-perseus-android-banking-malware.html"&gt;The Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.bleepingcomputer.com/news/security/ubiquiti-warns-of-unifi-flaw-that-may-enable-account-takeover/"&gt;Max severity Ubiquiti UniFi flaw may allow account takeover&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 19, 13:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Ubiquiti has patched two vulnerabilities in the UniFi Network Application, including a maximum-severity flaw that may allow attackers to take over user accounts. The vulnerability affects widely-deployed network management infrastructure used in enterprise environments. Organizations using Ubiquiti UniFi systems should prioritize immediate patching to prevent potential network compromise.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Critical network infrastructure vulnerability affecting widely-deployed enterprise networking equipment requiring immediate patching&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.bleepingcomputer.com/news/security/ubiquiti-warns-of-unifi-flaw-that-may-enable-account-takeover/"&gt;BleepingComputer&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;AI &amp; Machine Learning&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://simonwillison.net/2026/Mar/19/openai-acquiring-astral/#atom-everything"&gt;OpenAI acquires Astral, maker of Python development tools Ruff and uv&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 19, 16:45&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;OpenAI announced the acquisition of Astral, the company behind popular Python development tools including the Ruff linter and uv package manager that have become increasingly critical to the Python ecosystem. The Astral team will join OpenAI's Codex division to accelerate AI-powered developer tooling while continuing to maintain their open source projects. The acquisition signals OpenAI's strategic focus on developer infrastructure and positions the company to compete more directly with GitHub Copilot in AI-assisted development.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Strategic AI industry consolidation affecting your evaluation of Python development toolchain stability and OpenAI's expanding influence in enterprise development workflows&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://simonwillison.net/2026/Mar/19/openai-acquiring-astral/#atom-everything"&gt;Simon Willison&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.wired.com/story/signals-creator-is-helping-encrypt-meta-ai/"&gt;Signal's creator helps encrypt Meta AI through Confer technology integration&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 19, 14:09&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Moxie Marlinspike, creator of the Signal messaging app, announced that technology from his encrypted AI chatbot Confer will be integrated into Meta AI to protect user conversations. The move could bring end-to-end encryption to AI interactions for millions of Meta users across its platforms. This represents a significant step toward privacy-preserving AI communications at scale, potentially setting new standards for AI conversation protection.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major privacy enhancement for enterprise AI communications that could influence your organization's AI privacy strategy and vendor evaluation criteria&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.wired.com/story/signals-creator-is-helping-encrypt-meta-ai/"&gt;Wired Security&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.wired.com/story/chatgpt-adult-mode-new-era-of-intimate-surveillance/"&gt;ChatGPT's 'Adult Mode' Could Spark a New Era of Intimate Surveillance&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 19, 16:06&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;OpenAI plans to allow sexting with ChatGPT through an adult mode feature, raising significant privacy and surveillance concerns according to human-AI interaction experts. The development represents a major shift in AI capabilities that could create new vectors for data collection and privacy violations. The feature highlights growing concerns about intimate AI interactions and their potential for misuse or exploitation.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;AI privacy and governance implications for your organization's AI usage policies and risk assessment frameworks for employee AI interactions&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.wired.com/story/chatgpt-adult-mode-new-era-of-intimate-surveillance/"&gt;Wired AI&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theverge.com/ai-artificial-intelligence/897250/fitbits-ai-health-coach-reads-medical-records"&gt;Fitbit's AI health coach will soon be able to read your medical records&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 19, 12:27&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Google announced that Fitbit's AI health coach will gain the ability to access users' medical records, including lab results, medications, and visit history, to provide more personalized health advice. Starting next month in preview for US users, the feature follows rivals like Amazon, OpenAI, and Microsoft in betting that users will trade sensitive health data for AI-powered insights. The development represents a significant expansion of AI into healthcare data processing with potential privacy implications.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Healthcare AI development affecting your organization's health data privacy policies and employee wellness program AI integration considerations&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.theverge.com/ai-artificial-intelligence/897250/fitbits-ai-health-coach-reads-medical-records"&gt;The Verge - AI&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;Technology&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/03/19/google-introduces-a-new-way-for-users-to-sideload-android-apps-that-still-protects-against-scams/"&gt;Google implements 24-hour wait period for Android sideloading of unverified apps&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 19, 17:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Google introduced a new 'advanced flow' for Android sideloading that requires a mandatory 24-hour wait period to install apps from unverified developers, balancing platform openness with security. The change comes amid a developer verification mandate requiring all Android apps to be registered by verified developers. Users can disable app verification through a multistep security process, but must wait 24 hours before installation can proceed.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Significant Android security change affecting your organization's mobile app deployment and BYOD security policies for sideloaded enterprise applications&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/03/19/google-introduces-a-new-way-for-users-to-sideload-android-apps-that-still-protects-against-scams/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theverge.com/tech/897243/adobe-firefly-ai-custom-models-image-public-beta"&gt;Adobe's AI image generator can now be trained on your own art&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 19, 13:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Adobe launched customizable AI image generators called Firefly Custom Models in public beta, allowing creators and brands to train models on their own assets to ensure generated images follow consistent aesthetic styles. The tool aims to streamline workflows for teams producing high volumes of content by providing a reusable foundation that preserves visual consistency. This represents a significant advancement in enterprise-focused AI content generation capabilities.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Enterprise AI content generation advancement relevant to your organization's brand consistency and creative workflow automation strategies&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.theverge.com/tech/897243/adobe-firefly-ai-custom-models-image-public-beta"&gt;The Verge - AI&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/03/19/meta-decides-not-to-shut-down-horizon-worlds-on-vr-after-all/"&gt;Meta decides not to shut down Horizon Worlds on VR after all&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 19, 15:36&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Meta reversed its decision to shut down Horizon Worlds on VR platforms after the social metaverse application was slated for closure following years of underperformance. Horizon Worlds was once a cornerstone of Meta's metaverse strategy but had struggled to maintain user engagement and relevance. The reversal suggests Meta is reconsidering its VR content strategy and platform investment priorities.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Enterprise VR platform stability consideration for your organization's immersive technology strategy and Meta ecosystem dependencies&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/03/19/meta-decides-not-to-shut-down-horizon-worlds-on-vr-after-all/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;Business &amp; Markets&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/03/19/doordash-launches-a-new-tasks-app-that-pays-couriers-to-submit-videos-to-train-ai/"&gt;DoorDash launches a new 'Tasks' app that pays couriers to submit videos to train AI&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 19, 16:14&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;DoorDash introduced a Tasks app that compensates delivery couriers for completing AI training activities like filming everyday tasks or recording themselves speaking in different languages. The initiative represents a new model for collecting training data for AI systems by leveraging existing workforce networks. This approach demonstrates how gig economy platforms are evolving to support AI development while providing additional income streams for workers.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;AI training data collection model affecting your understanding of workforce integration with AI development and potential vendor data sourcing practices&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/03/19/doordash-launches-a-new-tasks-app-that-pays-couriers-to-submit-videos-to-train-ai/"&gt;TechCrunch&lt;/a&gt;&lt;br&gt;
 &lt;/p&gt;</content>
   </entry>
 </feed>
