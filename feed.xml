@@ -5,7 +5,115 @@
   <link href="https://jonaskjellin.github.io/pulsebrief-site/feed.xml" rel="self"/>
   <link href="https://jonaskjellin.github.io/pulsebrief-site/"/>
   <id>https://jonaskjellin.github.io/pulsebrief-site/</id>
-  <updated>2026-03-30T11:51:17.661Z</updated>
+  <updated>2026-03-30T16:46:19.568Z</updated>
+  <entry>
+    <title>Evening — Mar 30, 2026</title>
+    <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-03-30-evening.html"/>
+    <id>https://jonaskjellin.github.io/pulsebrief-site/2026-03-30-evening.html</id>
+    <updated>2026-03-30T16:46:19.568Z</updated>
+    <content type="html">&lt;p&gt;&lt;h1&gt;PulseBrief's Evening Pulse&lt;/h1&gt;&lt;br&gt;
+&lt;em&gt;Mon, Mar 30, 11:00 → Mon, Mar 30, 16:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Cyber Security&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.bleepingcomputer.com/news/security/apple-adds-macos-terminal-warning-to-block-clickfix-attacks/"&gt;Apple Blocks ClickFix Terminal Attacks with New macOS Security Feature&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 30, 14:32&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Apple introduced a security feature in macOS Tahoe 26.4 that prevents users from pasting and executing potentially harmful commands in Terminal and alerts users to possible risks. The feature directly targets 'ClickFix' attacks where attackers trick users into running malicious terminal commands through social engineering. This represents Apple's proactive response to an emerging class of attacks targeting developer and power user workflows.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Critical defense against social engineering attacks targeting macOS power users and developers through terminal command execution&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.bleepingcomputer.com/news/security/apple-adds-macos-terminal-warning-to-block-clickfix-attacks/"&gt;BleepingComputer&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://thehackernews.com/2026/03/russian-ctrl-toolkit-delivered-via.html"&gt;Russian CTRL Toolkit Hijacks RDP Systems via Malicious LNK Files&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 30, 12:18&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Cybersecurity researchers discovered a Russian-origin remote access toolkit called CTRL that's distributed via malicious Windows shortcut files disguised as private key folders. The custom-built .NET toolkit facilitates credential phishing, keylogging, Remote Desktop Protocol hijacking, and reverse tunneling through FRP (Fast Reverse Proxy). This represents a sophisticated multi-stage attack chain targeting Windows environments.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Advanced nation-state toolkit affecting Windows infrastructure security through sophisticated social engineering and RDP compromise techniques&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://thehackernews.com/2026/03/russian-ctrl-toolkit-delivered-via.html"&gt;The Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.securityweek.com/russian-apt-star-blizzard-adopts-darksword-ios-exploit-kit/"&gt;Russian APT Star Blizzard Deploys DarkSword iOS Exploit Kit&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 30, 11:54&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Russian state-sponsored group Star Blizzard (TA446) has adopted the DarkSword iOS exploit kit in campaigns targeting government, higher education, financial, and legal entities, as well as think tanks. The campaign represents a significant shift in the group's tactics, marking their first known use of exploit kits. This development shows nation-state actors expanding their mobile attack capabilities against high-value targets.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Nation-state mobile exploitation capabilities expanding to target critical infrastructure and government entities through advanced iOS attacks&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.securityweek.com/russian-apt-star-blizzard-adopts-darksword-ios-exploit-kit/"&gt;SecurityWeek&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://therecord.media/european-commission-downplays-shinyhunters-cyber-claim"&gt;European Commission Confirms Data Breach After ShinyHunters Cyberattack&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 30, 13:57&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;The European Commission confirmed a data breach after its Europa.eu web platform was compromised in a cyberattack claimed by the ShinyHunters extortion gang. The breach affects the official web platform of the European Union's executive branch, potentially exposing sensitive government communications and citizen data. The Commission has downplayed the impact while investigating the incident.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major European government infrastructure breach affecting EU operations and citizen data security&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://therecord.media/european-commission-downplays-shinyhunters-cyber-claim"&gt;The Record&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://cybersecuritynews.com/hackers-backdoor-telnyx-python-sdk/"&gt;TeamPCP Backdoors Telnyx Python SDK on PyPI to Steal Cloud Credentials&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 30, 14:15&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Threat actor TeamPCP uploaded two malicious versions of the Telnyx Python SDK to PyPI on March 27, 2026, targeting developers' cloud and development credentials. The compromised versions affected a widely used telecommunications package, demonstrating sophisticated supply chain attack tactics. This represents the ongoing expansion of the TeamPCP campaign beyond their previous targets.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Supply chain attack affecting Python developers and cloud infrastructure security through compromised telecommunications SDK&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://cybersecuritynews.com/hackers-backdoor-telnyx-python-sdk/"&gt;Cybersecurity News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://cybersecuritynews.com/canisterworm-malware-attacking-docker/"&gt;CanisterWorm Malware Targets Docker, Kubernetes, and Redis Environments&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 30, 12:29&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;The financially motivated TeamPCP cybercrime group has deployed CanisterWorm, a self-propagating malware that targets Docker APIs, Kubernetes clusters, and Redis servers while specifically wiping data on systems located in Iran or using Farsi language settings. The worm demonstrates advanced container security evasion techniques and represents escalating threats to cloud infrastructure. The campaign has been active since late 2025 and shows signs of geopolitical targeting.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Advanced container malware affecting cloud infrastructure security with geopolitical targeting implications for containerized environments&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://cybersecuritynews.com/canisterworm-malware-attacking-docker/"&gt;Cybersecurity News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://cyberpress.org/vim-vulnerability/"&gt;Critical Vim Vulnerability Allows Command Execution via Malicious Files&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 30, 13:40&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;A high-severity vulnerability in Vim (tracked as GHSA-2gmj-rpqf-pxvh) allows attackers to achieve full arbitrary OS command execution by convincing users to open specially crafted files. The flaw affects all Vim versions before 9.2.0272 and was discovered by security researcher Hung Nguyen. This represents a significant threat to the widely used text editor across development environments.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Critical developer tool vulnerability affecting millions of users through weaponized file attacks targeting development workflows&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://cyberpress.org/vim-vulnerability/"&gt;CyberPress&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://cyberpress.org/wordpress-plugin-flaw/"&gt;WordPress Smart Slider 3 Plugin Flaw Exposes 800,000+ Websites&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 30, 11:29&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;A critical vulnerability in the Smart Slider 3 WordPress plugin allows subscriber-level users to read arbitrary files from server filesystems, affecting over 800,000 websites. The flaw enables low-privilege users to potentially access sensitive configuration files, credentials, and other server data. This represents a widespread supply chain risk for WordPress environments.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Critical WordPress plugin vulnerability affecting hundreds of thousands of websites with potential for data exposure through privilege escalation&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://cyberpress.org/wordpress-plugin-flaw/"&gt;CyberPress&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://therecord.media/carecloud-hack-data-breach-sec"&gt;CareCloud Healthcare Platform Investigating Potential Patient Data Breach&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 30, 12:45&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Healthcare software firm CareCloud warned the Securities and Exchange Commission that a cyberattack may have resulted in the leak of patient data from one of its electronic health record environments. The company is investigating the cybersecurity incident affecting its healthcare IT platform used by medical providers. This adds to growing concerns about healthcare data security and patient privacy protection.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Healthcare data breach affecting patient privacy and demonstrating ongoing vulnerabilities in medical IT infrastructure&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://therecord.media/carecloud-hack-data-breach-sec"&gt;The Record&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://cybersecuritynews.com/open-vsxs-new-scanner-vulnerability/"&gt;Open VSX Scanner Vulnerability Allows Malicious Extensions to Go Live&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 30, 13:58&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;A serious security flaw was discovered in Open VSX, the extension marketplace used by popular code editors like Cursor and Windsurf. The vulnerability exists in the platform's newly introduced pre-publish scanning pipeline, potentially allowing malicious extensions to bypass security checks. This affects the broader VS Code fork ecosystem and developer security.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Developer tool ecosystem vulnerability affecting code editor security and extension marketplace integrity for development environments&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://cybersecuritynews.com/open-vsxs-new-scanner-vulnerability/"&gt;Cybersecurity News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;AI &amp; Machine Learning&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://cyberpress.org/voidlink-makes-ai-malware/"&gt;VoidLink Framework Demonstrates First Operational AI-Assisted Malware&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 30, 11:53&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Security researchers discovered VoidLink, a Linux-based malware framework that represents the first fully operational AI-assisted malware threat, moving beyond theoretical concepts to active deployment. The framework demonstrates that AI-weaponized malware development has crossed from experimental research to practical threat implementation. This milestone marks a critical escalation in AI-powered cyber threats and attack sophistication.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;First operational AI-assisted malware framework marking critical escalation in AI-powered cyber threats and attack sophistication&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://cyberpress.org/voidlink-makes-ai-malware/"&gt;CyberPress&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.securityweek.com/silent-drift-how-llms-are-quietly-breaking-organizational-access-control/"&gt;LLMs Quietly Breaking Organizational Access Control Through Code Generation&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 30, 14:15&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Large Language Models can write complex Rego and Cedar code in seconds, but a single missing condition or hallucinated attribute can quietly dismantle an organization's least-privilege security model. The issue represents 'silent drift' where AI-generated access control policies introduce subtle vulnerabilities that bypass traditional security reviews. This highlights critical risks in AI-assisted security policy development.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;AI code generation affecting enterprise security architecture through subtle policy vulnerabilities that traditional reviews may miss&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.securityweek.com/silent-drift-how-llms-are-quietly-breaking-organizational-access-control/"&gt;SecurityWeek&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.technologyreview.com/2026/03/30/1134881/the-pentagons-culture-war-tactic-against-anthropic-has-backfired/"&gt;Pentagon's Culture War Tactic Against Anthropic Backfires in Court&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 30, 15:42&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;A California judge temporarily blocked the Pentagon from labeling Anthropic a supply chain risk and ordering government agencies to stop using its AI. The ruling represents the latest development in the month-long dispute between the AI company and the Department of Defense. This highlights ongoing tensions between AI companies and government agencies over AI safety and deployment policies.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major AI governance conflict affecting government AI adoption policies and industry-regulatory relationships in AI deployment&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.technologyreview.com/2026/03/30/1134881/the-pentagons-culture-war-tactic-against-anthropic-has-backfired/"&gt;MIT Technology Review&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Technology&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://cyberpress.org/india-to-ban-hikvision-tp-link/"&gt;India Bans Chinese CCTV Companies Including Hikvision and TP-Link&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 30, 11:50&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Starting April 1, 2026, the Indian government will effectively ban Chinese video surveillance giants including Hikvision, Dahua, and TP-Link from selling internet-connected CCTV cameras in the country. The market restriction stems from new mandatory certification rules driven by national security concerns regarding foreign hardware. The Ministry of Electronics and Information Technology is implementing comprehensive restrictions on Chinese surveillance technology.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major market restriction affecting global surveillance technology supply chains and demonstrating escalating tech sovereignty concerns&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://cyberpress.org/india-to-ban-hikvision-tp-link/"&gt;CyberPress&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Business &amp; Markets&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/03/30/ai-chip-startup-rebellions-raises-400-million-at-2-3b-valuation-in-pre-ipo-round/"&gt;Rebellions AI Chip Startup Raises $400M at $2.3B Valuation&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 30, 13:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;South Korean AI chip startup Rebellions raised $400 million in a pre-IPO funding round at a $2.3 billion valuation, planning to go public later this year. The startup designs chips specifically for AI inference, positioning itself as another challenger to Nvidia's dominance in the AI semiconductor market. This represents significant investor confidence in specialized AI inference chip development.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major AI chip funding affecting semiconductor market competition and demonstrating investor confidence in Nvidia alternatives&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/03/30/ai-chip-startup-rebellions-raises-400-million-at-2-3b-valuation-in-pre-ipo-round/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/03/30/mistral-ai-raises-830m-in-debt-to-set-up-a-data-center-near-paris/"&gt;Mistral AI Raises $830M in Debt Financing for Paris Data Center&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 30, 12:49&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;French AI company Mistral AI raised $830 million in debt financing to establish a data center near Paris, aiming to start operations by the second quarter of 2026. The significant infrastructure investment demonstrates European efforts to build sovereign AI computing capabilities. This represents major capital deployment in European AI infrastructure development.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major European AI infrastructure investment affecting AI sovereignty and regional computing capabilities for AI model training&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/03/30/mistral-ai-raises-830m-in-debt-to-set-up-a-data-center-near-paris/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/03/30/scaleops-130m-series-c-kubernetes-efficiency-ai-demand-funding/"&gt;ScaleOps Raises $130M to Address AI Computing Efficiency Crisis&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 30, 13:52&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;ScaleOps raised $130 million in Series C funding to tackle GPU shortages and soaring AI cloud costs by automating infrastructure optimization in real time. The company's Kubernetes efficiency platform addresses the growing demand for compute resources driven by AI workloads. This reflects urgent market needs for better resource utilization amid AI infrastructure constraints.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major infrastructure efficiency funding addressing critical AI compute resource shortages and cloud cost optimization challenges&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/03/30/scaleops-130m-series-c-kubernetes-efficiency-ai-demand-funding/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/03/30/qodo-bets-on-code-verification-as-ai-coding-scales-raises-70m/"&gt;Qodo Raises $70M for AI Code Verification as Generated Code Scales&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 30, 12:30&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Qodo raised $70 million to focus on code verification as AI floods software development with generated code. The company is betting that the real challenge isn't generating code with AI, but ensuring it actually works correctly and securely. This reflects growing market recognition that AI-generated code quality and verification will become critical bottlenecks.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major AI code quality funding addressing critical verification challenges as AI-generated code becomes mainstream in development&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/03/30/qodo-bets-on-code-verification-as-ai-coding-scales-raises-70m/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/03/30/uber-is-buying-berlin-startup-blacklane-to-bolster-its-elite-offering/"&gt;Uber Acquires Berlin Startup Blacklane to Enhance Elite Transportation&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 30, 14:46&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Uber is acquiring Berlin-based premium transportation startup Blacklane to bolster its 'Elite' offering in the luxury ride-sharing market. The acquisition is notable for Blacklane, which has raised more than $100 million from backers including Mercedes-Benz and Sixt. This represents Uber's continued expansion into premium transportation services.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major ride-sharing consolidation affecting premium transportation market and demonstrating continued M&amp;A activity in mobility services&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/03/30/uber-is-buying-berlin-startup-blacklane-to-bolster-its-elite-offering/"&gt;TechCrunch&lt;/a&gt;&lt;br&gt;
+&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>Afternoon — Mar 30, 2026</title>
     <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-03-30-afternoon.html"/>
@@ -1404,38 +1512,6 @@
 &lt;p&gt;Security researcher Gaasedelen developed the 'Bliss' exploit using precise voltage glitching techniques to completely compromise Xbox One consoles at the hardware level. The attack bypasses ARM Cortex memory protection and allows loading unsigned code at every system level including hypervisor and OS. As a boot ROM silicon attack, it's unpatchable and enables complete access to the security processor for decrypting games and firmware.&lt;/p&gt;&lt;br&gt;
 &lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Hardware-level exploitation technique affecting your understanding of silicon-based attack vectors and the limits of software-based security controls&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
 &lt;p&gt;Sources: &lt;a href="https://www.schneier.com/blog/archives/2026/03/microsoft-xbox-hacked.html"&gt;Schneier on Security&lt;/a&gt;&lt;br&gt;
-&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>Morning — Mar 24, 2026</title>
-    <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-03-24-morning.html"/>
-    <id>https://jonaskjellin.github.io/pulsebrief-site/2026-03-24-morning.html</id>
-    <updated>2026-03-24T05:53:03.086Z</updated>
-    <content type="html">&lt;p&gt;&lt;h1&gt;Jonas's Morning Pulse&lt;/h1&gt;&lt;br&gt;
-&lt;em&gt;Sun, Mar 22, 17:00 → Mon, Mar 23, 06:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;Cyber Security&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.securityweek.com/oracle-releases-emergency-patch-for-critical-identity-manager-vulnerability/"&gt;Oracle Releases Emergency Patch for Critical Identity Manager RCE Vulnerability&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 23, 05:34&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Oracle issued an out-of-band security update for CVE-2026-21992, a critical vulnerability in Identity Manager and Web Services Manager that allows unauthenticated remote code execution. The flaw has a CVSS score of 9.8 and may have been exploited in the wild. Attackers can execute arbitrary code without authentication if Oracle's Identity or Web Services Managers are exposed to the web.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Critical threat to your identity management infrastructure requiring immediate patching of Oracle Fusion Middleware components&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.securityweek.com/oracle-releases-emergency-patch-for-critical-identity-manager-vulnerability/"&gt;SecurityWeek&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;AI &amp; Machine Learning&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theverge.com/ai-artificial-intelligence/898781/ai-personality-of-the-year-influencer-contest"&gt;AI Personality of the Year Contest Launches as Influencer Economy Matures&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 23, 24:01&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;A joint venture between generative AI studio OpenArt and AI-powered creator platform Fanvue has launched an "AI Personality of the Year" contest, marking the evolution of AI influencers from novelty to serious commercial industry. The month-long competition, backed by ElevenLabs, aims to celebrate creative talent behind AI influencers and their growing cultural impact. This represents the formalization and commercialization of the AI influencer economy.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;AI influencer economy maturation affecting your understanding of AI-generated content marketing and brand authenticity considerations&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.theverge.com/ai-artificial-intelligence/898781/ai-personality-of-the-year-influencer-contest"&gt;The Verge - AI&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;Technology&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theverge.com/games/898771/crimson-desert-dev-apologizes-ai-art"&gt;Crimson Desert Developer Apologizes for AI Art in Final Game Release&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 22, 17:34&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;The developer of Crimson Desert acknowledged that AI-generated assets made it into the final release after being discovered by players, contrary to intentions to replace them before launch. The company is conducting a "comprehensive audit" to identify and replace any remaining AI-generated content and apologized for lack of transparency about AI use during development. This incident highlights ongoing controversies around AI content in commercial game development.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;AI content disclosure controversy in gaming affecting your organization's AI content policies and transparency requirements&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.theverge.com/games/898771/crimson-desert-dev-apologizes-ai-art"&gt;The Verge - AI&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://simonwillison.net/2026/Mar/22/starlette/#atom-everything"&gt;Starlette 1.0 Released with Breaking Changes to Startup/Shutdown Handling&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 22, 23:57&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Starlette, the ASGI framework underlying FastAPI, has reached its 1.0 milestone with several breaking changes including a new lifespan mechanism replacing on_startup and on_shutdown parameters. The framework now uses async context managers for managing application lifecycle events. The release marks a significant stability milestone for the framework that has powered FastAPI's success while maintaining relatively low brand recognition.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major Python framework stability milestone affecting your evaluation of ASGI frameworks for AI-native system development&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://simonwillison.net/2026/Mar/22/starlette/#atom-everything"&gt;Simon Willison&lt;/a&gt;&lt;br&gt;
 &lt;/p&gt;</content>
   </entry>
 </feed>
