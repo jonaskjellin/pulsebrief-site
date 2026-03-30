@@ -5,7 +5,105 @@
   <link href="https://jonaskjellin.github.io/pulsebrief-site/feed.xml" rel="self"/>
   <link href="https://jonaskjellin.github.io/pulsebrief-site/"/>
   <id>https://jonaskjellin.github.io/pulsebrief-site/</id>
-  <updated>2026-03-30T06:24:22.308Z</updated>
+  <updated>2026-03-30T11:51:17.661Z</updated>
+  <entry>
+    <title>Afternoon — Mar 30, 2026</title>
+    <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-03-30-afternoon.html"/>
+    <id>https://jonaskjellin.github.io/pulsebrief-site/2026-03-30-afternoon.html</id>
+    <updated>2026-03-30T11:51:17.661Z</updated>
+    <content type="html">&lt;p&gt;&lt;h1&gt;PulseBrief's Afternoon Pulse&lt;/h1&gt;&lt;br&gt;
+&lt;em&gt;Mon, Mar 30, 05:00 → Mon, Mar 30, 11:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Cyber Security&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.securityweek.com/f5-big-ip-dos-flaw-upgraded-to-critical-rce-now-exploited-in-the-wild/"&gt;Critical F5 BIG-IP Flaw Upgraded to RCE, Now Actively Exploited&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 30, 07:07&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;F5 has reclassified CVE-2025-53521, a BIG-IP APM denial-of-service vulnerability, as a critical remote code execution flaw after discovering active exploitation in the wild. Attackers are deploying webshells on unpatched devices, and CISA has added the vulnerability to its Known Exploited Vulnerabilities catalog. The flaw affects widely deployed enterprise load balancing and application delivery infrastructure.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Critical network infrastructure vulnerability with confirmed active exploitation affecting enterprise security perimeter systems&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.securityweek.com/f5-big-ip-dos-flaw-upgraded-to-critical-rce-now-exploited-in-the-wild/"&gt;SecurityWeek&lt;/a&gt; · &lt;a href="https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-f5-big-ip-flaw-in-attacks-patch-now/"&gt;BleepingComputer&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.bleepingcomputer.com/news/security/critical-fortinet-forticlient-ems-flaw-now-exploited-in-attacks/"&gt;Critical Fortinet FortiClient EMS Flaw Exploited in Active Attacks&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 30, 07:48&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;A critical SQL injection vulnerability (CVE-2026-21643) in Fortinet's FortiClient Endpoint Management Server is being actively exploited in the wild, affecting version 7.4.4. Threat actors have been leveraging this flaw in attacks for four days despite it not appearing on the CISA Known Exploited Vulnerabilities catalog. The vulnerability allows attackers to compromise endpoint management systems used by organizations to secure their devices.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Critical endpoint security management vulnerability under active exploitation affecting organizational device security controls&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.bleepingcomputer.com/news/security/critical-fortinet-forticlient-ems-flaw-now-exploited-in-attacks/"&gt;BleepingComputer&lt;/a&gt; · &lt;a href="https://cybersecuritynews.com/forticlient-ems-vulnerability-exploited/"&gt;Cybersecurity News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.securityweek.com/telnyx-targeted-in-growing-teampcp-supply-chain-attack/"&gt;TeamPCP Supply Chain Attack Expands to Target Databricks and Telnyx&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 30, 10:53&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;The ongoing TeamPCP supply chain attack has allegedly compromised Databricks platform after malicious versions of the popular SDK were uploaded to PyPI registry, targeting Windows, macOS, and Linux systems. Databricks is investigating the potential breach after being alerted by threat intelligence researchers, while Telnyx was also targeted in the expanding campaign. The attack demonstrates the growing sophistication of software supply chain compromises affecting major enterprise platforms.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major supply chain attack affecting enterprise data platforms and telecommunications infrastructure with potential widespread impact&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.securityweek.com/telnyx-targeted-in-growing-teampcp-supply-chain-attack/"&gt;SecurityWeek&lt;/a&gt; · &lt;a href="https://cybersecuritynews.com/databricks-teampcp-supply-chain/"&gt;Cybersecurity News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.securityweek.com/exploitation-of-fresh-citrix-netscaler-vulnerability-begins/"&gt;Citrix NetScaler Systems Under Active Reconnaissance for CVE-2026-3055 Exploitation&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 30, 07:56&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Cybersecurity researchers are detecting organized scanning activity targeting CVE-2026-3055, a critical memory overread vulnerability in Citrix NetScaler ADC and Gateway appliances with CVSS 9.3 score. The flaw allows unauthenticated attackers to extract sensitive data including authenticated administrative session IDs from widely deployed enterprise infrastructure. Threat intelligence firms watchTowr and Defused Cyber report imminent in-the-wild exploitation attempts.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Critical enterprise network infrastructure vulnerability under active reconnaissance suggesting imminent widespread exploitation&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.securityweek.com/exploitation-of-fresh-citrix-netscaler-vulnerability-begins/"&gt;SecurityWeek&lt;/a&gt; · &lt;a href="https://cyberpress.org/hackers-scan-citrix-netscaler/"&gt;CyberPress&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://thehackernews.com/2026/03/russian-ctrl-toolkit-delivered-via.html"&gt;Russian CTRL Toolkit Hijacks RDP via Malicious LNK Files&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 30, 09:58&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Cybersecurity researchers discovered a Russian-origin remote access toolkit called CTRL that's distributed via malicious Windows shortcut files disguised as private key folders. The custom-built .NET toolkit facilitates credential phishing, keylogging, Remote Desktop Protocol hijacking, and reverse tunneling through FRP (Fast Reverse Proxy). This represents a sophisticated multi-stage attack chain targeting Windows environments.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Advanced nation-state toolkit affecting Windows infrastructure security through sophisticated social engineering and RDP compromise techniques&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://thehackernews.com/2026/03/russian-ctrl-toolkit-delivered-via.html"&gt;The Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://thehackernews.com/2026/03/three-china-linked-clusters-target.html"&gt;Three China-Linked Groups Target Southeast Asian Government in Coordinated Campaign&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 30, 07:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Three threat activity clusters aligned with China conducted a complex and well-resourced operation targeting a Southeast Asian government organization in 2025. The campaigns deployed multiple malware families including HIUPAN, PUBLOAD, EggStremeFuel, EggStremeLoader, and MASOL, demonstrating sophisticated coordination between different threat groups. This represents escalating nation-state activity targeting regional government infrastructure.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Coordinated nation-state campaign affecting government cybersecurity and demonstrating advanced multi-group threat actor collaboration&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://thehackernews.com/2026/03/three-china-linked-clusters-target.html"&gt;The Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.bleepingcomputer.com/news/security/european-commission-confirms-data-breach-after-europaeu-hack/"&gt;European Commission Confirms Data Breach After Europa.eu Hack&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 30, 06:42&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;The European Commission confirmed a data breach after its Europa.eu web platform was compromised in a cyberattack claimed by the ShinyHunters extortion gang. The breach affects the official web platform of the European Union's executive branch, potentially exposing sensitive government communications and citizen data. This represents a significant compromise of critical EU digital infrastructure.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major European government infrastructure breach affecting EU operations and citizen data security&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.bleepingcomputer.com/news/security/european-commission-confirms-data-breach-after-europaeu-hack/"&gt;BleepingComputer&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://cybersecuritynews.com/voidlink-malware-framework-2/"&gt;VoidLink Framework Demonstrates Operational AI-Assisted Malware&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 30, 06:41&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Security researchers have discovered VoidLink, a Linux-based malware framework that represents the first fully operational AI-assisted malware threat, moving beyond theoretical concepts. The framework demonstrates that AI-weaponized malware development has crossed from experimental research to active threat deployment. This milestone represents a significant evolution in the cyber threat landscape with AI-enhanced attack capabilities.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;First operational AI-assisted malware framework marking critical escalation in AI-powered cyber threats and attack sophistication&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://cybersecuritynews.com/voidlink-malware-framework-2/"&gt;Cybersecurity News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://cyberpress.org/stored-xss-flaw-in-jira-work/"&gt;Stored XSS in Jira Work Management Could Enable Full Organization Compromise&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 30, 08:50&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Security researchers discovered a critical Stored Cross-Site Scripting vulnerability in Atlassian's Jira Work Management that could allow a low-privileged attacker to fully compromise an entire organization's Jira environment. The flaw affects the widely adopted collaboration and project-tracking platform used across enterprises. The vulnerability demonstrates how single application flaws can escalate to organization-wide security breaches.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Critical enterprise collaboration platform vulnerability enabling full organizational compromise through privilege escalation&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://cyberpress.org/stored-xss-flaw-in-jira-work/"&gt;CyberPress&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://cybersecuritynews.com/prompt-poaching-attack/"&gt;New 'Prompt Poaching' Attack Steals AI Conversations via Browser Extensions&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 30, 07:45&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Security researchers identified a new attack called "prompt poaching" where malicious browser extensions steal users' AI conversations and interactions. The attack exploits the trust users place in AI-powered browser extensions that bridge the gap between isolated AI assistants and broader browsing activities. This represents a new privacy and security risk as AI integration with browsers becomes more common.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;New AI-specific attack vector affecting user privacy and trust in AI browser integrations as AI adoption accelerates&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://cybersecuritynews.com/prompt-poaching-attack/"&gt;Cybersecurity News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;AI &amp; Machine Learning&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://cyberpress.org/anthropic-tests-advanced-ai-model/"&gt;Anthropic Tests Advanced AI Model 'Mythos' Capable of Finding Complex Vulnerabilities&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 30, 07:34&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Anthropic is testing a highly capable new AI model codenamed 'Mythos' under the 'Capybara' testing tier that possesses advanced capabilities for discovering complex software vulnerabilities. The news triggered a sharp sell-off in cybersecurity stocks as investors worry about AI's potential to automate vulnerability discovery and exploitation. This development represents a significant advancement in AI's ability to analyze and compromise software security.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major AI capability advancement in vulnerability discovery affecting cybersecurity industry dynamics and threat landscape evolution&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://cyberpress.org/anthropic-tests-advanced-ai-model/"&gt;CyberPress&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.technologyreview.com/2026/03/30/1134780/r3-bio-brainless-human-clones-full-body-replacement-john-schloendorn-aging-longevity/"&gt;Startup R3 Bio Emerges from Secrecy with Brainless Human Clone Plans&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 30, 09:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;After operating in stealth for years, R3 Bio in Richmond, California revealed it has raised funding to create nonsentient monkey 'organ sacks' as an alternative to animal testing, with investors including billionaire Tim Draper. The startup's ultimate goal involves creating brainless human clones for full-body replacement therapy and aging reversal. The company's disclosure represents one of the most controversial biotech ventures combining AI, cloning, and longevity research.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Controversial biotech venture pushing boundaries of human cloning and AI-assisted biological research with significant ethical implications&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.technologyreview.com/2026/03/30/1134780/r3-bio-brainless-human-clones-full-body-replacement-john-schloendorn-aging-longevity/"&gt;MIT Technology Review&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.wired.com/story/documents-reveal-palantir-irs-contract-fraud-clean-energy-credits/"&gt;IRS Testing Palantir Tool to Target High-Value Audit Investigations&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 30, 09:30&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Documents reveal the IRS is testing a Palantir analytics tool designed to surface 'highest-value' audit and investigation targets from a maze of legacy tax systems. The tool aims to help the tax agency make smarter audit decisions and improve fraud detection capabilities. This represents significant government adoption of AI-powered analytics for tax enforcement and compliance monitoring.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major government AI deployment affecting tax enforcement efficiency and citizen audit risk assessment capabilities&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.wired.com/story/documents-reveal-palantir-irs-contract-fraud-clean-energy-credits/"&gt;Wired AI&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Technology&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://cybersecuritynews.com/india-ban-cctv-products/"&gt;India Bans Chinese CCTV Companies Including Hikvision and TP-Link from April 1&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 30, 08:09&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Starting April 1, 2026, the Indian government will effectively ban Chinese video surveillance giants including Hikvision, Dahua, and TP-Link from selling internet-connected CCTV cameras in the country. The market restriction stems from new mandatory certification rules driven by national security concerns regarding foreign hardware. The Ministry of Electronics and Information Technology is implementing comprehensive restrictions on Chinese surveillance technology.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major market restriction affecting global surveillance technology supply chains and demonstrating escalating tech sovereignty concerns&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://cybersecuritynews.com/india-ban-cctv-products/"&gt;Cybersecurity News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://status.stripe.com/"&gt;Stripe Experiences Service Outage&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 30, 08:51&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Payment processing giant Stripe experienced a service outage affecting its payment platform, as confirmed by the company's status page. The outage impacted merchants and developers relying on Stripe's payment infrastructure for e-commerce and application transactions. While specific details about the scope and cause remain limited, the incident highlights the critical dependency many businesses have on centralized payment platforms.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major payment infrastructure outage affecting e-commerce operations and demonstrating critical dependency risks in digital payment systems&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://status.stripe.com/"&gt;Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-pulls-windows-kb5079391-update-over-0x80073712-install-errors/"&gt;Microsoft Pulls Windows Update KB5079391 Over Installation Errors&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 30, 09:38&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Microsoft has withdrawn a buggy Windows 11 non-security preview update (KB5079391) to investigate installation issues triggering 0x80073712 errors during deployment. The problematic update affects Windows system stability and prevents successful installation on affected machines. Microsoft is investigating the known issue before potentially re-releasing the update with fixes.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Windows update reliability issue affecting system stability and demonstrating ongoing quality control challenges in OS updates&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-pulls-windows-kb5079391-update-over-0x80073712-install-errors/"&gt;BleepingComputer&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Business &amp; Markets&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/03/30/starcloud-raises-170-million-series-ato-build-data-centers-in-space/"&gt;Starcloud Raises $170M Series A to Build Data Centers in Space&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 30, 11:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Starcloud has raised $170 million in Series A funding to build data centers in space, becoming the fastest Y Combinator startup to reach unicorn status just 17 months after demo day. The company plans to deploy orbital data centers to address terrestrial limitations in computing infrastructure and energy consumption. This represents a significant milestone in space-based computing infrastructure development.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Record-breaking startup funding for revolutionary space computing infrastructure affecting future of data center scalability and sustainability&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/03/30/starcloud-raises-170-million-series-ato-build-data-centers-in-space/"&gt;TechCrunch&lt;/a&gt;&lt;br&gt;
+&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>Custom — Mar 30, 2026</title>
     <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-03-30-custom.html"/>
@@ -1338,33 +1436,6 @@
 &lt;p&gt;Starlette, the ASGI framework underlying FastAPI, has reached its 1.0 milestone with several breaking changes including a new lifespan mechanism replacing on_startup and on_shutdown parameters. The framework now uses async context managers for managing application lifecycle events. The release marks a significant stability milestone for the framework that has powered FastAPI's success while maintaining relatively low brand recognition.&lt;/p&gt;&lt;br&gt;
 &lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major Python framework stability milestone affecting your evaluation of ASGI frameworks for AI-native system development&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
 &lt;p&gt;Sources: &lt;a href="https://simonwillison.net/2026/Mar/22/starlette/#atom-everything"&gt;Simon Willison&lt;/a&gt;&lt;br&gt;
-&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>Evening — Mar 23, 2026</title>
-    <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-03-23-evening.html"/>
-    <id>https://jonaskjellin.github.io/pulsebrief-site/2026-03-23-evening.html</id>
-    <updated>2026-03-23T16:44:55.017Z</updated>
-    <content type="html">&lt;p&gt;&lt;h1&gt;Jonas's Evening Pulse&lt;/h1&gt;&lt;br&gt;
-&lt;em&gt;Sun, Mar 22, 12:00 → Sun, Mar 22, 17:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;Cyber Security&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.bleepingcomputer.com/news/security/voidstealer-malware-steals-chrome-master-key-via-debugger-trick/"&gt;VoidStealer Malware Bypasses Chrome Security Using New Debugger Technique&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 22, 14:32&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;A new variant of VoidStealer has become the first malware to successfully bypass Google Chrome's Application-Bound Encryption (ABE) without requiring code injection or elevated privileges. The malware uses a debugger-based technique to silently extract protected browser data, representing a significant evolution in credential theft capabilities. This breakthrough affects Chrome's latest security protections designed to protect sensitive user data.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;First successful bypass of Chrome's newest security controls affecting your browser-based authentication and data protection strategies&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.bleepingcomputer.com/news/security/voidstealer-malware-steals-chrome-master-key-via-debugger-trick/"&gt;BleepingComputer&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;Technology&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theverge.com/ai-artificial-intelligence/898722/musk-terafab-chip-plant"&gt;Elon Musk Announces Terafab Chip Manufacturing Plant for Tesla and SpaceX&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 22, 14:06&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Elon Musk revealed plans to build a Terafab chip manufacturing plant in Austin, Texas, jointly operated by Tesla and SpaceX to produce chips for robotics, AI, and space-based data centers. The initiative addresses concerns about chip industry capacity to meet AI demand, though building chip fabrication facilities requires billions of dollars, specialized equipment, and many years. Musk has no background in semiconductor production and a history of overpromising on project timelines.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major tech executive entering chip manufacturing affecting your understanding of AI hardware supply chain and vertical integration trends&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.theverge.com/ai-artificial-intelligence/898722/musk-terafab-chip-plant"&gt;The Verge - AI&lt;/a&gt; · &lt;a href="https://techcrunch.com/2026/03/22/elon-musk-unveils-chip-manufacturing-plans-for-spacex-and-tesla/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;Business &amp; Markets&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/03/22/delve-accused-of-misleading-customers-with-fake-compliance/"&gt;Delve Accused of Misleading Customers with 'Fake Compliance'&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 22, 14:43&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;An anonymous Substack post alleges that compliance startup Delve falsely convinced hundreds of customers they were compliant with privacy and security regulations when they were not. The accusations raise serious questions about the company's practices in helping organizations meet regulatory requirements. This incident highlights potential risks in outsourcing compliance verification to third-party vendors.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Compliance vendor credibility concerns affecting your evaluation of third-party compliance service providers and regulatory risk management&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/03/22/delve-accused-of-misleading-customers-with-fake-compliance/"&gt;TechCrunch&lt;/a&gt;&lt;br&gt;
 &lt;/p&gt;</content>
   </entry>
 </feed>
