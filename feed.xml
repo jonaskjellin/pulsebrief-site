@@ -5,7 +5,115 @@
   <link href="https://jonaskjellin.github.io/pulsebrief-site/feed.xml" rel="self"/>
   <link href="https://jonaskjellin.github.io/pulsebrief-site/"/>
   <id>https://jonaskjellin.github.io/pulsebrief-site/</id>
-  <updated>2026-03-30T16:46:19.568Z</updated>
+  <updated>2026-03-31T06:10:56.751Z</updated>
+  <entry>
+    <title>Custom — Mar 31, 2026</title>
+    <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-03-31-custom.html"/>
+    <id>https://jonaskjellin.github.io/pulsebrief-site/2026-03-31-custom.html</id>
+    <updated>2026-03-31T06:10:56.751Z</updated>
+    <content type="html">&lt;p&gt;&lt;h1&gt;PulseBrief's Update Pulse&lt;/h1&gt;&lt;br&gt;
+&lt;em&gt;as of Tue, Mar 31, 06:10&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Cyber Security&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan"&gt;Critical Axios NPM Supply Chain Attack Injects Malicious Code in Popular HTTP Client&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 31, 02:54&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;A sophisticated supply chain attack has compromised Axios, one of the most popular HTTP clients in the JavaScript ecosystem with 83 million weekly downloads on npm. Attackers injected malicious transitive dependencies into the official npm registry, potentially affecting millions of applications that rely on this critical component. The attack represents a significant escalation in npm supply chain compromises targeting widely-adopted development dependencies.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major supply chain compromise affecting critical JavaScript infrastructure with potential widespread impact on enterprise applications&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan"&gt;Hacker News&lt;/a&gt; · &lt;a href="https://cybersecuritynews.com/axios-npm-packages-compromised/"&gt;Cybersecurity News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.bleepingcomputer.com/news/security/critical-citrix-netscaler-memory-flaw-actively-exploited-in-attacks/"&gt;Critical Citrix NetScaler Memory Flaw Now Actively Exploited in Attacks&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 30, 18:28&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Hackers are actively exploiting CVE-2026-3055, a critical memory overread vulnerability in Citrix NetScaler ADC and Gateway appliances with a CVSS score of 9.3. The flaw allows unauthenticated attackers to extract sensitive data including administrative session IDs from widely deployed enterprise network infrastructure. Security researchers report organized scanning campaigns targeting the vulnerability, indicating imminent widespread exploitation.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Critical enterprise network infrastructure under active attack affecting security perimeter systems and administrative access controls&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.bleepingcomputer.com/news/security/critical-citrix-netscaler-memory-flaw-actively-exploited-in-attacks/"&gt;BleepingComputer&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://thehackernews.com/2026/03/openai-patches-chatgpt-data.html"&gt;OpenAI Patches Critical ChatGPT Data Exfiltration Vulnerability&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 30, 18:05&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Check Point researchers discovered a previously unknown vulnerability in OpenAI ChatGPT that allowed sensitive conversation data to be exfiltrated without user knowledge or consent. A single malicious prompt could turn ordinary conversations into covert data extraction channels, leaking user messages, uploaded files, and other sensitive content. The vulnerability has been patched following responsible disclosure.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Critical AI platform vulnerability affecting user privacy and data security in widely-adopted conversational AI systems&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://thehackernews.com/2026/03/openai-patches-chatgpt-data.html"&gt;The Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.bleepingcomputer.com/news/security/healthcare-tech-firm-carecloud-says-hackers-stole-patient-data/"&gt;CareCloud Healthcare Platform Confirms Patient Data Breach&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 30, 21:44&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Healthcare IT firm CareCloud disclosed a data breach incident that exposed sensitive patient data and caused an eight-hour network disruption. The company confirmed that hackers successfully stole patient information from their healthcare technology platform used by medical providers. This adds to growing concerns about healthcare data security and represents another significant compromise of medical IT infrastructure.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Healthcare data breach affecting patient privacy and highlighting ongoing vulnerabilities in critical medical IT infrastructure&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.bleepingcomputer.com/news/security/healthcare-tech-firm-carecloud-says-hackers-stole-patient-data/"&gt;BleepingComputer&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.darkreading.com/cyberattacks-data-breaches/ai-powered-deepload-steals-credentials-evades-detection"&gt;AI-Powered 'DeepLoad' Malware Uses Machine-Generated Code to Evade Detection&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 30, 21:25&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Researchers discovered DeepLoad malware that uses AI-generated junk code to hide its credential-stealing logic from security scans. The massive amount of obfuscation code was almost certainly created by artificial intelligence, representing a new evolution in malware development techniques. The malware demonstrates how threat actors are leveraging AI to create more sophisticated evasion mechanisms.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;AI-powered malware development affecting detection capabilities and representing evolution in threat actor tactics using machine learning&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.darkreading.com/cyberattacks-data-breaches/ai-powered-deepload-steals-credentials-evades-detection"&gt;Dark Reading&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.bleepingcomputer.com/news/security/new-roadk1ll-websocket-implant-used-to-pivot-on-breached-networks/"&gt;New RoadK1ll WebSocket Implant Enables Network Lateral Movement&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 30, 20:49&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Security researchers identified a new malicious implant called RoadK1ll that uses WebSocket connections to help threat actors quietly pivot from compromised hosts to other systems on the network. The implant enables stealthy lateral movement within breached enterprise environments. This represents another sophisticated tool for post-breach network compromise and persistence.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Advanced lateral movement tool affecting post-breach containment and network security isolation strategies&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.bleepingcomputer.com/news/security/new-roadk1ll-websocket-implant-used-to-pivot-on-breached-networks/"&gt;BleepingComputer&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://therecord.media/italian-regulator-fines-financial-giant-36-million"&gt;Italian Regulator Fines Major Bank $36 Million for Data Protection Failures&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 30, 17:46&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;The Italian Data Protection Authority fined Intesa Sanpaolo SpA $36 million for serious shortcomings in personal data security due to inadequate technical and organizational measures. The penalty highlights regulatory enforcement of data protection standards in the financial sector. This represents one of the largest GDPR-related fines for a financial institution's security failures.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major regulatory enforcement affecting financial sector data protection standards and demonstrating consequences of inadequate security measures&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://therecord.media/italian-regulator-fines-financial-giant-36-million"&gt;The Record&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://cybersecuritynews.com/exposed-server-reveals-thegentlemen-ransomware-toolkit/"&gt;TheGentlemen Ransomware Toolkit Exposed on Misconfigured Server&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 30, 17:30&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;A misconfigured server on a Russian bulletproof hosting provider exposed the complete operational toolkit of a TheGentlemen ransomware affiliate, including harvested victim credentials and plaintext authentication tokens. The exposure reveals the full infrastructure used by ransomware-as-a-service operations to establish hidden remote access tunnels. This provides unprecedented insight into modern ransomware operations and affiliate tools.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Rare intelligence exposure of ransomware operations affecting understanding of RaaS infrastructure and attack methodologies&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://cybersecuritynews.com/exposed-server-reveals-thegentlemen-ransomware-toolkit/"&gt;Cybersecurity News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://cybersecuritynews.com/crysome-rat-emerges-as-advanced-net-malware/"&gt;CrySome RAT Emerges as Advanced .NET Malware With AV Killer Capabilities&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 30, 16:30&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;A new sophisticated malware called CrySome RAT has been discovered, built in C# to target the .NET ecosystem and provide complete remote control over Windows machines. The malware includes antivirus killing capabilities, hidden VNC functionality, and credential stealing features designed to maintain persistence. This represents another evolution in .NET-based remote access trojans targeting enterprise Windows environments.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Advanced Windows malware affecting enterprise .NET environments with sophisticated evasion and persistence capabilities&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://cybersecuritynews.com/crysome-rat-emerges-as-advanced-net-malware/"&gt;Cybersecurity News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;AI &amp; Machine Learning&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://cybersecuritynews.com/claude-ai-0-day-rce-vim/"&gt;Claude AI Discovers Zero-Day RCE Vulnerabilities in Vim and Emacs&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 31, 03:24&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Anthropic's Claude AI successfully identified zero-day Remote Code Execution vulnerabilities in both Vim and GNU Emacs text editors using simple natural-language prompts. The discovery represents a paradigm shift in vulnerability research, demonstrating AI's capability to uncover critical flaws in legacy software without traditional manual analysis. This development significantly accelerates the timeline for finding security vulnerabilities in widely-used development tools.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;AI-powered vulnerability discovery transforming threat landscape and demonstrating automated capability to find critical flaws in essential developer tools&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://cybersecuritynews.com/claude-ai-0-day-rce-vim/"&gt;Cybersecurity News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://ollama.com/blog/mlx"&gt;Ollama Now Powered by MLX on Apple Silicon in Preview Release&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 31, 03:40&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Ollama has released preview support for MLX acceleration on Apple Silicon, potentially offering significant performance improvements for local AI model inference on Mac devices. The integration leverages Apple's MLX framework optimized for Apple's custom chips. This represents a major development in local AI model performance on Apple hardware.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Significant local AI performance improvement affecting Apple Silicon users and advancing on-device AI capabilities&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://ollama.com/blog/mlx"&gt;Ollama&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://github.com/google-research/timesfm"&gt;Google Releases 200M-Parameter Time-Series Foundation Model with 16K Context&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 31, 05:21&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Google Research released TimesFM, a 200-million parameter foundation model specifically designed for time-series forecasting with a 16,000-token context window. The model represents Google's entry into specialized AI models for temporal data analysis and forecasting applications. This addresses the growing need for AI models optimized for time-series data across industries.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Specialized AI model addressing time-series forecasting needs across industries with significant context window capabilities&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://github.com/google-research/timesfm"&gt;Google Research&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/03/30/ai-trust-adoption-poll-more-americans-adopt-tools-fewer-say-they-can-trust-the-results/"&gt;Survey: AI Adoption Rising But Trust Declining Among Americans&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 30, 20:24&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;A new Quinnipiac University poll shows that while AI tool adoption is increasing in the U.S., trust in the technology remains low, with most Americans concerned about transparency, regulation, and broader societal impact. Only 15% of Americans say they'd be willing to work for an AI boss that assigned tasks and set schedules. This highlights the growing gap between AI capability and public confidence.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Critical trust gap affecting AI adoption and workplace integration despite increasing usage of AI tools&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/03/30/ai-trust-adoption-poll-more-americans-adopt-tools-fewer-say-they-can-trust-the-results/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/03/30/blueskys-new-ai-tool-attie-is-already-the-most-blocked-account-other-than-j-d-vance/"&gt;Bluesky's New AI Tool Attie Becomes Most Blocked Account After J.D. Vance&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 30, 18:03&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;More than 125,000 Bluesky users have blocked Attie, the platform's new AI assistant for creating custom feeds, in just a few days since launch. The AI tool, powered by Anthropic's Claude, allows users to create personalized content algorithms using natural language. The massive blocking demonstrates strong user resistance to AI integration on the platform.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Strong user resistance to AI integration on social media platforms affecting AI tool acceptance and platform AI strategy&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/03/30/blueskys-new-ai-tool-attie-is-already-the-most-blocked-account-other-than-j-d-vance/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Technology&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theregister.com/2026/03/30/github_copilot_ads_pull_requests/"&gt;GitHub Reverses Copilot Advertisement Injection After Developer Backlash&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 31, 05:11&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;GitHub has killed its controversial feature that automatically inserted advertisement content into user pull requests through Copilot after significant developer community backlash. The company quickly reversed the decision following widespread criticism about AI coding tools injecting unwanted commercial content into software projects. This highlights ongoing tension between AI tool monetization and developer trust.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major AI coding tool integrity issue affecting developer trust and demonstrating boundaries of acceptable AI-assisted development practices&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.theregister.com/2026/03/30/github_copilot_ads_pull_requests/"&gt;The Register&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.techzine.eu/news/devices/140058/sony-halts-memory-card-shipments-due-to-nand-shortage/"&gt;Sony Halts Memory Card Shipments Due to NAND Flash Shortage&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 31, 05:12&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sony has suspended memory card shipments globally due to a critical NAND flash memory shortage affecting the electronics industry. The shortage impacts consumer storage products and highlights supply chain vulnerabilities in semiconductor manufacturing. This represents broader industry challenges with memory component availability affecting multiple technology sectors.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major supply chain disruption affecting consumer electronics and highlighting semiconductor manufacturing vulnerabilities&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.techzine.eu/news/devices/140058/sony-halts-memory-card-shipments-due-to-nand-shortage/"&gt;TechZine&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://android-developers.googleblog.com/2026/03/android-developer-verification-rolling-out-to-all-developers.html"&gt;Google Announces Android Developer Verification Requirements&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 30, 22:05&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Google has announced new Android Developer Verification requirements that will be rolled out to all developers publishing apps on the Google Play Store. The verification process aims to enhance app security and user trust by requiring additional identity confirmation from developers. This represents a significant change to the Android app publishing process with implications for developer workflows.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major platform policy change affecting Android app development workflows and app store security requirements&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://android-developers.googleblog.com/2026/03/android-developer-verification-rolling-out-to-all-developers.html"&gt;Android Developers Blog&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Business &amp; Markets&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/03/30/allbirds-is-selling-for-39-million-it-raised-nearly-10-times-that-amount-in-its-ipo/"&gt;Allbirds Sells for $39 Million After Raising Nearly 10x That in IPO&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 31, 05:30&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;The once-hyped sustainable footwear brand Allbirds is selling for just $39 million, a dramatic collapse from the nearly $400 million it raised in its 2021 IPO. The sale represents one of the most significant venture-backed startup failures in recent years. The collapse has been well-documented as the company struggled with competition and market positioning.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major startup failure demonstrating venture capital and public market risks in consumer brand investments&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/03/30/allbirds-is-selling-for-39-million-it-raised-nearly-10-times-that-amount-in-its-ipo/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/03/30/former-coatue-partner-raises-huge-65m-seed-for-enterprise-ai-agent-startup/"&gt;Former Coatue Partner Raises $65M Seed for Enterprise AI Agent Startup&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 30, 21:53&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;A former Coatue partner has raised an unusually large $65 million seed round for an enterprise AI agent startup, representing one of the largest seed rounds in recent memory. The significant funding reflects investor confidence in enterprise AI automation and the founder's track record. This demonstrates continued strong investor appetite for AI agent applications in business settings.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Record-breaking seed funding reflecting investor confidence in enterprise AI agents and automation capabilities&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/03/30/former-coatue-partner-raises-huge-65m-seed-for-enterprise-ai-agent-startup/"&gt;TechCrunch&lt;/a&gt;&lt;br&gt;
+&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>Evening — Mar 30, 2026</title>
     <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-03-30-evening.html"/>
@@ -1445,73 +1553,6 @@
 &lt;p&gt;Microsoft is addressing ongoing service issues preventing users from accessing Exchange Online mailboxes via Outlook mobile and Mac desktop clients since Thursday. The service disruption affects cloud-based email access across multiple platforms, highlighting dependency risks on centralized cloud services. The issue stems from changes to Exchange Online's virtual account handling mechanism.&lt;/p&gt;&lt;br&gt;
 &lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Enterprise email service reliability affecting your Microsoft 365 dependency risk and business continuity planning&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
 &lt;p&gt;Sources: &lt;a href="https://www.bleepingcomputer.com/news/microsoft/new-exchange-online-virtual-account-blocks-email-access-via-mobile-mac-apps/"&gt;BleepingComputer&lt;/a&gt;&lt;br&gt;
-&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>Afternoon — Mar 24, 2026</title>
-    <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-03-24-afternoon.html"/>
-    <id>https://jonaskjellin.github.io/pulsebrief-site/2026-03-24-afternoon.html</id>
-    <updated>2026-03-24T11:40:00.695Z</updated>
-    <content type="html">&lt;p&gt;&lt;h1&gt;Jonas's Afternoon Pulse&lt;/h1&gt;&lt;br&gt;
-&lt;em&gt;Mon, Mar 23, 06:00 → Mon, Mar 23, 12:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;Cyber Security&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://thehackernews.com/2026/03/we-found-eight-attack-vectors-inside.html"&gt;Researchers Discover Eight Attack Vectors in AWS Bedrock AI Platform&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 23, 11:55&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Security researchers have identified eight attack vectors within AWS Bedrock, Amazon's platform for building AI-powered applications. The vulnerabilities stem from Bedrock's connectivity to enterprise systems - the same feature that makes it powerful also creates attack surfaces when AI agents can query Salesforce, trigger Lambda functions, or access SharePoint data. These findings highlight new security challenges as AI platforms become more integrated with enterprise infrastructure.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Critical security implications for your AI-native system architecture as enterprise AI platforms expand attack surfaces through system integrations&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://thehackernews.com/2026/03/we-found-eight-attack-vectors-inside.html"&gt;The Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://thehackernews.com/2026/03/trivy-hack-spreads-infostealer-via.html"&gt;Trivy Supply Chain Attack Spreads Malware Through Docker Hub&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 23, 08:31&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Following the Trivy supply chain attack, malicious artifacts have been distributed via Docker Hub, with compromised versions 0.69.4, 0.69.5, and 0.69.6 spreading infostealer malware. The attack has expanded to include worm propagation and Kubernetes wipers, demonstrating the widening impact across developer environments. Docker Hub has since removed the malicious container images, but the incident highlights supply chain risks in container ecosystems.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Supply chain security concern affecting your container and Kubernetes security practices, especially given widespread Trivy adoption for vulnerability scanning&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://thehackernews.com/2026/03/trivy-hack-spreads-infostealer-via.html"&gt;The Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://thehackernews.com/2026/03/hackers-exploit-cve-2025-32975-cvss-100.html"&gt;Attackers Exploit Maximum-Severity Quest KACE Vulnerability in the Wild&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 23, 06:15&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Threat actors are actively exploiting CVE-2025-32975, a critical vulnerability with CVSS score 10.0 affecting Quest KACE Systems Management Appliance (SMA). Arctic Wolf observed malicious activity starting March 9, 2026, targeting unpatched SMA systems exposed to the internet. The vulnerability allows complete system compromise of enterprise management infrastructure.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Critical enterprise infrastructure threat requiring immediate patching assessment if your organization uses Quest KACE for system management&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://thehackernews.com/2026/03/hackers-exploit-cve-2025-32975-cvss-100.html"&gt;The Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://thehackernews.com/2026/03/microsoft-warns-irs-phishing-hits-29000.html"&gt;IRS Phishing Campaign Targets 29,000 Users with Remote Access Malware&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 23, 10:55&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Microsoft warned of large-scale phishing campaigns exploiting tax season to deliver remote monitoring and management (RMM) malware. The campaigns use fake IRS refund notices, payroll forms, and filing reminders to trick users into credential theft and malware installation. The attacks leverage the urgency of tax deadlines to increase success rates against enterprise users.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Seasonal threat campaign affecting your user awareness training and email security controls during high-risk tax season period&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://thehackernews.com/2026/03/microsoft-warns-irs-phishing-hits-29000.html"&gt;The Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.bleepingcomputer.com/news/security/fbi-warns-of-handala-hackers-using-telegram-in-malware-attacks/"&gt;FBI Issues Alert on Iranian Handala Hackers Using Telegram for Attacks&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 23, 09:45&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;The FBI warned that Iranian hackers linked to the Ministry of Intelligence and Security (MOIS) are leveraging Telegram messaging platform in their malware operations. The Handala group represents a sophisticated nation-state threat actor expanding their communication and command infrastructure through popular messaging platforms. This development shows nation-state actors adapting legitimate platforms for offensive operations.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Nation-state threat evolution affecting your monitoring of communication platforms and detection of legitimate tool abuse in your environment&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.bleepingcomputer.com/news/security/fbi-warns-of-handala-hackers-using-telegram-in-malware-attacks/"&gt;BleepingComputer&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-darksword-ios-flaws-exploited-attacks/"&gt;CISA Orders Federal Agencies to Patch DarkSword iOS Exploits&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 23, 08:37&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;CISA mandated federal agencies patch three iOS vulnerabilities exploited by the DarkSword exploit kit in cryptocurrency theft and cyberespionage attacks. The directive highlights active exploitation of mobile device vulnerabilities for financial crime and intelligence gathering. Government agencies must comply with emergency patching requirements for these actively exploited flaws.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Active mobile exploitation affecting your iOS security posture and mobile device management policies in enterprise environments&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-darksword-ios-flaws-exploited-attacks/"&gt;BleepingComputer&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.securityweek.com/tycoon-2fa-fully-operational-despite-law-enforcement-takedown/"&gt;Tycoon 2FA Service Fully Operational Despite Law Enforcement Takedown&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 23, 10:29&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;The Tycoon 2FA phishing-as-a-service platform has returned to full operational capacity following a law enforcement disruption, with attack volumes back to pre-takedown levels. The service's rapid recovery demonstrates the resilience of cybercriminal infrastructure and unchanged adversary tactics. This development shows the challenges law enforcement faces in permanently disrupting cybercriminal services.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Phishing-as-a-service resilience affecting your 2FA bypass threat assessment and the ongoing effectiveness of multi-factor authentication controls&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.securityweek.com/tycoon-2fa-fully-operational-despite-law-enforcement-takedown/"&gt;SecurityWeek&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.bleepingcomputer.com/news/microsoft/new-kb5085516-emergency-update-fixes-microsoft-account-sign-in/"&gt;Microsoft Releases Emergency Update for Account Sign-in Issues&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 23, 08:04&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Microsoft issued emergency update KB5085516 to fix major sign-in failures affecting Microsoft accounts across multiple applications including Teams and OneDrive. The widespread authentication issues disrupted enterprise productivity services and highlighted dependency risks on centralized identity systems. The emergency nature suggests significant business impact across Microsoft's enterprise customer base.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Enterprise identity system reliability affecting your Microsoft 365 dependency risk assessment and identity provider diversification strategy&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.bleepingcomputer.com/news/microsoft/new-kb5085516-emergency-update-fixes-microsoft-account-sign-in/"&gt;BleepingComputer&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;AI &amp; Machine Learning&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.wired.com/story/project-maven-katrina-manson-book-excerpt/"&gt;Pentagon's Project Maven Transforms AI Warfare Skeptics Into Believers&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 23, 10:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;The Pentagon's Project Maven AI initiative has successfully converted early skeptics within the Department of Defense into strong advocates for AI warfare capabilities. The program represents a significant shift in military AI adoption, moving from experimental phases to operational deployment. This transformation highlights the accelerating integration of AI systems into national defense infrastructure and strategy.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Military AI adoption patterns affecting your understanding of AI security requirements and dual-use technology implications for enterprise AI systems&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.wired.com/story/project-maven-katrina-manson-book-excerpt/"&gt;Wired AI&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.wired.com/story/europe-squeeze-power-energy-grid-ai-data-center/"&gt;European Power Grids Strain Under AI Data Center Demand&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 23, 09:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;European network operators are experimenting with novel grid management approaches as data center developers queue up for power connections driven by AI workload demands. The surge in AI computing requirements is pressuring existing electrical infrastructure beyond traditional capacity planning models. Utilities are exploring new technologies and load management strategies to accommodate the exponential growth in AI-driven energy consumption.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;AI infrastructure scaling constraints affecting your data center strategy and energy-intensive AI deployment planning in European operations&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.wired.com/story/europe-squeeze-power-energy-grid-ai-data-center/"&gt;Wired AI&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;Technology&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.schneier.com/blog/archives/2026/03/microsoft-xbox-hacked.html"&gt;Xbox One Completely Compromised by Unpatchable Hardware Attack&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 23, 11:01&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Security researcher Gaasedelen developed the 'Bliss' exploit using precise voltage glitching techniques to completely compromise Xbox One consoles at the hardware level. The attack bypasses ARM Cortex memory protection and allows loading unsigned code at every system level including hypervisor and OS. As a boot ROM silicon attack, it's unpatchable and enables complete access to the security processor for decrypting games and firmware.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Hardware-level exploitation technique affecting your understanding of silicon-based attack vectors and the limits of software-based security controls&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.schneier.com/blog/archives/2026/03/microsoft-xbox-hacked.html"&gt;Schneier on Security&lt;/a&gt;&lt;br&gt;
 &lt;/p&gt;</content>
   </entry>
 </feed>
