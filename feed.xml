@@ -5,7 +5,125 @@
   <link href="https://jonaskjellin.github.io/pulsebrief-site/feed.xml" rel="self"/>
   <link href="https://jonaskjellin.github.io/pulsebrief-site/"/>
   <id>https://jonaskjellin.github.io/pulsebrief-site/</id>
-  <updated>2026-04-01T11:45:35.723Z</updated>
+  <updated>2026-04-01T16:44:42.472Z</updated>
+  <entry>
+    <title>Evening — Apr 1, 2026</title>
+    <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-04-01-evening.html"/>
+    <id>https://jonaskjellin.github.io/pulsebrief-site/2026-04-01-evening.html</id>
+    <updated>2026-04-01T16:44:42.472Z</updated>
+    <content type="html">&lt;p&gt;&lt;h1&gt;PulseBrief's Evening Pulse&lt;/h1&gt;&lt;br&gt;
+&lt;em&gt;Wed, Apr 1, 11:00 → Wed, Apr 1, 16:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Cyber Security&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://thehackernews.com/2026/04/new-chrome-zero-day-cve-2026-5281-under.html"&gt;Google Patches Fifth Chrome Zero-Day Exploited in Wild This Year&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 1, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Google released an emergency security update for Chrome to patch CVE-2026-5281, a use-after-free vulnerability in Dawn WebGPU implementation that is actively being exploited in attacks. This marks the fifth Chrome zero-day exploited in the wild in 2026, indicating an alarming escalation in browser-targeted attacks. The vulnerability affects Chrome versions prior to 146.0.7680.177/178 across Windows, Mac, and Linux platforms.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Critical browser security affecting billions of users with confirmation of active exploitation, part of concerning trend of Chrome zero-day attacks this year&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://thehackernews.com/2026/04/new-chrome-zero-day-cve-2026-5281-under.html"&gt;The Hacker News&lt;/a&gt; · &lt;a href="https://cybersecuritynews.com/chrome-zero-day-vulnerability-exploited/"&gt;Cybersecurity News&lt;/a&gt; · &lt;a href="https://cyberpress.org/chrome-zero-day-vulnerability/"&gt;CyberPress&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://cybersecuritynews.com/hackers-exploiting-weblogic-rce-vulnerabilities/"&gt;Oracle WebLogic Critical RCE Vulnerability Under Active Exploitation&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 1, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Threat actors are actively exploiting CVE-2026-21962, a maximum-severity vulnerability in Oracle WebLogic Server with a perfect CVSS score of 10.0. The critical flaw allows unauthenticated remote code execution and began being exploited immediately after public proof-of-concept code was released. WebLogic Server is widely deployed in enterprise environments, making this a significant threat to business operations.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Critical enterprise application server infrastructure under immediate attack with maximum severity rating affecting widespread business operations&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://cybersecuritynews.com/hackers-exploiting-weblogic-rce-vulnerabilities/"&gt;Cybersecurity News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://cyberpress.org/data-leak-allegedly-claimed-by-shinyhunters/"&gt;ShinyHunters Claims Major Cisco Breach with Source Code and AWS Credentials&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 1, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;The notorious cybercriminal group ShinyHunters has claimed responsibility for breaching Cisco's internal development networks, allegedly stealing sensitive source code, AWS credentials, and private GitHub repositories. The breach reportedly affects both Cisco's proprietary code and customer-related repositories, with potential exposure extending to Salesforce, Aura, and U.S. government agencies. The attack originated from a supply chain compromise, demonstrating cascading impacts of third-party security failures.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major enterprise infrastructure breach affecting critical technology vendor with potential widespread downstream impact on customers and supply chain security&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://cyberpress.org/data-leak-allegedly-claimed-by-shinyhunters/"&gt;CyberPress&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://thehackernews.com/2026/04/microsoft-warns-of-whatsapp-delivered.html"&gt;Microsoft Warns of WhatsApp-Delivered VBS Malware Using UAC Bypass&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 1, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Microsoft has identified a new campaign distributing malicious Visual Basic Script files through WhatsApp messages, initiating multi-stage infection chains for persistence and remote access. The attack leverages UAC bypass techniques to hijack Windows systems, representing sophisticated social engineering through trusted messaging platforms. The campaign has been active since late February 2026, targeting users through legitimate communication channels.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Sophisticated social engineering campaign affecting trusted communication platforms and demonstrating advanced Windows privilege escalation techniques&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://thehackernews.com/2026/04/microsoft-warns-of-whatsapp-delivered.html"&gt;The Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.bleepingcomputer.com/news/security/fbi-warns-against-using-chinese-mobile-apps-over-to-data-security-risks/"&gt;FBI Warns Americans Against Using Chinese Mobile Apps&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 1, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;The FBI has issued warnings against using foreign-developed mobile applications, particularly those created by Chinese developers, citing significant privacy and data security risks. The warning comes amid escalating concerns about data collection practices and potential national security implications of foreign-controlled applications. This represents a broader shift in federal guidance on technology security and foreign technology risks.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;National security guidance affecting consumer technology choices and highlighting foreign technology risks in mobile applications&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.bleepingcomputer.com/news/security/fbi-warns-against-using-chinese-mobile-apps-over-to-data-security-risks/"&gt;BleepingComputer&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://therecord.media/romania-cyberattacks-russia-defense-minister"&gt;Romania Faces Thousands of Daily Cyberattacks, Defense Minister Reports&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 1, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Romanian Defense Minister Radu Miruta disclosed that government institutions are experiencing thousands of cyberattack attempts daily targeting public institutions across the country. The sustained campaign represents a significant escalation in cyber warfare against European NATO allies, with attacks affecting critical government infrastructure and operations. This highlights the ongoing cyber threat landscape facing European democracies.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major European government infrastructure under sustained cyber assault affecting NATO ally operations and democratic institutions&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://therecord.media/romania-cyberattacks-russia-defense-minister"&gt;The Record&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://cybersecuritynews.com/ctrl-for-rdp-hijacking/"&gt;Russian 'CTRL' Toolkit Enables RDP Session Hijacking and Credential Theft&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 1, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;A newly disclosed Russian-linked remote access toolkit called 'CTRL' is being used to hijack Remote Desktop Protocol sessions and steal credentials from Windows systems. The custom .NET framework combines phishing, keylogging, reverse tunneling, and persistence mechanisms into a comprehensive attack chain. The toolkit demonstrates sophisticated targeting of enterprise remote access infrastructure.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Advanced nation-state toolkit affecting enterprise remote access security and demonstrating sophisticated Windows system compromise capabilities&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://cybersecuritynews.com/ctrl-for-rdp-hijacking/"&gt;Cybersecurity News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://cybersecuritynews.com/hackers-use-etherrat-and-etherhiding/"&gt;EtherRAT Malware Hides Command Infrastructure on Ethereum Blockchain&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 1, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;A sophisticated backdoor called EtherRAT is targeting organizations by hiding its command-and-control infrastructure inside the Ethereum blockchain, making it extremely difficult to track and shut down. The Node.js-based malware provides full remote control over compromised machines and can steal cryptocurrency wallets and execute arbitrary commands. This represents a novel abuse of blockchain technology for malware infrastructure.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Innovative malware infrastructure abuse affecting detection capabilities and demonstrating blockchain technology weaponization for persistent attacks&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://cybersecuritynews.com/hackers-use-etherrat-and-etherhiding/"&gt;Cybersecurity News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/04/01/hasbro-hacked-may-take-several-weeks-to-recover/"&gt;Hasbro Confirms Major Cyberattack, Recovery May Take Weeks&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 1, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;American toy giant Hasbro confirmed it suffered a significant cyberattack and warned that full recovery may take several weeks as the company implements security measures. The breach suggests attackers may still have access to the company's systems, affecting business operations during the critical recovery period. This represents a major compromise of consumer brand infrastructure with potential supply chain implications.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major consumer brand infrastructure compromise affecting business operations and demonstrating ongoing threat to manufacturing and retail sectors&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/04/01/hasbro-hacked-may-take-several-weeks-to-recover/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://cybersecuritynews.com/hsbc-india-uppercase-passwords/"&gt;HSBC India Mandates All-Uppercase Passwords, Raising Security Concerns&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 1, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;HSBC India announced that starting April 6, 2026, internet banking customers must enter passwords in uppercase letters only, sparking widespread concern among security experts about the bank's credential storage practices. The policy change raises questions about password security implementation and whether the bank is storing passwords in plaintext or using insecure hashing methods. This represents a significant departure from modern password security best practices.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major banking security policy raising concerns about fundamental password security practices at large financial institution&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://cybersecuritynews.com/hsbc-india-uppercase-passwords/"&gt;Cybersecurity News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;AI &amp; Machine Learning&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://cybersecuritynews.com/google-clouds-vertex-ai-platform-vulnerability/"&gt;Google Cloud Vertex AI Vulnerability Allows Data Theft Through AI Agents&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 1, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Security researchers discovered vulnerabilities in Google Cloud's Vertex AI platform that allow attackers to weaponize AI agents into 'double agents' that secretly exfiltrate data and compromise cloud infrastructure. The issue stems from overly permissive default permission scoping that enables privilege escalation through deployed AI agents. This highlights critical security risks as enterprises increasingly deploy AI agents with elevated cloud permissions.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;AI platform vulnerability affecting enterprise cloud security through privileged AI agent exploitation demonstrating new attack vectors in AI infrastructure&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://cybersecuritynews.com/google-clouds-vertex-ai-platform-vulnerability/"&gt;Cybersecurity News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theverge.com/tech/905021/elgato-stream-deck-mcp-ai-agent-update"&gt;Elgato Adds AI Control to Stream Deck via Model Context Protocol&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 1, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Elgato released Stream Deck 7.4 software update introducing Model Context Protocol support, allowing AI assistants like Claude, ChatGPT, and Nvidia G-Assist to find and activate Stream Deck actions through voice or text commands. The integration lets users delegate button pressing to chatbots while maintaining existing action configurations. This represents growing integration of AI assistants with hardware control interfaces.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;AI integration expanding into hardware control interfaces affecting creator workflows and demonstrating voice-first AI assistant adoption in productivity tools&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.theverge.com/tech/905021/elgato-stream-deck-mcp-ai-agent-update"&gt;The Verge&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.technologyreview.com/2026/04/01/1134993/the-download-gig-workers-training-humanoids-better-ai-benchmarks/"&gt;Gig Workers Training Humanoid Robots from Home in New Data Economy&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 1, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;A new gig economy has emerged where medical students and other workers strap cameras to themselves to record everyday tasks at home, training humanoid robots through detailed human movement and behavior data. Companies are paying remote workers to capture human actions that feed into robotic training systems, representing a significant shift in AI training data collection methods. This demonstrates the emergence of human-robot training as a distinct labor category.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;New AI training data economy affecting labor markets and demonstrating novel approaches to robotic learning through distributed human data collection&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.technologyreview.com/2026/04/01/1134993/the-download-gig-workers-training-humanoids-better-ai-benchmarks/"&gt;MIT Technology Review&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Technology&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/04/01/spacex-files-confidentially-for-ipo-in-mega-listing-potentially-valued-at-1-75-trillion-report-says/"&gt;SpaceX Files Confidentially for IPO at Potential $1.75 Trillion Valuation&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 1, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;SpaceX has confidentially filed for an IPO that could value the company at $1.75 trillion, making it one of the largest public offerings in history. The company has lined up 21 banks to manage the mega IPO, internally codenamed 'Project Apex,' representing unprecedented scale for a space technology public offering. This would mark Elon Musk's second major public company after Tesla.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Historic IPO filing affecting space industry and capital markets with unprecedented valuation levels for aerospace technology company&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/04/01/spacex-files-confidentially-for-ipo-in-mega-listing-potentially-valued-at-1-75-trillion-report-says/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://gizmodo.com/apple-removes-iphone-vibe-coding-app-from-app-store-2000740084"&gt;Apple Removes iPhone Vibe Coding App from App Store&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 1, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Apple has removed the iPhone Vibe coding app from the App Store, affecting developers who used the mobile development tool for iOS programming. The removal highlights ongoing tensions between Apple's app store policies and developer tool availability on the platform. This continues Apple's strict enforcement of App Store guidelines that can impact developer workflows and tool accessibility.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Platform control over developer tools affecting iOS development capabilities and demonstrating app store policy enforcement on programming utilities&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://gizmodo.com/apple-removes-iphone-vibe-coding-app-from-app-store-2000740084"&gt;Gizmodo&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://cyberpress.org/microsoft-to-remove-exif/"&gt;Microsoft to Remove EXIF Data from Images in Teams for Privacy&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 1, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Microsoft is implementing significant privacy enhancements for Microsoft Teams, including automatic removal of EXIF metadata from images shared within the platform. EXIF data contains hidden metadata like GPS coordinates, device information, and timestamps that can compromise user privacy. This represents a major privacy improvement for enterprise communication platforms.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major enterprise communication platform privacy enhancement affecting workplace data security and demonstrating proactive metadata protection measures&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://cyberpress.org/microsoft-to-remove-exif/"&gt;CyberPress&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.phoronix.com/news/Linux-IPv6-IPv4-Legacy-Knobs"&gt;Linux Patches Enable IPv6-Only Builds, Removing IPv4 Legacy Code&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 1, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;New Linux kernel patches allow building the operating system with IPv6-only support, completely removing IPv4 legacy components and reducing the codebase footprint. The patches represent a significant step toward modern networking infrastructure that could improve performance and security by eliminating decades of legacy protocol support. This demonstrates the ongoing evolution toward IPv6-first network infrastructure.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major networking infrastructure evolution affecting future internet protocols and demonstrating transition away from legacy IPv4 dependencies&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.phoronix.com/news/Linux-IPv6-IPv4-Legacy-Knobs"&gt;Phoronix&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/04/01/lucid-motors-recalls-over-4000-gravity-suvs-citing-improperly-welded-seat-belts/"&gt;Lucid Motors Recalls 4,000 Gravity SUVs for Improperly Welded Seat Belts&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 1, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Lucid Motors issued a recall for over 4,000 Gravity SUVs citing improperly welded seat belts that pose safety risks to occupants. The recall follows previous quality issues when Gravity production began last year, indicating ongoing manufacturing challenges for the electric vehicle startup. This demonstrates continued quality control problems in EV manufacturing scale-up.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Electric vehicle safety and manufacturing quality affecting consumer confidence in EV startup production capabilities&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/04/01/lucid-motors-recalls-over-4000-gravity-suvs-citing-improperly-welded-seat-belts/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Business &amp; Markets&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://news.crunchbase.com/venture/record-breaking-funding-ai-global-q1-2026/"&gt;Q1 2026 Shatters Venture Funding Records with $297B Invested&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 1, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;The first quarter of 2026 set unprecedented venture funding records with investors pouring $297 billion into 6,000 startups globally, up 150% year-over-year and quarter-over-quarter. The historic funding surge was driven by massive spending on AI compute infrastructure and frontier AI labs, marking an all-time high for global venture investment. This represents the largest quarterly venture investment on record, significantly exceeding any previous quarter.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Record-breaking investment levels demonstrating massive capital deployment in AI infrastructure with historic implications for startup funding markets&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://news.crunchbase.com/venture/record-breaking-funding-ai-global-q1-2026/"&gt;Crunchbase News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/04/01/cognichip-wants-ai-to-design-the-chips-that-power-ai-and-just-raised-60m-to-try/"&gt;Cognichip Raises $60M to Use AI for Semiconductor Design&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 1, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Cognichip secured $60 million in funding to develop AI systems that design the chips powering AI applications, claiming it can reduce chip development costs by over 75% and cut timelines by more than half. The startup represents the emerging trend of AI designing AI hardware, potentially transforming semiconductor development processes. This addresses critical bottlenecks in AI chip development as demand for specialized silicon grows exponentially.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;AI-for-AI hardware development affecting semiconductor industry efficiency and addressing critical bottlenecks in AI chip design and manufacturing&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/04/01/cognichip-wants-ai-to-design-the-chips-that-power-ai-and-just-raised-60m-to-try/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/04/01/nothings-ai-devices-plan-reportedly-contains-smart-glasses-and-earbuds/"&gt;Nothing Plans AI-Powered Smart Glasses and Earbuds&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 1, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Consumer electronics company Nothing is reportedly developing AI-powered smart glasses and earbuds featuring cameras, microphones, and speakers that connect to smartphones and cloud services for AI query processing. The devices represent Nothing's expansion into AI-integrated wearables, competing with Meta's Ray-Ban smart glasses and other AI wearable products. This demonstrates growing convergence between consumer electronics and AI assistant technology.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;AI wearable expansion affecting consumer electronics market and demonstrating integration of AI assistants into everyday personal devices&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/04/01/nothings-ai-devices-plan-reportedly-contains-smart-glasses-and-earbuds/"&gt;TechCrunch&lt;/a&gt;&lt;br&gt;
+&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>Afternoon — Apr 1, 2026</title>
     <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-04-01-afternoon.html"/>
@@ -1682,109 +1800,6 @@
 &lt;p&gt;Volunteers in Iran created Mahsa Alert, a crowdsourced website and app that provides citizens with crucial missile warning information during the country's ongoing conflicts, filling a gap left by the government's lack of an official alert system. The platform operates despite internet blackouts and government restrictions, demonstrating citizen-led technology solutions for critical safety information. This represents an innovative use of crowdsourcing for emergency alert systems in authoritarian contexts.&lt;/p&gt;&lt;br&gt;
 &lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Citizen-led emergency technology affecting your understanding of crowdsourced safety systems and technology resilience in restricted environments&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
 &lt;p&gt;Sources: &lt;a href="https://www.wired.com/story/iranians-dont-have-a-missile-alert-system-so-volunteers-built-their-own-warning-map/"&gt;Wired Security&lt;/a&gt;&lt;br&gt;
-&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>Custom — Mar 26, 2026</title>
-    <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-03-26-custom.html"/>
-    <id>https://jonaskjellin.github.io/pulsebrief-site/2026-03-26-custom.html</id>
-    <updated>2026-03-26T06:06:58.073Z</updated>
-    <content type="html">&lt;p&gt;&lt;h1&gt;PulseBrief's Update Pulse&lt;/h1&gt;&lt;br&gt;
-&lt;em&gt;as of Thu, Mar 26, 06:06&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;Cyber Security&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://thehackernews.com/2026/03/russian-hacker-sentenced-to-2-years-for.html"&gt;Russian Botnet Leader Gets 2 Years for Ransomware-Enabling Operations&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 25, 11:52&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;The U.S. Department of Justice sentenced Russian national Ilya Angelov to two years in prison for co-managing the TA551 botnet used to launch BitPaymer ransomware attacks against 72 U.S. companies. The group conducted phishing campaigns that facilitated initial access for ransomware operators, causing millions in damages. This represents continued U.S. success in prosecuting cybercriminals who enable ransomware ecosystems.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Demonstrates legal accountability for ransomware enablers and ongoing U.S. prosecution efforts targeting international cybercrime infrastructure&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://thehackernews.com/2026/03/russian-hacker-sentenced-to-2-years-for.html"&gt;The Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://thehackernews.com/2026/03/teampcp-backdoors-litellm-versions.html"&gt;TeamPCP Supply Chain Rampage Hits LiteLLM, Affecting 47,000 Downloads&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 24, 18:21&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;The TeamPCP hacking group compromised popular AI library LiteLLM versions 1.82.7 and 1.82.8 on PyPI, injecting credential harvesters targeting AWS, Kubernetes, Docker, SSH keys, Git credentials, and cryptocurrency wallets. The malicious packages were downloaded nearly 47,000 times during their 46-minute availability window. This follows TeamPCP's broader supply chain campaign targeting Trivy, Checkmarx KICS, and other developer tools.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major supply chain attack affecting your Python AI development dependencies and secrets management practices across the development ecosystem&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://thehackernews.com/2026/03/teampcp-backdoors-litellm-versions.html"&gt;The Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://thehackernews.com/2026/03/leakbase-admin-arrested-in-russia-over.html"&gt;LeakBase Cybercrime Forum Administrator Arrested in Russia&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 25, 17:35&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Russian law enforcement arrested the alleged administrator of LeakBase, a major cybercrime marketplace for stolen credentials, in the city of Taganrog. The forum facilitated the sale of massive databases of compromised user accounts and credentials. The arrest represents rare Russian law enforcement action against domestic cybercrime operations typically tolerated or ignored.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Significant cybercrime forum disruption affecting the underground credential marketplace that enables data breaches and account takeovers&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://thehackernews.com/2026/03/leakbase-admin-arrested-in-russia-over.html"&gt;The Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://thehackernews.com/2026/03/device-code-phishing-hits-340-microsoft.html"&gt;Device Code Phishing Campaign Targets 340+ Microsoft 365 Organizations&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 25, 11:34&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Cybersecurity researchers identified an active device code phishing campaign targeting Microsoft 365 identities across more than 340 organizations in the U.S., Canada, Australia, New Zealand, and Germany. The campaign leverages OAuth abuse techniques and has accelerated since first detection on February 19, 2026. The attacks exploit Microsoft's device code authentication flow to bypass traditional security controls.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Large-scale OAuth phishing threat affecting your Microsoft 365 security and multi-factor authentication bypass risk assessment&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://thehackernews.com/2026/03/device-code-phishing-hits-340-microsoft.html"&gt;The Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://thehackernews.com/2026/03/fcc-bans-new-foreign-made-routers-over.html"&gt;FCC Bans All New Foreign-Made Consumer Routers Over National Security Risks&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 25, 07:11&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;The Federal Communications Commission banned the import of new foreign-made consumer routers, citing "unacceptable" cybersecurity and national security risks. The comprehensive ban aligns with White House determination that all routers produced abroad pose threats to U.S. communications infrastructure. This represents the broadest FCC supply chain security action to date targeting networking equipment.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major networking equipment supply chain restriction affecting your router procurement and network infrastructure vendor strategy&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://thehackernews.com/2026/03/fcc-bans-new-foreign-made-routers-over.html"&gt;The Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://thehackernews.com/2026/03/glassworm-malware-uses-solana-dead.html"&gt;GlassWorm Malware Uses Solana Blockchain for Command and Control&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 25, 14:26&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Cybersecurity researchers discovered an evolution of the GlassWorm campaign using Solana blockchain "dead drops" for command and control while delivering multi-stage data theft frameworks. The malware captures screenshots, logs keystrokes, dumps cookies and session tokens, and installs a malicious Chrome extension disguised as offline Google Docs. This represents a sophisticated use of blockchain infrastructure for malware operations.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Advanced blockchain-based malware affecting your understanding of cryptocurrency infrastructure abuse and browser security threats&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://thehackernews.com/2026/03/glassworm-malware-uses-solana-dead.html"&gt;The Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://thehackernews.com/2026/03/tax-search-ads-deliver-screenconnect.html"&gt;Tax Season Malvertising Campaign Uses Vulnerable Huawei Driver to Disable EDR&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 24, 17:05&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;A large-scale malvertising campaign targeting U.S. tax document searches has been active since January 2026, serving rogue ConnectWise ScreenConnect installers through Google Ads. The malware deploys HwAudKiller, which uses a bring-your-own-vulnerable-driver technique to disable endpoint detection and response systems. The campaign exploits the tax season urgency to distribute remote access tools.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Seasonal malvertising threat affecting your endpoint security and Google Ads-based attack vector awareness during tax season&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://thehackernews.com/2026/03/tax-search-ads-deliver-screenconnect.html"&gt;The Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://cybersecuritynews.com/ghost-spn-attack/"&gt;Ghost SPN Attack Enables Stealthy Kerberoasting While Erasing Activity Traces&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 26, 05:09&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Security researchers revealed a sophisticated evolution of Kerberoasting dubbed "Ghost SPN" that allows attackers to extract Active Directory credentials while completely erasing all traces of their activity. The attack uses delegated administrative permissions to create temporary exposure windows, rendering traditional detection models effectively blind. This represents a significant advancement in stealthy credential extraction techniques.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Advanced Active Directory attack technique affecting your Kerberos security monitoring and credential theft detection capabilities&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://cybersecuritynews.com/ghost-spn-attack/"&gt;Cybersecurity News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;AI &amp; Machine Learning&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theverge.com/ai-artificial-intelligence/899850/openai-sora-ai-chatgpt"&gt;OpenAI Shuts Down Sora, Ending Billion-Dollar Disney Partnership&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 24, 21:08&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;OpenAI announced it is discontinuing Sora, its video generation tool, effectively ending the $1 billion licensing deal with Disney announced just months ago. The TikTok-like Sora app and API access for developers will be discontinued with no plans to integrate the feature into ChatGPT as previously rumored. This represents a major strategic retreat as OpenAI focuses on its core ChatGPT offerings ahead of a potential IPO.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major AI product discontinuation affecting your video generation tool strategy and understanding of OpenAI's strategic focus shifts&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.theverge.com/ai-artificial-intelligence/899850/openai-sora-ai-chatgpt"&gt;The Verge - AI&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theverge.com/ai-artificial-intelligence/900201/anthropic-claude-code-auto-mode"&gt;Anthropic Launches Claude Code Auto Mode with AI-Powered Safety Controls&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 25, 11:39&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Anthropic released "auto mode" for Claude Code, allowing AI to make permissions-level decisions autonomously while using Claude Sonnet 4.6 as a separate classifier to review and block potentially risky actions. The system flags operations that escalate beyond task scope, target untrusted infrastructure, or appear driven by hostile content. This represents a significant step toward safer autonomous AI agent operations.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Autonomous AI safety advancement affecting your AI agent security policies and understanding of permission-based AI control mechanisms&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.theverge.com/ai-artificial-intelligence/900201/anthropic-claude-code-auto-mode"&gt;The Verge - AI&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.wired.com/story/new-bernie-sanders-ai-safety-bill-would-halt-data-center-construction/"&gt;Bernie Sanders and AOC Propose Data Center Construction Moratorium&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 25, 13:28&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Senator Bernie Sanders and Rep. Alexandria Ocasio-Cortez introduced companion legislation to halt construction on new data centers until Congress passes comprehensive AI regulation. Sanders stated the moratorium would give lawmakers time to "ensure that AI is safe" as data centers supporting AI workloads rapidly expand. The proposal represents the most aggressive legislative approach to AI infrastructure regulation to date.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major AI infrastructure regulation proposal affecting your data center expansion plans and cloud service provider capacity planning&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.wired.com/story/new-bernie-sanders-ai-safety-bill-would-halt-data-center-construction/"&gt;Wired AI&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theverge.com/ai-artificial-intelligence/900425/google-lyria-3-pro-ai-music"&gt;Google Releases Lyria 3 Pro for Three-Minute AI Music Generation&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 25, 16:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Google expanded its Lyria 3 music-making AI to create tracks up to three minutes long, a sixfold increase from the previous 30-second limit. Lyria 3 Pro enables users to prompt for specific song elements like intros, choruses, and bridges while integrating across multiple Google products. This positions Google to compete directly with popular music generation tools like Suno and Udio.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;AI music generation capability expansion affecting your content creation tools and understanding of AI creative capabilities&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.theverge.com/ai-artificial-intelligence/900425/google-lyria-3-pro-ai-music"&gt;The Verge - AI&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;Technology&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theverge.com/ai-artificial-intelligence/899823/arm-agi-cpu-meta"&gt;Arm Announces First Self-Designed CPU with Meta as Lead Customer&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 24, 20:43&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;After decades of only licensing chip designs, Arm revealed its first self-manufactured processor: the Arm AGI CPU designed for AI inference workloads. Meta is both the lead partner and co-developer, planning to use multiple generations of the data center CPUs alongside hardware from Nvidia and AMD. This marks Arm's strategic shift from pure IP licensing to direct hardware competition.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major AI chip market disruption affecting your AI infrastructure vendor strategy and understanding of semiconductor industry evolution&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.theverge.com/ai-artificial-intelligence/899823/arm-agi-cpu-meta"&gt;The Verge - AI&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.bleepingcomputer.com/news/security/firefox-now-has-a-free-built-in-vpn-with-50gb-monthly-data-limit/"&gt;Firefox 149 Ships with Free Built-in VPN and 50GB Monthly Data Limit&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 24, 17:23&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Mozilla released Firefox 149.0 with a free built-in VPN service offering 50 GB of protected data per month, alongside critical security fixes and privacy enhancements. The VPN integration represents Mozilla's continued focus on privacy-first browsing features. This positions Firefox as a more privacy-focused alternative to Chrome and other mainstream browsers.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Browser privacy feature expansion affecting your web browsing security and VPN service evaluation for personal and organizational use&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.bleepingcomputer.com/news/security/firefox-now-has-a-free-built-in-vpn-with-50gb-monthly-data-limit/"&gt;BleepingComputer&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://arstechnica.com/security/2026/03/google-bumps-up-q-day-estimate-to-2029-far-sooner-than-previously-thought/"&gt;Google Warns Quantum Computing Could Break RSA Encryption by 2029&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 25, 15:49&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Google bumped up its "Q Day" deadline estimate to 2029, warning that quantum computers capable of breaking RSA and elliptic curve cryptography could arrive far sooner than previously thought. The company is urging the entire technology industry to move off vulnerable encryption algorithms more quickly. This represents an acceleration of the quantum cryptography threat timeline.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Quantum cryptography threat timeline acceleration affecting your encryption migration strategy and cryptographic infrastructure planning&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://arstechnica.com/security/2026/03/google-bumps-up-q-day-estimate-to-2029-far-sooner-than-previously-thought/"&gt;Ars Technica&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;Business &amp; Markets&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theverge.com/tech/900946/meta-layoffs-hundreds-employees"&gt;Meta Lays Off Hundreds of Employees Across Multiple Divisions&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 25, 21:10&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Meta is laying off hundreds of employees across recruiting, social media, sales teams, and Reality Labs, the division developing smart glasses and VR headsets. The job cuts impact workers in the U.S. and international markets as the company continues restructuring efforts while pouring resources into AI development. This represents continued tech industry workforce optimization amid AI investment priorities.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major tech layoffs affecting your understanding of industry workforce trends and AI investment prioritization impacts on traditional roles&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.theverge.com/tech/900946/meta-layoffs-hundreds-employees"&gt;The Verge - AI&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/03/25/harvey-confirms-11b-valuation-sequoia-triples-down/"&gt;Harvey AI Legal Startup Hits $11B Valuation with Sequoia Leading&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 25, 15:27&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;AI legal technology startup Harvey confirmed an $11 billion valuation in a funding round led by Sequoia Capital, with participation from Andreessen Horowitz, Kleiner Perkins, and Elad Gil. The significant valuation increase demonstrates continued strong investor appetite for AI applications in professional services. Harvey provides AI-powered legal research and document analysis tools for law firms and legal departments.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Massive AI legal tech valuation affecting your understanding of AI professional services market growth and legal industry transformation&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/03/25/harvey-confirms-11b-valuation-sequoia-triples-down/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/03/25/granola-raises-125m-hits-1-5b-valuation-as-it-expands-from-meeting-notetaker-to-enterprise-ai-app/"&gt;Granola Raises $125M at $1.5B Valuation, Expanding Beyond Meeting Notes&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 25, 14:48&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Meeting AI startup Granola raised $125 million at a $1.5 billion valuation, jumping from $250 million in its previous round. The company is expanding beyond meeting notetaking to become a broader enterprise AI application platform with enhanced AI agent support. The significant valuation increase reflects strong investor confidence in AI-powered productivity tools.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Enterprise AI productivity tool growth affecting your meeting technology and AI assistant evaluation for business process automation&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/03/25/granola-raises-125m-hits-1-5b-valuation-as-it-expands-from-meeting-notetaker-to-enterprise-ai-app/"&gt;TechCrunch&lt;/a&gt;&lt;br&gt;
 &lt;/p&gt;</content>
   </entry>
 </feed>
