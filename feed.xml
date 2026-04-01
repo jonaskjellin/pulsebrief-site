@@ -5,7 +5,140 @@
   <link href="https://jonaskjellin.github.io/pulsebrief-site/feed.xml" rel="self"/>
   <link href="https://jonaskjellin.github.io/pulsebrief-site/"/>
   <id>https://jonaskjellin.github.io/pulsebrief-site/</id>
-  <updated>2026-03-31T16:47:43.164Z</updated>
+  <updated>2026-04-01T06:22:36.027Z</updated>
+  <entry>
+    <title>Custom — Apr 1, 2026</title>
+    <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-04-01-custom.html"/>
+    <id>https://jonaskjellin.github.io/pulsebrief-site/2026-04-01-custom.html</id>
+    <updated>2026-04-01T06:22:36.027Z</updated>
+    <content type="html">&lt;p&gt;&lt;h1&gt;PulseBrief's Update Pulse&lt;/h1&gt;&lt;br&gt;
+&lt;em&gt;as of Wed, Apr 1, 06:22&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Cyber Security&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/03/31/hacker-hijacks-axios-open-source-project-used-by-millions-to-push-malware/"&gt;North Korean Hackers Compromise Axios NPM Package in Major Supply Chain Attack&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 31, 16:01&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Google Threat Intelligence attributed a supply chain attack against Axios, the popular JavaScript HTTP client with 101 million weekly downloads, to North Korean group UNC1069. Attackers used compromised npm credentials to inject malicious dependencies into versions 1.14.1 and 0.30.4, potentially affecting millions of applications. The malware stole credentials and installed remote access trojans on developer machines.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Critical supply chain compromise affecting core JavaScript infrastructure with potential widespread enterprise impact through compromised developer environments&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/03/31/hacker-hijacks-axios-open-source-project-used-by-millions-to-push-malware/"&gt;TechCrunch&lt;/a&gt; · &lt;a href="https://therecord.media/google-links-axios-supply-chain-attack-north-korea"&gt;The Record&lt;/a&gt; · &lt;a href="https://www.darkreading.com/application-security/axios-npm-package-compromised-precision-attack"&gt;Dark Reading&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.bleepingcomputer.com/news/security/cisco-source-code-stolen-in-trivy-linked-dev-environment-breach/"&gt;Cisco Source Code Stolen in Trivy-Linked Development Environment Breach&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 31, 17:53&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Cisco suffered a cyberattack after threat actors used stolen credentials from the recent Trivy supply chain attack to breach its internal development environment and steal proprietary source code. The breach affects both Cisco's own code and customer-related code repositories. This demonstrates the cascading impact of supply chain compromises on downstream enterprise targets.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major enterprise breach affecting proprietary code security and demonstrating supply chain attack amplification through compromised development tools&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.bleepingcomputer.com/news/security/cisco-source-code-stolen-in-trivy-linked-dev-environment-breach/"&gt;BleepingComputer&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.wired.com/story/iran-threatens-to-start-attacking-major-us-tech-firms-on-april-1/"&gt;Iran Threatens April 1 Cyberattacks on Major US Tech Companies&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 31, 21:25&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Iran's Islamic Revolutionary Guard Corps released a target list including Apple, Google, and Microsoft, threatening to begin cyberattacks on major US technology firms starting April 1. The public threat represents an escalation in Iranian cyber operations against American technology infrastructure. This marks a shift toward more overt state-sponsored cyber warfare declarations.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Critical threat escalation affecting major technology companies and signaling potential coordinated state-sponsored attacks on US tech infrastructure&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.wired.com/story/iran-threatens-to-start-attacking-major-us-tech-firms-on-april-1/"&gt;Wired&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://thehackernews.com/2026/03/trueconf-zero-day-exploited-in-attacks.html"&gt;TrueConf Zero-Day Exploited in Government Network Attacks&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 31, 16:03&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;A critical vulnerability in TrueConf video conferencing software (CVE-2026-3502) has been exploited as a zero-day in the 'TrueChaos' campaign targeting Southeast Asian government entities. The flaw allows attackers to distribute tampered updates through compromised application integrity checks. The attack demonstrates sophisticated targeting of government communication infrastructure.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Government infrastructure under active attack through communication systems affecting secure operations and demonstrating video conferencing security risks&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://thehackernews.com/2026/03/trueconf-zero-day-exploited-in-attacks.html"&gt;The Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://cybersecuritynews.com/mercor-ai-data-breach/"&gt;Mercor AI Confirms 4TB Data Breach Following Lapsus$ Claims&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 1, 04:31&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;AI recruiting startup Mercor AI confirmed a severe data breach after Lapsus$ hacking group claimed to steal 4 terabytes of sensitive company data. The incident stems from the recent LiteLLM supply chain attack, exposing proprietary source code, internal databases, and massive amounts of user verification data. This represents another cascading impact from open-source supply chain compromises.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major AI startup data breach affecting user privacy and demonstrating ongoing supply chain attack amplification through compromised dependencies&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://cybersecuritynews.com/mercor-ai-data-breach/"&gt;Cybersecurity News&lt;/a&gt; · &lt;a href="https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://cyberpress.org/malicious-pypi-sdk-targets/"&gt;Malicious Telnyx Python Package Targets Developer Credentials on PyPI&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 1, 05:54&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Threat actor TeamPCP uploaded malicious versions of the official Telnyx Python SDK to PyPI, targeting the popular communication API package with 750,000 monthly downloads. Versions 4.87.1 and 4.87.2 contained hidden code designed to steal sensitive developer credentials and authentication tokens. The attack demonstrates ongoing threats to Python package repositories.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Critical developer tool supply chain attack affecting Python ecosystem security and communication API credentials with widespread exposure potential&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://cyberpress.org/malicious-pypi-sdk-targets/"&gt;CyberPress&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.darkreading.com/cloud-security/teampcp-breaches-cloud-saas-instances-stolen-credentials"&gt;TeamPCP Escalates to Cloud and SaaS Attacks Using Stolen Credentials&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 31, 20:02&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;The TeamPCP threat group has shifted to rapid attacks on AWS, Azure, and SaaS instances using stolen credentials, demonstrating sophisticated cloud infrastructure targeting. The group's evolution shows how threat actors are adapting to cloud-native environments with faster attack timelines. Organizations need to respond more quickly to compromised credentials in cloud environments.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Cloud security threat escalation affecting enterprise cloud infrastructure through credential-based attacks requiring faster incident response capabilities&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.darkreading.com/cloud-security/teampcp-breaches-cloud-saas-instances-stolen-credentials"&gt;Dark Reading&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.wired.com/story/apple-will-push-out-rare-backported-patches-to-protect-ios-18-users-from-darksword-hacking-tool/"&gt;Apple Announces Rare iOS 18 Backported Patches for DarkSword Protection&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 1, 24:49&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Apple will release rare 'backported' security patches specifically for iOS 18 users to protect against the spreading DarkSword hacking tool, rather than forcing users to upgrade to iOS 26. The move represents an unusual security response acknowledging the severity of the DarkSword threat. This demonstrates Apple's commitment to protecting users who remain on older iOS versions.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Critical mobile security threat affecting millions of iPhone users with rare Apple security response demonstrating severity of emerging attack tools&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.wired.com/story/apple-will-push-out-rare-backported-patches-to-protect-ios-18-users-from-darksword-hacking-tool/"&gt;Wired&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.bleepingcomputer.com/news/security/gigabyte-control-center-vulnerable-to-arbitrary-file-write-flaw/"&gt;GIGABYTE Control Center Vulnerable to Arbitrary File Write Attacks&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 31, 22:28&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;The GIGABYTE Control Center contains an arbitrary file-write vulnerability that allows remote, unauthenticated attackers to access files on vulnerable systems. The flaw affects the hardware management software used by millions of GIGABYTE motherboard and system users. This represents a significant risk to desktop and workstation security through trusted hardware vendor software.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Hardware vendor software vulnerability affecting workstation security through trusted system management tools with potential for widespread exploitation&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.bleepingcomputer.com/news/security/gigabyte-control-center-vulnerable-to-arbitrary-file-write-flaw/"&gt;BleepingComputer&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;AI &amp; Machine Learning&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.bleepingcomputer.com/news/security/claude-ai-finds-vim-emacs-rce-bugs-that-trigger-on-file-open/"&gt;Claude AI Discovers Zero-Day RCE Vulnerabilities in Vim and Emacs&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 31, 21:45&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Anthropic's Claude AI successfully identified zero-day Remote Code Execution vulnerabilities in both Vim and GNU Emacs text editors using simple natural-language prompts. The vulnerabilities allow remote code execution simply by opening a specially crafted file in these widely-used development tools. This represents a paradigm shift in vulnerability research, demonstrating AI's capability to uncover critical flaws without traditional manual analysis.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;AI-powered vulnerability discovery transforming threat landscape and demonstrating automated capability to find critical flaws in essential developer tools&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.bleepingcomputer.com/news/security/claude-ai-finds-vim-emacs-rce-bugs-that-trigger-on-file-open/"&gt;BleepingComputer&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.bleepingcomputer.com/news/artificial-intelligence/claude-code-source-code-accidentally-leaked-in-npm-package/"&gt;Anthropic Accidentally Leaks Claude Code Source Code in NPM Package&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 1, 24:32&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Anthropic accidentally leaked the complete TypeScript source code for its proprietary Claude Code CLI tool through a misconfigured npm package containing unobfuscated source maps. The leak reveals internal implementation details, upcoming features including a Tamagotchi-style 'pet' and always-on agent functionality, and AI model instructions. This represents a major intellectual property exposure for the AI company.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major AI company intellectual property exposure affecting competitive positioning and revealing internal AI development strategies and upcoming features&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.bleepingcomputer.com/news/artificial-intelligence/claude-code-source-code-accidentally-leaked-in-npm-package/"&gt;BleepingComputer&lt;/a&gt; · &lt;a href="https://www.theverge.com/ai-artificial-intelligence/904776/anthropic-claude-source-code-leak"&gt;The Verge&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.darkreading.com/cyber-risk/googles-vertex-ai-over-privilege-problem"&gt;Google's Vertex AI Over-Privileged Problem Enables Data Theft&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 31, 20:26&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Palo Alto Networks researchers demonstrated how attackers could exploit AI agents on Google's Vertex AI platform to steal data and break into restricted cloud infrastructure through over-privileged configurations. The vulnerability allows AI agents to be weaponized for unauthorized access to sensitive cloud resources. This highlights critical security risks in AI platform deployments with elevated permissions.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;AI platform vulnerability affecting enterprise cloud security through privileged AI agent exploitation demonstrating new attack vectors in AI infrastructure&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.darkreading.com/cyber-risk/googles-vertex-ai-over-privilege-problem"&gt;Dark Reading&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://arstechnica.com/security/2026/03/new-quantum-computing-advances-heighten-threat-to-elliptic-curve-cryptosystems/"&gt;Quantum Computing Breakthrough Reduces Encryption Breaking Requirements&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 31, 18:25&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Google researchers demonstrated that breaking elliptic curve cryptography used in Bitcoin and other systems requires significantly fewer quantum computing resources than previously thought. New quantum algorithms reduce the hardware requirements for cryptographic attacks, accelerating the timeline for quantum threats. This has major implications for blockchain security and post-quantum cryptography adoption urgency.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Quantum threat acceleration affecting cryptocurrency and encryption security with urgent implications for post-quantum cryptographic transitions&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://arstechnica.com/security/2026/03/new-quantum-computing-advances-heighten-threat-to-elliptic-curve-cryptosystems/"&gt;Ars Technica&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theverge.com/ai-artificial-intelligence/904676/apple-carplay-openai-chatgpt"&gt;ChatGPT Now Available Through Apple CarPlay for Voice Conversations&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 31, 21:03&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;OpenAI's ChatGPT is now accessible from CarPlay dashboards for users with iOS 26.4 or newer, utilizing Apple's new support for voice-based conversational apps in vehicles. The integration only supports voice conversations without text display, adhering to Apple's safety guidelines for in-car applications. This represents a significant expansion of AI assistant availability in automotive environments.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;AI integration expanding into automotive environments affecting in-vehicle user experience and demonstrating voice-first AI assistant adoption&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.theverge.com/ai-artificial-intelligence/904676/apple-carplay-openai-chatgpt"&gt;The Verge&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Technology&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://thehackernews.com/2026/03/android-developer-verification-rollout.html"&gt;Android Developer Verification Requirements Rolling Out Globally&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 31, 18:28&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Google is officially rolling out Android developer verification to all developers to combat malicious apps distributed by anonymous bad actors, ahead of a mandatory verification requirement starting in Brazil, Indonesia, Singapore, and Thailand in September 2026. The verification process will expand globally next year, requiring additional identity confirmation from developers. This represents a significant change to Android app publishing with implications for developer workflows and app store security.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major platform policy change affecting Android app development workflows and app store security requirements with global enforcement timeline&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://thehackernews.com/2026/03/android-developer-verification-rollout.html"&gt;The Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.bleepingcomputer.com/news/microsoft/new-windows-11-kb5086672-emergency-update-fixes-install-issues/"&gt;Microsoft Releases Emergency Windows 11 Update to Fix Installation Issues&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 1, 05:33&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Microsoft released an emergency Windows 11 update (KB5086672) to fix problems with the March 2026 KB5079391 non-security preview update that was pulled over the weekend due to installation failures. The emergency patch addresses critical update deployment issues affecting enterprise and consumer systems. This highlights ongoing challenges with Windows update reliability.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Critical Windows infrastructure reliability affecting enterprise update management and system stability with emergency patch deployment&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.bleepingcomputer.com/news/microsoft/new-windows-11-kb5086672-emergency-update-fixes-install-issues/"&gt;BleepingComputer&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.bleepingcomputer.com/news/google/google-now-allows-you-to-change-your-gmailcom-address/"&gt;Google Now Allows Users to Change Gmail Addresses for First Time&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 31, 23:13&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Google is rolling out a new feature in the U.S. that allows users to change their @gmail.com address or create a new alias, breaking decades of permanent username policy. Users can change their address once every 12 months and cannot delete the new email address during that period. This addresses long-standing user requests for account flexibility and identity management.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major email service policy change affecting user identity management and addressing long-standing user requests for account flexibility&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.bleepingcomputer.com/news/google/google-now-allows-you-to-change-your-gmailcom-address/"&gt;BleepingComputer&lt;/a&gt; · &lt;a href="https://cybersecuritynews.com/google-change-gmail-address/"&gt;Cybersecurity News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.bleepingcomputer.com/news/security/proton-launches-new-meet-privacy-focused-conferencing-platform/"&gt;Proton Launches Privacy-Focused Video Conferencing Platform&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 31, 22:42&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Proton announced a new video conferencing service called Meet, positioned as a privacy-focused alternative to mainstream services like Google Meet, Zoom, and Microsoft Teams. The platform emphasizes end-to-end encryption and user privacy protection in enterprise communication tools. This represents Proton's expansion beyond secure email into broader productivity applications.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Privacy-focused enterprise communication alternative affecting business conferencing choices and demonstrating demand for secure collaboration tools&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.bleepingcomputer.com/news/security/proton-launches-new-meet-privacy-focused-conferencing-platform/"&gt;BleepingComputer&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/03/31/salesforce-announces-an-ai-heavy-makeover-for-slack-with-30-new-features/"&gt;Salesforce Announces Major AI Integration for Slack with 30 New Features&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 31, 22:46&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Salesforce unveiled a comprehensive AI makeover for Slack, introducing 30 new AI-powered features designed to enhance workplace productivity and collaboration. The update represents one of the most significant feature expansions in Slack's history, integrating AI capabilities throughout the platform. This demonstrates Salesforce's strategy to embed AI across its productivity suite.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major workplace productivity platform transformation affecting enterprise collaboration tools through comprehensive AI feature integration&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/03/31/salesforce-announces-an-ai-heavy-makeover-for-slack-with-30-new-features/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Business &amp; Markets&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/03/31/openai-not-yet-public-raises-3b-from-retail-investors-in-monster-122b-fund-raise/"&gt;OpenAI Raises $3B from Retail Investors in $122B Round at $852B Valuation&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 31, 21:25&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;OpenAI raised $3 billion from retail investors as part of a massive $122 billion funding round led by Amazon, Nvidia, and SoftBank, valuing the AI company at $852 billion as it approaches an IPO. The unprecedented funding round demonstrates massive investor appetite for AI infrastructure companies. This represents one of the largest private funding rounds in technology history.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Record-breaking AI funding demonstrating massive investor confidence and positioning for potential public offering with historic valuation levels&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/03/31/openai-not-yet-public-raises-3b-from-retail-investors-in-monster-122b-fund-raise/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/03/31/whoop-valuation-10b-series-g-fundraise/"&gt;Whoop Fitness Tracker Valuation Triples to $10 Billion in $575M Round&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 31, 16:58&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Fitness tracking startup Whoop raised $575 million in Series G funding at a $10.1 billion valuation, tripling its previous valuation with investors including Cristiano Ronaldo and LeBron James. The round positions the wearable fitness company for a potential IPO given the significant valuation increase. This demonstrates strong investor confidence in consumer health technology.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major fitness technology valuation surge affecting wearable device market and positioning for potential public offering in health tech sector&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/03/31/whoop-valuation-10b-series-g-fundraise/"&gt;TechCrunch&lt;/a&gt; · &lt;a href="https://news.crunchbase.com/venture/wearable-fitness-tech-ai-whoop-seriesg-funding/"&gt;Crunchbase News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/03/31/social-gaming-platform-rec-room-once-valued-at-3-5b-is-shutting-down/"&gt;Social Gaming Platform Rec Room Shutting Down Despite $3.5B Valuation&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 31, 18:05&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Rec Room, the social platform for user-generated games and virtual experiences once valued at $3.5 billion, announced it will shut down on June 1, 2026. The closure represents another high-profile failure in the social gaming and metaverse space despite significant venture funding. This highlights ongoing challenges in monetizing virtual social experiences.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major startup failure in social gaming sector demonstrating challenges in virtual experience monetization despite high previous valuation&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/03/31/social-gaming-platform-rec-room-once-valued-at-3-5b-is-shutting-down/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/03/31/yupp-ai-shuts-down-33m-a16z-crypto-chris-dixon/"&gt;AI Startup Yupp Shuts Down After Raising $33M from a16z Crypto&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 31, 20:01&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Crowdsourced AI model feedback startup Yupp is closing less than a year after launching with $33 million in funding from a16z crypto's Chris Dixon and other prominent Silicon Valley investors. The rapid shutdown demonstrates the volatile nature of AI startup markets despite significant early-stage funding. This represents another high-profile AI startup failure in the current market environment.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Rapid AI startup failure affecting investor confidence and demonstrating volatility in AI startup markets despite significant venture backing&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/03/31/yupp-ai-shuts-down-33m-a16z-crypto-chris-dixon/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/03/31/uber-weride-dubai-robotaxi-partnership-equity/"&gt;Uber and WeRide Launch Fully Autonomous Robotaxi Operations in Dubai&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Mar 31, 16:26&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Uber and Chinese autonomous vehicle company WeRide have launched robotaxi operations without human safety operators in Dubai as part of broader Middle East expansion. The deployment represents one of the few fully autonomous commercial robotaxi services operating globally. This demonstrates growing international adoption of autonomous vehicle technology outside traditional tech hubs.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Autonomous vehicle commercialization milestone affecting transportation industry development and demonstrating international expansion of self-driving technology&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/03/31/uber-weride-dubai-robotaxi-partnership-equity/"&gt;TechCrunch&lt;/a&gt;&lt;br&gt;
+&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>Evening — Mar 31, 2026</title>
     <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-03-31-evening.html"/>
@@ -1633,42 +1766,6 @@
 &lt;p&gt;Venture capital firm Kleiner Perkins has raised $3.5 billion across AI-focused funds, including $1 billion for early-stage companies (KP22) and $2.5 billion for growth-stage investments. The massive fundraise reflects continued strong investor appetite for AI companies despite recent market corrections. This represents one of the largest AI-focused venture funds raised in 2026, signaling sustained institutional confidence in AI sector growth.&lt;/p&gt;&lt;br&gt;
 &lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major AI venture capital deployment affecting your understanding of AI sector investment trends and funding availability&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
 &lt;p&gt;Sources: &lt;a href="https://news.crunchbase.com/venture/kleiner-perkins-raises-ai-focused-funds/"&gt;Crunchbase News&lt;/a&gt;&lt;br&gt;
-&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>Afternoon — Mar 25, 2026</title>
-    <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-03-25-afternoon.html"/>
-    <id>https://jonaskjellin.github.io/pulsebrief-site/2026-03-25-afternoon.html</id>
-    <updated>2026-03-25T11:36:13.880Z</updated>
-    <content type="html">&lt;p&gt;&lt;h1&gt;PulseBrief's Afternoon Pulse&lt;/h1&gt;&lt;br&gt;
-&lt;em&gt;Tue, Mar 24, 06:00 → Tue, Mar 24, 12:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;Cyber Security&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://thehackernews.com/2026/03/ghost-campaign-uses-7-npm-packages-to.html"&gt;Ghost Campaign Uses 7 npm Packages to Steal Crypto Wallets and Credentials&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 24, 12:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Cybersecurity researchers have uncovered a new malicious npm campaign called Ghost that uses seven packages published by user 'mikilanjillo' to steal cryptocurrency wallets and sensitive data. The packages masquerade as legitimate React performance tools and AI trading utilities, including react-performance-suite, react-state-optimizer-core, and ai-fast-auto-trader. This represents another supply chain attack targeting the widely-used npm ecosystem that developers rely on for JavaScript packages.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;npm supply chain threat affecting your JavaScript development security and package vetting processes&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://thehackernews.com/2026/03/ghost-campaign-uses-7-npm-packages-to.html"&gt;The Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://thehackernews.com/2026/03/teampcp-hacks-checkmarx-github-actions.html"&gt;TeamPCP Hacks Checkmarx GitHub Actions Using Stolen CI Credentials&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 24, 10:38&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;The TeamPCP threat group has compromised two additional GitHub Actions workflows maintained by supply chain security company Checkmarx, including checkmarx/ast-github-action and checkmarx/kics-github-action. This follows the same credential-stealing malware tactics used in the Trivy supply chain attack, demonstrating the group's continued focus on compromising CI/CD infrastructure. The attack highlights the irony of security tool providers becoming victims of supply chain attacks themselves.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;CI/CD supply chain security affecting your GitHub Actions security and trusted security tool vendor risk assessment&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://thehackernews.com/2026/03/teampcp-hacks-checkmarx-github-actions.html"&gt;The Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://thehackernews.com/2026/03/us-sentences-russian-hacker-to-675.html"&gt;U.S. Sentences Russian Hacker to 6.75 Years for Role in $9M Ransomware Damage&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 24, 06:49&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;A 26-year-old Russian citizen, Aleksei Olegovich Volkov, has been sentenced to 6.75 years in prison for facilitating dozens of ransomware attacks by major cybercrime groups including the Yanluowang ransomware crew. The Department of Justice case demonstrates successful prosecution of international cybercriminals who provide support services to ransomware operations. The sentencing represents ongoing U.S. efforts to hold ransomware enablers accountable through criminal prosecution.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Ransomware prosecution success affecting your understanding of legal accountability for cybercrime support services&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://thehackernews.com/2026/03/us-sentences-russian-hacker-to-675.html"&gt;The Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;Technology&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.schneier.com/blog/archives/2026/03/team-mirai-and-democracy.html"&gt;Team Mirai Demonstrates AI-Enhanced Democratic Participation in Japan&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 24, 11:03&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Japan's Team Mirai political party has successfully implemented AI-driven voter engagement, with constituents spending 8,000 hours using their AI Interviewer for policy discussions and 100,000 daily organizer actions through their gamified Action Board app. The party's founder, software engineer Takahiro Anno, won a seat in Japan's Upper Chamber after pioneering technology-enhanced democratic processes that help voters engage directly with policy formation. This represents a practical implementation of AI systems designed to strengthen rather than undermine democratic participation.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;AI democracy application affecting your understanding of constructive AI governance and civic technology implementation&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.schneier.com/blog/archives/2026/03/team-mirai-and-democracy.html"&gt;Schneier on Security&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.wired.com/story/book-excerpt-your-data-will-be-used-against-you-andrew-guthrie-ferguson/"&gt;Biometric Surveillance Expansion Undermines Privacy Protections&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 24, 10:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Growing attachment to smart devices and expanding biometric surveillance systems are leaving Americans increasingly vulnerable to police searches and privacy violations. The pervasive data collection through connected devices creates new attack surfaces for law enforcement access to personal information. Without proper checks, this trend toward ubiquitous biometric monitoring will continue eroding traditional privacy expectations and legal protections.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Biometric privacy erosion affecting your personal data protection strategy and organizational surveillance risk assessment&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.wired.com/story/book-excerpt-your-data-will-be-used-against-you-andrew-guthrie-ferguson/"&gt;Wired Security&lt;/a&gt;&lt;br&gt;
 &lt;/p&gt;</content>
   </entry>
 </feed>
