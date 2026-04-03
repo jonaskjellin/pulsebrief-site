@@ -5,7 +5,115 @@
   <link href="https://jonaskjellin.github.io/pulsebrief-site/feed.xml" rel="self"/>
   <link href="https://jonaskjellin.github.io/pulsebrief-site/"/>
   <id>https://jonaskjellin.github.io/pulsebrief-site/</id>
-  <updated>2026-04-02T16:46:23.317Z</updated>
+  <updated>2026-04-03T06:07:07.942Z</updated>
+  <entry>
+    <title>Custom — Apr 3, 2026</title>
+    <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-04-03-custom.html"/>
+    <id>https://jonaskjellin.github.io/pulsebrief-site/2026-04-03-custom.html</id>
+    <updated>2026-04-03T06:07:07.942Z</updated>
+    <content type="html">&lt;p&gt;&lt;h1&gt;PulseBrief's Update Pulse&lt;/h1&gt;&lt;br&gt;
+&lt;em&gt;as of Fri, Apr 3, 06:07&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Cyber Security&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://thehackernews.com/2026/04/hackers-exploit-cve-2025-55182-to.html"&gt;Massive Next.js Credential Harvesting Operation Exploits CVE-2025-55182&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 2, 19:30&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;A large-scale credential harvesting operation has exploited the React2Shell vulnerability (CVE-2025-55182) to breach 766 Next.js hosts and steal database credentials, SSH private keys, AWS secrets, shell command history, Stripe API keys, and GitHub tokens at scale. Cisco Talos attributed the operation to a threat cluster they track, demonstrating the vulnerability's significant impact on web application infrastructure. The attack represents a major supply chain compromise affecting popular web development frameworks.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Critical web development infrastructure vulnerability affecting thousands of sites with massive credential theft impacting development and production environments&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://thehackernews.com/2026/04/hackers-exploit-cve-2025-55182-to.html"&gt;The Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.bleepingcomputer.com/news/security/claude-code-leak-used-to-push-infostealer-malware-on-github/"&gt;Threat Actors Exploit Claude Code Leak to Distribute Vidar Malware on GitHub&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 2, 20:30&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Cybercriminals are exploiting the recent Claude Code source code leak by creating fake GitHub repositories to deliver Vidar information-stealing malware to unsuspecting users. The attack leverages the high-profile Anthropic leak to create convincing malicious repositories that appear legitimate. This demonstrates how major security incidents can be quickly weaponized by threat actors for follow-on attacks.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;AI security incident amplification affecting developer trust and demonstrating rapid exploitation of high-profile security leaks for malware distribution&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.bleepingcomputer.com/news/security/claude-code-leak-used-to-push-infostealer-malware-on-github/"&gt;BleepingComputer&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.securityweek.com/critical-vulnerability-in-claude-code-emerges-days-after-source-leak/"&gt;Critical Vulnerability Discovered in Claude Code Days After Source Leak&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 2, 18:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Security researchers from Adversa AI discovered a critical vulnerability in Anthropic's Claude Code within days of the source code leak incident. The rapid identification of the security flaw following the source code exposure demonstrates the risks associated with intellectual property leaks in AI systems. This represents a compounding security crisis for Anthropic following their accidental source code disclosure.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;AI security crisis escalation affecting major AI company with rapid vulnerability discovery following source code exposure demonstrating cascading security risks&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.securityweek.com/critical-vulnerability-in-claude-code-emerges-days-after-source-leak/"&gt;SecurityWeek&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://cybersecuritynews.com/adobe-breach/"&gt;Adobe Allegedly Breached: 13 Million Support Tickets and Employee Records Claimed Stolen&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 3, 02:29&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;A threat actor identified as 'Mr. Raccoon' claims to have breached Adobe and exfiltrated 13 million support tickets containing personal information, 15,000 employee records, all HackerOne bug bounty submissions, and various internal documents. The alleged breach represents a massive exposure of customer support data and internal company information from one of the world's largest software companies. Adobe has not yet confirmed the incident or provided details about the claimed data theft.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major software company data breach affecting millions of customer support records and internal data with potential widespread privacy impact&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://cybersecuritynews.com/adobe-breach/"&gt;Cybersecurity News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://cybersecuritynews.com/north-korea-related-campaign-abuses-github/"&gt;North Korea-Linked Campaign Abuses GitHub as Command and Control Infrastructure&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 3, 05:53&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;A newly identified campaign linked to North Korean state-sponsored threat actors is using Windows shortcut (LNK) files to launch targeted phishing attacks against South Korean organizations. The attackers conceal their operations inside GitHub, converting the trusted development platform into command and control infrastructure. This demonstrates sophisticated abuse of legitimate platforms to evade security detection and establish persistent access.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Nation-state threat affecting trusted development infrastructure and demonstrating advanced evasion techniques through platform abuse for espionage operations&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://cybersecuritynews.com/north-korea-related-campaign-abuses-github/"&gt;Cybersecurity News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.darkreading.com/cyberattacks-data-breaches/toying-around-hasbro-attack-remediate"&gt;Hasbro Cyberattack May Take 'Weeks' to Remediate Operations&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 2, 20:28&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Toy giant Hasbro disclosed a cyberattack in its 8-K filing noting 'unauthorized access' and that the company has activated business continuity plans while taking some systems offline. The incident may require weeks to fully remediate according to company statements, potentially impacting operations at one of the world's largest toy manufacturers. The attack represents another major compromise of consumer product manufacturing infrastructure.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major consumer product manufacturer cyberattack affecting business operations and demonstrating ongoing threats to manufacturing supply chains&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.darkreading.com/cyberattacks-data-breaches/toying-around-hasbro-attack-remediate"&gt;Dark Reading&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/04/02/telehealth-giant-hims-hers-says-its-customer-support-system-was-hacked/"&gt;Telehealth Giant Hims &amp; Hers Customer Support System Compromised&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 2, 21:26&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;U.S. telehealth company Hims &amp; Hers disclosed that hackers breached their customer support system and stole customer support ticket data over several days in February. The incident affects a major telehealth provider serving millions of customers with sensitive medical information. The breach highlights ongoing vulnerabilities in healthcare technology infrastructure and patient data protection.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Healthcare data breach affecting telehealth infrastructure and patient privacy with potential regulatory and compliance implications&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/04/02/telehealth-giant-hims-hers-says-its-customer-support-system-was-hacked/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.schneier.com/blog/archives/2026/04/us-bans-all-foreign-made-consumer-routers.html"&gt;US Bans All Foreign-Made Consumer Routers Over National Security Concerns&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 2, 17:28&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;The U.S. Executive Branch has banned all foreign-produced consumer routers, citing supply chain vulnerabilities that could disrupt the economy, critical infrastructure, and national defense. New routers made outside the U.S. must now receive FCC approval before import, marketing, or sale, with manufacturers required to disclose foreign investors and provide plans to bring manufacturing to the U.S. Popular brands like Netgear, which manufactures abroad, will be significantly affected by this sweeping policy change.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major technology policy shift affecting consumer networking equipment with significant implications for router pricing and supply chain security nationwide&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.schneier.com/blog/archives/2026/04/us-bans-all-foreign-made-consumer-routers.html"&gt;Schneier on Security&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://arstechnica.com/security/2026/04/new-rowhammer-attacks-give-complete-control-of-machines-running-nvidia-gpus/"&gt;New Rowhammer Attacks Target Nvidia GPU Memory to Compromise CPUs&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 2, 17:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Security researchers have developed new Rowhammer attacks called GDDRHammer and GeForge that target GPU memory in Nvidia graphics cards to compromise the host CPU and gain complete system control. The attacks demonstrate that GPU memory can be hammered in ways that affect CPU security, expanding the attack surface beyond traditional RAM-based Rowhammer techniques. This represents a significant evolution in hardware-based attacks targeting graphics processing units.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Hardware security breakthrough affecting GPU-accelerated systems with potential for complete system compromise through graphics card memory exploitation&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://arstechnica.com/security/2026/04/new-rowhammer-attacks-give-complete-control-of-machines-running-nvidia-gpus/"&gt;Ars Technica&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://cybersecuritynews.com/hackers-clone-cert-ua-site/"&gt;Cybercriminals Impersonate Ukraine's CERT-UA to Distribute Go-Based RAT&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 2, 16:15&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Threat actors cloned Ukraine's official cybersecurity authority website to trick government workers and others into downloading a dangerous remote access tool. The campaign, tracked as UAC-0255, combined phishing emails with a convincing fake government website to distribute Go-based malware. This represents sophisticated abuse of trusted cybersecurity authority branding for malware distribution during wartime.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Government authority impersonation affecting cybersecurity trust during conflict and demonstrating advanced social engineering through official website cloning&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://cybersecuritynews.com/hackers-clone-cert-ua-site/"&gt;Cybersecurity News&lt;/a&gt; · &lt;a href="https://cyberpress.org/cert-ua-spoofing-drops-gorat/"&gt;CyberPress&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;AI &amp; Machine Learning&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theverge.com/ai-artificial-intelligence/906022/openai-buys-tbpn"&gt;OpenAI Acquires Tech Talk Show 'TBPN' to Improve Public Image&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 2, 17:40&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;OpenAI has acquired TBPN, a popular business talk show that interviews AI executives and tech leaders, as part of efforts to battle its negative public image. The show, which goes live weekdays at 2PM PT and counts Sam Altman and other major tech executives as past guests, will operate independently under OpenAI's ownership. The acquisition comes as OpenAI faces ongoing litigation with Elon Musk and seeks to control narrative around AI development.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;AI company media strategy affecting public perception of AI development and demonstrating corporate efforts to shape narrative around AI technology&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.theverge.com/ai-artificial-intelligence/906022/openai-buys-tbpn"&gt;The Verge - AI&lt;/a&gt; · &lt;a href="https://www.wired.com/story/openai-acquires-tbpn-buys-positive-news-coverage/"&gt;Wired AI&lt;/a&gt; · &lt;a href="https://techcrunch.com/2026/04/02/openai-acquires-tbpn-the-buzzy-founder-led-business-talk-show/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://deepmind.google/models/gemma/gemma-4/"&gt;Google Releases Gemma 4 Open Models with Vision and Audio Capabilities&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 2, 16:10&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Google DeepMind released Gemma 4, four new Apache 2.0 licensed reasoning LLMs sized at 2B, 4B, 31B, plus a 26B-A4B Mixture-of-Experts model. The models feature unprecedented intelligence-per-parameter efficiency and native multimodal capabilities including vision, video, and audio processing. Google emphasizes these as the most capable open models 'byte for byte,' with smaller models incorporating Per-Layer Embeddings for maximum parameter efficiency in on-device deployments.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major open-source AI release affecting local AI deployment capabilities and demonstrating advances in parameter-efficient model development for edge computing&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://deepmind.google/models/gemma/gemma-4/"&gt;Hacker News - Top&lt;/a&gt; · &lt;a href="https://simonwillison.net/2026/Apr/2/gemma-4/#atom-everything"&gt;Simon Willison&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.wired.com/story/cusor-launches-coding-agent-openai-anthropic/"&gt;Cursor Launches New AI Agent Experience to Compete with Claude Code&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 2, 17:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;AI coding startup Cursor launched the next generation of its product with enhanced AI agent capabilities, positioning itself to compete more directly with OpenAI and Anthropic's coding solutions. The new Cursor 3 experience represents significant advancement in AI-powered software development tools. This launch comes as the AI coding space becomes increasingly competitive following recent developments in AI programming assistants.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;AI coding tool competition affecting software development productivity and demonstrating intensifying competition in AI-powered development environments&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.wired.com/story/cusor-launches-coding-agent-openai-anthropic/"&gt;Wired AI&lt;/a&gt; · &lt;a href="https://cursor.com/blog/cursor-3"&gt;Hacker News - Top&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Technology&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/04/02/microsoft-takes-on-ai-rivals-with-three-new-foundational-models/"&gt;Microsoft Releases Three New Foundational AI Models to Compete with Rivals&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 2, 16:48&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Microsoft's MAI division released three new foundational models capable of voice transcription, audio generation, and image generation, following the group's formation six months ago. The models represent Microsoft's strategic push to compete directly with OpenAI, Anthropic, and other AI model providers rather than relying solely on partnerships. This marks a significant shift in Microsoft's AI strategy toward developing proprietary foundation models.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major tech company AI strategy shift affecting competitive landscape and demonstrating move toward proprietary AI model development rather than partnership dependence&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/04/02/microsoft-takes-on-ai-rivals-with-three-new-foundational-models/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/04/02/elevenlabs-releases-a-new-ai-powered-music-generation-app/"&gt;ElevenLabs Releases AI-Powered Music Generation App&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 2, 18:58&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Voice AI company ElevenLabs launched ElevenMusic, a new AI-powered app that lets users create and remix songs using text prompts. The release suggests ElevenLabs wants to expand beyond voice modeling into broader AI-generated content creation. This represents the company's diversification into music generation, competing in the growing AI creative content market.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;AI content generation expansion affecting creative industries and demonstrating AI company diversification beyond core voice technology into music creation&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/04/02/elevenlabs-releases-a-new-ai-powered-music-generation-app/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/04/02/canadian-money-transfer-app-duc-expose-drivers-licenses-passports-amazon-server/"&gt;Canadian Money Transfer App Duc Exposes Thousands of Identity Documents&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 2, 16:29&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Canadian money transfer application Duc exposed thousands of driver's licenses, passports, and other customer identity documents on an Amazon-hosted server accessible without password protection. The exposed server allowed anyone to access reams of customer data, representing a major privacy breach affecting financial services customers. The incident highlights ongoing data security challenges in fintech applications handling sensitive identity verification data.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Financial services data exposure affecting customer identity documents and demonstrating ongoing cloud security challenges in fintech applications with regulated data&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/04/02/canadian-money-transfer-app-duc-expose-drivers-licenses-passports-amazon-server/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Business &amp; Markets&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://therecord.media/drift-crypto-confirms-280-million-stolen-north-korea"&gt;Drift Protocol Loses $280 Million in North Korean-Linked Security Council Takeover&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 2, 17:25&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;The Drift Protocol lost at least $280 million after threat actors took control of its Security Council administrative powers in a sophisticated, planned operation that researchers point to North Korea. The attack involved a 'novel attack' that enabled the 'rapid takeover' of the company's security council administrative powers, representing one of the largest crypto platform compromises of 2026. The incident highlights ongoing vulnerabilities in decentralized finance governance mechanisms.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major cryptocurrency platform breach demonstrating ongoing threats to DeFi infrastructure and governance systems with significant financial impact&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://therecord.media/drift-crypto-confirms-280-million-stolen-north-korea"&gt;The Record&lt;/a&gt; · &lt;a href="https://www.bleepingcomputer.com/news/security/drift-loses-280-million-north-korean-hackers-seize-security-council-powers/"&gt;BleepingComputer&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://therecord.media/french-senate-passes-bill-child-ban-social-media"&gt;French Senate Passes Bill Banning Social Media for Children Under 15&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 2, 16:48&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;The French Senate passed legislation that would ban social media access for children under 15, potentially making France the first European country to follow Australia's lead in restricting youth social media access. If enacted into law, the bill would represent a significant regulatory shift affecting major social media platforms' user bases in Europe. The legislation reflects growing global concern about social media's impact on children's mental health and development.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major social media regulation affecting platform user bases and demonstrating expanding global trend toward restricting youth access to social platforms&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://therecord.media/french-senate-passes-bill-child-ban-social-media"&gt;The Record&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/04/02/amazon-hits-sellers-with-fuel-surcharge-as-iran-war-roils-global-energy-markets/"&gt;Amazon Implements 'Fuel Surcharge' on Sellers Due to Iran War Energy Impact&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 2, 22:56&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Amazon has imposed a 'fuel surcharge' on sellers as the Iran war roils global energy markets and increases operational costs. The e-commerce giant called the surcharge 'temporary' but could not provide a date for when the policy would be retired. This represents direct economic impact from geopolitical conflict affecting e-commerce operations and seller costs on the world's largest online marketplace.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Geopolitical conflict affecting e-commerce operations with direct cost impact on sellers and potential consumer price increases through major marketplace platform&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/04/02/amazon-hits-sellers-with-fuel-surcharge-as-iran-war-roils-global-energy-markets/"&gt;TechCrunch&lt;/a&gt;&lt;br&gt;
+&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>Evening — Apr 2, 2026</title>
     <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-04-02-evening.html"/>
@@ -1823,59 +1931,6 @@
 &lt;p&gt;WhatsApp is launching multiple new features including AI-powered message replies and photo retouching, support for two accounts on iOS, and chat history transfer between iOS and Android devices. The updates represent significant platform enhancements combining AI capabilities with improved user experience.&lt;/p&gt;&lt;br&gt;
 &lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major messaging platform AI integration affecting your understanding of consumer AI adoption and cross-platform communication tools&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
 &lt;p&gt;Sources: &lt;a href="https://www.bleepingcomputer.com/news/software/whatsapp-rolls-out-more-ai-features-ios-multi-account-support/"&gt;BleepingComputer&lt;/a&gt;&lt;br&gt;
-&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>Afternoon — Mar 27, 2026</title>
-    <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-03-27-afternoon.html"/>
-    <id>https://jonaskjellin.github.io/pulsebrief-site/2026-03-27-afternoon.html</id>
-    <updated>2026-03-27T11:36:55.247Z</updated>
-    <content type="html">&lt;p&gt;&lt;h1&gt;PulseBrief's Afternoon Pulse&lt;/h1&gt;&lt;br&gt;
-&lt;em&gt;Thu, Mar 26, 06:00 → Thu, Mar 26, 12:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;Cyber Security&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.bleepingcomputer.com/news/security/suspected-redline-infostealer-administrator-extradited-to-us/"&gt;Armenian RedLine Infostealer Administrator Extradited to United States&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 26, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Armenian suspect Hambardzum Minasyan was extradited to the United States to face criminal charges for allegedly helping manage RedLine, one of the most prolific infostealer malware operations in recent years. The extradition represents continued international law enforcement cooperation targeting cybercrime infrastructure. RedLine has been responsible for stealing credentials and sensitive data from millions of victims worldwide.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;International cybercrime prosecution affecting your understanding of law enforcement cooperation against infostealer malware operations&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.bleepingcomputer.com/news/security/suspected-redline-infostealer-administrator-extradited-to-us/"&gt;BleepingComputer&lt;/a&gt; · &lt;a href="https://www.securityweek.com/alleged-redline-malware-administrator-extradited-to-us/"&gt;SecurityWeek&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://thehackernews.com/2026/03/coruna-ios-kit-reuses-2023.html"&gt;Coruna iOS Exploit Framework Linked to 2023 Operation Triangulation Campaign&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 26, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Kaspersky researchers confirmed that the recently discovered Coruna iOS exploit kit reuses updated kernel exploit code from the 2023 Operation Triangulation espionage campaign. The connection was established through code analysis showing Coruna as an evolution of the same framework used in zero-click iMessage attacks that targeted high-profile individuals. This demonstrates how sophisticated nation-state exploit tools continue to evolve and resurface in new campaigns.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;iOS exploit evolution affecting your understanding of persistent nation-state threat capabilities and mobile device security risks&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://thehackernews.com/2026/03/coruna-ios-kit-reuses-2023.html"&gt;The Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://thehackernews.com/2026/03/webrtc-skimmer-bypasses-csp-to-steal.html"&gt;WebRTC Skimmer Bypasses CSP to Steal Payment Data from E-Commerce Sites&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 26, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Cybersecurity researchers discovered a new payment skimmer that uses WebRTC data channels to receive payloads and exfiltrate stolen payment data, effectively bypassing Content Security Policy controls. Instead of traditional HTTP requests or image beacons, this malware leverages WebRTC's real-time communication capabilities to avoid detection. The technique represents an evolution in web skimmer tactics targeting e-commerce payment processing.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Advanced payment skimmer technique affecting your e-commerce security controls and web application protection strategies&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://thehackernews.com/2026/03/webrtc-skimmer-bypasses-csp-to-steal.html"&gt;The Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.securityweek.com/hp-and-dell-roll-out-quantum-resistant-device-security-and-ai-era-cyber-resilience/"&gt;Dell and HP Roll Out Quantum-Resistant Device Security&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 26, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Computer giants Dell and HP announced new quantum-resistant security capabilities for PCs and printers as part of preparing for the post-quantum cryptography era. The implementations represent early enterprise adoption of quantum-safe cryptographic standards. This positions both companies ahead of the anticipated quantum computing threat to current encryption methods.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Quantum-resistant security adoption affecting your hardware procurement strategy and post-quantum cryptography migration planning&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.securityweek.com/hp-and-dell-roll-out-quantum-resistant-device-security-and-ai-era-cyber-resilience/"&gt;SecurityWeek&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;AI &amp; Machine Learning&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.wired.com/story/senators-demand-to-know-how-much-energy-data-centers-use/"&gt;Senators Warren and Hawley Demand Mandatory Data Center Energy Reporting&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 26, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Senators Elizabeth Warren and Josh Hawley sent a letter to the Energy Information Administration requesting comprehensive, annual energy-use disclosures from data centers with public availability. They're urging mandatory annual reporting requirements, calling the data "essential for accurate grid planning" and ensuring tech companies adhere to their Ratepayer Protection Pledge commitments. This follows EIA's announcement of a voluntary pilot program for data center energy reporting.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Significant AI infrastructure regulation proposal affecting your data center energy planning and understanding of government oversight expansion&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.wired.com/story/senators-demand-to-know-how-much-energy-data-centers-use/"&gt;Wired AI&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.schneier.com/blog/archives/2026/03/as-the-us-midterms-approach-ai-is-going-to-emerge-as-a-key-issue-concerning-voters.html"&gt;Trump AI Regulation Ban Creates New Political Battleground for Midterm Elections&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 26, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;The Trump administration's executive order neutering states' ability to regulate AI has created a new ideological battleground for the midterm elections, despite polls showing over 70% of voters favor AI regulation. The order explicitly challenges voter preferences across blue and red states, scrambling traditional political positions around AI technology. This sets up AI regulation as a potential wedge issue in congressional races.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;AI regulation becoming major political issue affecting your understanding of federal versus state AI policy direction and election implications&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.schneier.com/blog/archives/2026/03/as-the-us-midterms-approach-ai-is-going-to-emerge-as-a-key-issue-concerning-voters.html"&gt;Schneier on Security&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;Technology&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.wired.com/story/andurils-real-war-is-with-itself/"&gt;Anduril Faces Production Challenges Despite $30.5B Defense Valuation&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 26, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Defense startup Anduril, valued at $30.5 billion, is experiencing significant mishaps, delays, and internal challenges as it attempts to transform military technology manufacturing across drones, missiles, and submarines. The company's ambitious vision to revolutionize defense production is encountering real-world execution problems. These issues highlight the difficulties in scaling innovative defense technology from startup to major military contractor.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Defense technology scaling challenges affecting your understanding of military innovation risks and defense contractor market dynamics&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.wired.com/story/andurils-real-war-is-with-itself/"&gt;Wired Security&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;Business &amp; Markets&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://news.crunchbase.com/venture/seed-funding-skewing-larger-ai-competitive-data/"&gt;Seed Funding Skews Larger and More Competitive Despite Overall Stability&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 26, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;U.S. seed funding remains stable overall but is increasingly concentrated in larger rounds, with only deals of $10 million and above showing growth in 2025. The trend reflects heightened competition for early-stage investments and investor preference for well-funded startups. AI companies are particularly driving the larger seed round trend as investors bet big on emerging AI applications.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Startup funding evolution affecting your early-stage investment strategy and understanding of venture capital market concentration&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://news.crunchbase.com/venture/seed-funding-skewing-larger-ai-competitive-data/"&gt;Crunchbase News&lt;/a&gt;&lt;br&gt;
 &lt;/p&gt;</content>
   </entry>
 </feed>
