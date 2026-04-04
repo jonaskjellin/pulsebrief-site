@@ -5,7 +5,110 @@
   <link href="https://jonaskjellin.github.io/pulsebrief-site/feed.xml" rel="self"/>
   <link href="https://jonaskjellin.github.io/pulsebrief-site/"/>
   <id>https://jonaskjellin.github.io/pulsebrief-site/</id>
-  <updated>2026-04-03T16:29:10.765Z</updated>
+  <updated>2026-04-04T05:50:21.455Z</updated>
+  <entry>
+    <title>Morning — Apr 4, 2026</title>
+    <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-04-04-morning.html"/>
+    <id>https://jonaskjellin.github.io/pulsebrief-site/2026-04-04-morning.html</id>
+    <updated>2026-04-04T05:50:21.455Z</updated>
+    <content type="html">&lt;p&gt;&lt;h1&gt;PulseBrief's Morning Pulse&lt;/h1&gt;&lt;br&gt;
+&lt;em&gt;Fri, Apr 3, 16:00 → Sat, Apr 4, 05:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Cyber Security&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.bleepingcomputer.com/news/security/linkedin-secretely-scans-for-6-000-plus-chrome-extensions-collects-data/"&gt;LinkedIn Secretly Scans 6,000+ Chrome Extensions and Collects Device Data&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 3, 20:40&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;LinkedIn is using hidden JavaScript scripts to scan visitors' browsers for installed extensions and collect device data without user knowledge or consent. The investigation by European advocacy group Fairlinked e.V., dubbed 'BrowserGate,' found the scanning occurs every time users open LinkedIn in Chrome-based browsers. LinkedIn's privacy policy makes no mention of this data collection practice.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major privacy violation affecting millions of LinkedIn users demonstrating covert data collection practices by major platforms&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.bleepingcomputer.com/news/security/linkedin-secretely-scans-for-6-000-plus-chrome-extensions-collects-data/"&gt;BleepingComputer&lt;/a&gt; · &lt;a href="https://cybersecuritynews.com/linkedin-code-collects-data/"&gt;Cybersecurity News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://thehackernews.com/2026/04/china-linked-ta416-targets-european.html"&gt;China-Linked TA416 Targets European Governments with PlugX and OAuth-Based Phishing&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 3, 17:34&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Chinese threat actor TA416 has resumed targeting European government and diplomatic organizations since mid-2025 after a two-year hiatus from the region. The campaign employs PlugX malware and OAuth-based phishing techniques to compromise diplomatic communications. TA416 overlaps with multiple known threat groups including DarkPeony, RedDelta, and UNC6384.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Nation-state espionage affecting European government diplomatic communications and demonstrating renewed Chinese interest in European intelligence targets&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://thehackernews.com/2026/04/china-linked-ta416-targets-european.html"&gt;The Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://therecord.media/trueconf-cyberattack-cisa-hackers"&gt;CISA Orders Federal Agencies to Patch Video Conferencing Bug Exploited by Chinese Hackers&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 3, 19:45&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;CISA has given federal agencies two weeks to patch a vulnerability in TrueConf video conferencing software that is being actively exploited by hackers. Chinese threat actors are using the flaw to perform reconnaissance, escalate privileges, and execute additional payloads against government systems. The vulnerability has been added to CISA's Known Exploited Vulnerabilities catalog.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Critical government infrastructure vulnerability with confirmed exploitation affecting federal agency communication systems&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://therecord.media/trueconf-cyberattack-cisa-hackers"&gt;The Record&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.bleepingcomputer.com/news/security/die-linke-german-political-party-confirms-data-stolen-by-qilin-ransomware/"&gt;Qilin Ransomware Compromises German Political Party Die Linke&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 3, 16:36&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;The Qilin ransomware group claimed responsibility for attacking German political party Die Linke ('The Left'), causing IT systems outages and threatening to leak sensitive data. The attack represents a significant compromise of political infrastructure during a period of heightened tensions. Qilin has previously demonstrated sophisticated capabilities including disabling over 300 EDR solutions.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Political infrastructure attack affecting democratic institutions and demonstrating ongoing threats to government systems during sensitive periods&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.bleepingcomputer.com/news/security/die-linke-german-political-party-confirms-data-stolen-by-qilin-ransomware/"&gt;BleepingComputer&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://therecord.media/european-commission-cyberattack-teampcp"&gt;EU Cyber Agency Attributes European Commission Breach to TeamPCP Group&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 3, 18:15&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;The European Union's cybersecurity agency confirmed that hacking group TeamPCP was behind the massive data breach at the European Commission. The attack compromised the europa.eu platform and exposed data from at least 29 other EU entities through supply chain compromise of the Trivy vulnerability scanner. The incident represents a significant breach of European government infrastructure through trusted open-source tooling.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major European government infrastructure breach demonstrating supply chain vulnerabilities affecting multiple EU institutions&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://therecord.media/european-commission-cyberattack-teampcp"&gt;The Record&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://cybersecuritynews.com/14000-f5-big-ip-apm-exposed-online/"&gt;14,000+ F5 BIG-IP APM Instances Exposed Online Amid Active RCE Exploits&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 3, 17:02&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;More than 14,000 F5 BIG-IP Access Policy Manager instances remain exposed online and vulnerable to CVE-2025-53521, a critical Remote Code Execution vulnerability under active exploitation. The exposure persists even after CISA mandated federal remediation, indicating widespread failure to patch critical infrastructure components. Threat actors are actively weaponizing this vulnerability to compromise network infrastructure.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Massive exposure of critical network infrastructure with confirmed active exploitation affecting enterprise access management and security boundaries&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://cybersecuritynews.com/14000-f5-big-ip-apm-exposed-online/"&gt;Cybersecurity News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.wired.com/story/meta-pauses-work-with-mercor-after-data-breach-puts-ai-industry-secrets-at-risk/"&gt;Meta Pauses Work with Mercor Following Data Breach Exposing AI Secrets&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 3, 21:28&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Major AI labs including Meta are investigating a security incident at Mercor, a leading data vendor that could have exposed key information about how they train AI models. The breach puts sensitive AI industry data at risk and demonstrates vulnerabilities in the AI supply chain ecosystem. Multiple companies are reviewing their relationships with the vendor following the incident.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;AI industry supply chain breach affecting major AI companies and exposing sensitive model training data and competitive intelligence&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.wired.com/story/meta-pauses-work-with-mercor-after-data-breach-puts-ai-industry-secrets-at-risk/"&gt;Wired Security&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.bleepingcomputer.com/news/security/hims-and-hers-warns-of-data-breach-after-zendesk-support-ticket-breach/"&gt;Telehealth Giant Hims &amp; Hers Suffers Data Breach Through Zendesk Support System&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 3, 17:41&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;U.S. telehealth company Hims &amp; Hers disclosed that hackers breached their Zendesk customer support system and stole customer support ticket data over several days in February. The incident affects a major telehealth provider serving millions of customers with sensitive medical information. The breach highlights ongoing vulnerabilities in healthcare technology infrastructure.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Healthcare data breach affecting telehealth infrastructure and patient privacy with potential regulatory and compliance implications&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.bleepingcomputer.com/news/security/hims-and-hers-warns-of-data-breach-after-zendesk-support-ticket-breach/"&gt;BleepingComputer&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.darkreading.com/endpoint-security/apple-patches-darksword-ios-18"&gt;Apple Patches DarkSword iOS Exploitation Tool in Unprecedented Security Update&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 3, 17:08&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Apple has broken precedent by releasing security patches for iOS 18 to address the DarkSword mobile OS exploitation tool, allowing organizations with users unable to upgrade to iOS 26 to protect themselves. The update represents unusual backward compatibility patching for a severe mobile security threat. This demonstrates Apple's recognition of the critical nature of the vulnerability affecting older iOS versions.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Critical mobile security threat affecting older iOS versions with unprecedented backward compatibility patching from Apple&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.darkreading.com/endpoint-security/apple-patches-darksword-ios-18"&gt;Dark Reading&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://therecord.media/fcc-proposes-5-million-fine-robocall"&gt;FCC Proposes $4.5 Million Fine for Voice Provider Hosting Suspicious Foreign Calls&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 3, 20:12&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;The FCC proposed a $4.5 million fine against Voxbeam for allegedly hosting 'financial impersonation robocalls' made to American consumers using non-compliant and long dormant accounts. The enforcement action targets suspicious foreign call traffic that resulted in fraudulent robocalls targeting U.S. consumers. This represents ongoing regulatory efforts to combat international robocall fraud operations.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Telecommunications fraud enforcement affecting robocall operations and demonstrating regulatory action against international fraud schemes&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://therecord.media/fcc-proposes-5-million-fine-robocall"&gt;The Record&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;AI &amp; Machine Learning&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theverge.com/ai-artificial-intelligence/907074/anthropic-openclaw-claude-subscription-ban"&gt;Anthropic Effectively Bans OpenClaw by Ending Claude Subscription Access&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 3, 23:52&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Anthropic has announced that starting April 4th, Claude Pro and Max subscribers will no longer be able to use their subscription limits for third-party tools like OpenClaw, instead requiring expensive pay-as-you-go billing. The change comes after OpenClaw creator Peter Steinberger joined OpenAI and follows security concerns about the tool. Users must now pay separately for third-party AI agent access while subscription costs remain unchanged.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major AI tool access restriction affecting AI agents and coding workflows while raising concerns about platform vendor lock-in strategies&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.theverge.com/ai-artificial-intelligence/907074/anthropic-openclaw-claude-subscription-ban"&gt;The Verge - AI&lt;/a&gt; · &lt;a href="https://cybersecuritynews.com/claude-ends-openclaw-subscriptions/"&gt;Cybersecurity News&lt;/a&gt; · &lt;a href="https://news.ycombinator.com/item?id=47633396"&gt;Hacker News - Top&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theverge.com/ai-artificial-intelligence/906965/openais-agi-boss-is-taking-a-leave-of-absence"&gt;OpenAI Executive Shake-Up: AGI Boss Takes Medical Leave, CMO Steps Down&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 3, 20:22&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;OpenAI's CEO of AGI deployment Fidji Simo is taking medical leave for several weeks due to a neuroimmune condition, while CMO Kate Rouch is stepping down to focus on her health. President Greg Brockman will oversee product including super app efforts, while other executives take on business responsibilities. COO Brad Lightcap has also been assigned to lead 'special projects' in a new role.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major AI company leadership disruption affecting product development and strategy during critical competitive period&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.theverge.com/ai-artificial-intelligence/906965/openais-agi-boss-is-taking-a-leave-of-absence"&gt;The Verge - AI&lt;/a&gt; · &lt;a href="https://www.wired.com/story/openais-fidji-simo-is-taking-a-leave-of-absence/"&gt;Wired AI&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://simonwillison.net/2026/Apr/3/vulnerability-research-is-cooked/#atom-everything"&gt;AI Models Transform Vulnerability Research as Reports Surge 500% Daily&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 3, 23:59&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Linux kernel maintainers report a dramatic shift from 2-3 vulnerability reports per week to 5-10 per day, with most now being high-quality AI-generated findings rather than 'AI slop.' Security experts warn that frontier AI models will drastically alter exploit development economics, with agents capable of finding zero-days by simply pointing them at source code. The surge demonstrates AI's unprecedented impact on cybersecurity research capabilities.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Revolutionary change in cybersecurity affecting vulnerability discovery and exploit development with massive implications for software security&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://simonwillison.net/2026/Apr/3/vulnerability-research-is-cooked/#atom-everything"&gt;Simon Willison&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Technology&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://arstechnica.com/security/2026/04/heres-why-its-prudent-for-openclaw-users-to-assume-compromise/"&gt;OpenClaw Security Vulnerability Enables Unauthenticated Admin Access&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 3, 16:21&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;A critical vulnerability (CVE-2026-33579) in the popular AI agentic tool OpenClaw allows attackers to silently gain administrative access without authentication. The flaw affects users of the viral AI coding assistant, raising concerns about the security of AI-powered development tools. Security researchers warn that OpenClaw users should assume compromise given the severity of the vulnerability.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Critical AI development tool vulnerability affecting thousands of developers with potential for complete system compromise&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://arstechnica.com/security/2026/04/heres-why-its-prudent-for-openclaw-users-to-assume-compromise/"&gt;Ars Technica&lt;/a&gt; · &lt;a href="https://news.ycombinator.com/item?id=47628608"&gt;Hacker News - Top&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Business &amp; Markets&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/04/03/anthropic-buys-biotech-startup-coefficient-bio-in-400m-deal-reports/"&gt;Anthropic Acquires Biotech Startup Coefficient Bio for $400M&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 3, 20:28&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Anthropic has purchased stealth biotech AI startup Coefficient Bio in a $400 million stock deal, according to reports from The Information and Eric Newcomer. The acquisition represents Anthropic's expansion into biotechnology applications of AI and demonstrates significant investment in specialized AI applications. The deal shows major AI companies diversifying beyond general-purpose AI into domain-specific applications.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major AI company expansion into biotechnology affecting healthcare AI development and demonstrating sector diversification strategies&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/04/03/anthropic-buys-biotech-startup-coefficient-bio-in-400m-deal-reports/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/04/03/anthropic-ramps-up-its-political-activities-with-a-new-pac/"&gt;Anthropic Launches Political Action Committee Ahead of Midterms&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 3, 20:22&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Anthropic has established a new Political Action Committee positioned to back candidates who support the AI company's policy agenda as midterm elections approach. The move represents the AI company's increased political engagement and lobbying efforts. This demonstrates how major AI companies are becoming more directly involved in political processes to influence AI regulation and policy.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;AI company political engagement affecting technology policy development and regulatory landscape for artificial intelligence&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/04/03/anthropic-ramps-up-its-political-activities-with-a-new-pac/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/04/03/teslas-texas-factory-workforce-reportedly-shrunk-22-in-2025/"&gt;Tesla Texas Factory Workforce Shrinks 22% in 2025 Amid Declining Sales&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 3, 20:43&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Tesla's Texas Gigafactory workforce fell from 21,191 to 16,506 workers in 2025, a 22% reduction, according to reports. The layoffs coincide with Tesla's second consecutive year of declining sales and represent significant operational challenges at one of the company's key manufacturing facilities. The workforce reduction affects Tesla's production capacity during a critical competitive period in the EV market.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major EV manufacturer operational challenges affecting production capacity and employment during critical competitive period&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/04/03/teslas-texas-factory-workforce-reportedly-shrunk-22-in-2025/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://nationaltoday.com/us/tx/austin/news/2026/04/03/oracle-files-thousands-of-h-1b-visa-petitions-amid-mass-layoffs/"&gt;Oracle Files Thousands of H-1B Visa Petitions During Mass Layoffs&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 3, 20:21&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Oracle has filed thousands of H-1B visa petitions while simultaneously conducting mass layoffs, according to reports from Austin, Texas. The practice of seeking foreign workers while reducing domestic workforce raises questions about labor practices and visa program use. This represents ongoing tensions between technology workforce management and immigration policy.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Technology workforce policy affecting domestic employment and immigration practices during industry consolidation period&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://nationaltoday.com/us/tx/austin/news/2026/04/03/oracle-files-thousands-of-h-1b-visa-petitions-amid-mass-layoffs/"&gt;Hacker News - Top&lt;/a&gt;&lt;br&gt;
+&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>Evening — Apr 3, 2026</title>
     <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-04-03-evening.html"/>
@@ -1878,79 +1981,6 @@
 &lt;p&gt;OpenAI disclosed it raised another $10 billion, leading this week's largest funding rounds alongside significant investments in defense tech, enterprise AI, and autonomous systems. The funding surge demonstrates continued investor confidence in AI and defense technology sectors. Large-scale dealmaking accelerated across multiple high-growth technology verticals.&lt;/p&gt;&lt;br&gt;
 &lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major AI funding milestone affecting your understanding of AI market valuation trends and investor priorities in emerging technologies&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
 &lt;p&gt;Sources: &lt;a href="https://news.crunchbase.com/venture/biggest-funding-rounds-ai-defense-openai-shield/"&gt;Crunchbase News&lt;/a&gt;&lt;br&gt;
-&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>Afternoon — Mar 28, 2026</title>
-    <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-03-28-afternoon.html"/>
-    <id>https://jonaskjellin.github.io/pulsebrief-site/2026-03-28-afternoon.html</id>
-    <updated>2026-03-28T11:22:07.694Z</updated>
-    <content type="html">&lt;p&gt;&lt;h1&gt;PulseBrief's Afternoon Pulse&lt;/h1&gt;&lt;br&gt;
-&lt;em&gt;Fri, Mar 27, 06:00 → Fri, Mar 27, 12:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;Cyber Security&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://cybersecuritynews.com/telnyx-pypi-package-compromised/"&gt;TeamPCP Threat Group Compromises Telnyx PyPI Package with 742,000 Downloads&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 27, 08:57&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;The official Telnyx Python SDK on PyPI was compromised with malicious versions 4.87.1 and 4.87.2 as part of an escalating supply chain campaign by threat actor group TeamPCP. The attack executed silently at import time and prompted an FBI Cyber Division high-priority alert targeting AI developers. This represents a major supply chain compromise of widely used developer tools in the AI ecosystem.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Critical supply chain attack affecting your AI development dependencies and Python package security practices&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://cybersecuritynews.com/telnyx-pypi-package-compromised/"&gt;Cybersecurity News&lt;/a&gt; · &lt;a href="https://news.ycombinator.com/item?id=47540388"&gt;Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://thehackernews.com/2026/03/langchain-langgraph-flaws-expose-files.html"&gt;LangChain and LangGraph Vulnerabilities Expose Files, Secrets, and Databases&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 27, 08:07&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Cybersecurity researchers disclosed three security vulnerabilities in widely used AI frameworks LangChain and LangGraph that could expose filesystem data, environment secrets, and conversation history. Both frameworks are foundational for building Large Language Model applications. The flaws demonstrate critical security risks in popular AI development infrastructure.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major AI framework vulnerabilities affecting your LLM application security and AI development practices&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://thehackernews.com/2026/03/langchain-langgraph-flaws-expose-files.html"&gt;The Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.securityweek.com/cisa-flags-critical-ptc-vulnerability-that-had-german-police-mobilized/"&gt;CISA Adds Critical PTC Windchill Vulnerability That Prompted German Police Physical Warnings&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 27, 09:21&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;CISA flagged critical PTC Windchill vulnerability CVE-2026-4681 that was so severe German police physically visited organizations to warn them about the threat. The vulnerability represents an unprecedented level of urgency from law enforcement regarding industrial software security. Organizations using PTC Windchill for product lifecycle management face immediate compromise risk.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Critical industrial software vulnerability requiring immediate patching and understanding of unprecedented law enforcement response&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.securityweek.com/cisa-flags-critical-ptc-vulnerability-that-had-german-police-mobilized/"&gt;SecurityWeek&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://thehackernews.com/2026/03/bearlyfy-hits-70-russian-firms-with.html"&gt;Pro-Ukrainian Group Bearlyfy Hits 70+ Russian Companies with Custom GenieLocker Ransomware&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 27, 10:04&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Pro-Ukrainian hacktivist group Bearlyfy has conducted over 70 cyber attacks against Russian companies since January 2025, deploying custom Windows ransomware called GenieLocker. The group operates as a dual-purpose organization aimed at inflicting maximum damage on Russian businesses through both destructive and extortive attacks. This represents escalating cyber warfare activity tied to geopolitical tensions.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Geopolitical cyber warfare escalation affecting your understanding of hacktivist threat landscape and nation-state proxy activities&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://thehackernews.com/2026/03/bearlyfy-hits-70-russian-firms-with.html"&gt;The Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.securityweek.com/tp-link-patches-high-severity-router-vulnerabilities/"&gt;TP-Link Patches High-Severity Router Vulnerabilities Enabling Authentication Bypass&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 27, 11:42&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;TP-Link released patches for multiple high-severity vulnerabilities in router firmware that could allow attackers to bypass authentication, execute arbitrary commands, and decrypt configuration files. The vulnerabilities affect widely deployed consumer and business networking equipment. Router security remains a critical attack vector for lateral network movement.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Critical network infrastructure vulnerabilities affecting your router security and network perimeter defense strategy&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.securityweek.com/tp-link-patches-high-severity-router-vulnerabilities/"&gt;SecurityWeek&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://cybersecuritynews.com/hackers-use-phishing-zip-files/"&gt;Hackers Deploy PXA Stealer Against Financial Firms Following Major Infostealer Takedowns&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 27, 10:34&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Financial institutions face increased targeting by PXA Stealer malware following law enforcement's successful takedown of major infostealer operations including Lumma, Rhadamanthys, and RedLine throughout 2025. Threat actors are using phishing ZIP files to deploy the information-stealing malware as they migrate to remaining platforms. This demonstrates the displacement effect of cybercrime infrastructure disruption.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Financial sector targeting surge affecting your understanding of infostealer threat migration and credential theft risks&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://cybersecuritynews.com/hackers-use-phishing-zip-files/"&gt;Cybersecurity News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://cybersecuritynews.com/hackers-use-usb-malware-rats-and-stealers-in-espionage-attacks/"&gt;Southeast Asian Government Hit by Coordinated Espionage Campaign Using USB Malware and RATs&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 27, 10:57&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;A sophisticated cyberespionage campaign targeted a Southeast Asian government organization between June-August 2025 using USB-propagated malware, remote access trojans, and data stealers across three simultaneous activity clusters. The operation secured long-term access to sensitive government systems through coordinated multi-vector attacks. This demonstrates advanced persistent threat tactics targeting critical government infrastructure.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Government espionage campaign affecting your understanding of APT tactics and critical infrastructure targeting methods&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://cybersecuritynews.com/hackers-use-usb-malware-rats-and-stealers-in-espionage-attacks/"&gt;Cybersecurity News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.bleepingcomputer.com/news/security/dutch-police-discloses-security-breach-after-phishing-attack/"&gt;Dutch Police Disclose Security Breach Following Successful Phishing Attack&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 27, 08:20&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;The Dutch National Police disclosed a security breach resulting from a successful phishing attack, stating the incident had limited impact and did not affect citizens' data. The breach highlights that even law enforcement agencies remain vulnerable to social engineering attacks. Police organizations worldwide face increasing cyber threats targeting sensitive operational data.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Law enforcement cybersecurity incident affecting your understanding of phishing risks and government agency vulnerabilities&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.bleepingcomputer.com/news/security/dutch-police-discloses-security-breach-after-phishing-attack/"&gt;BleepingComputer&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://cybersecuritynews.com/linux-tool-malware-embedded/"&gt;Red Hat Warns of Malware Embedded in Popular Linux XZ Compression Tool&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 27, 09:30&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Red Hat issued a critical security warning about malicious code discovered in recent versions of the xz compression tools and libraries, tracked as CVE-2024-3094. The sophisticated supply chain compromise could allow threat actors to bypass authentication and gain unauthorized remote access to affected Linux systems. The xz utility is a fundamental data compression tool used across Linux distributions.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Critical Linux infrastructure compromise affecting your open source software supply chain security and system integrity&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://cybersecuritynews.com/linux-tool-malware-embedded/"&gt;Cybersecurity News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;AI &amp; Machine Learning&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.wired.com/story/i-asked-chatgpt-500-questions-here-are-the-ads-i-saw-most-often/"&gt;ChatGPT Rolls Out Advertising to Free Tier Users Across United States&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 27, 10:30&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;OpenAI has begun displaying advertisements to ChatGPT's free tier users across the United States, marking a significant monetization shift for the popular AI assistant. Research involving 500 questions revealed patterns in ad targeting and placement strategies tied to user prompts. This represents the first major advertising implementation in a leading conversational AI platform.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major AI platform monetization change affecting your understanding of free AI service sustainability and user experience evolution&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.wired.com/story/i-asked-chatgpt-500-questions-here-are-the-ads-i-saw-most-often/"&gt;Wired AI&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;Technology&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.bleepingcomputer.com/news/security/anti-piracy-coalition-takes-down-animeplay-app-with-5-million-users/"&gt;Anti-Piracy Coalition Shuts Down AnimePlay App with 5 Million Users&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 27, 10:40&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;The Alliance for Creativity and Entertainment (ACE) announced the shutdown of AnimePlay, a major anime streaming platform with over 5 million users. The takedown represents continued enforcement action against large-scale piracy platforms. Streaming piracy remains a significant challenge for content creators and legitimate platforms.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major piracy platform shutdown affecting your understanding of content protection enforcement and streaming market dynamics&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.bleepingcomputer.com/news/security/anti-piracy-coalition-takes-down-animeplay-app-with-5-million-users/"&gt;BleepingComputer&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;Business &amp; Markets&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://news.crunchbase.com/venture/all-time-high-funding-to-austin-startups-2025-ai-robotics-manufacturing/"&gt;Austin Startups Raise Record $7.19 Billion in Venture Funding During 2025&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 27, 11:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Austin-based startups achieved a record $7.19 billion in venture funding during 2025, demonstrating the city's continued strength as a major tech hub. The funding surge was driven by investments in AI, robotics, and manufacturing startups. Austin's startup ecosystem continues expanding beyond traditional tech sectors into emerging technologies.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Regional venture capital concentration affecting your understanding of startup ecosystem growth and investment geography trends&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://news.crunchbase.com/venture/all-time-high-funding-to-austin-startups-2025-ai-robotics-manufacturing/"&gt;Crunchbase News&lt;/a&gt;&lt;br&gt;
 &lt;/p&gt;</content>
   </entry>
 </feed>
