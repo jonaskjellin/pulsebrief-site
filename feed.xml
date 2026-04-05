@@ -5,7 +5,54 @@
   <link href="https://jonaskjellin.github.io/pulsebrief-site/feed.xml" rel="self"/>
   <link href="https://jonaskjellin.github.io/pulsebrief-site/"/>
   <id>https://jonaskjellin.github.io/pulsebrief-site/</id>
-  <updated>2026-04-05T06:08:46.285Z</updated>
+  <updated>2026-04-05T11:23:29.846Z</updated>
+  <entry>
+    <title>Afternoon — Apr 5, 2026</title>
+    <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-04-05-afternoon.html"/>
+    <id>https://jonaskjellin.github.io/pulsebrief-site/2026-04-05-afternoon.html</id>
+    <updated>2026-04-05T11:23:29.846Z</updated>
+    <content type="html">&lt;p&gt;&lt;h1&gt;PulseBrief's Afternoon Pulse&lt;/h1&gt;&lt;br&gt;
+&lt;em&gt;Sun, Apr 5, 05:00 → Sun, Apr 5, 11:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Cyber Security&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://thehackernews.com/2026/04/36-malicious-npm-packages-exploited.html"&gt;36 Malicious npm Packages Target Redis and PostgreSQL with Persistent Implants&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 5, 05:07&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Researchers discovered 36 malicious npm packages disguised as Strapi CMS plugins that exploit Redis and PostgreSQL databases, deploy reverse shells, harvest credentials, and install persistent backdoors. The packages contained three files with no descriptions or repositories, indicating a coordinated campaign targeting JavaScript developers. This represents a significant supply chain attack against the npm ecosystem that could compromise database infrastructure and application security.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Critical supply chain threat affecting JavaScript developers and database infrastructure with potential for widespread compromise of enterprise applications&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://thehackernews.com/2026/04/36-malicious-npm-packages-exploited.html"&gt;The Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.wired.com/story/inside-the-hack-that-exposed-syrias-security-failures/"&gt;Syrian Government Hack Exposes Fundamental Security Failures&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 5, 09:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;A detailed analysis of the March Syrian government account hijackings reveals the breach exposed more than chaotic incidents — it demonstrated a state struggling with basic cybersecurity fundamentals. The hack highlighted systemic security weaknesses in government digital infrastructure and authentication systems. The incident provides insights into how nation-state cybersecurity failures can cascade across government operations.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Nation-state cybersecurity failures demonstrating systemic vulnerabilities in government digital infrastructure and authentication systems&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.wired.com/story/inside-the-hack-that-exposed-syrias-security-failures/"&gt;Wired Security&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://osintradar.com/"&gt;OsintRadar Launches Curated Directory for Open Source Intelligence Tools&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 5, 05:58&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;A new project called OsintRadar has launched to provide a curated directory of open source intelligence (OSINT) tools, frameworks, and techniques. The platform aims to organize and categorize the growing ecosystem of OSINT resources for security researchers and investigators. This addresses the need for centralized discovery of intelligence gathering tools as OSINT becomes increasingly important for cybersecurity operations.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;New resource for cybersecurity professionals and researchers needing organized access to intelligence gathering tools and techniques&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://osintradar.com/"&gt;Hacker News - Top&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;AI &amp; Machine Learning&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://idp-software.com/news/idp-accuracy-reckoning-2026/"&gt;Analysis Reveals OCR and AI Agent Accuracy Claims Often Unverified&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 5, 06:12&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;An investigation into practitioner posts about OCR, AI agents, and table processing reveals that accuracy claims are frequently unverified or lack proper benchmarking. The analysis highlights a growing problem in AI evaluation where performance metrics are often inflated or based on limited testing scenarios. This affects enterprise decision-making around AI tool adoption and highlights the need for standardized evaluation frameworks.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;AI evaluation credibility affecting enterprise tool selection decisions and highlighting need for standardized AI performance benchmarking&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://idp-software.com/news/idp-accuracy-reckoning-2026/"&gt;Hacker News - Top&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Technology&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://lisette.run/"&gt;Lisette Programming Language Compiles Rust-Inspired Syntax to Go&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 5, 06:57&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;A new programming language called Lisette has been released that takes inspiration from Rust's syntax and semantics but compiles to Go code. The language aims to combine Rust's safety features with Go's runtime characteristics and ecosystem. This represents another attempt to bridge different programming paradigms and leverage existing language ecosystems while providing modern syntax and safety features.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;New programming language option affecting developer tooling choices and demonstrating continued innovation in language design and compilation targets&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://lisette.run/"&gt;Hacker News - Top&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://github.com/MidstallSoftware/aegis"&gt;Aegis Open-Source FPGA Silicon Project Launches&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 5, 05:50&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;The Aegis project has been released as an open-source FPGA silicon initiative, providing hardware designers with open access to FPGA design resources. The project aims to democratize FPGA development and provide alternatives to proprietary silicon solutions. This contributes to the growing open hardware movement and could reduce dependencies on proprietary FPGA vendors.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Open hardware initiative affecting FPGA development and reducing dependencies on proprietary silicon vendors for hardware designers&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://github.com/MidstallSoftware/aegis"&gt;Hacker News - Top&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://github.com/PluMGMK/vbesvga.drv"&gt;Modern SVGA Driver Released for Windows 3.1&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 5, 05:28&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;A developer has created a modern generic SVGA driver for Windows 3.1, bringing updated graphics capabilities to the vintage operating system. The driver enables higher resolution and color depth support on legacy hardware running Windows 3.1. This represents ongoing community efforts to extend the capabilities of retro computing systems and maintain compatibility with modern hardware.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Retro computing development demonstrating community efforts to extend legacy system capabilities and maintain vintage hardware compatibility&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://github.com/PluMGMK/vbesvga.drv"&gt;Hacker News - Top&lt;/a&gt;&lt;br&gt;
+&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>Custom — Apr 5, 2026</title>
     <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-04-05-custom.html"/>
@@ -1892,44 +1939,6 @@
 &lt;p&gt;Google's new Pixel 10a features a flat design without the characteristic camera bump, allowing the device to lay completely flat on surfaces. The budget smartphone maintains competitive camera performance while addressing a common user complaint about protruding camera modules. However, the device offers limited upgrades beyond the design change compared to previous generations.&lt;/p&gt;&lt;br&gt;
 &lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Notable smartphone design trend affecting user experience preferences and potential influence on industry design standards&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
 &lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/03/29/google-pixel-10a-review-camera-bump-performance-ai-chip/"&gt;TechCrunch&lt;/a&gt;&lt;br&gt;
-&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>Evening — Mar 29, 2026</title>
-    <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-03-29-evening.html"/>
-    <id>https://jonaskjellin.github.io/pulsebrief-site/2026-03-29-evening.html</id>
-    <updated>2026-03-29T16:23:12.219Z</updated>
-    <content type="html">&lt;p&gt;&lt;h1&gt;PulseBrief's Evening Pulse&lt;/h1&gt;&lt;br&gt;
-&lt;em&gt;Sun, Mar 29, 11:00 → Sun, Mar 29, 16:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;Cyber Security&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.bleepingcomputer.com/news/security/file-read-flaw-in-smart-slider-plugin-impacts-500k-wordpress-sites/"&gt;Smart Slider 3 Plugin Flaw Exposes File System to Subscriber Users on 500K+ WordPress Sites&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 29, 14:38&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;A critical vulnerability in the Smart Slider 3 WordPress plugin allows subscriber-level users to read arbitrary files from the server filesystem. The plugin is actively installed on over 800,000 WordPress websites, making this a widespread supply chain risk. The flaw enables low-privilege users to potentially access sensitive configuration files, credentials, and other server data.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Critical WordPress plugin vulnerability affecting hundreds of thousands of websites with potential for data exposure through privilege escalation&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.bleepingcomputer.com/news/security/file-read-flaw-in-smart-slider-plugin-impacts-500k-wordpress-sites/"&gt;BleepingComputer&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://cybersecuritynews.com/microsoft-critical-winre-update/"&gt;Microsoft Releases Critical Windows Updates Before 2026 Secure Boot Certificate Expiration&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 29, 14:39&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Microsoft issued two critical dynamic updates (KB5081494 and KB5083482) for Windows 11 versions 24H2 and 25H2 to address impending Windows Secure Boot certificate expiration in 2026. The updates enhance setup binaries and Windows Recovery Environment ahead of the certificate transition. Organizations must apply these patches to maintain system boot integrity and security validation.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Critical Windows infrastructure update affecting system boot security and requiring immediate attention to prevent boot failures&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://cybersecuritynews.com/microsoft-critical-winre-update/"&gt;Cybersecurity News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;AI &amp; Machine Learning&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.cnn.com/2026/03/29/us/angela-lipps-ai-facial-recognition"&gt;Tennessee Woman Wrongly Arrested After AI Facial Recognition Misidentification&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 29, 14:20&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Police used AI facial recognition technology to wrongly arrest a Tennessee woman for crimes committed in North Dakota, highlighting ongoing accuracy issues with law enforcement AI systems. The case demonstrates the real-world consequences of false positives in AI identification systems used by police departments. This adds to growing concerns about AI bias and reliability in criminal justice applications.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;AI misidentification in law enforcement affecting understanding of AI accuracy risks and civil rights implications&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.cnn.com/2026/03/29/us/angela-lipps-ai-facial-recognition"&gt;CNN&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;Technology&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://action.wemove.eu/sign/2026-03-palantir-petition-EN"&gt;European Petition Campaign Opposes Palantir Expansion in Europe&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 29, 14:51&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;A petition campaign is mobilizing European opposition to data analytics company Palantir's expansion across European markets and government contracts. The initiative reflects growing privacy and surveillance concerns about Palantir's data collection and analysis capabilities in European regulatory environments. The campaign gained significant attention on Hacker News with over 150 upvotes.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;European data privacy opposition affecting understanding of surveillance technology acceptance and regulatory resistance trends&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://action.wemove.eu/sign/2026-03-palantir-petition-EN"&gt;WeMove.EU&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;Business &amp; Markets&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/03/29/sxsw-rebounds-as-a-top-networking-ideas-festival-for-founders-and-vcs/"&gt;SXSW 2026 Rebounds as Premier Networking Event for Tech Founders and VCs&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 29, 14:01&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;South by Southwest (SXSW) 2026 has successfully repositioned itself as a top networking and ideas festival for startup founders and venture capitalists after making strategic changes to its format. The event demonstrated renewed relevance for the tech community despite previous concerns about its direction. The festival's recovery reflects the importance of in-person networking events for the startup ecosystem.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Tech industry event evolution affecting understanding of startup networking trends and ecosystem relationship building&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/03/29/sxsw-rebounds-as-a-top-networking-ideas-festival-for-founders-and-vcs/"&gt;TechCrunch&lt;/a&gt;&lt;br&gt;
 &lt;/p&gt;</content>
   </entry>
 </feed>
