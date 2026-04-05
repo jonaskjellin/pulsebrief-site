@@ -5,7 +5,75 @@
   <link href="https://jonaskjellin.github.io/pulsebrief-site/feed.xml" rel="self"/>
   <link href="https://jonaskjellin.github.io/pulsebrief-site/"/>
   <id>https://jonaskjellin.github.io/pulsebrief-site/</id>
-  <updated>2026-04-04T16:23:17.742Z</updated>
+  <updated>2026-04-05T06:08:46.285Z</updated>
+  <entry>
+    <title>Custom — Apr 5, 2026</title>
+    <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-04-05-custom.html"/>
+    <id>https://jonaskjellin.github.io/pulsebrief-site/2026-04-05-custom.html</id>
+    <updated>2026-04-05T06:08:46.285Z</updated>
+    <content type="html">&lt;p&gt;&lt;h1&gt;PulseBrief's Update Pulse&lt;/h1&gt;&lt;br&gt;
+&lt;em&gt;as of Sun, Apr 5, 06:08&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Cyber Security&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://thehackernews.com/2026/04/36-malicious-npm-packages-exploited.html"&gt;36 Malicious npm Packages Target Redis and PostgreSQL with Persistent Implants&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 5, 05:07&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Researchers discovered 36 malicious npm packages disguised as Strapi CMS plugins that exploit Redis and PostgreSQL databases, deploy reverse shells, harvest credentials, and install persistent backdoors. The packages contained three files with no descriptions or repositories, indicating a coordinated campaign targeting JavaScript developers. This represents a significant supply chain attack against the npm ecosystem that could compromise database infrastructure and application security.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Critical supply chain threat affecting JavaScript developers and database infrastructure with potential for widespread compromise of enterprise applications&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://thehackernews.com/2026/04/36-malicious-npm-packages-exploited.html"&gt;The Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://thehackernews.com/2026/04/fortinet-patches-actively-exploited-cve.html"&gt;Fortinet Patches Critical Zero-Day CVE-2026-35616 Under Active Exploitation&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 5, 04:32&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Fortinet released emergency patches for CVE-2026-35616, a critical vulnerability in FortiClient EMS with a 9.1 CVSS score that allows pre-authentication API access bypass and privilege escalation. The vulnerability is being actively exploited in the wild, enabling unauthenticated attackers to gain administrative privileges on enterprise security management systems. This affects organizations' core endpoint security infrastructure used to manage and protect enterprise networks.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Critical enterprise security infrastructure under active attack affecting organizational endpoint management and security controls&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://thehackernews.com/2026/04/fortinet-patches-actively-exploited-cve.html"&gt;The Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.bleepingcomputer.com/news/security/axios-npm-hack-used-fake-teams-error-fix-to-hijack-maintainer-account/"&gt;Axios npm Maintainer Compromised Through Social Engineering by North Korean Actors&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 4, 20:30&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;The maintainers of Axios HTTP client published a detailed post-mortem revealing how one developer was targeted by a sophisticated social engineering campaign using fake Microsoft Teams error fixes, believed to be conducted by North Korean threat actors. The attack demonstrates advanced techniques used to compromise maintainers of critical open-source libraries. This follows the broader pattern of supply chain attacks targeting popular JavaScript ecosystem components.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Supply chain attack targeting critical JavaScript library used by millions of applications demonstrating advanced social engineering techniques against open-source maintainers&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.bleepingcomputer.com/news/security/axios-npm-hack-used-fake-teams-error-fix-to-hijack-maintainer-account/"&gt;BleepingComputer&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;AI &amp; Machine Learning&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theverge.com/entertainment/907111/murphy-campbell-folk-music-ai-copyright"&gt;Folk Musician Becomes Target of AI-Generated Copyright Fraud&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 4, 17:52&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Folk artist Murphy Campbell discovered AI-generated covers of her songs uploaded to Spotify under her name without permission, created from her YouTube performances. The incident highlights how AI tools are being weaponized for copyright fraud and identity theft in the music industry. AI detection tools confirmed the suspicious tracks were likely AI-generated, demonstrating the growing challenge of protecting creative work from AI exploitation.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;AI-powered copyright fraud affecting creative industries and intellectual property rights with implications for artist protection and platform security&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.theverge.com/entertainment/907111/murphy-campbell-folk-music-ai-copyright"&gt;The Verge - AI&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/04/04/anthropic-says-claude-code-subscribers-will-need-to-pay-extra-for-openclaw-support/"&gt;Anthropic Requires Extra Payment for Claude Code Third-Party Tool Usage&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 4, 16:32&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Anthropic announced that Claude Code subscribers will need to pay additional fees to use third-party tools like OpenClaw, moving away from included usage in subscription plans to separate pay-per-use billing. This change affects developers who integrated Claude Code with external AI agent tools and coding assistants. The policy shift represents a move toward more granular monetization of AI tool integrations and could increase costs for power users.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;AI tool access restriction affecting developer workflows and demonstrating platform vendor strategies for monetizing third-party integrations&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/04/04/anthropic-says-claude-code-subscribers-will-need-to-pay-extra-for-openclaw-support/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Technology&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.phoronix.com/news/Linux-7.0-AWS-PostgreSQL-Drop"&gt;AWS Reports PostgreSQL Performance Halved by Linux 7.0 Kernel Changes&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 5, 24:13&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;An AWS engineer reported that PostgreSQL performance dropped by approximately 50% after upgrading to Linux kernel 7.0, with the fix potentially being complex to implement. The regression affects database workloads running on the latest Linux kernel version and could impact enterprise database deployments. The issue demonstrates how kernel changes can significantly affect critical database performance in production environments.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major database performance regression affecting enterprise workloads and demonstrating critical infrastructure stability challenges with latest Linux kernel&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.phoronix.com/news/Linux-7.0-AWS-PostgreSQL-Drop"&gt;Hacker News - Top&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://github.com/nvim-treesitter/nvim-treesitter/discussions/8627"&gt;Popular Neovim Plugin nvim-treesitter Archived After 13K+ GitHub Stars&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 4, 23:39&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;The widely-used nvim-treesitter plugin with over 13,000 GitHub stars has been archived by its maintainers, affecting thousands of Neovim users who rely on advanced syntax highlighting and code parsing features. The archival represents a significant disruption to the Neovim ecosystem and developer workflows. The decision highlights ongoing challenges with open-source project maintenance and sustainability.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major development tool disruption affecting thousands of developers and demonstrating open-source sustainability challenges in critical developer infrastructure&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://github.com/nvim-treesitter/nvim-treesitter/discussions/8627"&gt;Hacker News - Top&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theverge.com/tech/907003/apple-approves-driver-that-lets-nvidia-egpus-work-with-arm-macs"&gt;Apple Approves Third-Party Driver Enabling Nvidia eGPUs on Arm Macs&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 4, 16:16&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Apple has approved a third-party driver that allows Nvidia external GPUs to work with Apple Silicon Macs, ending years of incompatibility between Nvidia graphics cards and Apple's Arm-based systems. The approval represents a significant shift in Apple's hardware compatibility stance and opens new possibilities for professional workflows requiring Nvidia GPU acceleration. This enables Mac users to access Nvidia's CUDA ecosystem and AI/ML capabilities previously unavailable on Apple Silicon.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major hardware compatibility breakthrough affecting professional Mac users and AI/ML workflows requiring Nvidia GPU acceleration capabilities&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.theverge.com/tech/907003/apple-approves-driver-that-lets-nvidia-egpus-work-with-arm-macs"&gt;Hacker News - Top&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://bmi.usercontent.opencode.de/eudi-wallet/wallet-development-documentation-public/latest/architecture-concept/06-mobile-devices/02-mdvm/"&gt;German Digital ID Implementation Will Require Apple or Google Account&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 4, 22:57&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Germany's implementation of the eIDAS digital identity framework will require citizens to have either an Apple or Google account for the mobile wallet to function properly. This decision creates a dependency on major tech platforms for government identity services and raises concerns about digital sovereignty. The requirement demonstrates how national digital infrastructure increasingly relies on private tech company ecosystems.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Government digital identity services creating mandatory dependency on major tech platforms affecting digital sovereignty and citizen privacy rights&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://bmi.usercontent.opencode.de/eudi-wallet/wallet-development-documentation-public/latest/architecture-concept/06-mobile-devices/02-mdvm/"&gt;Hacker News - Top&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Business &amp; Markets&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/04/04/unpacking-peter-thiels-big-bet-on-solar-powered-cow-collars/"&gt;Peter Thiel's Founders Fund Invests $220M in Solar-Powered Cattle Management Startup&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 4, 21:30&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Founders Fund has made a significant $220 million investment in Halter, a startup developing solar-powered smart collars for cattle management. The investment represents one of the largest AgTech funding rounds and demonstrates venture capital interest in livestock technology solutions. The deal highlights the growing intersection of renewable energy, IoT sensors, and agricultural automation.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major AgTech investment demonstrating venture capital interest in agricultural automation and IoT-enabled livestock management solutions&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/04/04/unpacking-peter-thiels-big-bet-on-solar-powered-cow-collars/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/04/04/embattled-startup-delve-has-parted-ways-with-y-combinator/"&gt;Y Combinator Parts Ways with Embattled Compliance Startup Delve&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 4, 21:03&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Y Combinator has ended its relationship with Delve, a compliance startup that became embroiled in controversy. The decision represents an unusual move for the prominent accelerator to distance itself from a portfolio company. The separation suggests significant issues with the startup that prompted Y Combinator to take the rare step of severing ties with a batch company.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Rare accelerator-portfolio company separation indicating significant startup governance or operational issues affecting Y Combinator's reputation&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/04/04/embattled-startup-delve-has-parted-ways-with-y-combinator/"&gt;TechCrunch&lt;/a&gt;&lt;br&gt;
+&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>Evening — Apr 4, 2026</title>
     <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-04-04-evening.html"/>
@@ -1862,33 +1930,6 @@
 &lt;p&gt;South by Southwest (SXSW) 2026 has successfully repositioned itself as a top networking and ideas festival for startup founders and venture capitalists after making strategic changes to its format. The event demonstrated renewed relevance for the tech community despite previous concerns about its direction. The festival's recovery reflects the importance of in-person networking events for the startup ecosystem.&lt;/p&gt;&lt;br&gt;
 &lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Tech industry event evolution affecting understanding of startup networking trends and ecosystem relationship building&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
 &lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/03/29/sxsw-rebounds-as-a-top-networking-ideas-festival-for-founders-and-vcs/"&gt;TechCrunch&lt;/a&gt;&lt;br&gt;
-&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>Afternoon — Mar 29, 2026</title>
-    <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-03-29-afternoon.html"/>
-    <id>https://jonaskjellin.github.io/pulsebrief-site/2026-03-29-afternoon.html</id>
-    <updated>2026-03-29T11:22:10.822Z</updated>
-    <content type="html">&lt;p&gt;&lt;h1&gt;PulseBrief's Afternoon Pulse&lt;/h1&gt;&lt;br&gt;
-&lt;em&gt;Sun, Mar 29, 05:00 → Sun, Mar 29, 11:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;Cyber Security&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://cybersecuritynews.com/citrix-netscaler-instances-exploited/"&gt;Hackers Probe Citrix NetScaler Instances Ahead of Likely CVE-2026-3055 Exploitation&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 29, 06:56&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Security researchers are detecting active reconnaissance campaigns targeting CVE-2026-3055, a critical memory overread vulnerability in Citrix NetScaler ADC and Gateway appliances with CVSS 9.3 score. The flaw allows unauthenticated attackers to extract sensitive data from widely deployed enterprise networking infrastructure. Threat intelligence firms watchTowr and Defused Cyber report organized scanning activity suggesting imminent in-the-wild exploitation attempts.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Critical network infrastructure vulnerability under active reconnaissance affecting widely deployed enterprise access and load balancing systems&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://cybersecuritynews.com/citrix-netscaler-instances-exploited/"&gt;Cybersecurity News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;AI &amp; Machine Learning&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://adlrocha.substack.com/p/adlrocha-what-if-ai-doesnt-need-more"&gt;Research Suggests AI May Need Better Math Rather Than More RAM for Efficiency&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 29, 08:18&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;A new analysis questions the conventional wisdom that AI advancement primarily requires more memory and computational resources, proposing instead that mathematical optimization could provide greater efficiency gains. The research explores alternative approaches to scaling AI systems beyond brute-force resource increases. This challenges current industry assumptions about hardware requirements driving AI development costs.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;AI efficiency research affecting understanding of computational requirements and alternative scaling approaches beyond hardware expansion&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://adlrocha.substack.com/p/adlrocha-what-if-ai-doesnt-need-more"&gt;Substack&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;Technology&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://github.com/1st1/lat.md"&gt;Agent Lattice: Knowledge Graph Tool for Codebases Written in Markdown&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 29, 08:59&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;A new open-source tool called Agent Lattice creates knowledge graphs for codebases using Markdown format, enabling better code documentation and understanding. The project aims to help developers visualize and navigate complex software architectures through structured knowledge representation. This represents growing interest in AI-assisted code comprehension and documentation tools.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Developer tooling advancement affecting code documentation practices and software architecture visualization approaches&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://github.com/1st1/lat.md"&gt;GitHub&lt;/a&gt;&lt;br&gt;
 &lt;/p&gt;</content>
   </entry>
 </feed>
