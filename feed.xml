@@ -5,7 +5,115 @@
   <link href="https://jonaskjellin.github.io/pulsebrief-site/feed.xml" rel="self"/>
   <link href="https://jonaskjellin.github.io/pulsebrief-site/"/>
   <id>https://jonaskjellin.github.io/pulsebrief-site/</id>
-  <updated>2026-04-10T06:27:11.327Z</updated>
+  <updated>2026-04-10T11:42:20.044Z</updated>
+  <entry>
+    <title>Afternoon — Apr 10, 2026</title>
+    <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-04-10-afternoon.html"/>
+    <id>https://jonaskjellin.github.io/pulsebrief-site/2026-04-10-afternoon.html</id>
+    <updated>2026-04-10T11:42:20.044Z</updated>
+    <content type="html">&lt;p&gt;&lt;h1&gt;PulseBrief's Afternoon Pulse&lt;/h1&gt;&lt;br&gt;
+&lt;em&gt;Fri, Apr 10, 05:00 → Fri, Apr 10, 11:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Cyber Security&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://cybersecuritynews.com/cpuid-website-compromised/"&gt;CPUID Website Compromised to Deliver Weaponized System Utilities&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 10, 08:25&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;The cpuid.com website, home to widely used system utilities CPU-Z and HWMonitor, is distributing trojanized versions of these popular tools since early April. Users downloading HWMonitor 1.63 or CPU-Z ZIP files receive malicious installers capable of dropping harmful DLLs, evading antivirus detection through in-memory execution, and establishing connections to attacker-controlled infrastructure. This represents a major supply chain attack targeting millions of users who rely on these system monitoring tools.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Supply chain compromise affecting widely-used system utilities that millions of users trust for hardware monitoring and analysis&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://cybersecuritynews.com/cpuid-website-compromised/"&gt;Cybersecurity News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://thehackernews.com/2026/04/marimo-rce-flaw-cve-2026-39987.html"&gt;Critical Marimo Python Notebook Vulnerability Exploited Within 10 Hours&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 10, 07:37&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;CVE-2026-39987, a critical remote code execution vulnerability in Marimo Python notebook for data science, was exploited by attackers within 10 hours of public disclosure. The pre-authenticated flaw affects all versions of Marimo prior to and including the latest release, allowing attackers to execute arbitrary code without authentication. Security researchers detected active exploitation attempts almost immediately after the vulnerability details became public.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Zero-day exploitation timeline demonstrates how quickly attackers can weaponize disclosed vulnerabilities affecting data science infrastructure&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://thehackernews.com/2026/04/marimo-rce-flaw-cve-2026-39987.html"&gt;The Hacker News&lt;/a&gt; · &lt;a href="https://www.securityweek.com/critical-marimo-flaw-exploited-hours-after-public-disclosure/"&gt;SecurityWeek&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://thehackernews.com/2026/04/backdoored-smart-slider-3-pro-update.html"&gt;Backdoored Smart Slider 3 Pro Update Distributed via Compromised Nextend Servers&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 10, 06:28&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Unknown threat actors hijacked the update system for the Smart Slider 3 Pro plugin for WordPress and Joomla to distribute a poisoned version containing a backdoor. The supply chain attack affects Smart Slider 3 Pro version 3.5.1.35 for WordPress, targeting one of the most popular slider plugins with over 800,000 active installations across its free and Pro versions. Users expecting legitimate security updates instead received malicious code through the compromised distribution mechanism.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Supply chain attack targeting popular website plugin affecting hundreds of thousands of WordPress and Joomla sites through compromised updates&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://thehackernews.com/2026/04/backdoored-smart-slider-3-pro-update.html"&gt;The Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.bleepingcomputer.com/news/google/google-rolls-out-gmail-end-to-end-encryption-on-mobile-devices/"&gt;Google Rolls Out Gmail End-to-End Encryption on Mobile Devices&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 10, 10:44&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Google has made Gmail end-to-end encryption (E2EE) available on all Android and iOS devices, allowing enterprise users to read and compose encrypted emails without additional tools. The rollout extends Gmail's encryption capabilities beyond desktop to mobile platforms, providing stronger privacy protection for sensitive business communications. The feature addresses growing demand for enterprise-grade email security on mobile devices.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major email security enhancement affecting enterprise communications and mobile email privacy for millions of business users&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.bleepingcomputer.com/news/google/google-rolls-out-gmail-end-to-end-encryption-on-mobile-devices/"&gt;BleepingComputer&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://thehackernews.com/2026/04/google-rolls-out-dbsc-in-chrome-146-to.html"&gt;Chrome 146 Deploys Device-Bound Session Credentials to Block Cookie Theft&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 10, 07:58&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Google has made Device Bound Session Credentials (DBSC) generally available to all Windows users of Chrome 146, with macOS expansion planned for upcoming releases. The security feature cryptographically binds authentication sessions to specific devices, rendering stolen session cookies unusable on other machines even if intercepted by malware. This represents a significant advancement in browser security against widespread credential theft attacks affecting millions of users.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major browser security enhancement protecting against credential theft attacks that affect millions of users and enterprise security&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://thehackernews.com/2026/04/google-rolls-out-dbsc-in-chrome-146-to.html"&gt;The Hacker News&lt;/a&gt; · &lt;a href="https://www.securityweek.com/google-rolls-out-cookie-theft-protections-in-chrome/"&gt;SecurityWeek&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://cybersecuritynews.com/trojanized-openvsx-extension-spreads-glassworm/"&gt;Trojanized OpenVSX Extension Spreads GlassWorm Malware Across Code Editors&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 10, 08:12&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;A malicious developer extension published on the OpenVSX marketplace is distributing the GlassWorm malware strain to every code editor installed on developers' machines. The fake productivity tool uses a compiled native binary to quietly infect VS Code, Cursor, Windsurf, and other popular development environments. The attack targets the software development supply chain by compromising the tools developers use to create applications.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Developer supply chain attack affecting multiple code editors and potentially compromising software development across organizations&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://cybersecuritynews.com/trojanized-openvsx-extension-spreads-glassworm/"&gt;Cybersecurity News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;AI &amp; Machine Learning&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://cybersecuritynews.com/single-line-of-code-can-jailbreak-11-ai-models/"&gt;Single Line of Code Jailbreaks 11 Major AI Models Including ChatGPT, Claude, Gemini&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 10, 06:40&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;A new technique called 'sockpuppeting' allows attackers to bypass safety guardrails of 11 major large language models using just one line of code. The attack exploits APIs that support assistant prefill to inject fake acceptance messages, forcing models to answer prohibited requests without complex manipulation. The vulnerability affects ChatGPT, Claude, Gemini, and other leading AI systems, demonstrating widespread security weaknesses in AI safety mechanisms.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Simple attack method affecting all major AI models demonstrates fundamental vulnerabilities in AI safety systems across the industry&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://cybersecuritynews.com/single-line-of-code-can-jailbreak-11-ai-models/"&gt;Cybersecurity News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://thehackernews.com/2026/04/browser-extensions-are-new-ai.html"&gt;Browser Extensions Emerge as Unguarded AI Security Threat Surface&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 10, 11:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;A new LayerX report reveals that AI browser extensions represent a massive security blind spot that organizations aren't monitoring or protecting against. While much discussion centers on protecting 'shadow' AI and GenAI consumption, AI browser extensions provide a wide-open attack vector that's not on anyone's security radar. The report exposes how deep this oversight goes and why AI extensions may be the most dangerous AI threat surface in enterprise networks.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;New AI attack vector affecting enterprise security through unmonitored browser extensions creating significant organizational risk&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://thehackernews.com/2026/04/browser-extensions-are-new-ai.html"&gt;The Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.wired.com/story/ai-podcasters-really-want-to-tell-you-how-to-keep-a-man-happy/"&gt;AI Podcasters Generate Millions of Views With Relationship Advice Content&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 10, 10:30&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Videos featuring fake AI-generated relationship guru podcasters are reinforcing gender stereotypes and accumulating millions of views while driving sales to AI influencer schools. The content specifically focuses on 'how to keep a man happy' themes and other relationship advice, demonstrating how AI-generated personalities can achieve viral reach. The phenomenon highlights concerns about AI-generated content shaping social attitudes and monetizing misinformation.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;AI-generated content achieving massive reach affecting social discourse and demonstrating monetization of AI-created misinformation&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.wired.com/story/ai-podcasters-really-want-to-tell-you-how-to-keep-a-man-happy/"&gt;Wired&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.wired.com/story/metas-new-ai-asked-for-my-raw-health-data-and-gave-me-terrible-advice/"&gt;Meta's New AI Health Assistant Requests Raw Medical Data, Provides Poor Advice&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 10, 09:30&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Meta's Muse Spark model offers to analyze users' personal health data, including laboratory results, but delivers questionable medical advice while creating significant privacy risks. Testing reveals the AI system is not a capable substitute for professional medical consultation despite requesting sensitive health information. The tool demonstrates concerning trends in AI health applications that could mislead users about serious medical conditions.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;AI health advice systems creating privacy risks and medical misinformation affecting user health decisions and data security&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.wired.com/story/metas-new-ai-asked-for-my-raw-health-data-and-gave-me-terrible-advice/"&gt;Wired&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Technology&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theverge.com/news/909640/microsoft-removing-copilot-windows-11-buttons"&gt;Microsoft Removes Copilot Buttons from Windows 11 Apps in UI Overhaul&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 10, 09:22&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Microsoft is removing 'unnecessary' Copilot buttons from Windows 11 applications, starting with Notepad, Snipping Tool, Photos, and Widgets as part of broader efforts to fix the operating system. The latest Notepad version for Windows Insiders replaces the Copilot button with a 'writing tools' menu, while maintaining underlying AI functionality. The change reflects Microsoft's acknowledgment that the current Copilot integration creates too many entry points and user interface clutter.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major Windows UI changes affecting millions of users and demonstrating Microsoft's recognition that AI integration needs refinement&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.theverge.com/news/909640/microsoft-removing-copilot-windows-11-buttons"&gt;The Verge&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://go.theregister.com/feed/www.theregister.com/2026/04/10/amazon_may_sell_homegrown_chips/"&gt;AWS Considers Selling Custom Graviton Chips by the Rack, Reports AI Capacity Constraints&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 10, 05:04&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Amazon CEO Andy Jassy revealed that AWS is exploring selling its home-grown Graviton chips by the rack to customers, with two major clients already requesting entire racks of Graviton servers. Additionally, Amazon has almost sold out its AI computing capacity, highlighting massive infrastructure demands from AI workloads. The capacity constraints and chip sales strategy indicate Amazon's aggressive expansion in custom silicon and AI infrastructure markets.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major cloud provider expanding custom silicon strategy while facing AI infrastructure capacity limits affecting enterprise computing availability&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://go.theregister.com/feed/www.theregister.com/2026/04/10/amazon_may_sell_homegrown_chips/"&gt;The Register&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.numerique.gouv.fr/sinformer/espace-presse/souverainete-numerique-reduction-dependances-extra-europeennes/"&gt;France Launches Government Linux Desktop Migration From Windows&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 10, 10:37&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;The French government has announced a comprehensive plan to reduce dependencies on non-European technology providers by migrating government desktops from Windows to Linux-based systems. The initiative represents a major push for digital sovereignty as European governments seek to reduce reliance on American technology companies. The migration affects thousands of government workstations and could influence other European nations' technology independence strategies.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major government technology independence initiative affecting enterprise Linux adoption and European digital sovereignty movements&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.numerique.gouv.fr/sinformer/espace-presse/souverainete-numerique-reduction-dependances-extra-europeennes/"&gt;French Government Digital Affairs&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://go.theregister.com/feed/www.theregister.com/2026/04/10/sellafield_sap_erp/"&gt;Sellafield Nuclear Site Awards SAP £33M ERP Contract Without Competition&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 10, 09:15&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Britain's most important nuclear facility has awarded SAP a £33 million contract to replace its legacy ERP system without competitive bidding, claiming it's the only viable path off legacy ECC before support ends in 2027. The government-owned company managing the nuclear site justified the direct award as necessary to avoid system failure at the critical facility. The decision highlights challenges organizations face when migrating from legacy enterprise systems under tight deadlines.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Critical nuclear infrastructure ERP migration affecting national security facility operations and demonstrating legacy system replacement challenges&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://go.theregister.com/feed/www.theregister.com/2026/04/10/sellafield_sap_erp/"&gt;The Register&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Business &amp; Markets&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.nytimes.com/2026/04/09/world/middleeast/imf-iran-war-global-growth.html"&gt;IMF Warns Iran War Will Drag Global Growth Lower, Lasting Economic Damage Expected&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 10, 10:59&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;International Monetary Fund chief Kristalina Georgieva warned that the Iran war could trigger another bout of inflation and higher interest rates, with the organization cutting its global growth forecast and preparing €42.9 billion in emergency aid. The IMF states there will be 'no return to normal' and warns that 45 million people face food insecurity due to the conflict's economic impact. The assessment represents the most comprehensive analysis of the war's global economic consequences.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major international economic forecast affecting global growth, inflation, and monetary policy decisions worldwide&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.nytimes.com/2026/04/09/world/middleeast/imf-iran-war-global-growth.html"&gt;New York Times&lt;/a&gt; · &lt;a href="http://www.euronews.com/business/2026/04/10/no-return-to-normal-imf-warns-of-lasting-economic-damage-from-iran-war"&gt;Euronews&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.nytimes.com/2026/04/10/business/europe-inflation-iran-war.html"&gt;Europe Braces for Inflation Spike as Central Banks Consider Rate Increases&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 10, 10:59&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;European investors are betting that the European Central Bank and Bank of England will raise interest rates this year as inflation concerns mount following energy price increases from the Iran conflict. The expectation marks a potential reversal of recent monetary policy trends and could significantly impact European economic recovery. Rising energy costs are creating inflationary pressure that may force central banks to abandon accommodative policies.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major European monetary policy shift affecting interest rates, inflation, and economic conditions across European markets&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.nytimes.com/2026/04/10/business/europe-inflation-iran-war.html"&gt;New York Times&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.nytimes.com/2026/04/10/business/trump-tariffs-lawsuit-hearing.html"&gt;Trump Administration Faces Court Challenge Over New 10% Import Tariffs&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 10, 09:02&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;States and small businesses have challenged the Trump administration's 10% tax on imports in court after the Supreme Court struck down previous tariff policies. The legal challenge represents ongoing resistance to the administration's trade policy following judicial setbacks to earlier tariff implementations. The case could significantly impact trade policy and business costs if successful.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major trade policy legal challenge affecting import costs and business operations amid ongoing tariff policy disputes&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.nytimes.com/2026/04/10/business/trump-tariffs-lawsuit-hearing.html"&gt;New York Times&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.nytimes.com/2026/04/10/business/economy/consumer-spending-economy.html"&gt;Consumer Spending Under Strain as Higher Fuel Costs Impact US Economy&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 10, 09:02&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Higher fuel costs are raising food and travel prices while a shaky stock market dampens consumer spending, creating strain on the engine of the US economy. The combination of energy price increases and market volatility is affecting consumer behavior and economic growth prospects. Rising costs are particularly impacting discretionary spending as consumers face pressure from multiple economic headwinds.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Consumer spending pressure affecting economic growth engine as energy costs and market volatility impact household finances&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.nytimes.com/2026/04/10/business/economy/consumer-spending-economy.html"&gt;New York Times&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.nytimes.com/2026/04/10/us/politics/h1b-visa-program-changes.html"&gt;Trump H-1B Visa Changes Lock Out Employers With $100,000 Fee Requirement&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 10, 09:02&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Since imposing a $100,000 fee on new H-1B visas in September, the Trump administration has significantly disrupted the skilled worker program, effectively locking out many employers from accessing international talent. The substantial fee increase represents a major shift in immigration policy affecting technology companies and other employers dependent on skilled international workers. The changes could significantly impact talent acquisition strategies across multiple industries.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major immigration policy change affecting skilled worker programs and technology industry talent acquisition strategies&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.nytimes.com/2026/04/10/us/politics/h1b-visa-program-changes.html"&gt;New York Times&lt;/a&gt;&lt;br&gt;
+&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>Custom — Apr 10, 2026</title>
     <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-04-10-custom.html"/>
@@ -2015,47 +2123,6 @@
 &lt;p&gt;German men aged 18-45 now need military permits to leave the country for periods longer than three months. This policy represents a significant restriction on freedom of movement and suggests preparations for potential military mobilization. The requirement reflects growing security concerns and potential military readiness measures in Europe.&lt;/p&gt;&lt;br&gt;
 &lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major European policy affecting freedom of movement and indicating potential military preparedness measures during heightened security tensions&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
 &lt;p&gt;Sources: &lt;a href="https://www.dw.com/en/german-men-need-military-permit-for-extended-stays-abroad/a-76662677"&gt;Deutsche Welle&lt;/a&gt;&lt;br&gt;
-&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>Afternoon — Apr 4, 2026</title>
-    <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-04-04-afternoon.html"/>
-    <id>https://jonaskjellin.github.io/pulsebrief-site/2026-04-04-afternoon.html</id>
-    <updated>2026-04-04T11:23:37.993Z</updated>
-    <content type="html">&lt;p&gt;&lt;h1&gt;PulseBrief's Afternoon Pulse&lt;/h1&gt;&lt;br&gt;
-&lt;em&gt;Sat, Apr 4, 05:00 → Sat, Apr 4, 11:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;Cyber Security&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.securityweek.com/european-commission-confirms-data-breach-linked-to-trivy-supply-chain-attack/"&gt;European Commission Loses 300GB of Data in Trivy Supply Chain Attack&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Apr 4, 10:31&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Hackers stole over 300GB of data from the European Commission's AWS environment, including personal information, in a breach linked to the previously reported Trivy supply chain attack. The attack demonstrates the continued expansion of the TeamPCP-attributed supply chain compromise that has affected multiple European institutions. This represents one of the largest confirmed data losses from the ongoing supply chain attacks targeting European government infrastructure.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major European government data breach confirming significant impact from supply chain vulnerabilities affecting critical EU infrastructure&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.securityweek.com/european-commission-confirms-data-breach-linked-to-trivy-supply-chain-attack/"&gt;SecurityWeek&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://cybersecuritynews.com/claude-code-leak-to-spread-vidar-and-ghostsocks-malware/"&gt;Hackers Weaponize Claude Code Leak to Distribute Vidar and GhostSocks Malware&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Apr 4, 09:20&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Threat actors are exploiting Anthropic's accidental March 31 source code leak of Claude Code by creating fake GitHub repositories containing Vidar stealer and GhostSocks malware. The leak occurred due to a packaging error that exposed the complete source code for Claude's terminal-based coding assistant in a public npm package. Developers searching for the leaked AI architecture are inadvertently downloading malicious payloads disguised as the genuine code.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;AI security incident affecting developers and demonstrating how AI code leaks become attack vectors for malware distribution&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://cybersecuritynews.com/claude-code-leak-to-spread-vidar-and-ghostsocks-malware/"&gt;Cybersecurity News&lt;/a&gt; · &lt;a href="https://cyberpress.org/claude-code-leak-exploited-to-deliver-vidar-and-ghostsocks/"&gt;CyberPress&lt;/a&gt; · &lt;a href="https://www.wired.com/story/security-news-this-week-hackers-are-posting-the-claude-code-leak-with-bonus-malware/"&gt;Wired Security&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://cybersecuritynews.com/top-node-js-maintainers-targeted-social-engineering-scheme/"&gt;Coordinated Social Engineering Campaign Targets Node.js Ecosystem Maintainers&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Apr 4, 09:07&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;A sophisticated social engineering operation is systematically targeting top Node.js and npm ecosystem maintainers following the recent Axios package compromise. Multiple high-impact software maintainers have reported similar attack attempts, suggesting advanced threat actors are strategically shifting focus to compromise critical open-source infrastructure. The campaign represents an escalation in supply chain targeting of key JavaScript ecosystem contributors.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Critical open-source infrastructure threat affecting the JavaScript ecosystem that powers millions of web applications worldwide&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://cybersecuritynews.com/top-node-js-maintainers-targeted-social-engineering-scheme/"&gt;Cybersecurity News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://cyberpress.org/linkedin-accused-of-secretly-checking-device/"&gt;LinkedIn Secretly Scans User Devices for Installed Applications and Extensions&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Apr 4, 05:50&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Security researchers uncovered that Microsoft-owned LinkedIn is running covert surveillance operations that scan user devices for installed software and browser extensions without consent. The investigation, dubbed 'BrowserGate' by advocacy group Fairlinked e.V., found LinkedIn executes hidden JavaScript code to inventory user systems every time they visit the platform. This affects a significant portion of LinkedIn's one billion global users and violates basic privacy expectations.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major privacy violation by a leading professional platform affecting millions of users and demonstrating covert data collection practices&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://cyberpress.org/linkedin-accused-of-secretly-checking-device/"&gt;CyberPress&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;AI &amp; Machine Learning&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://cyberpress.org/anthropic-officially-terminates-claude-subscriptions/"&gt;Anthropic Terminates Third-Party AI Agent Access to Claude Subscriptions&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Apr 4, 05:12&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Anthropic has officially disabled third-party AI agent access to Claude Pro and Max subscription tiers, effective April 4 at 12 p.m. PT, forcing external automation platforms like OpenClaw to use expensive pay-as-you-go billing instead. The change represents a major shift in AI platform access policies and affects developers who built workflows around flat-rate subscription access. Users must now pay separately for third-party integrations while subscription costs remain unchanged.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major AI platform policy change affecting developer workflows and raising concerns about vendor lock-in strategies in AI tooling&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://cyberpress.org/anthropic-officially-terminates-claude-subscriptions/"&gt;CyberPress&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.anthropic.com/research/emotion-concepts-function"&gt;Anthropic Research Reveals How LLMs Process Emotional Concepts&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Apr 4, 06:30&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Anthropic researchers published new findings on how large language models understand and process emotion concepts, providing insights into AI reasoning about human emotional states. The research explores the function and representation of emotional understanding within AI systems, contributing to broader AI safety and interpretability efforts. This work advances understanding of how AI models develop conceptual frameworks for complex human experiences.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;AI safety research providing insights into how AI systems understand human emotions with implications for AI alignment and safety&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.anthropic.com/research/emotion-concepts-function"&gt;Anthropic Research&lt;/a&gt;&lt;br&gt;
 &lt;/p&gt;</content>
   </entry>
 </feed>
