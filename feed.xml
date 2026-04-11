@@ -5,7 +5,95 @@
   <link href="https://jonaskjellin.github.io/pulsebrief-site/feed.xml" rel="self"/>
   <link href="https://jonaskjellin.github.io/pulsebrief-site/"/>
   <id>https://jonaskjellin.github.io/pulsebrief-site/</id>
-  <updated>2026-04-11T05:55:23.729Z</updated>
+  <updated>2026-04-11T11:24:22.008Z</updated>
+  <entry>
+    <title>Afternoon — Apr 11, 2026</title>
+    <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-04-11-afternoon.html"/>
+    <id>https://jonaskjellin.github.io/pulsebrief-site/2026-04-11-afternoon.html</id>
+    <updated>2026-04-11T11:24:22.008Z</updated>
+    <content type="html">&lt;p&gt;&lt;h1&gt;PulseBrief's Afternoon Pulse&lt;/h1&gt;&lt;br&gt;
+&lt;em&gt;Sat, Apr 11, 05:00 → Sat, Apr 11, 11:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Cyber Security&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://thehackernews.com/2026/04/citizen-lab-law-enforcement-used-webloc.html"&gt;Law Enforcement Used Webloc to Track 500 Million Devices via Ad Data&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 11, 06:02&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Hungarian domestic intelligence, El Salvador's national police, and several U.S. law enforcement departments have been using Webloc, an advertising-based global geolocation surveillance system developed by Israeli company Cobwebs Technologies. The tool enables mass tracking of 500 million devices through advertising data, representing one of the largest known surveillance operations using commercial ad tech. The system is now sold by Penlink after merging with Cobwebs in 2023.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Mass surveillance infrastructure affecting half a billion devices demonstrates unprecedented scale of law enforcement location tracking capabilities&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://thehackernews.com/2026/04/citizen-lab-law-enforcement-used-webloc.html"&gt;The Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://go.theregister.com/feed/www.theregister.com/2026/04/11/hungary_government_logins_breach/"&gt;Hungarian Government Credentials Including Defense and NATO Accounts Found in Breach Data&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 11, 08:30&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Nearly 800 Hungarian state login credentials have surfaced in breach data, including accounts linked to defense and NATO operations. The breach exposes critical national security vulnerabilities in government password practices and authentication systems. The discovery highlights how poor credential management at the government level creates systemic security risks for allied nations.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;NATO-linked government credential exposure demonstrates critical national security vulnerabilities affecting allied defense cooperation&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://go.theregister.com/feed/www.theregister.com/2026/04/11/hungary_government_logins_breach/"&gt;The Register&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://cybersecuritynews.com/ransomware-gangs-expand-use-of-edr-killers/"&gt;Ransomware Gangs Expand EDR Killer Tools Beyond Vulnerable Drivers&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 11, 05:13&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;ESET Research reports that ransomware groups are significantly expanding their use of Endpoint Detection and Response (EDR) killers beyond traditional vulnerable driver techniques. These specialized tools have become standard weapons in modern ransomware intrusions, routinely deployed before launching file-encrypting malware to bypass security software. The evolution demonstrates ransomware groups' increasing sophistication in evading enterprise security defenses.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Enterprise security bypass evolution affecting organizational ransomware defenses and demonstrating need for advanced EDR protection strategies&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://cybersecuritynews.com/ransomware-gangs-expand-use-of-edr-killers/"&gt;Cybersecurity News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://cybersecuritynews.com/device-bound-chrome-sessions-in-anti-cookie-theft-move/"&gt;Google Deploys Device-Bound Chrome Sessions to Block Cookie Theft&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 11, 06:52&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Google has officially rolled out Device Bound Session Credentials (DBSC) for Windows users on Chrome 146, with macOS expansion planned for upcoming releases. The feature cryptographically binds authentication sessions to specific devices, rendering stolen session cookies unusable on other machines even if intercepted by malware. This represents a major advancement in browser security against widespread credential theft attacks affecting millions of users.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major browser security enhancement protecting against credential theft attacks that affect millions of users and enterprise security&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://cybersecuritynews.com/device-bound-chrome-sessions-in-anti-cookie-theft-move/"&gt;Cybersecurity News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.wired.com/story/security-news-this-week-your-push-notifications-arent-safe-from-the-fbi/"&gt;FBI Uses Push Notification Data to Bypass Encrypted Messaging Privacy&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 11, 10:30&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Law enforcement agencies are successfully using smartphone push notification data to access content from encrypted messaging apps, undermining user privacy expectations. The technique allows authorities to retrieve information that users believe is protected by end-to-end encryption. The practice highlights how system-level metadata can compromise encrypted communications despite strong encryption protocols.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Privacy vulnerability in encrypted messaging affecting user security expectations and demonstrating system-level surveillance capabilities&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.wired.com/story/security-news-this-week-your-push-notifications-arent-safe-from-the-fbi/"&gt;Wired Security&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://cybersecuritynews.com/gmail-end-to-end-encryption-for-android-and-ios/"&gt;Google Launches Gmail End-to-End Encryption for Mobile Devices&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 11, 08:56&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Google has officially rolled out end-to-end encryption (E2EE) for Gmail on Android and iOS devices, targeting enterprise users who need to handle sensitive data confidentially from mobile devices. The feature ensures compliance with strict data sovereignty rules while maintaining mobile workflow capabilities. This extends Gmail's encryption capabilities beyond desktop to mobile platforms, addressing growing enterprise demand for mobile email security.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major email security enhancement affecting enterprise communications and mobile email privacy for millions of business users&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://cybersecuritynews.com/gmail-end-to-end-encryption-for-android-and-ios/"&gt;Cybersecurity News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;AI &amp; Machine Learning&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.wired.com/story/how-the-internet-broke-everyones-bullshit-detectors/"&gt;Internet Verification Systems Struggle with AI-Generated Content and Misinformation&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 11, 09:30&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;The systems used to verify what's real online are struggling to keep up with AI-generated images, restricted satellite data, and other forms of sophisticated misinformation. Traditional verification methods are being overwhelmed by the volume and sophistication of AI-created content flooding digital platforms. The breakdown of online verification systems threatens information integrity across news, social media, and official channels.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Information verification crisis affecting trust in digital content and news accuracy as AI-generated misinformation overwhelms detection systems&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.wired.com/story/how-the-internet-broke-everyones-bullshit-detectors/"&gt;Wired Security&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Technology&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.xda-developers.com/frances-government-ditching-windows-for-linux/"&gt;France Government Announces Migration from Windows to Linux for Digital Sovereignty&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 11, 08:25&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;The French government has announced a comprehensive plan to migrate government desktops from Windows to Linux-based systems as part of reducing dependencies on non-European technology providers. The initiative represents a major push for digital sovereignty as European governments seek to reduce reliance on American technology companies. The migration affects thousands of government workstations and could influence other European nations' technology independence strategies.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major government technology independence initiative affecting enterprise Linux adoption and European digital sovereignty movements&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.xda-developers.com/frances-government-ditching-windows-for-linux/"&gt;XDA Developers&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theverge.com/transportation/909480/solid-state-battery-donut-lab-ev-china"&gt;Solid-State Battery Startup Claims Production-Ready 'Holy Grail' Technology&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 11, 11:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Finnish startup Donut Lab, a spinoff of Verge Motorcycles, claims to have finally solved solid-state batteries and plans to begin production later this year. The company's announcement targets the long-sought 'Holy Grail of batteries' with high-density, durable, fast-charging capabilities that have eluded the industry for decades. Battery experts remain skeptical given the technology's history of perpetual delays, though the production timeline represents an unusually concrete commitment.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Potential battery technology breakthrough affecting electric vehicle and energy storage markets if the production claims prove viable&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.theverge.com/transportation/909480/solid-state-battery-donut-lab-ev-china"&gt;The Verge&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Business &amp; Markets&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="http://www.euronews.com/business/2026/04/11/house-prices-across-europe-which-countries-saw-the-highest-rises-in-2025"&gt;European House Prices Rose 5.5% in Q4 2025, Led by Tourist Destinations&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 11, 05:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;House prices across the European Union increased by 5.5% in the last quarter of 2025, with the strongest growth in tourist-attractive countries including Portugal, Croatia, and Spain. The price increases reflect continued demand pressure in desirable European markets despite broader economic uncertainties. The housing market strength demonstrates resilience in real estate sectors across tourist and lifestyle destinations.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Significant European real estate price increases affecting housing affordability and investment markets across multiple countries&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="http://www.euronews.com/business/2026/04/11/house-prices-across-europe-which-countries-saw-the-highest-rises-in-2025"&gt;Euronews Business&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.politico.eu/article/us-iran-delegations-pakistan-peace-talks-amid-fragile-ceasefire/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS_Syndication"&gt;US-Iran Peace Talks Begin in Pakistan Amid Fragile Ceasefire&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 11, 09:04&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Vice President JD Vance is leading a U.S. delegation including Special Envoy Steve Witkoff and Jared Kushner for official peace talks with Iran in Pakistan. The negotiations occur under a fragile ceasefire as both sides seek to address the ongoing Middle East conflict. German Chancellor Friedrich Merz described the talks as a 'first glimmer of hope' while the situation remains highly explosive.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Critical diplomatic negotiations affecting global energy markets, economic stability, and potential resolution of major geopolitical conflict&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.politico.eu/article/us-iran-delegations-pakistan-peace-talks-amid-fragile-ceasefire/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS_Syndication"&gt;Politico EU&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.politico.eu/article/donald-trump-economic-support-viktor-orban-hungarian-election/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS_Syndication"&gt;Trump Promises Economic Support to Orbán Ahead of Crucial Hungary Vote&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 11, 10:25&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;President Trump pledged to use the 'full economic might' of the United States to help the Hungarian economy as Viktor Orbán trails in polls ahead of Sunday's election. The promise represents significant U.S. intervention in European politics and potential shift in transatlantic economic relationships. The commitment comes as Orbán faces his most challenging electoral contest in recent years.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major U.S. economic intervention in European politics affecting transatlantic relationships and Hungarian election outcomes&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.politico.eu/article/donald-trump-economic-support-viktor-orban-hungarian-election/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS_Syndication"&gt;Politico EU&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.politico.com/news/2026/04/10/trump-tariffs-court-international-trade-hearing-00867479?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS_Syndication"&gt;US Trade Court Reviews Trump's Replacement Tariffs After Supreme Court Ruling&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 11, 07:45&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;A three-judge trade panel is reviewing the tariffs President Trump imposed after the Supreme Court voided his Liberation Day tariffs. The hearing represents ongoing legal challenges to the administration's trade policy following judicial setbacks to previous tariff implementations. The case could significantly impact import costs and trade relationships if the court rules against the replacement duties.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major trade policy legal challenge affecting import costs and business operations amid ongoing tariff policy disputes&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.politico.com/news/2026/04/10/trump-tariffs-court-international-trade-hearing-00867479?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS_Syndication"&gt;Politico&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.politico.com/news/2026/04/10/kamala-harris-signals-2028-bid-00867069?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS_Syndication"&gt;Kamala Harris Signals Clearest Intent for 2028 Presidential Campaign&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 11, 06:48&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Former Vice President Kamala Harris gave her strongest indication yet that she is mounting a 2028 presidential bid during remarks to an audience of Black power brokers. Harris has previously considered running but her Friday comments took on new significance given the political audience and timing. The signal represents early positioning for the next Democratic presidential primary campaign.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Early 2028 presidential campaign positioning affecting Democratic Party politics and future election dynamics&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.politico.com/news/2026/04/10/kamala-harris-signals-2028-bid-00867069?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS_Syndication"&gt;Politico&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.politico.com/news/magazine/2026/04/10/canada-election-mark-carney-majority-00865331?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS_Syndication"&gt;Mark Carney Poised for Majority Win in Canadian Election&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 11, 10:46&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Canada's Prime Minister Mark Carney is positioned to seize an outright parliamentary majority in the upcoming election, according to political analysis. The potential majority government would give Carney significant power to implement his economic agenda without coalition constraints. The electoral prospect represents a major shift in Canadian politics and economic policy direction.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Potential Canadian majority government affecting North American economic policy and trade relationships&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.politico.com/news/magazine/2026/04/10/canada-election-mark-carney-majority-00865331?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS_Syndication"&gt;Politico&lt;/a&gt;&lt;br&gt;
+&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>Morning — Apr 11, 2026</title>
     <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-04-11-morning.html"/>
@@ -2216,53 +2304,6 @@
 &lt;p&gt;SpaceX is reportedly considering orbital data centers as a potential revenue stream that could help justify its massive valuation beyond launch services. The concept involves deploying data processing capabilities in space to leverage unique orbital environment advantages. This represents SpaceX's expansion beyond transportation into space-based infrastructure services.&lt;/p&gt;&lt;br&gt;
 &lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Space infrastructure expansion affecting cloud computing architecture and demonstrating new revenue models for space companies&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
 &lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/04/05/can-orbital-data-centers-help-justify-a-massive-valuation-for-spacex/"&gt;TechCrunch&lt;/a&gt;&lt;br&gt;
-&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>Afternoon — Apr 5, 2026</title>
-    <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-04-05-afternoon.html"/>
-    <id>https://jonaskjellin.github.io/pulsebrief-site/2026-04-05-afternoon.html</id>
-    <updated>2026-04-05T11:23:29.846Z</updated>
-    <content type="html">&lt;p&gt;&lt;h1&gt;PulseBrief's Afternoon Pulse&lt;/h1&gt;&lt;br&gt;
-&lt;em&gt;Sun, Apr 5, 05:00 → Sun, Apr 5, 11:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;Cyber Security&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://thehackernews.com/2026/04/36-malicious-npm-packages-exploited.html"&gt;36 Malicious npm Packages Target Redis and PostgreSQL with Persistent Implants&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Apr 5, 05:07&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Researchers discovered 36 malicious npm packages disguised as Strapi CMS plugins that exploit Redis and PostgreSQL databases, deploy reverse shells, harvest credentials, and install persistent backdoors. The packages contained three files with no descriptions or repositories, indicating a coordinated campaign targeting JavaScript developers. This represents a significant supply chain attack against the npm ecosystem that could compromise database infrastructure and application security.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Critical supply chain threat affecting JavaScript developers and database infrastructure with potential for widespread compromise of enterprise applications&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://thehackernews.com/2026/04/36-malicious-npm-packages-exploited.html"&gt;The Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.wired.com/story/inside-the-hack-that-exposed-syrias-security-failures/"&gt;Syrian Government Hack Exposes Fundamental Security Failures&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Apr 5, 09:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;A detailed analysis of the March Syrian government account hijackings reveals the breach exposed more than chaotic incidents — it demonstrated a state struggling with basic cybersecurity fundamentals. The hack highlighted systemic security weaknesses in government digital infrastructure and authentication systems. The incident provides insights into how nation-state cybersecurity failures can cascade across government operations.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Nation-state cybersecurity failures demonstrating systemic vulnerabilities in government digital infrastructure and authentication systems&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.wired.com/story/inside-the-hack-that-exposed-syrias-security-failures/"&gt;Wired Security&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://osintradar.com/"&gt;OsintRadar Launches Curated Directory for Open Source Intelligence Tools&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Apr 5, 05:58&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;A new project called OsintRadar has launched to provide a curated directory of open source intelligence (OSINT) tools, frameworks, and techniques. The platform aims to organize and categorize the growing ecosystem of OSINT resources for security researchers and investigators. This addresses the need for centralized discovery of intelligence gathering tools as OSINT becomes increasingly important for cybersecurity operations.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;New resource for cybersecurity professionals and researchers needing organized access to intelligence gathering tools and techniques&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://osintradar.com/"&gt;Hacker News - Top&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;AI &amp; Machine Learning&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://idp-software.com/news/idp-accuracy-reckoning-2026/"&gt;Analysis Reveals OCR and AI Agent Accuracy Claims Often Unverified&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Apr 5, 06:12&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;An investigation into practitioner posts about OCR, AI agents, and table processing reveals that accuracy claims are frequently unverified or lack proper benchmarking. The analysis highlights a growing problem in AI evaluation where performance metrics are often inflated or based on limited testing scenarios. This affects enterprise decision-making around AI tool adoption and highlights the need for standardized evaluation frameworks.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;AI evaluation credibility affecting enterprise tool selection decisions and highlighting need for standardized AI performance benchmarking&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://idp-software.com/news/idp-accuracy-reckoning-2026/"&gt;Hacker News - Top&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;Technology&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://lisette.run/"&gt;Lisette Programming Language Compiles Rust-Inspired Syntax to Go&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Apr 5, 06:57&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;A new programming language called Lisette has been released that takes inspiration from Rust's syntax and semantics but compiles to Go code. The language aims to combine Rust's safety features with Go's runtime characteristics and ecosystem. This represents another attempt to bridge different programming paradigms and leverage existing language ecosystems while providing modern syntax and safety features.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;New programming language option affecting developer tooling choices and demonstrating continued innovation in language design and compilation targets&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://lisette.run/"&gt;Hacker News - Top&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://github.com/MidstallSoftware/aegis"&gt;Aegis Open-Source FPGA Silicon Project Launches&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Apr 5, 05:50&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;The Aegis project has been released as an open-source FPGA silicon initiative, providing hardware designers with open access to FPGA design resources. The project aims to democratize FPGA development and provide alternatives to proprietary silicon solutions. This contributes to the growing open hardware movement and could reduce dependencies on proprietary FPGA vendors.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Open hardware initiative affecting FPGA development and reducing dependencies on proprietary silicon vendors for hardware designers&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://github.com/MidstallSoftware/aegis"&gt;Hacker News - Top&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://github.com/PluMGMK/vbesvga.drv"&gt;Modern SVGA Driver Released for Windows 3.1&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Apr 5, 05:28&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;A developer has created a modern generic SVGA driver for Windows 3.1, bringing updated graphics capabilities to the vintage operating system. The driver enables higher resolution and color depth support on legacy hardware running Windows 3.1. This represents ongoing community efforts to extend the capabilities of retro computing systems and maintain compatibility with modern hardware.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Retro computing development demonstrating community efforts to extend legacy system capabilities and maintain vintage hardware compatibility&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://github.com/PluMGMK/vbesvga.drv"&gt;Hacker News - Top&lt;/a&gt;&lt;br&gt;
 &lt;/p&gt;</content>
   </entry>
 </feed>
