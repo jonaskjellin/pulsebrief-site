@@ -5,7 +5,130 @@
   <link href="https://jonaskjellin.github.io/pulsebrief-site/feed.xml" rel="self"/>
   <link href="https://jonaskjellin.github.io/pulsebrief-site/"/>
   <id>https://jonaskjellin.github.io/pulsebrief-site/</id>
-  <updated>2026-04-14T06:26:30.434Z</updated>
+  <updated>2026-04-14T11:54:24.636Z</updated>
+  <entry>
+    <title>Afternoon — Apr 14, 2026</title>
+    <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-04-14-afternoon.html"/>
+    <id>https://jonaskjellin.github.io/pulsebrief-site/2026-04-14-afternoon.html</id>
+    <updated>2026-04-14T11:54:24.636Z</updated>
+    <content type="html">&lt;p&gt;&lt;h1&gt;PulseBrief's Afternoon Pulse&lt;/h1&gt;&lt;br&gt;
+&lt;em&gt;Tue, Apr 14, 05:00 → Tue, Apr 14, 11:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Cyber Security&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://thehackernews.com/2026/04/mirax-android-rat-turns-devices-into.html"&gt;Mirax Android RAT Reaches 220,000 Users Through Meta Ads, Turns Devices Into SOCKS5 Proxies&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 14, 10:20&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;A sophisticated Android remote access trojan called Mirax has infected over 220,000 accounts across Facebook, Instagram, Messenger, and Threads by spreading through Meta advertisements targeting Spanish-speaking countries. The malware transforms compromised devices into SOCKS5 proxies while providing attackers full remote access capabilities. The campaign demonstrates how cybercriminals are leveraging major social media platforms' advertising systems to distribute advanced RAT capabilities at unprecedented scale.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major social media platform being weaponized for large-scale malware distribution affecting hundreds of thousands of users&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://thehackernews.com/2026/04/mirax-android-rat-turns-devices-into.html"&gt;The Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://thehackernews.com/2026/04/108-malicious-chrome-extensions-steal.html"&gt;Chrome Extension Campaign Steals Data From 20,000 Users Through 108 Malicious Extensions&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 14, 08:35&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Cybersecurity researchers discovered 108 Google Chrome extensions communicating with the same command-and-control infrastructure to steal user data and inject malicious JavaScript into every webpage visited. The extensions affect approximately 20,000 users and enable browser-level abuse through coordinated ad injection and data theft. The centralized C2 infrastructure suggests a sophisticated, organized operation targeting Chrome users at scale.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Browser supply chain attack affecting thousands of users and demonstrating coordinated abuse of Chrome extension ecosystem&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://thehackernews.com/2026/04/108-malicious-chrome-extensions-steal.html"&gt;The Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://thehackernews.com/2026/04/cisa-adds-6-known-exploited-flaws-in.html"&gt;CISA Adds Six Known Exploited Vulnerabilities in Fortinet, Microsoft, and Adobe Software&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 14, 05:39&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;The U.S. Cybersecurity and Infrastructure Security Agency added six actively exploited vulnerabilities to its Known Exploited Vulnerabilities catalog, including critical flaws in Fortinet FortiClient EMS, Microsoft Windows, and Adobe Acrobat. The vulnerabilities range from SQL injection to privilege escalation and remote code execution, with CVSS scores reaching 9.1. Organizations must patch these flaws by specified deadlines as part of federal cybersecurity requirements.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Critical vulnerabilities being actively exploited across widely-deployed enterprise software requiring immediate patching&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://thehackernews.com/2026/04/cisa-adds-6-known-exploited-flaws-in.html"&gt;The Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://cybersecuritynews.com/apt41-turns-linux-cloud-servers-into-credential-theft/"&gt;APT41 Deploys Linux Winnti Backdoor Targeting Cloud Server Credentials&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 14, 09:44&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Chinese state-sponsored group APT41 is using a new Linux version of the Winnti backdoor specifically designed to steal cloud credentials from AWS, Google Cloud, Microsoft Azure, and Alibaba Cloud servers. The zero-detection ELF implant targets Linux workloads with advanced persistence mechanisms and credential harvesting capabilities. The campaign demonstrates nation-state actors increasingly focusing on cloud infrastructure as primary attack targets.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Nation-state targeting of cloud infrastructure affecting major cloud providers and enterprise cloud security&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://cybersecuritynews.com/apt41-turns-linux-cloud-servers-into-credential-theft/"&gt;Cybersecurity News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://cybersecuritynews.com/booking-com-data-breach/"&gt;Booking.com Confirms Data Breach Exposing Customer Personal Information&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 14, 10:28&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Global travel booking giant Booking.com confirmed unauthorized third parties accessed customers' personal data including names, email addresses, phone numbers, and reservation details. The breach raises immediate concerns about downstream phishing attacks targeting millions of travelers worldwide. While the company detected and contained the suspicious activity, the scope of affected customers remains undisclosed.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major travel platform breach affecting customer data and creating phishing attack risks for millions of travelers&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://cybersecuritynews.com/booking-com-data-breach/"&gt;Cybersecurity News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://thehackernews.com/2026/04/analysis-of-216m-security-findings.html"&gt;Security Analysis Shows 4x Increase in Critical Risk Despite AI-Assisted Development&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 14, 10:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Analysis of 216 million security findings across 250 organizations reveals that while raw alert volume grew 52% year-over-year, prioritized critical risk surged nearly 400%. The surge in AI-assisted development is creating a "velocity gap" where high-impact vulnerabilities scale faster than security teams can address them. The findings suggest AI development tools may be inadvertently increasing security debt faster than traditional development methods.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;AI development acceleration creating critical security vulnerabilities faster than organizations can remediate them&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://thehackernews.com/2026/04/analysis-of-216m-security-findings.html"&gt;The Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;AI &amp; Machine Learning&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://go.theregister.com/feed/www.theregister.com/2026/04/14/altman_attempted_murder/"&gt;Sam Altman Attacker Charged With Attempted Murder After Molotov Cocktail Attack&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 14, 09:50&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Daniel Moreno-Gama, the 20-year-old man accused of throwing a Molotov cocktail at OpenAI CEO Sam Altman's San Francisco home, now faces attempted murder charges. The attack occurred on April 10th and represents escalating violence against prominent AI leaders amid growing tensions around AI development. The incident highlights serious security concerns for technology executives as AI debates intensify.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Escalating violence against major AI leader affecting tech executive security and highlighting tensions around AI development&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://go.theregister.com/feed/www.theregister.com/2026/04/14/altman_attempted_murder/"&gt;The Register&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="http://www.euronews.com/next/2026/04/14/why-anthropics-new-mythos-ai-model-has-washington-and-wall-street-worked-up"&gt;Anthropic's Mythos AI Model Sparks Government and Financial Sector Concerns&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 14, 10:07&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Anthropic's most powerful new AI model, Mythos, is considered too dangerous for public release, sparking urgent discussions with governments and financial regulators. The model reportedly demonstrates unprecedented cybersecurity capabilities that could revolutionize both defensive and offensive security practices. Washington and Wall Street are particularly concerned about the implications of such advanced AI capabilities being developed by private companies.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Revolutionary AI cybersecurity capability potentially transforming both defensive and offensive security practices industry-wide&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="http://www.euronews.com/next/2026/04/14/why-anthropics-new-mythos-ai-model-has-washington-and-wall-street-worked-up"&gt;Euronews Business&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.wired.com/story/the-big-interview-podcast-new-york-state-representative-alex-bores/"&gt;Silicon Valley Spends Millions to Stop Former Palantir Employee's Congressional Run&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 14, 10:30&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Alex Bores, a former Palantir employee who helped pass one of the country's toughest AI laws, faces opposition from Silicon Valley's biggest names as he runs for Congress. Major technology companies are investing heavily to prevent his election, viewing him as a threat to their AI development interests. The campaign represents a significant battle between AI regulation advocates and the technology industry over the future of AI governance.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;AI regulation politics affecting future of AI governance and demonstrating industry resistance to regulatory oversight&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.wired.com/story/the-big-interview-podcast-new-york-state-representative-alex-bores/"&gt;Wired AI&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.technologyreview.com/2026/04/14/1135298/coming-soon-10-things-that-matter-in-ai-right-now/"&gt;MIT Technology Review Announces AI-Focused 2026 Breakthrough Technologies List&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 14, 11:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;MIT Technology Review is preparing its annual 10 Breakthrough Technologies list for 2026, with a significant focus on AI developments that will have the biggest impact on how we live and work. While the final picks encompass energy, AI, and biotech coverage areas, this year's list faces the challenge of AI's rapid evolution and widespread impact across all technology sectors. The announcement suggests AI will dominate the most important technological breakthroughs of 2026.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major technology assessment focusing on AI breakthroughs affecting future technological development priorities&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.technologyreview.com/2026/04/14/1135298/coming-soon-10-things-that-matter-in-ai-right-now/"&gt;MIT Technology Review&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.nytimes.com/2026/04/14/magazine/ai-sunglasses-meta-zuckerberg.html"&gt;Meta Ray-Ban Smart Glasses Draw Privacy Concerns Over Potential AI Features&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 14, 09:02&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;A New York Times magazine review of Meta's AI-enabled Ray-Ban smart glasses reveals mixed reactions to Mark Zuckerberg's "superintelligent, supercharged spectacles." The review highlights both the impressive AI capabilities and significant privacy concerns surrounding the wearable AI technology. The glasses represent Meta's major push into AI-powered wearables that could reshape human-computer interaction.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;AI wearables raising privacy concerns while demonstrating next generation of human-AI interaction technology&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.nytimes.com/2026/04/14/magazine/ai-sunglasses-meta-zuckerberg.html"&gt;NYT Technology&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Technology&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://go.theregister.com/feed/www.theregister.com/2026/04/14/microsoft_surface_hikes/"&gt;Microsoft Raises UK Surface Prices as Global RAM Crisis Hits Consumer Market&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 14, 10:31&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Microsoft has significantly increased UK Surface prices, with entry-level models jumping by up to £220, reflecting a global RAM crisis affecting consumer electronics. The price hikes mirror even steeper increases in the US market as memory shortages drive up component costs. The RAM crisis is now reaching checkout counters, forcing major technology companies to pass increased costs directly to consumers.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Global memory shortage crisis affecting consumer technology prices and demonstrating supply chain vulnerabilities&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://go.theregister.com/feed/www.theregister.com/2026/04/14/microsoft_surface_hikes/"&gt;The Register&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.securityweek.com/google-adds-rust-dns-parser-to-pixel-phones-for-better-security/"&gt;Google Adds Rust DNS Parser to Pixel Phones for Enhanced Security&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 14, 10:21&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Google has implemented a Rust-based DNS parser in Pixel phones to mitigate memory safety vulnerabilities in low-level networking environments. The move represents a significant shift toward memory-safe programming languages in critical system components. The implementation demonstrates Google's commitment to preventing entire classes of security vulnerabilities through safer programming practices.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Memory safety improvements affecting mobile security and demonstrating industry shift toward safer programming languages&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.securityweek.com/google-adds-rust-dns-parser-to-pixel-phones-for-better-security/"&gt;SecurityWeek&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://go.theregister.com/feed/www.theregister.com/2026/04/14/microsoft_outlook_lite/"&gt;Microsoft Retires Outlook Lite as Memory Costs Force App Consolidation&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 14, 08:43&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Microsoft will complete the retirement of Outlook Lite for Android on May 25, having already blocked new installations in October 2025. The decision reflects rising memory costs forcing the company to consolidate its app offerings and reduce resource overhead. The stripped-down email client's termination signals broader industry consolidation as hardware constraints impact app development strategies.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Hardware cost pressures forcing major software consolidation and affecting mobile app ecosystem strategy&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://go.theregister.com/feed/www.theregister.com/2026/04/14/microsoft_outlook_lite/"&gt;The Register&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://go.theregister.com/feed/www.theregister.com/2026/04/14/japan_semiconductor_industry_comeback_rapidus/"&gt;Japan Pushes Semiconductor Comeback With 2nm Production Plans&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 14, 07:30&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Japan's Rapidus is on track to begin production of 2nm semiconductors next year as the country attempts to reclaim its 1980s dominance in chip manufacturing. TSMC is simultaneously expanding its Japanese foothold, creating a competitive semiconductor ecosystem in Japan. The development represents Japan's major push to challenge current chip manufacturing leaders and rebuild its semiconductor industry.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Semiconductor manufacturing competition affecting global chip supply chains and technological independence&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://go.theregister.com/feed/www.theregister.com/2026/04/14/japan_semiconductor_industry_comeback_rapidus/"&gt;The Register&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://go.theregister.com/feed/www.theregister.com/2026/04/14/uk_state_bank_considers_lengthing/"&gt;UK State Bank's IT Disaster Extends Timeline Beyond 8 Years&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 14, 08:01&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;The UK's National Savings and Investments bank is considering extending its disastrous IT transformation program timeline beyond 8 years, already £1.3 billion over budget and 4 years late. The state-backed savings bank has set out options for completing the troubled project that continues to face significant technical and financial challenges. The program represents one of the UK's most troubled government IT initiatives.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major government IT failure affecting public services and demonstrating ongoing challenges in large-scale digital transformation&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://go.theregister.com/feed/www.theregister.com/2026/04/14/uk_state_bank_considers_lengthing/"&gt;The Register&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Business &amp; Markets&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.politico.eu/article/volodymyr-zelenskyy-robotic-systems-russia-army-positions-ukraine/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS_Syndication"&gt;Ukraine Uses Robots to Capture Russian Positions for First Time in Military History&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 14, 08:26&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Ukrainian President Volodymyr Zelenskyy announced that robotic systems successfully captured Russian army positions for the first time in military history, with occupiers surrendering without Ukrainian infantry involvement or losses. The groundbreaking operation demonstrates the evolution of warfare toward autonomous systems and robotics. The development marks a significant milestone in military robotics and autonomous warfare capabilities.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Historic military robotics breakthrough affecting future of warfare and demonstrating autonomous systems capabilities&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.politico.eu/article/volodymyr-zelenskyy-robotic-systems-russia-army-positions-ukraine/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS_Syndication"&gt;Politico EU&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.nytimes.com/2026/04/14/business/energy-environment/iran-trump-blockade-oil-prices.html"&gt;Trump's Iran Oil Blockade Brings Bigger Economic Risks Despite Market Calm&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 14, 09:04&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Oil markets initially shrugged off President Trump's latest blockade threats against Iran, but analysts warn the effort to damage Iran could provoke retaliation inflicting more damage on energy assets and the global economy. The blockade represents an escalation that could disrupt critical oil transit routes and global energy supplies. Despite current market stability, the move carries significant risks for energy infrastructure and economic stability.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major geopolitical escalation threatening global energy security and potentially triggering economic disruption&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.nytimes.com/2026/04/14/business/energy-environment/iran-trump-blockade-oil-prices.html"&gt;NYT Business&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.nytimes.com/2026/04/14/business/china-foreign-companies-supply-chain.html"&gt;China Restricts Foreign Companies' Supply Chain Shifts Through New Regulations&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 14, 05:43&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;New Chinese regulations are hindering foreign companies from moving their supply chains away from China, with multinationals concerned authorities could penalize companies and executives for such shifts. The rules represent China's effort to maintain its position in global supply chains amid geopolitical tensions and trade diversification efforts. The regulations could significantly impact global supply chain restructuring and corporate strategic planning.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Supply chain control regulations affecting global trade relationships and corporate strategic flexibility&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.nytimes.com/2026/04/14/business/china-foreign-companies-supply-chain.html"&gt;NYT Business&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.nytimes.com/2026/04/14/business/michigan-drone-capital.html"&gt;Detroit Positions Itself as U.S. Drone Manufacturing Hub&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 14, 09:02&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Michigan is spending millions to attract drone manufacturers to Detroit, leveraging the state's automotive supplier ecosystem to create a new drone manufacturing center. The initiative aims to bring new business opportunities to auto suppliers while establishing American drone manufacturing capabilities. The development represents Detroit's diversification beyond traditional automotive manufacturing into emerging technology sectors.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Industrial diversification affecting manufacturing competitiveness and domestic technology production capabilities&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.nytimes.com/2026/04/14/business/michigan-drone-capital.html"&gt;NYT Business&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="http://www.euronews.com/business/2026/04/14/luxury-giant-lvmh-faces-headwinds-as-sales-growth-slows-in-first-quarter"&gt;LVMH Reports Slower Growth as Luxury Market Faces Headwinds&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 14, 08:28&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Luxury giant LVMH reported only 1% organic revenue growth in the first quarter of 2026, falling short of market expectations as the luxury goods sector faces challenging conditions. The modest growth reflects broader headwinds affecting high-end consumer spending and luxury market demand. The results suggest potential slowdown in luxury consumption amid economic uncertainties.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Luxury market slowdown indicating broader consumer spending trends and economic conditions affecting high-end retail&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="http://www.euronews.com/business/2026/04/14/luxury-giant-lvmh-faces-headwinds-as-sales-growth-slows-in-first-quarter"&gt;Euronews Business&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/04/14/inertia-moves-to-commercialize-one-of-the-worlds-most-elaborate-science-experiments/"&gt;Fusion Startup Inertia Moves Toward Commercial Nuclear Fusion Reality&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 14, 09:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Inertia has signed three agreements with Lawrence Livermore National Lab to commercialize fusion technology, representing a significant step toward bringing pioneering fusion reactors to market. The deals pave the way for the company to leverage one of the world's most elaborate science experiments for commercial energy production. The development marks progress in the long-sought goal of commercial fusion power generation.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Breakthrough in commercial fusion development potentially transforming global energy production and climate solutions&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/04/14/inertia-moves-to-commercialize-one-of-the-worlds-most-elaborate-science-experiments/"&gt;TechCrunch&lt;/a&gt;&lt;br&gt;
+&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>Custom — Apr 14, 2026</title>
     <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-04-14-custom.html"/>
@@ -2056,99 +2179,6 @@
 &lt;p&gt;Waymo launched commercial robotaxi services in Nashville, partnering with Lyft for ride-hailing integration, bringing total operations to 11 cities. The expansion demonstrates continued autonomous vehicle deployment despite regulatory and technical challenges. Waymo now offers various methods for passengers to hail autonomous rides across multiple metropolitan markets.&lt;/p&gt;&lt;br&gt;
 &lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Autonomous vehicle service expansion affecting ride-sharing industry and demonstrating commercial self-driving car adoption&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
 &lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/04/07/waymo-opens-robotaxi-service-in-nashville-partners-with-lyft/"&gt;TechCrunch&lt;/a&gt;&lt;br&gt;
-&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>Afternoon — Apr 7, 2026</title>
-    <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-04-07-afternoon.html"/>
-    <id>https://jonaskjellin.github.io/pulsebrief-site/2026-04-07-afternoon.html</id>
-    <updated>2026-04-07T11:46:52.752Z</updated>
-    <content type="html">&lt;p&gt;&lt;h1&gt;PulseBrief's Afternoon Pulse&lt;/h1&gt;&lt;br&gt;
-&lt;em&gt;Tue, Apr 7, 05:00 → Tue, Apr 7, 11:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;Cyber Security&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://thehackernews.com/2026/04/flowise-ai-agent-builder-under-active.html"&gt;Flowise AI Platform Hit by Mass Exploitation of CVSS 10.0 RCE Vulnerability with 12,000+ Exposed Instances&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Apr 7, 05:56&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Threat actors are actively exploiting CVE-2025-59528, a maximum-severity code injection vulnerability in Flowise, an open-source AI agent builder platform. The flaw allows remote code execution through the CustomMCP node configuration settings. Over 12,000 vulnerable Flowise instances are exposed online, creating a massive attack surface for cybercriminals targeting AI infrastructure.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Critical AI infrastructure under active attack affecting thousands of exposed instances with perfect CVSS score vulnerability&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://thehackernews.com/2026/04/flowise-ai-agent-builder-under-active.html"&gt;The Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://thehackernews.com/2026/04/china-linked-storm-1175-exploits-zero.html"&gt;China-Linked Medusa Ransomware Group Exploits Zero-Days in 24-Hour Attack Cycles&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Apr 7, 06:35&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Storm-1175, a China-based threat actor deploying Medusa ransomware, has been conducting high-velocity attacks using zero-day and n-day vulnerabilities to rapidly break into internet-facing systems. The group can move from initial access to data exfiltration and ransomware deployment within days of breach. Microsoft reports the threat actor's high operational tempo and proficiency in identifying exposed perimeter assets have proven successful.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Ransomware attack acceleration reducing enterprise response time and demonstrating sophisticated threat actor capabilities with zero-day exploits&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://thehackernews.com/2026/04/china-linked-storm-1175-exploits-zero.html"&gt;The Hacker News&lt;/a&gt; · &lt;a href="https://www.securityweek.com/medusa-ransomware-fast-to-exploit-vulnerabilities-breached-systems/"&gt;SecurityWeek&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://thehackernews.com/2026/04/new-gpubreach-attack-enables-full-cpu.html"&gt;New GPUBreach Attack Enables CPU Privilege Escalation via GDDR6 Rowhammer&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Apr 7, 08:38&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Academic researchers have developed GPUBreach, GDDRHammer, and GeForge attacks that exploit Rowhammer bit-flips in GPU GDDR6 memory to escalate privileges and potentially achieve full system control. GPUBreach goes beyond previous GPU-based attacks by demonstrating the first successful CPU privilege escalation through GPU memory manipulation. The technique represents a new attack vector targeting GPU infrastructure used in enterprise AI and graphics workloads.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Novel hardware-level attack vector targeting GPU infrastructure affecting enterprise systems using graphics cards for AI and computing workloads&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://thehackernews.com/2026/04/new-gpubreach-attack-enables-full-cpu.html"&gt;The Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.securityweek.com/white-house-seeks-to-slash-cisa-funding-by-707-million/"&gt;White House Proposes $707 Million Budget Cut for CISA Cybersecurity Agency&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Apr 7, 08:29&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;The Trump administration is seeking to slash CISA's funding by $707 million in the FY2027 budget proposal. The administration says the budget refocuses CISA on its core mission of protecting federal agencies and critical infrastructure. This represents a significant reduction in funding for the nation's primary cybersecurity agency during a period of escalating cyber threats.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major federal cybersecurity funding reduction affecting national cyber defense capabilities and government security programs&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.securityweek.com/white-house-seeks-to-slash-cisa-funding-by-707-million/"&gt;SecurityWeek&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.securityweek.com/german-police-unmask-revil-ransomware-leader/"&gt;German Police Identify REvil Ransomware Leader in Major Law Enforcement Breakthrough&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Apr 7, 09:24&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;German Federal Police have unmasked a Russian national as a leader of the REvil ransomware operation, accused of extorting more than $2 million. The suspect was also involved in the GandCrab ransomware operation. This represents a significant breakthrough in tracking down leaders of some of the most destructive ransomware operations in history.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major law enforcement breakthrough identifying top-tier ransomware leaders affecting international cybercrime prosecution efforts&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.securityweek.com/german-police-unmask-revil-ransomware-leader/"&gt;SecurityWeek&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.securityweek.com/wynn-resorts-says-21000-employees-affected-by-shinyhunters-hack/"&gt;Wynn Resorts Confirms 21,000 Employees Affected by ShinyHunters Data Breach&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Apr 7, 06:05&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;The high-end casino and hotel operator confirmed that 21,000 employees were affected by a cyber attack attributed to the ShinyHunters ransomware group. The company has likely paid a ransom to prevent data from being leaked publicly. The incident highlights the continued targeting of hospitality and entertainment companies by ransomware groups seeking high-value data.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major hospitality company data breach affecting thousands of employees and demonstrating ransomware group targeting of high-profile entertainment businesses&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.securityweek.com/wynn-resorts-says-21000-employees-affected-by-shinyhunters-hack/"&gt;SecurityWeek&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;AI &amp; Machine Learning&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theverge.com/ai-artificial-intelligence/907842/google-gemini-mental-health-interface-update"&gt;Google Updates Gemini Interface to Better Direct Users to Mental Health Resources During Crisis&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Apr 7, 10:09&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Google has redesigned Gemini's mental health crisis response module to provide a streamlined "one-touch" experience for users showing signs of suicide or self-harm. The update comes as Google faces a wrongful death lawsuit alleging its chatbot "coached" a man to die by suicide. The redesign aims to more effectively connect distressed users with mental health crisis resources like suicide hotlines.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;AI safety improvements affecting user wellbeing as tech companies face liability for harmful AI outputs and work to prevent crisis situations&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.theverge.com/ai-artificial-intelligence/907842/google-gemini-mental-health-interface-update"&gt;The Verge&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/04/06/indian-startup-rocket-wants-its-ai-to-do-mckinsey-style-consulting-at-a-fraction-of-the-cost/"&gt;AI Startup Rocket Offers McKinsey-Style Consulting Reports at Fraction of Cost&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Apr 7, 05:30&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Indian startup Rocket has launched an AI platform that combines strategy, product development, and competitive intelligence to deliver McKinsey-style consulting reports at significantly reduced costs. The platform aims to democratize access to high-quality business consulting through AI automation, moving beyond simple code generation. This represents the expansion of AI into professional services traditionally dominated by expensive consulting firms.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;AI disruption of professional consulting services affecting enterprise decision-making processes and potentially reducing costs for business strategy work&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/04/06/indian-startup-rocket-wants-its-ai-to-do-mckinsey-style-consulting-at-a-fraction-of-the-cost/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.nytimes.com/2026/04/07/technology/google-ai-overviews-accuracy.html"&gt;Google AI Accuracy Questioned as Overviews Draw from Mixed Source Quality&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Apr 7, 09:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;The New York Times examines the accuracy of Google's AI-generated answers, noting they appear authoritative but draw on sources ranging from trustworthy sites to Facebook posts. The AI Overviews feature presents information with an air of authority that may not reflect the actual reliability of underlying sources. This raises questions about information quality and user trust in AI-powered search results.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;AI information quality affecting user trust in search results and demonstrating challenges in AI-powered information synthesis from diverse sources&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.nytimes.com/2026/04/07/technology/google-ai-overviews-accuracy.html"&gt;New York Times&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;Technology&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://go.theregister.com/feed/www.theregister.com/2026/04/07/thierry_carrez_on_sovereignty_interview/"&gt;OpenInfra Foundation Warns of Government Tech 'Kill Switches' Amid Sovereignty Concerns&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Apr 7, 10:27&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Thierry Carrez, General Manager of the OpenInfra Foundation, raised concerns at Kubecon about governments potentially forcing tech companies to deploy "kill switches" as geopolitical tensions affect technology sovereignty. The warning highlights growing concerns about government control over technology infrastructure and cross-border tech dependencies. Sovereignty has become a major topic in cloud and infrastructure discussions.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Geopolitical technology control affecting enterprise infrastructure decisions and demonstrating risks of government intervention in tech operations&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://go.theregister.com/feed/www.theregister.com/2026/04/07/thierry_carrez_on_sovereignty_interview/"&gt;The Register&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://go.theregister.com/feed/www.theregister.com/2026/04/07/opinion_column_apple_vs_microsoft/"&gt;Apple Silicon Success Paradoxically Benefits Windows More Than Mac Platform&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Apr 7, 09:31&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;The Register argues that while Apple's M1 chips created a new performance landscape, the biggest winner has been Windows rather than macOS. Apple's walled garden approach and appliance sensibility have limited expansion options despite the technical success of Apple Silicon. The analysis suggests Apple's chip innovation has had broader industry impact beyond Apple's own ecosystem.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Platform competition dynamics affecting enterprise computing choices and demonstrating unintended consequences of hardware innovation&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://go.theregister.com/feed/www.theregister.com/2026/04/07/opinion_column_apple_vs_microsoft/"&gt;The Register&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://go.theregister.com/feed/www.theregister.com/2026/04/07/ofcom_social_media_use/"&gt;British Adults Reduce Social Media Activity as Digital Skepticism Grows&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Apr 7, 08:35&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Ofcom research shows British adults are now less active on social media, with just half of users actively posting content. Fewer people now believe the benefits of being online outweigh the risks, indicating growing skepticism about digital life. The trend represents a significant shift in social media engagement and digital participation patterns.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Social media usage decline affecting digital engagement patterns and demonstrating changing user attitudes toward online platforms&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://go.theregister.com/feed/www.theregister.com/2026/04/07/ofcom_social_media_use/"&gt;The Register&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;Business &amp; Markets&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.nytimes.com/2026/04/07/business/dealbook/bill-ackman-universal-music-merger.html"&gt;Bill Ackman's Pershing Square Bids to Acquire Universal Music Group&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Apr 7, 09:07&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;The billionaire hedge fund manager has pitched a complex transaction to buy Universal Music Group that would need approval from the music label's shareholders. The deal represents a major play in the music industry consolidation trend. Ackman's move demonstrates continued interest in media assets despite industry challenges.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major media industry acquisition affecting music streaming economics and entertainment industry consolidation trends&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.nytimes.com/2026/04/07/business/dealbook/bill-ackman-universal-music-merger.html"&gt;New York Times&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.nytimes.com/2026/04/07/business/oil-stocks-gas-prices-iran.html"&gt;Oil Prices Jump as Trump's Iran Deal Deadline Approaches&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Apr 7, 09:27&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Oil prices surged as President Trump's Tuesday evening deadline for an Iran deal approached after he rejected a cease-fire proposal as "not good enough." The escalating tensions are driving energy market volatility and affecting global commodity prices. The situation demonstrates how geopolitical conflicts directly impact energy markets and business operations.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Energy market volatility affecting business costs and demonstrating geopolitical impact on commodity prices and supply chains&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.nytimes.com/2026/04/07/business/oil-stocks-gas-prices-iran.html"&gt;New York Times&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.bloomberg.com/news/articles/2026-04-07/germany-power-prices-turn-deeply-negative-on-renewables-surge"&gt;Germany Power Prices Turn Deeply Negative on Renewables Surge&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Apr 7, 10:33&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;German electricity prices have turned deeply negative due to a surge in renewable energy generation, creating unusual market dynamics where consumers are effectively paid to use electricity. The situation demonstrates both the success and challenges of renewable energy transition. Energy companies must adapt to increasingly volatile pricing as renewable capacity continues to expand.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Energy market transformation affecting utility business models and demonstrating renewable energy impact on electricity pricing&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.bloomberg.com/news/articles/2026-04-07/germany-power-prices-turn-deeply-negative-on-renewables-surge"&gt;Bloomberg&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.nytimes.com/2026/04/07/business/broadway-across-america-tours-justice-department.html"&gt;Justice Department Resolves Broadway Touring Investigation Over Noncompete Agreement&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Apr 7, 09:02&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Broadway Across America will not be prosecuted after acknowledging it signed a noncompete agreement with another presenter, the Justice Department announced. The resolution demonstrates ongoing antitrust enforcement in entertainment industry business practices. The case highlights regulatory scrutiny of competitive practices in live entertainment markets.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Antitrust enforcement affecting entertainment industry competitive practices and demonstrating regulatory oversight of market competition&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.nytimes.com/2026/04/07/business/broadway-across-america-tours-justice-department.html"&gt;New York Times&lt;/a&gt;&lt;br&gt;
 &lt;/p&gt;</content>
   </entry>
 </feed>
