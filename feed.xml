@@ -5,7 +5,100 @@
   <link href="https://jonaskjellin.github.io/pulsebrief-site/feed.xml" rel="self"/>
   <link href="https://jonaskjellin.github.io/pulsebrief-site/"/>
   <id>https://jonaskjellin.github.io/pulsebrief-site/</id>
-  <updated>2026-04-18T11:29:17.148Z</updated>
+  <updated>2026-04-18T16:28:00.773Z</updated>
+  <entry>
+    <title>Evening — Apr 18, 2026</title>
+    <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-04-18-evening.html"/>
+    <id>https://jonaskjellin.github.io/pulsebrief-site/2026-04-18-evening.html</id>
+    <updated>2026-04-18T16:28:00.773Z</updated>
+    <content type="html">&lt;p&gt;&lt;h1&gt;PulseBrief's Evening Pulse&lt;/h1&gt;&lt;br&gt;
+&lt;em&gt;Sat, Apr 18, 11:00 → Sat, Apr 18, 16:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Cyber Security&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.bleepingcomputer.com/news/security/critical-flaw-in-protobuf-library-enables-javascript-code-execution/"&gt;Critical Protobuf.js Flaw Enables JavaScript Code Execution, Proof-of-Concept Released&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 18, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Proof-of-concept exploit code has been published for a critical remote code execution vulnerability in protobuf.js, a widely used JavaScript implementation of Google's Protocol Buffers. The flaw allows attackers to execute arbitrary JavaScript code through malicious protocol buffer messages. The vulnerability affects countless applications using this popular serialization library for web development.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Critical infrastructure library vulnerability affecting widespread web applications with available exploit code requiring immediate patching&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.bleepingcomputer.com/news/security/critical-flaw-in-protobuf-library-enables-javascript-code-execution/"&gt;BleepingComputer&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://cybersecuritynews.com/claude-opus-to-build-a-working-chrome-exploit-chain/"&gt;Security Researcher Builds Working Chrome Exploit Chain Using Claude Opus AI&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 18, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;A security researcher successfully used Anthropic's Claude Opus AI model to construct a fully functional exploit chain targeting Google Chrome's V8 JavaScript engine. The demonstration moves beyond theoretical warnings to show how advanced AI can actually develop sophisticated browser exploits. The experiment highlights the tangible cybersecurity risks posed by frontier AI models in the hands of threat actors.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;First practical demonstration of AI being used to build real browser exploits affecting enterprise security threat assessment for AI tools&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://cybersecuritynews.com/claude-opus-to-build-a-working-chrome-exploit-chain/"&gt;Cybersecurity News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://cybersecuritynews.com/apple-works-on-fix-for-iphone-passcode-bug/"&gt;Apple Working on Fix for iPhone Passcode Bug That Locks Users Out for Months&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 18, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Apple is developing a software fix for an iOS 26 bug that has completely locked some users out of their iPhones for months. The issue stems from a keyboard interface flaw that removed a specific Czech special character required for certain passcodes. Users with passcodes containing the missing character cannot unlock their devices until the fix is deployed.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Critical iOS bug affecting device accessibility demonstrating how localization issues can create severe user impact requiring urgent fixes&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://cybersecuritynews.com/apple-works-on-fix-for-iphone-passcode-bug/"&gt;Cybersecurity News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-right-click-paste-broken-by-edge-update-bug/"&gt;Microsoft Teams Right-Click Paste Broken by Edge Browser Update&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 18, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;A recent Microsoft Edge browser update introduced a bug that breaks right-click paste functionality in Microsoft Teams desktop client chats. The issue affects productivity workflows for Teams users who rely on context menu operations. Microsoft has acknowledged the problem and is working on a fix for the browser update that disrupted the collaboration platform.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Widespread productivity disruption affecting enterprise Teams users and demonstrating how browser updates can break essential workplace workflows&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-right-click-paste-broken-by-edge-update-bug/"&gt;BleepingComputer&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;AI &amp; Machine Learning&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/04/18/anthropics-relationship-with-the-trump-administration-seems-to-be-thawing/"&gt;White House Meets with Anthropic CEO as Administration Relations Potentially Thaw&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 18, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;The White House Chief of Staff held an introductory meeting with Anthropic CEO Dario Amodei despite the company recently being designated a supply-chain risk by the Pentagon. The meeting comes as the Trump administration considers how to deploy Anthropic's groundbreaking Mythos model amid ongoing tensions over AI safety policies. The engagement suggests potential warming of relations between the administration and the AI company previously criticized as 'RADICAL LEFT' and 'WOKE.'&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;High-level government-AI company diplomatic engagement affecting national security AI adoption and signaling potential policy shifts around advanced AI models&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/04/18/anthropics-relationship-with-the-trump-administration-seems-to-be-thawing/"&gt;TechCrunch&lt;/a&gt; · &lt;a href="https://www.politico.com/news/2026/04/17/white-house-to-meet-with-anthropic-ceo-as-mythos-anxiety-spreads-00878960?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS_Syndication"&gt;Politico&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/04/18/the-app-store-is-booming-again-and-ai-may-be-why/"&gt;App Store Experiences AI-Driven Development Boom in 2026&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 18, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;New data from Appfigures shows a significant surge in new app launches in 2026, with AI development tools likely fueling the mobile software boom. The increase suggests AI-powered development platforms are lowering barriers to app creation and enabling more developers to build and launch applications. The trend could reshape the mobile app ecosystem by democratizing app development through artificial intelligence.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;AI tools enabling explosive mobile app development growth affecting app market dynamics and potentially changing how software gets built&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/04/18/the-app-store-is-booming-again-and-ai-may-be-why/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.nytimes.com/2026/04/17/business/media/artificial-intelligence-trump-social-media.html"&gt;Hundreds of AI-Generated Pro-Trump Social Media Avatars Emerge Across Platforms&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 17, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Artificial intelligence-generated fake influencers supporting Trump have surged across TikTok, Instagram, Facebook and YouTube in an apparent effort to influence conservative voters. The AI-generated avatars represent a new form of political manipulation using synthetic media to create false grassroots support. The proliferation demonstrates how AI tools are being weaponized for political influence operations at scale.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Large-scale AI-powered political influence operation affecting election integrity and demonstrating sophisticated use of synthetic media for voter manipulation&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.nytimes.com/2026/04/17/business/media/artificial-intelligence-trump-social-media.html"&gt;NYT Business&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Technology&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://goodereader.com/blog/kindle/amazon-is-discontinuing-kindle-for-pc-on-june-30th"&gt;Amazon Discontinuing Kindle for PC Application on June 30th&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 18, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Amazon announced it will discontinue the Kindle for PC desktop application on June 30th, ending support for reading Kindle books on Windows computers through the dedicated app. Users will need to transition to web-based reading or mobile apps to access their Kindle libraries. The decision reflects Amazon's strategy to consolidate reading experiences across fewer platforms.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major e-reading platform change affecting desktop users' book access and demonstrating shift away from dedicated PC applications toward web-based services&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://goodereader.com/blog/kindle/amazon-is-discontinuing-kindle-for-pc-on-june-30th"&gt;Good e-Reader&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://isayeter.com/posts/digitalocean-to-hetzner-migration/"&gt;Developer Achieves 84% Cloud Cost Savings Migrating from DigitalOcean to Hetzner&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 18, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;A detailed case study shows how migrating infrastructure from DigitalOcean to Hetzner reduced monthly costs from $1,432 to $233 with zero downtime. The migration demonstrates significant cost optimization opportunities available by switching cloud providers while maintaining service reliability. The 84% cost reduction highlights the dramatic pricing differences between major cloud platforms for equivalent services.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Massive cloud infrastructure cost optimization demonstrating potential savings for organizations evaluating cloud provider alternatives and cost management strategies&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://isayeter.com/posts/digitalocean-to-hetzner-migration/"&gt;Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://kdenlive.org/news/2026/state-2026/"&gt;Open Source Kdenlive Video Editor Reports Strong 2026 Development Progress&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 18, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Kdenlive, the open-source video editing software, released its annual state report showing significant development progress and growing user adoption in 2026. The project has expanded features, improved stability, and built a stronger community of contributors. The progress demonstrates how open-source creative tools are advancing to compete with commercial video editing software.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Open source video editing advancement affecting creative software market and demonstrating viable alternatives to expensive professional editing tools&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://kdenlive.org/news/2026/state-2026/"&gt;Kdenlive&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theverge.com/tech/908962/dyson-hushjet-mini-cool-personal-handheld-fan-hands-on"&gt;Dyson Launches $100 HushJet Mini Cool Handheld Fan Despite Noise Issues&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 18, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Dyson released the HushJet Mini Cool, a $99.99 handheld fan with a sleek design that fits in a pocket but generates more noise than expected for a product with 'Hush' in its name. The device offers five speed settings plus a boost mode, with battery life ranging from 62 minutes at high speed to six hours at low settings. While the engineering is impressive, the noise level may limit its use in quiet environments.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Premium consumer electronics company entering portable cooling market with design innovation but practical limitations affecting summer comfort solutions&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.theverge.com/tech/908962/dyson-hushjet-mini-cool-personal-handheld-fan-hands-on"&gt;The Verge&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Business &amp; Markets&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.politico.eu/article/iran-strait-of-hormuz-irgc-gunboats-fire-on-tanker/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS_Syndication"&gt;Iran Re-Closes Strait of Hormuz After Gunboats Fire on Tanker&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 18, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Iran shut down the Strait of Hormuz again after Iranian gunboats fired on a commercial tanker, just hours after the critical energy chokepoint had reopened during a fragile ceasefire. Iran's military demands the U.S. lift its blockade of Iranian ports before allowing the waterway to reopen permanently. The renewed closure threatens global energy supplies and demonstrates the fragility of the temporary peace agreement.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Critical global energy chokepoint re-closed affecting oil markets and economic stability after brief reopening, highlighting continued supply chain vulnerability&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.politico.eu/article/iran-strait-of-hormuz-irgc-gunboats-fire-on-tanker/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS_Syndication"&gt;Politico EU&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.nytimes.com/2026/04/18/business/dealbook/corporate-profits-record.html"&gt;Corporate Profits Hit Record Highs as Four Factors Threaten Future Growth&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 18, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;U.S. corporate profits have reached record levels, but experts warn that four key factors could derail continued growth: rising labor costs, increased competition, regulatory pressures, and economic uncertainty. While companies have successfully maintained high profit margins despite various challenges, analysts believe the window for steep gains is narrowing. The record profits come amid ongoing debates about corporate pricing power and market concentration.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Peak corporate profitability potentially ending affecting investment returns and economic growth as key headwinds emerge for business performance&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.nytimes.com/2026/04/18/business/dealbook/corporate-profits-record.html"&gt;NYT Business&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.nytimes.com/2026/04/17/business/american-airlines-united-merger.html"&gt;American Airlines Denies Merger Discussions with United Following Reports&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 17, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;American Airlines issued a statement explicitly denying merger discussions with United Airlines after news reports suggested United's CEO had discussed consolidation ideas with the Trump administration. The denial aims to quash market speculation about a potential mega-merger between two of the largest U.S. carriers. The statement comes amid ongoing industry pressures and speculation about airline consolidation.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major airline merger speculation affecting aviation industry consolidation expectations and demonstrating market sensitivity to potential mega-deals in transportation&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.nytimes.com/2026/04/17/business/american-airlines-united-merger.html"&gt;NYT Business&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.politico.com/news/2026/04/17/trump-iran-war-poll-voters-midterms-00877754?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS_Syndication"&gt;Trump Approval Rating on Iran War Declines Despite Victory Claims&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 17, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;A new POLITICO poll shows voters are not convinced by President Trump's claims of victory in Iran, with a majority saying the war is not in the national interest. Many Americans, including some 2024 Trump supporters, lack confidence in the president's goals for the conflict. The polling data suggests Trump's foreign policy messaging is not resonating with voters despite his assertions of success.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Presidential foreign policy support eroding affecting domestic political dynamics and potential impact on upcoming midterm elections and policy decisions&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.politico.com/news/2026/04/17/trump-iran-war-poll-voters-midterms-00877754?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS_Syndication"&gt;Politico&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.nytimes.com/video/business/100000010843347/why-your-paycheck-feels-smaller.html"&gt;Wages Falling Behind Inflation Despite Strong Employment Numbers&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 18, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Despite robust employment statistics, American workers are experiencing declining purchasing power as wages fail to keep pace with inflation. The disconnect between employment strength and real income growth is creating financial stress for households even in a tight labor market. The trend has significant implications for consumer spending and economic growth as workers struggle with rising costs.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Real wage decline affecting consumer spending power and economic stability despite positive employment data, impacting household financial security&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.nytimes.com/video/business/100000010843347/why-your-paycheck-feels-smaller.html"&gt;NYT Business&lt;/a&gt;&lt;br&gt;
+&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>Afternoon — Apr 18, 2026</title>
     <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-04-18-afternoon.html"/>
@@ -2176,74 +2269,6 @@
 &lt;p&gt;The Commodity Futures Trading Commission won a temporary restraining order preventing Arizona from pursuing its criminal case against prediction market platform Kalshi. The legal victory provides breathing room for the betting platform while federal and state authorities sort out jurisdictional issues around prediction markets. The case represents broader regulatory uncertainty around political betting and prediction markets in the United States.&lt;/p&gt;&lt;br&gt;
 &lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Regulatory battle affecting prediction market operations and demonstrating ongoing legal uncertainty around political betting platforms&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
 &lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/04/11/kalshi-wins-temporary-pause-in-arizona-criminal-case/"&gt;TechCrunch&lt;/a&gt;&lt;br&gt;
-&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>Evening — Apr 11, 2026</title>
-    <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-04-11-evening.html"/>
-    <id>https://jonaskjellin.github.io/pulsebrief-site/2026-04-11-evening.html</id>
-    <updated>2026-04-11T16:24:29.104Z</updated>
-    <content type="html">&lt;p&gt;&lt;h1&gt;PulseBrief's Evening Pulse&lt;/h1&gt;&lt;br&gt;
-&lt;em&gt;Sat, Apr 11, 11:00 → Sat, Apr 11, 16:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;Cyber Security&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.bleepingcomputer.com/news/security/police-identifies-20-000-victims-in-international-crypto-fraud-crackdown/"&gt;Over 20,000 Cryptocurrency Fraud Victims Identified in International Law Enforcement Crackdown&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Apr 11, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;An international law enforcement operation led by the UK's National Crime Agency has identified over 20,000 victims of cryptocurrency fraud across Canada, the United Kingdom, and the United States. The coordinated action represents one of the largest international efforts to combat crypto-related financial crimes. The scale of victims demonstrates the widespread impact of cryptocurrency fraud schemes targeting consumers across multiple jurisdictions.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Massive international crypto fraud crackdown affecting thousands of victims demonstrates evolving law enforcement capabilities against digital financial crimes&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.bleepingcomputer.com/news/security/police-identifies-20-000-victims-in-international-crypto-fraud-crackdown/"&gt;BleepingComputer&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://go.theregister.com/feed/www.theregister.com/2026/04/11/trivy_axios_supply_chain_attacks/"&gt;Two Supply Chain Attacks Infected Popular Open Source Tools with Malware&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Apr 11, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Two separate attackers successfully poisoned widely-used open source tools in March, using this access to steal secrets from tens of thousands of organizations. The attacks targeted popular development tools and demonstrated sophisticated supply chain compromise techniques that security researchers warn represent the future of such attacks. The full blast radius of these compromises may not be known for months as organizations assess their exposure.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major supply chain compromises affecting enterprise security through trusted development tools and demonstrating evolving attack vectors&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://go.theregister.com/feed/www.theregister.com/2026/04/11/trivy_axios_supply_chain_attacks/"&gt;The Register&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;AI &amp; Machine Learning&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://cirruslabs.org/"&gt;OpenAI Acquires Cirrus Labs to Expand AI Infrastructure Capabilities&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Apr 11, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;OpenAI announced the acquisition of Cirrus Labs, a company focused on cloud infrastructure and CI/CD solutions for software development. The acquisition appears aimed at enhancing OpenAI's development and deployment infrastructure as the company scales its AI services. The deal represents OpenAI's continued expansion into supporting technologies beyond core AI model development.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Strategic AI company acquisition affecting development infrastructure and demonstrating OpenAI's expansion beyond core AI models&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://cirruslabs.org/"&gt;Cirrus Labs&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theverge.com/tech/910691/google-news-polymarket-bets-error"&gt;Google Removes Polymarket Betting Results from News After 'Error'&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Apr 11, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Google confirmed that Polymarket prediction market results appeared in Google News alongside legitimate news articles due to an error and have since been removed. The betting market links were showing up for searches related to current events, including questions about Middle East conflicts and other news topics. Google stated the site briefly appeared in error and violated policies for sources eligible to appear in Google News.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Search algorithm error affecting news credibility and demonstrating challenges in content curation as prediction markets gain prominence&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.theverge.com/tech/910691/google-news-polymarket-bets-error"&gt;The Verge&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;Technology&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theregister.com/2026/04/10/south_korea_data_access_universal/"&gt;South Korea Introduces Universal Basic Mobile Data Access Program&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Apr 10, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;South Korea has launched a universal basic mobile data program providing guaranteed mobile internet access to all citizens. The initiative represents a pioneering approach to treating mobile data connectivity as a basic utility similar to water or electricity. The program addresses digital equity concerns and could serve as a model for other nations considering similar digital rights initiatives.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Groundbreaking digital rights policy potentially establishing model for universal data access and addressing digital inequality&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.theregister.com/2026/04/10/south_korea_data_access_universal/"&gt;The Register&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://go.theregister.com/feed/www.theregister.com/2026/04/11/salesforce_vs_servicenow_itsm_battle/"&gt;Salesforce and ServiceNow Battle for IT Service Management Market Dominance&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Apr 11, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Salesforce CEO Mark Benioff is highlighting his company's ITSM wins while competing directly with ServiceNow for the enterprise helpdesk and IT service management market. The competition centers on user engagement versus AI agent governance approaches, with both companies positioning themselves as the future of enterprise IT operations. The rivalry represents a significant shift in the enterprise software landscape as traditional boundaries blur.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major enterprise software competition affecting IT operations and demonstrating evolution of business software market dynamics&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://go.theregister.com/feed/www.theregister.com/2026/04/11/salesforce_vs_servicenow_itsm_battle/"&gt;The Register&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;Business &amp; Markets&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.politico.com/news/2026/04/10/inflation-surge-trump-iran-gasoline-00866768"&gt;US Inflation Surges to Two-Year High as Iran War Drives Energy Costs&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Apr 10, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Surging gasoline prices drove US inflation to its highest level in two years as global energy markets absorbed supply shocks from the US-Israel war with Iran. Oil prices exploded in March following the once-in-a-generation energy supply disruption, with effects now showing up across consumer price data. The inflation spike threatens economic stability and could force changes in Federal Reserve monetary policy.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major inflationary pressure affecting economic policy and consumer costs as Middle East conflict disrupts global energy supplies&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.politico.com/news/2026/04/10/inflation-surge-trump-iran-gasoline-00866768"&gt;Politico&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/04/11/nvidia-backed-sifive-hits-3-65-billion-valuation-for-open-ai-chips/"&gt;Nvidia-Backed SiFive Reaches $3.65 Billion Valuation for Open AI Chips&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Apr 11, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;SiFive, backed by Nvidia, has achieved a $3.65 billion valuation as the company develops open-source AI chip designs based on RISC-V architecture rather than traditional x86 or ARM processors. The funding round highlights growing interest in alternative chip architectures as AI computing demands continue to grow. The investment represents significant confidence in open-source semiconductor designs as an alternative to proprietary chip architectures.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major semiconductor investment affecting AI chip competition and demonstrating growth of open-source hardware alternatives to traditional processors&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/04/11/nvidia-backed-sifive-hits-3-65-billion-valuation-for-open-ai-chips/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.coindesk.com/markets/2026/03/22/bitcoin-miners-are-losing-usd19-000-on-every-btc-produced-as-difficulty-drops-7-8"&gt;Bitcoin Miners Face $19,000 Loss Per Coin as Mining Difficulty Drops&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Mar 22, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Bitcoin miners are losing approximately $19,000 on every bitcoin produced as mining difficulty dropped 7.8%, reflecting the challenging economics facing the cryptocurrency mining industry. The massive losses per coin highlight the current unprofitability of bitcoin mining operations despite the recent difficulty adjustment. The situation demonstrates how energy costs and market conditions can make cryptocurrency mining economically unsustainable.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Cryptocurrency mining crisis affecting digital asset economics and demonstrating volatility in blockchain infrastructure profitability&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.coindesk.com/markets/2026/03/22/bitcoin-miners-are-losing-usd19-000-on-every-btc-produced-as-difficulty-drops-7-8"&gt;CoinDesk&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.politico.eu/article/ukraine-russia-swap-175-war-prisoners-easter-ceasefire/"&gt;Ukraine and Russia Exchange 175 War Prisoners as Easter Ceasefire Begins&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Apr 11, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Ukraine and Russia conducted a prisoner exchange involving 175 war prisoners as an Easter ceasefire took effect, with the swap mediated by the United Arab Emirates according to Russia's defense ministry. The exchange represents a rare diplomatic breakthrough amid ongoing conflict and demonstrates continued humanitarian efforts despite broader tensions. The UAE's mediation role highlights the involvement of Gulf states in facilitating prisoner exchanges.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Rare diplomatic progress in ongoing conflict affecting humanitarian conditions and demonstrating continued prisoner exchange mechanisms&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.politico.eu/article/ukraine-russia-swap-175-war-prisoners-easter-ceasefire/"&gt;Politico EU&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.politico.eu/article/ireland-fuel-price-protest-block-oil-refinery/"&gt;Irish Police Clear Fuel Price Protesters Blocking Country's Only Oil Refinery&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Apr 11, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Irish police pushed back fuel-price protesters who were blocking the country's only oil refinery at Whitegate in County Cork, with army engineers helping to break barricades after a standoff with truckers and farmers. The protesters were demanding cuts in fuel taxes amid rising energy costs affecting transportation and agriculture sectors. The blockade of Ireland's sole refinery highlights the economic pressure from high fuel prices on key industries.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Energy price protests affecting critical infrastructure and demonstrating economic pressure from fuel costs on transportation and agriculture&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.politico.eu/article/ireland-fuel-price-protest-block-oil-refinery/"&gt;Politico EU&lt;/a&gt;&lt;br&gt;
 &lt;/p&gt;</content>
   </entry>
 </feed>
