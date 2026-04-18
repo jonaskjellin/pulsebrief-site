@@ -5,7 +5,100 @@
   <link href="https://jonaskjellin.github.io/pulsebrief-site/feed.xml" rel="self"/>
   <link href="https://jonaskjellin.github.io/pulsebrief-site/"/>
   <id>https://jonaskjellin.github.io/pulsebrief-site/</id>
-  <updated>2026-04-18T06:07:57.515Z</updated>
+  <updated>2026-04-18T11:29:17.148Z</updated>
+  <entry>
+    <title>Afternoon — Apr 18, 2026</title>
+    <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-04-18-afternoon.html"/>
+    <id>https://jonaskjellin.github.io/pulsebrief-site/2026-04-18-afternoon.html</id>
+    <updated>2026-04-18T11:29:17.148Z</updated>
+    <content type="html">&lt;p&gt;&lt;h1&gt;PulseBrief's Afternoon Pulse&lt;/h1&gt;&lt;br&gt;
+&lt;em&gt;Sat, Apr 18, 05:00 → Sat, Apr 18, 11:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Cyber Security&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://thehackernews.com/2026/04/webinar-find-and-eliminate-orphaned-non.html"&gt;Ghost Identities Behind 68% of Cloud Breaches as Non-Human Credentials Go Unmanaged&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 18, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Compromised service accounts and forgotten API keys were responsible for 68% of cloud breaches in 2024, not traditional phishing or weak passwords. Organizations typically have 40-50 automated credentials per employee including service accounts, API tokens, AI agent connections, and OAuth grants. When projects end or employees leave, most of these non-human identities remain unmanaged and invisible to security teams.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Critical gap in enterprise security affecting cloud infrastructure as automated credentials vastly outnumber human accounts and go unmonitored&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://thehackernews.com/2026/04/webinar-find-and-eliminate-orphaned-non.html"&gt;The Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://thehackernews.com/2026/04/1374m-hack-shuts-down-sanctioned-grinex.html"&gt;Sanctioned Grinex Exchange Loses $13.74M in Hack, Blames Western Intelligence&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 18, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Kyrgyzstan-based cryptocurrency exchange Grinex suspended operations after a $13.74 million hack that the company attributes to Western intelligence agencies. The US and UK-sanctioned exchange claimed the attack bore hallmarks of foreign intelligence involvement but provided no evidence. The incident highlights continued vulnerabilities in cryptocurrency infrastructure amid geopolitical tensions.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major cryptocurrency exchange hack with geopolitical accusations affecting crypto market confidence during ongoing sanctions and conflicts&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://thehackernews.com/2026/04/1374m-hack-shuts-down-sanctioned-grinex.html"&gt;The Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://thehackernews.com/2026/04/mirai-variant-nexcorium-exploits-cve.html"&gt;Nexcorium Mirai Variant Exploits TBK DVR Flaw for Large-Scale DDoS Botnet&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 18, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;A new Mirai botnet variant called Nexcorium is exploiting CVE-2024-3721 in TBK DVR systems and end-of-life TP-Link routers to build a massive DDoS botnet. The medium-severity command injection vulnerability allows attackers to compromise video recording devices and add them to coordinated attack infrastructure. The campaign demonstrates how IoT security vulnerabilities continue to enable large-scale cybercrime operations.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;IoT device vulnerabilities enabling large-scale DDoS infrastructure affecting internet stability and demonstrating persistent IoT security challenges&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://thehackernews.com/2026/04/mirai-variant-nexcorium-exploits-cve.html"&gt;The Hacker News&lt;/a&gt; · &lt;a href="https://cybersecuritynews.com/nexcorium-associated-mirai-variant-uses-tbk-dvr-exploit/"&gt;Cybersecurity News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://cybersecuritynews.com/fiverr-allegedly-leaks-user-information-to-google/"&gt;Fiverr Exposes Customer Tax Forms and PII Through Google Indexing Bug&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 18, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Freelance platform Fiverr is facing a privacy incident after researchers discovered sensitive customer files are publicly accessible and indexed by Google search. The insecure file-hosting configuration exposed personally identifiable information including completed tax forms exchanged between freelancers and clients. The breach demonstrates how cloud storage misconfigurations can expose sensitive business documents to public search engines.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major freelance platform exposing sensitive customer documents affecting privacy and business confidentiality through cloud storage misconfiguration&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://cybersecuritynews.com/fiverr-allegedly-leaks-user-information-to-google/"&gt;Cybersecurity News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.wired.com/story/security-news-this-week-it-takes-2-minutes-to-hack-the-eus-new-age-verification-app/"&gt;EU's New Age-Verification App Hackable in Under 2 Minutes&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 18, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Security researchers demonstrated that the European Union's new age-verification application can be compromised in less than two minutes. The vulnerability affects a critical privacy and safety tool designed to protect minors online. The finding raises concerns about the security of government-developed digital identity verification systems.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Critical government digital identity system vulnerability affecting minor protection online and highlighting risks in official age verification infrastructure&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.wired.com/story/security-news-this-week-it-takes-2-minutes-to-hack-the-eus-new-age-verification-app/"&gt;Wired Security&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.securityweek.com/tycoon-2fa-loses-phishing-kit-crown-amid-surge-in-attacks/"&gt;Tycoon 2FA Phishing Tools Spread Across Other Platforms After Disruption&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 18, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Following the disruption of the Tycoon 2FA phishing platform, threat actors are reusing its tools across other phishing kits in a surge of attacks. The migration demonstrates how cybercriminal infrastructure continues to operate even after law enforcement actions. The tool proliferation is expanding advanced 2FA bypass capabilities to more threat actors.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Advanced phishing tools spreading after platform takedown affecting multi-factor authentication security across broader cybercrime ecosystem&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.securityweek.com/tycoon-2fa-loses-phishing-kit-crown-amid-surge-in-attacks/"&gt;SecurityWeek&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;AI &amp; Machine Learning&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://go.theregister.com/feed/www.theregister.com/2026/04/18/atlassians_new_data_collection_policy/"&gt;Atlassian to Collect Customer Data for AI Training Unless Top-Tier License&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 18, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Starting August 17, Atlassian will collect customer metadata by default to train its AI models unless customers pay for the most expensive enterprise license or are protected by law. The new policy means most customers cannot fully opt out of AI training data collection. The change affects millions of organizations using Atlassian's development and collaboration tools.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major enterprise software platform changing AI training policies affecting organizational data privacy and potentially forcing expensive license upgrades&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://go.theregister.com/feed/www.theregister.com/2026/04/18/atlassians_new_data_collection_policy/"&gt;The Register&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.wired.com/story/schematik-is-cursor-for-hardware-anthropic-wants-in-on-it/"&gt;Anthropic Backs 'Cursor for Hardware' Startup Schematik&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 18, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Anthropic is investing in Schematik, a startup described as 'Cursor for hardware' that aims to help people use AI to code for physical devices. The program represents expansion of AI coding assistance beyond software into hardware design and engineering. The investment signals growing AI applications in physical product development and engineering workflows.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;AI coding assistance expanding into hardware design affecting engineering workflows and demonstrating AI's reach beyond software development&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.wired.com/story/schematik-is-cursor-for-hardware-anthropic-wants-in-on-it/"&gt;Wired AI&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://go.theregister.com/feed/www.theregister.com/2026/04/18/cloudflare_agent_memory/"&gt;Cloudflare Launches Agent Memory for AI Chat Context Storage&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 18, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Cloudflare introduced Agent Memory, a service that stores AI conversational data off to the side and recalls it when needed to address context memory limitations. The technology helps AI applications maintain longer conversational context without consuming expensive model memory resources. The service addresses growing demand for AI applications that can maintain extended conversations and context.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;AI infrastructure innovation addressing context memory limitations affecting conversational AI performance and deployment costs&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://go.theregister.com/feed/www.theregister.com/2026/04/18/cloudflare_agent_memory/"&gt;The Register&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Technology&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/04/17/once-close-enough-for-an-acquisition-stripe-and-airwallex-are-now-going-after-each-other/"&gt;Stripe and Airwallex Shift from Acquisition Talks to Direct Competition&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 18, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Payments giants Stripe and Airwallex, once close enough for acquisition discussions, are now directly competing against each other as they expand into overlapping markets. The companies have historically operated in different geographies and served different customer segments, but that separation is ending. The shift represents intensifying competition in the global payments infrastructure market.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major fintech companies escalating competition affecting payment processing market dynamics and potentially disrupting established geographic boundaries&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/04/17/once-close-enough-for-an-acquisition-stripe-and-airwallex-are-now-going-after-each-other/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Business &amp; Markets&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="http://www.euronews.com/business/2026/04/18/the-rapid-ascent-of-anthropic-inside-the-strategy-behind-an-800-billion-valuation"&gt;Anthropic's $800 Billion Valuation Reflects Rapid AI Market Ascent&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 18, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;AI company Anthropic has achieved an estimated valuation of approximately $800 billion, making it one of the most valuable technology companies globally. The massive valuation reflects investor confidence in the company's AI capabilities and market position in the competitive landscape. The rise demonstrates the extraordinary valuations being assigned to leading AI companies.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Massive AI company valuation affecting technology market dynamics and demonstrating unprecedented investor confidence in AI sector growth&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="http://www.euronews.com/business/2026/04/18/the-rapid-ascent-of-anthropic-inside-the-strategy-behind-an-800-billion-valuation"&gt;Euronews Business&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.politico.com/news/2026/04/17/republicans-trump-war-energy-prices-00879104?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS_Syndication"&gt;Senate Republicans Push Trump for Iran Exit Strategy as Energy Prices Rise&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 18, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Senate Republicans are urging the Trump administration to develop an exit plan for the Iran conflict as rising energy prices create domestic political pressure. Senate Majority Leader John Thune indicated members are increasingly interested in understanding next steps as the war's economic impact grows. The pressure reflects growing concern about the conflict's effect on American consumers and the economy.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Political pressure mounting over military conflict costs affecting energy prices and domestic economic conditions&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.politico.com/news/2026/04/17/republicans-trump-war-energy-prices-00879104?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS_Syndication"&gt;Politico&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.politico.com/news/2026/04/17/iran-war-global-energy-shift-00877861?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS_Syndication"&gt;Iran War Forces Global Energy Shift as Nations Choose Fossil Fuels vs Renewables&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 18, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;The Iran conflict is forcing a global energy strategy split, with nations divided between doubling down on fossil fuels or accelerating renewable energy adoption. The war has disrupted traditional energy supply chains and forced countries to reassess their energy independence strategies. The crisis is accelerating long-term energy transition decisions as nations seek alternatives to volatile geopolitical supplies.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Global conflict accelerating energy transition decisions affecting climate policy and energy security strategies worldwide&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.politico.com/news/2026/04/17/iran-war-global-energy-shift-00877861?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS_Syndication"&gt;Politico&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.politico.eu/article/iran-threatens-to-close-strait-of-hormuz-if-us-blockade-continues/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS_Syndication"&gt;Iran Threatens to Re-Close Strait of Hormuz if US Blockade Continues&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 18, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Iran has threatened to close the Strait of Hormuz again if the US continues its blockade, despite the recent temporary reopening of the critical energy chokepoint. Tehran also stated it has no intention of transferring enriched uranium out of the country, escalating tensions over the nuclear program. The threat undermines hopes for sustained energy supply restoration and market stability.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Critical global energy chokepoint threatened with re-closure affecting oil markets and energy security after brief reopening&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.politico.eu/article/iran-threatens-to-close-strait-of-hormuz-if-us-blockade-continues/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS_Syndication"&gt;Politico&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.nytimes.com/2026/04/18/business/energy-environment/starit-hormuz-oil-natural-gas-supplies-prices.html"&gt;Strait of Hormuz Reopening Would Only Partially Ease Oil Crisis&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 18, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Energy analysts warn that reopening the Strait of Hormuz would provide limited relief to the global oil crisis as companies remain reluctant to fully restore operations until confident hostilities have ended. Shipping and energy companies are taking cautious approaches to resuming normal operations through the critical chokepoint. The hesitation reflects concerns about renewed conflict and potential asset exposure in the volatile region.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Energy supply restoration limited by industry caution affecting oil markets and economic recovery despite infrastructure reopening&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.nytimes.com/2026/04/18/business/energy-environment/starit-hormuz-oil-natural-gas-supplies-prices.html"&gt;NYT Business&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.nytimes.com/2026/04/18/business/401k-hardship-withdrawals-retirement.html"&gt;Americans Increase 401(k) Hardship Withdrawals as Costs Rise&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 18, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;More Americans are taking hardship withdrawals from workplace retirement accounts due to rising costs and looser regulatory rules. The trend indicates financial stress is forcing workers to tap into long-term savings to meet immediate needs. The increase in retirement account raids suggests broader economic pressure on household finances despite strong employment numbers.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Growing financial stress affecting retirement security as Americans raid long-term savings to meet rising living costs&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.nytimes.com/2026/04/18/business/401k-hardship-withdrawals-retirement.html"&gt;NYT Business&lt;/a&gt;&lt;br&gt;
+&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>Custom — Apr 18, 2026</title>
     <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-04-18-custom.html"/>
@@ -2151,94 +2244,6 @@
 &lt;p&gt;Irish police pushed back fuel-price protesters who were blocking the country's only oil refinery at Whitegate in County Cork, with army engineers helping to break barricades after a standoff with truckers and farmers. The protesters were demanding cuts in fuel taxes amid rising energy costs affecting transportation and agriculture sectors. The blockade of Ireland's sole refinery highlights the economic pressure from high fuel prices on key industries.&lt;/p&gt;&lt;br&gt;
 &lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Energy price protests affecting critical infrastructure and demonstrating economic pressure from fuel costs on transportation and agriculture&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
 &lt;p&gt;Sources: &lt;a href="https://www.politico.eu/article/ireland-fuel-price-protest-block-oil-refinery/"&gt;Politico EU&lt;/a&gt;&lt;br&gt;
-&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>Afternoon — Apr 11, 2026</title>
-    <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-04-11-afternoon.html"/>
-    <id>https://jonaskjellin.github.io/pulsebrief-site/2026-04-11-afternoon.html</id>
-    <updated>2026-04-11T11:24:22.008Z</updated>
-    <content type="html">&lt;p&gt;&lt;h1&gt;PulseBrief's Afternoon Pulse&lt;/h1&gt;&lt;br&gt;
-&lt;em&gt;Sat, Apr 11, 05:00 → Sat, Apr 11, 11:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;Cyber Security&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://thehackernews.com/2026/04/citizen-lab-law-enforcement-used-webloc.html"&gt;Law Enforcement Used Webloc to Track 500 Million Devices via Ad Data&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Apr 11, 06:02&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Hungarian domestic intelligence, El Salvador's national police, and several U.S. law enforcement departments have been using Webloc, an advertising-based global geolocation surveillance system developed by Israeli company Cobwebs Technologies. The tool enables mass tracking of 500 million devices through advertising data, representing one of the largest known surveillance operations using commercial ad tech. The system is now sold by Penlink after merging with Cobwebs in 2023.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Mass surveillance infrastructure affecting half a billion devices demonstrates unprecedented scale of law enforcement location tracking capabilities&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://thehackernews.com/2026/04/citizen-lab-law-enforcement-used-webloc.html"&gt;The Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://go.theregister.com/feed/www.theregister.com/2026/04/11/hungary_government_logins_breach/"&gt;Hungarian Government Credentials Including Defense and NATO Accounts Found in Breach Data&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Apr 11, 08:30&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Nearly 800 Hungarian state login credentials have surfaced in breach data, including accounts linked to defense and NATO operations. The breach exposes critical national security vulnerabilities in government password practices and authentication systems. The discovery highlights how poor credential management at the government level creates systemic security risks for allied nations.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;NATO-linked government credential exposure demonstrates critical national security vulnerabilities affecting allied defense cooperation&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://go.theregister.com/feed/www.theregister.com/2026/04/11/hungary_government_logins_breach/"&gt;The Register&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://cybersecuritynews.com/ransomware-gangs-expand-use-of-edr-killers/"&gt;Ransomware Gangs Expand EDR Killer Tools Beyond Vulnerable Drivers&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Apr 11, 05:13&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;ESET Research reports that ransomware groups are significantly expanding their use of Endpoint Detection and Response (EDR) killers beyond traditional vulnerable driver techniques. These specialized tools have become standard weapons in modern ransomware intrusions, routinely deployed before launching file-encrypting malware to bypass security software. The evolution demonstrates ransomware groups' increasing sophistication in evading enterprise security defenses.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Enterprise security bypass evolution affecting organizational ransomware defenses and demonstrating need for advanced EDR protection strategies&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://cybersecuritynews.com/ransomware-gangs-expand-use-of-edr-killers/"&gt;Cybersecurity News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://cybersecuritynews.com/device-bound-chrome-sessions-in-anti-cookie-theft-move/"&gt;Google Deploys Device-Bound Chrome Sessions to Block Cookie Theft&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Apr 11, 06:52&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Google has officially rolled out Device Bound Session Credentials (DBSC) for Windows users on Chrome 146, with macOS expansion planned for upcoming releases. The feature cryptographically binds authentication sessions to specific devices, rendering stolen session cookies unusable on other machines even if intercepted by malware. This represents a major advancement in browser security against widespread credential theft attacks affecting millions of users.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major browser security enhancement protecting against credential theft attacks that affect millions of users and enterprise security&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://cybersecuritynews.com/device-bound-chrome-sessions-in-anti-cookie-theft-move/"&gt;Cybersecurity News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.wired.com/story/security-news-this-week-your-push-notifications-arent-safe-from-the-fbi/"&gt;FBI Uses Push Notification Data to Bypass Encrypted Messaging Privacy&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Apr 11, 10:30&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Law enforcement agencies are successfully using smartphone push notification data to access content from encrypted messaging apps, undermining user privacy expectations. The technique allows authorities to retrieve information that users believe is protected by end-to-end encryption. The practice highlights how system-level metadata can compromise encrypted communications despite strong encryption protocols.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Privacy vulnerability in encrypted messaging affecting user security expectations and demonstrating system-level surveillance capabilities&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.wired.com/story/security-news-this-week-your-push-notifications-arent-safe-from-the-fbi/"&gt;Wired Security&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://cybersecuritynews.com/gmail-end-to-end-encryption-for-android-and-ios/"&gt;Google Launches Gmail End-to-End Encryption for Mobile Devices&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Apr 11, 08:56&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Google has officially rolled out end-to-end encryption (E2EE) for Gmail on Android and iOS devices, targeting enterprise users who need to handle sensitive data confidentially from mobile devices. The feature ensures compliance with strict data sovereignty rules while maintaining mobile workflow capabilities. This extends Gmail's encryption capabilities beyond desktop to mobile platforms, addressing growing enterprise demand for mobile email security.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major email security enhancement affecting enterprise communications and mobile email privacy for millions of business users&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://cybersecuritynews.com/gmail-end-to-end-encryption-for-android-and-ios/"&gt;Cybersecurity News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;AI &amp; Machine Learning&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.wired.com/story/how-the-internet-broke-everyones-bullshit-detectors/"&gt;Internet Verification Systems Struggle with AI-Generated Content and Misinformation&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Apr 11, 09:30&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;The systems used to verify what's real online are struggling to keep up with AI-generated images, restricted satellite data, and other forms of sophisticated misinformation. Traditional verification methods are being overwhelmed by the volume and sophistication of AI-created content flooding digital platforms. The breakdown of online verification systems threatens information integrity across news, social media, and official channels.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Information verification crisis affecting trust in digital content and news accuracy as AI-generated misinformation overwhelms detection systems&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.wired.com/story/how-the-internet-broke-everyones-bullshit-detectors/"&gt;Wired Security&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;Technology&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.xda-developers.com/frances-government-ditching-windows-for-linux/"&gt;France Government Announces Migration from Windows to Linux for Digital Sovereignty&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Apr 11, 08:25&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;The French government has announced a comprehensive plan to migrate government desktops from Windows to Linux-based systems as part of reducing dependencies on non-European technology providers. The initiative represents a major push for digital sovereignty as European governments seek to reduce reliance on American technology companies. The migration affects thousands of government workstations and could influence other European nations' technology independence strategies.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major government technology independence initiative affecting enterprise Linux adoption and European digital sovereignty movements&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.xda-developers.com/frances-government-ditching-windows-for-linux/"&gt;XDA Developers&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theverge.com/transportation/909480/solid-state-battery-donut-lab-ev-china"&gt;Solid-State Battery Startup Claims Production-Ready 'Holy Grail' Technology&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Apr 11, 11:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Finnish startup Donut Lab, a spinoff of Verge Motorcycles, claims to have finally solved solid-state batteries and plans to begin production later this year. The company's announcement targets the long-sought 'Holy Grail of batteries' with high-density, durable, fast-charging capabilities that have eluded the industry for decades. Battery experts remain skeptical given the technology's history of perpetual delays, though the production timeline represents an unusually concrete commitment.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Potential battery technology breakthrough affecting electric vehicle and energy storage markets if the production claims prove viable&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.theverge.com/transportation/909480/solid-state-battery-donut-lab-ev-china"&gt;The Verge&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;Business &amp; Markets&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="http://www.euronews.com/business/2026/04/11/house-prices-across-europe-which-countries-saw-the-highest-rises-in-2025"&gt;European House Prices Rose 5.5% in Q4 2025, Led by Tourist Destinations&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Apr 11, 05:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;House prices across the European Union increased by 5.5% in the last quarter of 2025, with the strongest growth in tourist-attractive countries including Portugal, Croatia, and Spain. The price increases reflect continued demand pressure in desirable European markets despite broader economic uncertainties. The housing market strength demonstrates resilience in real estate sectors across tourist and lifestyle destinations.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Significant European real estate price increases affecting housing affordability and investment markets across multiple countries&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="http://www.euronews.com/business/2026/04/11/house-prices-across-europe-which-countries-saw-the-highest-rises-in-2025"&gt;Euronews Business&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.politico.eu/article/us-iran-delegations-pakistan-peace-talks-amid-fragile-ceasefire/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS_Syndication"&gt;US-Iran Peace Talks Begin in Pakistan Amid Fragile Ceasefire&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Apr 11, 09:04&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Vice President JD Vance is leading a U.S. delegation including Special Envoy Steve Witkoff and Jared Kushner for official peace talks with Iran in Pakistan. The negotiations occur under a fragile ceasefire as both sides seek to address the ongoing Middle East conflict. German Chancellor Friedrich Merz described the talks as a 'first glimmer of hope' while the situation remains highly explosive.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Critical diplomatic negotiations affecting global energy markets, economic stability, and potential resolution of major geopolitical conflict&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.politico.eu/article/us-iran-delegations-pakistan-peace-talks-amid-fragile-ceasefire/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS_Syndication"&gt;Politico EU&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.politico.eu/article/donald-trump-economic-support-viktor-orban-hungarian-election/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS_Syndication"&gt;Trump Promises Economic Support to Orbán Ahead of Crucial Hungary Vote&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Apr 11, 10:25&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;President Trump pledged to use the 'full economic might' of the United States to help the Hungarian economy as Viktor Orbán trails in polls ahead of Sunday's election. The promise represents significant U.S. intervention in European politics and potential shift in transatlantic economic relationships. The commitment comes as Orbán faces his most challenging electoral contest in recent years.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major U.S. economic intervention in European politics affecting transatlantic relationships and Hungarian election outcomes&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.politico.eu/article/donald-trump-economic-support-viktor-orban-hungarian-election/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS_Syndication"&gt;Politico EU&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.politico.com/news/2026/04/10/trump-tariffs-court-international-trade-hearing-00867479?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS_Syndication"&gt;US Trade Court Reviews Trump's Replacement Tariffs After Supreme Court Ruling&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Apr 11, 07:45&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;A three-judge trade panel is reviewing the tariffs President Trump imposed after the Supreme Court voided his Liberation Day tariffs. The hearing represents ongoing legal challenges to the administration's trade policy following judicial setbacks to previous tariff implementations. The case could significantly impact import costs and trade relationships if the court rules against the replacement duties.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major trade policy legal challenge affecting import costs and business operations amid ongoing tariff policy disputes&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.politico.com/news/2026/04/10/trump-tariffs-court-international-trade-hearing-00867479?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS_Syndication"&gt;Politico&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.politico.com/news/2026/04/10/kamala-harris-signals-2028-bid-00867069?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS_Syndication"&gt;Kamala Harris Signals Clearest Intent for 2028 Presidential Campaign&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Apr 11, 06:48&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Former Vice President Kamala Harris gave her strongest indication yet that she is mounting a 2028 presidential bid during remarks to an audience of Black power brokers. Harris has previously considered running but her Friday comments took on new significance given the political audience and timing. The signal represents early positioning for the next Democratic presidential primary campaign.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Early 2028 presidential campaign positioning affecting Democratic Party politics and future election dynamics&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.politico.com/news/2026/04/10/kamala-harris-signals-2028-bid-00867069?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS_Syndication"&gt;Politico&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.politico.com/news/magazine/2026/04/10/canada-election-mark-carney-majority-00865331?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS_Syndication"&gt;Mark Carney Poised for Majority Win in Canadian Election&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Apr 11, 10:46&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Canada's Prime Minister Mark Carney is positioned to seize an outright parliamentary majority in the upcoming election, according to political analysis. The potential majority government would give Carney significant power to implement his economic agenda without coalition constraints. The electoral prospect represents a major shift in Canadian politics and economic policy direction.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Potential Canadian majority government affecting North American economic policy and trade relationships&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.politico.com/news/magazine/2026/04/10/canada-election-mark-carney-majority-00865331?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS_Syndication"&gt;Politico&lt;/a&gt;&lt;br&gt;
 &lt;/p&gt;</content>
   </entry>
 </feed>
