@@ -5,7 +5,100 @@
   <link href="https://jonaskjellin.github.io/pulsebrief-site/feed.xml" rel="self"/>
   <link href="https://jonaskjellin.github.io/pulsebrief-site/"/>
   <id>https://jonaskjellin.github.io/pulsebrief-site/</id>
-  <updated>2026-04-25T06:16:37.987Z</updated>
+  <updated>2026-04-25T11:33:56.573Z</updated>
+  <entry>
+    <title>Afternoon — Apr 25, 2026</title>
+    <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-04-25-afternoon.html"/>
+    <id>https://jonaskjellin.github.io/pulsebrief-site/2026-04-25-afternoon.html</id>
+    <updated>2026-04-25T11:33:56.573Z</updated>
+    <content type="html">&lt;p&gt;&lt;h1&gt;PulseBrief's Afternoon Pulse&lt;/h1&gt;&lt;br&gt;
+&lt;em&gt;Sat, Apr 25, 05:00 → Sat, Apr 25, 11:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Cyber Security&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://thehackernews.com/2026/04/researchers-uncover-pre-stuxnet-fast16.html"&gt;Researchers Discover Pre-Stuxnet 'FAST16' Sabotage Malware from 2005&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 25, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;SentinelOne researchers discovered FAST16, sophisticated sabotage malware created in 2005 that predates Stuxnet by five years and was designed to tamper with high-precision calculation software. The Lua-based malware targeted engineering and physics simulation software with potential effects still present in systems today. The discovery reveals an earlier phase of nation-state cyberwarfare operations targeting industrial and scientific computing systems.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Historic cyber warfare revelation affecting understanding of early nation-state cyber weapons and industrial sabotage capabilities&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://thehackernews.com/2026/04/researchers-uncover-pre-stuxnet-fast16.html"&gt;The Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://thehackernews.com/2026/04/cisa-adds-4-exploited-flaws-to-kev-sets.html"&gt;CISA Adds Four Exploited Vulnerabilities to Known Exploited Catalog&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 25, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;CISA added four actively exploited vulnerabilities affecting SimpleHelp, Samsung MagicINFO 9 Server, and D-Link DIR-823X series routers to its Known Exploited Vulnerabilities catalog, setting a May 2026 federal deadline for patching. The vulnerabilities include CVE-2024-57726 with a critical CVSS score of 9.9 involving missing authorization. Federal agencies must patch these flaws by the deadline or discontinue use of affected systems.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Federal government mandate affecting enterprise security operations and demonstrating active exploitation of critical infrastructure components&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://thehackernews.com/2026/04/cisa-adds-4-exploited-flaws-to-kev-sets.html"&gt;The Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.securityweek.com/china-linked-apt-gopherwhisper-abuses-legitimate-services-in-government-attacks/"&gt;China-Linked APT GopherWhisper Targets Government Using Legitimate Services&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 25, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;A new Chinese APT group dubbed GopherWhisper is conducting attacks against government entities using multiple Go-based backdoors alongside custom loaders and injectors. The group abuses legitimate services to maintain persistence and avoid detection in targeted government networks. The campaign demonstrates continued nation-state targeting of government infrastructure through living-off-the-land techniques.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Nation-state government targeting affecting critical infrastructure through sophisticated abuse of legitimate services&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.securityweek.com/china-linked-apt-gopherwhisper-abuses-legitimate-services-in-government-attacks/"&gt;SecurityWeek&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://cybersecuritynews.com/entra-agent-id-administrator-abused/"&gt;Microsoft Entra Agent ID Administrator Role Exploited for Service Principal Hijacking&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 25, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;A critical scope overreach vulnerability was discovered in Microsoft Entra Agent Identity Platform where the newly introduced Agent ID Administrator role allowed accounts to hijack arbitrary service principals and escalate privileges across entire tenants. Microsoft has fully patched this behavior across all cloud environments as of April 2026. The vulnerability demonstrated dangerous privilege escalation capabilities in enterprise identity management systems.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Critical enterprise identity security flaw affecting Azure tenant security and demonstrating risks in cloud identity management systems&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://cybersecuritynews.com/entra-agent-id-administrator-abused/"&gt;Cybersecurity News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.wired.com/story/security-news-this-week-discord-sleuths-gained-unauthorized-access-to-anthropics-mythos/"&gt;Discord Users Gained Unauthorized Access to Anthropic's Mythos System&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 25, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Discord users reportedly gained unauthorized access to Anthropic's Mythos system, though specific details about the breach remain limited. The incident highlights security concerns around AI company infrastructure and potential unauthorized access to AI development systems. The breach demonstrates ongoing security challenges faced by AI companies protecting their proprietary systems.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;AI company security breach affecting proprietary AI system access and demonstrating vulnerability of AI infrastructure to unauthorized access&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.wired.com/story/security-news-this-week-discord-sleuths-gained-unauthorized-access-to-anthropics-mythos/"&gt;Wired Security&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://go.theregister.com/feed/www.theregister.com/2026/04/25/new_crime_crew_impersonates_help_desks/"&gt;New Crime Group Uses Microsoft Teams and Custom Snow Malware for Data Theft&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 25, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Google's Threat Intelligence Group discovered a previously unknown threat group using Microsoft Teams chat invitations and helpdesk staff impersonation alongside custom Snow malware in data-stealing attacks. The group employs tried-and-tested social engineering tactics combined with novel malware to compromise enterprise environments. The campaign demonstrates how attackers continue to abuse trusted communication platforms for initial access.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;New threat group affecting enterprise security through abuse of trusted Microsoft Teams platform and custom malware deployment&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://go.theregister.com/feed/www.theregister.com/2026/04/25/new_crime_crew_impersonates_help_desks/"&gt;The Register&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;AI &amp; Machine Learning&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://github.com/nex-crm/wuphf"&gt;Developer Ships Karpathy-Style LLM Wiki with Markdown and Git Backend&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 25, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;A developer released Wuphf, an LLM-native wiki system that uses markdown files and Git as the source of truth, allowing AI agents to both read from and write into a knowledge substrate that compounds context across sessions. The system includes agent notebooks, fact logging, wikilinks, and runs locally without requiring vector databases or complex infrastructure. The approach represents a simpler alternative to typical AI knowledge management systems that rely on PostgreSQL, vector databases, and dashboards.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Open-source AI knowledge management breakthrough offering simpler alternatives to complex AI memory systems for agent development&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://github.com/nex-crm/wuphf"&gt;Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.wired.com/story/ace-the-robot-wants-to-become-the-world-table-tennis-champion/"&gt;Ace Ping-Pong Robot Demonstrates Advanced Real-Time Sports AI&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 25, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Ace, an AI-powered ping-pong robot, can read ball trajectory, adjust racket angle, and respond with strokes that keep exchanges alive with real human players. The robot demonstrates advanced real-time AI capabilities in sports applications, combining computer vision, physics prediction, and precise motor control. The development showcases progress in AI systems that can interact dynamically with human players in physical sports.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Advanced robotics AI demonstration affecting sports technology and showing progress in real-time human-robot physical interaction&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.wired.com/story/ace-the-robot-wants-to-become-the-world-table-tennis-champion/"&gt;Wired AI&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Technology&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theverge.com/gadgets/917340/us-worst-smartphones-china-batteries-cameras-apple-iphone-john-ternus"&gt;US Phone Market Falls Behind Global Innovation as Chinese Brands Lead&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 25, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Apple and Samsung's dominance of the US phone market has created a growing gulf between phones available in America and those in the rest of the world, with Chinese manufacturers like Huawei, Xiaomi, and OnePlus pushing boundaries in battery life, cameras, and features unavailable to US consumers. The article argues that American phone buyers are missing out on significant innovations while domestic brands have become complacent with iterative improvements. The situation demonstrates how market concentration can limit consumer choice and innovation access.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major consumer technology gap affecting US smartphone users and demonstrating how market concentration limits access to global innovation&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.theverge.com/gadgets/917340/us-worst-smartphones-china-batteries-cameras-apple-iphone-john-ternus"&gt;The Verge&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/"&gt;New 10 Gigabit Ethernet USB Adapters Become Cheaper and More Efficient&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 25, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;New generation 10 GbE USB adapters are becoming cooler, smaller, and cheaper according to Jeff Geerling's analysis, making high-speed networking more accessible to consumers and small businesses. The improvements in thermal management and cost reduction represent significant progress in bringing enterprise-grade networking capabilities to broader markets. The development affects home networking and small office setups seeking faster internet connectivity.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Consumer networking technology advancement making enterprise-grade internet speeds more accessible and affordable for home users&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/"&gt;Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://support.apple.com/guide/security/escrow-security-for-icloud-keychain-sec3e341e75d/web"&gt;Apple Details Escrow Security Architecture for iCloud Keychain&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 25, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Apple published detailed technical documentation about the escrow security mechanisms protecting iCloud Keychain, providing transparency into how the company secures user passwords and sensitive data in the cloud. The documentation reveals the cryptographic architecture and security measures used to protect user credentials synchronized across Apple devices. The disclosure represents Apple's effort to provide technical transparency about its security practices.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Apple security transparency affecting user trust in cloud password management and demonstrating cryptographic protection of sensitive user data&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://support.apple.com/guide/security/escrow-security-for-icloud-keychain-sec3e341e75d/web"&gt;Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Business &amp; Markets&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.nytimes.com/2026/04/25/business/electric-vehicles-used-leases.html"&gt;Hundreds of Thousands of EV Leases Ending, Creating Affordable Used Market&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 25, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;The leases on hundreds of thousands of battery-powered cars and trucks will end in the next three years, with many expected to end up on used-car lots at more affordable prices. This wave of lease returns could significantly impact the used EV market and make electric vehicles more accessible to budget-conscious consumers. The trend represents a major shift in EV affordability as the first generation of mass-market electric vehicle leases expire.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major EV market transformation affecting vehicle affordability and potentially accelerating electric vehicle adoption through used car availability&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.nytimes.com/2026/04/25/business/electric-vehicles-used-leases.html"&gt;NYT Business&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.politico.com/news/2026/04/24/washington-plans-prediction-markets-00891712"&gt;Washington Plans Crackdown on Prediction Markets Following Military Insider Trading&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 25, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Lawmakers are preparing to take action against prediction markets after prosecutors alleged that a U.S. soldier illegally traded on Venezuelan leader Nicolás Maduro's capture using classified information. The case has renewed congressional concerns about insider trading in prediction markets and potential regulatory gaps. Multiple violations are stacking up from Iran-related bets to alleged Paris weather manipulation, creating momentum for regulatory intervention.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major financial regulation development affecting prediction market industry and demonstrating government response to insider trading concerns&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.politico.com/news/2026/04/24/washington-plans-prediction-markets-00891712"&gt;Politico&lt;/a&gt; · &lt;a href="https://www.politico.com/news/2026/04/24/prediction-market-insider-trading-violations-00890570"&gt;Politico&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.nytimes.com/2026/04/25/business/on-running-shoes-expansion.html"&gt;On Running Faces Growth Challenge While Maintaining Athletic Brand Identity&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 25, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Swiss running shoe company On finds itself at a critical juncture that other brands have botched: how to maintain its identity as a brand for serious athletes while sustaining breakneck growth and broader market appeal. The company must navigate the delicate balance between expanding its customer base and preserving the premium athletic positioning that originally drove its success. The challenge reflects broader issues facing specialty brands seeking mass market expansion.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Brand strategy challenge affecting athletic retail market and demonstrating risks of scaling specialized brands to mass markets&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.nytimes.com/2026/04/25/business/on-running-shoes-expansion.html"&gt;NYT Business&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.nytimes.com/video/business/100000010852324/whos-getting-a-tariff-refund.html"&gt;Supreme Court Tariff Ruling Triggers $166 Billion in Refund Claims&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 25, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Following a Supreme Court ruling that struck down several Trump administration tariffs, importers have begun applying for their share of $166 billion in refunds, though consumers are unlikely to see much of that money returned to their own pockets. The massive refund pool represents one of the largest trade policy reversals in recent history. The situation demonstrates the long-term financial impact of trade disputes and the complex process of unwinding tariff policies.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major trade policy reversal affecting import costs and demonstrating significant financial impact of tariff disputes on business operations&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.nytimes.com/video/business/100000010852324/whos-getting-a-tariff-refund.html"&gt;NYT Business&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.politico.eu/article/head-of-uk-data-watchdog-voluntary-steps-aside-amid-hr-probe-john-edwards/"&gt;UK Data Watchdog Chief Steps Aside Amid HR Investigation&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Apr 25, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Information Commissioner John Edwards voluntarily stepped back from his duties on February 26 to enable an independent workplace investigation related to him, the UK's data protection authority announced. Edwards leads the agency responsible for enforcing data protection laws and privacy regulations across the UK. The development raises questions about leadership stability at the organization overseeing critical privacy enforcement.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Data protection regulatory leadership crisis affecting UK privacy enforcement and potentially impacting major tech company oversight&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.politico.eu/article/head-of-uk-data-watchdog-voluntary-steps-aside-amid-hr-probe-john-edwards/"&gt;Politico EU&lt;/a&gt;&lt;br&gt;
+&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>Custom — Apr 25, 2026</title>
     <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-04-25-custom.html"/>
@@ -2330,99 +2423,6 @@
 &lt;p&gt;Siemens and NVIDIA completed successful tests of an AI-powered humanoid robot designed to work alongside human staff in factory environments. The trial advances their push to build adaptive manufacturing facilities where AI machines can collaborate with human workers. The development represents progress toward human-robot collaboration in industrial automation.&lt;/p&gt;&lt;br&gt;
 &lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major industrial automation breakthrough affecting manufacturing employment and demonstrating progress in human-robot workplace collaboration&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
 &lt;p&gt;Sources: &lt;a href="http://www.euronews.com/next/2026/04/19/can-ai-robots-work-alongside-humans-siemens-and-nvidia-trial-a-humanoid-robot"&gt;Euronews Business&lt;/a&gt;&lt;br&gt;
-&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>Evening — Apr 18, 2026</title>
-    <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-04-18-evening.html"/>
-    <id>https://jonaskjellin.github.io/pulsebrief-site/2026-04-18-evening.html</id>
-    <updated>2026-04-18T16:28:00.773Z</updated>
-    <content type="html">&lt;p&gt;&lt;h1&gt;PulseBrief's Evening Pulse&lt;/h1&gt;&lt;br&gt;
-&lt;em&gt;Sat, Apr 18, 11:00 → Sat, Apr 18, 16:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;Cyber Security&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.bleepingcomputer.com/news/security/critical-flaw-in-protobuf-library-enables-javascript-code-execution/"&gt;Critical Protobuf.js Flaw Enables JavaScript Code Execution, Proof-of-Concept Released&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Apr 18, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Proof-of-concept exploit code has been published for a critical remote code execution vulnerability in protobuf.js, a widely used JavaScript implementation of Google's Protocol Buffers. The flaw allows attackers to execute arbitrary JavaScript code through malicious protocol buffer messages. The vulnerability affects countless applications using this popular serialization library for web development.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Critical infrastructure library vulnerability affecting widespread web applications with available exploit code requiring immediate patching&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.bleepingcomputer.com/news/security/critical-flaw-in-protobuf-library-enables-javascript-code-execution/"&gt;BleepingComputer&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://cybersecuritynews.com/claude-opus-to-build-a-working-chrome-exploit-chain/"&gt;Security Researcher Builds Working Chrome Exploit Chain Using Claude Opus AI&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Apr 18, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;A security researcher successfully used Anthropic's Claude Opus AI model to construct a fully functional exploit chain targeting Google Chrome's V8 JavaScript engine. The demonstration moves beyond theoretical warnings to show how advanced AI can actually develop sophisticated browser exploits. The experiment highlights the tangible cybersecurity risks posed by frontier AI models in the hands of threat actors.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;First practical demonstration of AI being used to build real browser exploits affecting enterprise security threat assessment for AI tools&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://cybersecuritynews.com/claude-opus-to-build-a-working-chrome-exploit-chain/"&gt;Cybersecurity News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://cybersecuritynews.com/apple-works-on-fix-for-iphone-passcode-bug/"&gt;Apple Working on Fix for iPhone Passcode Bug That Locks Users Out for Months&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Apr 18, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Apple is developing a software fix for an iOS 26 bug that has completely locked some users out of their iPhones for months. The issue stems from a keyboard interface flaw that removed a specific Czech special character required for certain passcodes. Users with passcodes containing the missing character cannot unlock their devices until the fix is deployed.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Critical iOS bug affecting device accessibility demonstrating how localization issues can create severe user impact requiring urgent fixes&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://cybersecuritynews.com/apple-works-on-fix-for-iphone-passcode-bug/"&gt;Cybersecurity News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-right-click-paste-broken-by-edge-update-bug/"&gt;Microsoft Teams Right-Click Paste Broken by Edge Browser Update&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Apr 18, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;A recent Microsoft Edge browser update introduced a bug that breaks right-click paste functionality in Microsoft Teams desktop client chats. The issue affects productivity workflows for Teams users who rely on context menu operations. Microsoft has acknowledged the problem and is working on a fix for the browser update that disrupted the collaboration platform.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Widespread productivity disruption affecting enterprise Teams users and demonstrating how browser updates can break essential workplace workflows&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-right-click-paste-broken-by-edge-update-bug/"&gt;BleepingComputer&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;AI &amp; Machine Learning&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/04/18/anthropics-relationship-with-the-trump-administration-seems-to-be-thawing/"&gt;White House Meets with Anthropic CEO as Administration Relations Potentially Thaw&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Apr 18, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;The White House Chief of Staff held an introductory meeting with Anthropic CEO Dario Amodei despite the company recently being designated a supply-chain risk by the Pentagon. The meeting comes as the Trump administration considers how to deploy Anthropic's groundbreaking Mythos model amid ongoing tensions over AI safety policies. The engagement suggests potential warming of relations between the administration and the AI company previously criticized as 'RADICAL LEFT' and 'WOKE.'&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;High-level government-AI company diplomatic engagement affecting national security AI adoption and signaling potential policy shifts around advanced AI models&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/04/18/anthropics-relationship-with-the-trump-administration-seems-to-be-thawing/"&gt;TechCrunch&lt;/a&gt; · &lt;a href="https://www.politico.com/news/2026/04/17/white-house-to-meet-with-anthropic-ceo-as-mythos-anxiety-spreads-00878960?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS_Syndication"&gt;Politico&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/04/18/the-app-store-is-booming-again-and-ai-may-be-why/"&gt;App Store Experiences AI-Driven Development Boom in 2026&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Apr 18, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;New data from Appfigures shows a significant surge in new app launches in 2026, with AI development tools likely fueling the mobile software boom. The increase suggests AI-powered development platforms are lowering barriers to app creation and enabling more developers to build and launch applications. The trend could reshape the mobile app ecosystem by democratizing app development through artificial intelligence.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;AI tools enabling explosive mobile app development growth affecting app market dynamics and potentially changing how software gets built&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/04/18/the-app-store-is-booming-again-and-ai-may-be-why/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.nytimes.com/2026/04/17/business/media/artificial-intelligence-trump-social-media.html"&gt;Hundreds of AI-Generated Pro-Trump Social Media Avatars Emerge Across Platforms&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Apr 17, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Artificial intelligence-generated fake influencers supporting Trump have surged across TikTok, Instagram, Facebook and YouTube in an apparent effort to influence conservative voters. The AI-generated avatars represent a new form of political manipulation using synthetic media to create false grassroots support. The proliferation demonstrates how AI tools are being weaponized for political influence operations at scale.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Large-scale AI-powered political influence operation affecting election integrity and demonstrating sophisticated use of synthetic media for voter manipulation&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.nytimes.com/2026/04/17/business/media/artificial-intelligence-trump-social-media.html"&gt;NYT Business&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;Technology&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://goodereader.com/blog/kindle/amazon-is-discontinuing-kindle-for-pc-on-june-30th"&gt;Amazon Discontinuing Kindle for PC Application on June 30th&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Apr 18, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Amazon announced it will discontinue the Kindle for PC desktop application on June 30th, ending support for reading Kindle books on Windows computers through the dedicated app. Users will need to transition to web-based reading or mobile apps to access their Kindle libraries. The decision reflects Amazon's strategy to consolidate reading experiences across fewer platforms.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major e-reading platform change affecting desktop users' book access and demonstrating shift away from dedicated PC applications toward web-based services&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://goodereader.com/blog/kindle/amazon-is-discontinuing-kindle-for-pc-on-june-30th"&gt;Good e-Reader&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://isayeter.com/posts/digitalocean-to-hetzner-migration/"&gt;Developer Achieves 84% Cloud Cost Savings Migrating from DigitalOcean to Hetzner&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Apr 18, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;A detailed case study shows how migrating infrastructure from DigitalOcean to Hetzner reduced monthly costs from $1,432 to $233 with zero downtime. The migration demonstrates significant cost optimization opportunities available by switching cloud providers while maintaining service reliability. The 84% cost reduction highlights the dramatic pricing differences between major cloud platforms for equivalent services.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Massive cloud infrastructure cost optimization demonstrating potential savings for organizations evaluating cloud provider alternatives and cost management strategies&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://isayeter.com/posts/digitalocean-to-hetzner-migration/"&gt;Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://kdenlive.org/news/2026/state-2026/"&gt;Open Source Kdenlive Video Editor Reports Strong 2026 Development Progress&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Apr 18, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Kdenlive, the open-source video editing software, released its annual state report showing significant development progress and growing user adoption in 2026. The project has expanded features, improved stability, and built a stronger community of contributors. The progress demonstrates how open-source creative tools are advancing to compete with commercial video editing software.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Open source video editing advancement affecting creative software market and demonstrating viable alternatives to expensive professional editing tools&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://kdenlive.org/news/2026/state-2026/"&gt;Kdenlive&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theverge.com/tech/908962/dyson-hushjet-mini-cool-personal-handheld-fan-hands-on"&gt;Dyson Launches $100 HushJet Mini Cool Handheld Fan Despite Noise Issues&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Apr 18, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Dyson released the HushJet Mini Cool, a $99.99 handheld fan with a sleek design that fits in a pocket but generates more noise than expected for a product with 'Hush' in its name. The device offers five speed settings plus a boost mode, with battery life ranging from 62 minutes at high speed to six hours at low settings. While the engineering is impressive, the noise level may limit its use in quiet environments.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Premium consumer electronics company entering portable cooling market with design innovation but practical limitations affecting summer comfort solutions&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.theverge.com/tech/908962/dyson-hushjet-mini-cool-personal-handheld-fan-hands-on"&gt;The Verge&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;Business &amp; Markets&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.politico.eu/article/iran-strait-of-hormuz-irgc-gunboats-fire-on-tanker/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS_Syndication"&gt;Iran Re-Closes Strait of Hormuz After Gunboats Fire on Tanker&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Apr 18, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Iran shut down the Strait of Hormuz again after Iranian gunboats fired on a commercial tanker, just hours after the critical energy chokepoint had reopened during a fragile ceasefire. Iran's military demands the U.S. lift its blockade of Iranian ports before allowing the waterway to reopen permanently. The renewed closure threatens global energy supplies and demonstrates the fragility of the temporary peace agreement.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Critical global energy chokepoint re-closed affecting oil markets and economic stability after brief reopening, highlighting continued supply chain vulnerability&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.politico.eu/article/iran-strait-of-hormuz-irgc-gunboats-fire-on-tanker/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS_Syndication"&gt;Politico EU&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.nytimes.com/2026/04/18/business/dealbook/corporate-profits-record.html"&gt;Corporate Profits Hit Record Highs as Four Factors Threaten Future Growth&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Apr 18, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;U.S. corporate profits have reached record levels, but experts warn that four key factors could derail continued growth: rising labor costs, increased competition, regulatory pressures, and economic uncertainty. While companies have successfully maintained high profit margins despite various challenges, analysts believe the window for steep gains is narrowing. The record profits come amid ongoing debates about corporate pricing power and market concentration.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Peak corporate profitability potentially ending affecting investment returns and economic growth as key headwinds emerge for business performance&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.nytimes.com/2026/04/18/business/dealbook/corporate-profits-record.html"&gt;NYT Business&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.nytimes.com/2026/04/17/business/american-airlines-united-merger.html"&gt;American Airlines Denies Merger Discussions with United Following Reports&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Apr 17, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;American Airlines issued a statement explicitly denying merger discussions with United Airlines after news reports suggested United's CEO had discussed consolidation ideas with the Trump administration. The denial aims to quash market speculation about a potential mega-merger between two of the largest U.S. carriers. The statement comes amid ongoing industry pressures and speculation about airline consolidation.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major airline merger speculation affecting aviation industry consolidation expectations and demonstrating market sensitivity to potential mega-deals in transportation&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.nytimes.com/2026/04/17/business/american-airlines-united-merger.html"&gt;NYT Business&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.politico.com/news/2026/04/17/trump-iran-war-poll-voters-midterms-00877754?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS_Syndication"&gt;Trump Approval Rating on Iran War Declines Despite Victory Claims&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Apr 17, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;A new POLITICO poll shows voters are not convinced by President Trump's claims of victory in Iran, with a majority saying the war is not in the national interest. Many Americans, including some 2024 Trump supporters, lack confidence in the president's goals for the conflict. The polling data suggests Trump's foreign policy messaging is not resonating with voters despite his assertions of success.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Presidential foreign policy support eroding affecting domestic political dynamics and potential impact on upcoming midterm elections and policy decisions&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.politico.com/news/2026/04/17/trump-iran-war-poll-voters-midterms-00877754?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS_Syndication"&gt;Politico&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.nytimes.com/video/business/100000010843347/why-your-paycheck-feels-smaller.html"&gt;Wages Falling Behind Inflation Despite Strong Employment Numbers&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Apr 18, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Despite robust employment statistics, American workers are experiencing declining purchasing power as wages fail to keep pace with inflation. The disconnect between employment strength and real income growth is creating financial stress for households even in a tight labor market. The trend has significant implications for consumer spending and economic growth as workers struggle with rising costs.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Real wage decline affecting consumer spending power and economic stability despite positive employment data, impacting household financial security&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.nytimes.com/video/business/100000010843347/why-your-paycheck-feels-smaller.html"&gt;NYT Business&lt;/a&gt;&lt;br&gt;
 &lt;/p&gt;</content>
   </entry>
 </feed>
