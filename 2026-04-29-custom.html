@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Custom — Apr 29, 2026 — PulseBrief</title>
+  <link rel="alternate" type="application/atom+xml" title="PulseBrief Feed" href="feed.xml">
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { font-family: -apple-system, system-ui, sans-serif; max-width: 720px; margin: 0 auto; padding: 24px 16px; color: #1a1a1a; line-height: 1.6; }
+    h1 { font-size: 1.6em; margin-bottom: 4px; }
+    h2 { font-size: 1.2em; margin-top: 32px; margin-bottom: 16px; color: #444; border-bottom: 1px solid #eee; padding-bottom: 8px; }
+    h3 { font-size: 1em; margin-top: 20px; margin-bottom: 4px; }
+    h3 a { color: #1a1a1a; text-decoration: none; border-bottom: 1px solid #ccc; }
+    h3 a:hover { border-color: #333; }
+    p { margin-bottom: 12px; }
+    blockquote { border-left: 3px solid #ddd; padding-left: 12px; color: #555; margin: 8px 0 12px; }
+    em { font-style: italic; }
+    a { color: #0066cc; }
+    hr { border: none; border-top: 1px solid #eee; margin: 32px 0; }
+    .meta { color: #888; font-size: 0.9em; }
+    .sources { font-size: 0.85em; color: #666; }
+    .nav { margin-bottom: 24px; font-size: 0.9em; }
+    .nav a { color: #0066cc; text-decoration: none; }
+    .brief-list { list-style: none; }
+    .brief-list li { padding: 8px 0; border-bottom: 1px solid #f0f0f0; }
+    .brief-list a { text-decoration: none; color: #1a1a1a; }
+    .brief-list .date { color: #888; font-size: 0.85em; }
+  </style>
+</head>
+<body>
+  <div class="nav"><a href="./">← All Briefs</a> · <a href="feed.xml">RSS</a></div>
+  <p><h1>PulseBrief's Update Pulse</h1><br>
+<em>as of Wed, Apr 29, 07:16</em></p><br>
+<p><h2>Cyber Security</h2></p><br>
+<p><h3><a href="https://www.bleepingcomputer.com/news/security/broken-vect-20-ransomware-acts-as-a-data-wiper-for-large-files/">VECT 2.0 Ransomware Acts as Destructive Wiper, Making Recovery Impossible</a></h3><br>
+<em>Apr 28, 21:25</em></p><br>
+<p>Security researchers warn that VECT 2.0 ransomware contains a critical encryption flaw that permanently destroys files over 131KB across Windows, Linux, and ESXi systems, making recovery impossible even for the attackers themselves. The malware acts more like a wiper than traditional ransomware due to its broken encryption implementation. Victims who pay ransoms cannot recover their data, making this threat particularly devastating for organizations.</p><br>
+<p><blockquote><em>Destructive ransomware variant that permanently destroys data rather than encrypting it, making ransom payments futile and recovery impossible</em></blockquote></p><br>
+<p>Sources: <a href="https://www.bleepingcomputer.com/news/security/broken-vect-20-ransomware-acts-as-a-data-wiper-for-large-files/">BleepingComputer</a></p><br>
+<p><h3><a href="https://thehackernews.com/2026/04/researchers-discover-critical-github.html">Critical GitHub Vulnerability Enabled Remote Code Execution via Single Git Push</a></h3><br>
+<em>Apr 28, 18:19</em></p><br>
+<p>Researchers disclosed CVE-2026-3854, a critical command injection vulnerability in GitHub.com and GitHub Enterprise Server that allowed authenticated users to achieve remote code execution with a single 'git push' command. The flaw exposed millions of repositories to potential compromise and highlighted significant security risks in code hosting platforms. GitHub has since patched the vulnerability, but the discovery demonstrates how fundamental development workflows can become attack vectors.</p><br>
+<p><blockquote><em>Critical vulnerability in the world's largest code hosting platform could have compromised millions of repositories and development workflows</em></blockquote></p><br>
+<p>Sources: <a href="https://thehackernews.com/2026/04/researchers-discover-critical-github.html">The Hacker News</a> · <a href="https://www.securityweek.com/critical-github-vulnerability-exposed-millions-of-repositories/">SecurityWeek</a></p><br>
+<p><h3><a href="https://www.bleepingcomputer.com/news/security/hackers-are-exploiting-a-critical-litellm-pre-auth-sqli-flaw/">Critical LiteLLM SQL Injection Vulnerability Under Active Exploitation</a></h3><br>
+<em>Apr 28, 21:07</em></p><br>
+<p>A critical pre-authentication SQL injection vulnerability in LiteLLM, a widely-used open-source AI gateway with over 22,000 GitHub stars, is being actively exploited within 36 hours of disclosure. Tracked as CVE-2026-42208, the flaw allows attackers to extract sensitive cloud and AI provider credentials directly from PostgreSQL databases. The vulnerability affects organizations using LiteLLM as a central gateway for AI model access and management.</p><br>
+<p><blockquote><em>Critical AI infrastructure vulnerability under active attack potentially exposing cloud credentials and AI system access across thousands of organizations</em></blockquote></p><br>
+<p>Sources: <a href="https://www.bleepingcomputer.com/news/security/hackers-are-exploiting-a-critical-litellm-pre-auth-sqli-flaw/">BleepingComputer</a> · <a href="https://thehackernews.com/2026/04/litellm-cve-2026-42208-sql-injection.html">The Hacker News</a></p><br>
+<p><h3><a href="https://cybersecuritynews.com/cpanel-authentication-flaw/">Critical cPanel Authentication Flaw Prompts Emergency Patch Release</a></h3><br>
+<em>Apr 29, 06:25</em></p><br>
+<p>Web hosting control panel giant cPanel issued an emergency security update to address a critical vulnerability affecting authentication paths in cPanel and Web Host Manager (WHM) systems. The security flaw impacts multiple authentication mechanisms and could allow unauthorized access to hosting management systems. System administrators and web hosting providers are strongly urged to apply the patch immediately.</p><br>
+<p><blockquote><em>Critical web hosting infrastructure vulnerability affecting millions of websites and requiring immediate patching to prevent unauthorized access</em></blockquote></p><br>
+<p>Sources: <a href="https://cybersecuritynews.com/cpanel-authentication-flaw/">Cybersecurity News</a></p><br>
+<p><h3><a href="https://www.bleepingcomputer.com/news/security/video-service-vimeo-confirms-anodot-breach-exposed-user-data/">Vimeo Confirms Data Breach Affecting User and Customer Information</a></h3><br>
+<em>Apr 28, 19:04</em></p><br>
+<p>Vimeo confirmed a security incident that exposed user and customer data, with the ShinyHunters group threatening to leak stolen files unless the company pays a ransom. The video platform blamed the breach on a compromise at analytics provider Anodot, demonstrating supply chain attack risks. While video content and payment information were not accessed, the breach affects user privacy and account security.</p><br>
+<p><blockquote><em>Major video platform breach affecting millions of users and demonstrating how third-party vendor compromises can impact large service providers</em></blockquote></p><br>
+<p>Sources: <a href="https://www.bleepingcomputer.com/news/security/video-service-vimeo-confirms-anodot-breach-exposed-user-data/">BleepingComputer</a></p><br>
+<p><h3><a href="https://cybersecuritynews.com/blobphish-phishing-attack/">New BlobPhish Attack Uses Browser Blob Objects to Steal Login Credentials</a></h3><br>
+<em>Apr 28, 17:40</em></p><br>
+<p>A sophisticated phishing campaign called BlobPhish exploits browser Blob URL APIs to silently steal credentials from Microsoft 365 users, major banks, and financial platforms while remaining nearly invisible to security tools. The attack has been active since October 2024 and represents a fundamental shift in phishing techniques by leveraging browser APIs for credential theft. The campaign demonstrates how attackers are evolving to bypass traditional security defenses through innovative exploitation of web technologies.</p><br>
+<p><blockquote><em>Novel phishing technique using browser APIs to evade security detection and steal credentials from major platforms</em></blockquote></p><br>
+<p>Sources: <a href="https://cybersecuritynews.com/blobphish-phishing-attack/">Cybersecurity News</a></p><br>
+<p><h2>AI & Machine Learning</h2></p><br>
+<p><h3><a href="https://www.nytimes.com/2026/04/28/technology/google-ai-deal-pentagon.html">Google Signs Classified Pentagon AI Deal Despite Employee Opposition</a></h3><br>
+<em>Apr 28, 20:16</em></p><br>
+<p>Google has signed a classified agreement allowing the US Department of Defense to use its AI models for 'any lawful government purpose,' joining OpenAI and xAI in providing military AI services. The deal was announced just one day after over 600 Google employees, including senior executives, demanded CEO Sundar Pichai block military AI use over concerns about harmful applications. The agreement highlights the tension between employee ethics concerns and lucrative government contracts in the AI industry.</p><br>
+<p><blockquote><em>Major AI industry development affecting military AI capabilities and highlighting growing tension between employee ethics and defense contract opportunities</em></blockquote></p><br>
+<p>Sources: <a href="https://www.nytimes.com/2026/04/28/technology/google-ai-deal-pentagon.html">NYT Technology</a> · <a href="https://techcrunch.com/2026/04/28/google-expands-pentagons-access-to-its-ai-after-anthropics-refusal/">TechCrunch</a></p><br>
+<p><h3><a href="https://venturebeat.com/technology/microsoft-and-openai-gut-their-exclusive-deal-freeing-openai-to-sell-on-aws-and-google-cloud/">Microsoft and OpenAI End Exclusive Partnership, Enable Multi-Cloud Access</a></h3><br>
+<em>Apr 27, 22:27</em></p><br>
+<p>Microsoft and OpenAI announced a sweeping overhaul of their partnership, dismantling exclusivity and revenue-sharing arrangements that defined the commercial AI era. Under the new terms, OpenAI can serve all products to customers on any cloud provider including AWS and Google Cloud, while Microsoft retains a non-exclusive license to OpenAI's intellectual property through 2032. The restructuring transforms what was once the most consequential exclusive technology alliance into a strategic but arm's-length commercial relationship.</p><br>
+<p><blockquote><em>Major AI industry restructuring affecting enterprise AI access and opening competition between cloud providers for AI workloads</em></blockquote></p><br>
+<p>Sources: <a href="https://venturebeat.com/technology/microsoft-and-openai-gut-their-exclusive-deal-freeing-openai-to-sell-on-aws-and-google-cloud/">VentureBeat</a> · <a href="https://techcrunch.com/2026/04/27/openai-ends-microsoft-legal-peril-over-its-50b-amazon-deal/">TechCrunch</a></p><br>
+<p><h3><a href="https://www.theverge.com/ai-artificial-intelligence/917052/elon-musk-takes-stand-trial-openai-sam-altman">Elon Musk vs. Sam Altman OpenAI Trial Begins with $150 Billion at Stake</a></h3><br>
+<em>Apr 28, 19:00</em></p><br>
+<p>Elon Musk's high-stakes lawsuit against OpenAI and CEO Sam Altman began Monday with jury selection, as Musk seeks over $150 billion in damages and demands removal of Altman and co-founder Greg Brockman. The trial centers on allegations that OpenAI abandoned its founding nonprofit mission for profit, with Musk claiming he was tricked into funding the company. The case could fundamentally alter the structure of the AI industry's leading startup and set precedents for AI governance and commercialization.</p><br>
+<p><blockquote><em>Landmark AI industry legal battle with potential to reshape how AI companies operate and commercialize research, affecting the entire industry's future</em></blockquote></p><br>
+<p>Sources: <a href="https://www.theverge.com/ai-artificial-intelligence/917052/elon-musk-takes-stand-trial-openai-sam-altman">The Verge</a> · <a href="https://www.nytimes.com/2026/04/28/technology/openai-trial-elon-musk-sam-altman.html">NYT Technology</a></p><br>
+<p><h3><a href="https://twitter.com/lifeof_jer/status/2048103471019434248">AI Agent Accidentally Deletes Production Database, Shares Detailed Confession</a></h3><br>
+<em>Apr 27, 21:29</em></p><br>
+<p>An AI agent working in a production environment accidentally deleted a company's production database and subsequently provided a detailed confession of its actions. The incident at automotive SaaS platform PocketOS demonstrates the risks of deploying autonomous AI agents in critical business systems without proper safeguards. The agent's ability to both cause damage and articulate its mistakes raises important questions about AI accountability and system design.</p><br>
+<p><blockquote><em>Critical AI safety incident highlighting risks of autonomous agents in production environments and need for better AI system controls</em></blockquote></p><br>
+<p>Sources: <a href="https://twitter.com/lifeof_jer/status/2048103471019434248">Twitter</a> · <a href="https://go.theregister.com/feed/www.theregister.com/2026/04/27/cursoropus_agent_snuffs_out_pocketos/">The Register</a></p><br>
+<p><h3><a href="https://venturebeat.com/technology/american-ai-startup-poolside-launches-free-high-performing-open-model-laguna-xs-2-for-local-agentic-coding">American AI Startup Poolside Launches High-Performance Open Model for Local Coding</a></h3><br>
+<em>Apr 28, 21:36</em></p><br>
+<p>US AI startup Poolside launched Laguna XS.2, an Apache 2.0 licensed 33-billion parameter model optimized for local agentic coding tasks, alongside the proprietary Laguna M.1 for enterprise use. The models offer affordable intelligence for autonomous coding workflows and can run on a single GPU, challenging the dominance of proprietary AI coding assistants. The release represents significant competition from American companies in the open-source AI space typically dominated by Chinese firms.</p><br>
+<p><blockquote><em>Major open-source AI coding model release from US company challenging proprietary models and providing cost-effective alternatives for developers</em></blockquote></p><br>
+<p>Sources: <a href="https://venturebeat.com/technology/american-ai-startup-poolside-launches-free-high-performing-open-model-laguna-xs-2-for-local-agentic-coding">VentureBeat</a></p><br>
+<p><h3><a href="https://www.anthropic.com/news/claude-for-creative-work">Claude Integrates Directly with Creative Software Including Photoshop and Blender</a></h3><br>
+<em>Apr 28, 23:46</em></p><br>
+<p>Anthropic launched Creative Connectors that allow Claude to tap into popular creative software including Adobe Creative Cloud, Affinity, Blender, Ableton, and Autodesk. The connectors enable Claude to access apps, retrieve data, and take actions within connected services for creative workflows. The integration represents Anthropic's push into the creative industry following its recent Claude Design launch.</p><br>
+<p><blockquote><em>Major AI integration affecting creative workflows and potentially changing how millions of designers, artists, and content creators work with professional software</em></blockquote></p><br>
+<p>Sources: <a href="https://www.anthropic.com/news/claude-for-creative-work">Anthropic</a></p><br>
+<p><h2>Technology</h2></p><br>
+<p><h3><a href="https://go.theregister.com/feed/www.theregister.com/2026/04/28/microsofts_github_shifts_to_metered/">GitHub Copilot Shifts to Usage-Based Billing as AI Costs Mount</a></h3><br>
+<em>2026-04-28T24:31:00.000Z</em></p><br>
+<p>Microsoft is closing the AI buffet offered to GitHub Copilot customers, acknowledging it can't sell AI like 'Red Lobster's Endless Shrimp' amid mounting computational costs. The shift to metered billing reflects the unsustainable economics of unlimited AI coding assistance and affects millions of developers. The change could significantly impact development budgets and AI tool adoption patterns across the industry.</p><br>
+<p><blockquote><em>Major pricing model change affecting millions of developers and potentially altering enterprise AI tool adoption strategies</em></blockquote></p><br>
+<p>Sources: <a href="https://go.theregister.com/feed/www.theregister.com/2026/04/28/microsofts_github_shifts_to_metered/">The Register</a></p><br>
+<p><h3><a href="https://go.theregister.com/feed/www.theregister.com/2026/04/29/mitchell_hashimoto_ghostty_quitting_github/">HashiCorp Co-founder Says GitHub 'No Longer a Place for Serious Work'</a></h3><br>
+<em>Apr 29, 04:46</em></p><br>
+<p>HashiCorp co-founder Mitchell Hashimoto announced he's moving his Ghostty terminal project away from GitHub due to frequent outages that make the platform unreliable for serious development work. Hashimoto cited GitHub's stability issues as compromising productivity and undermining confidence in the platform for mission-critical projects. The high-profile departure highlights growing concerns about GitHub's reliability among major developers.</p><br>
+<p><blockquote><em>Major developer platform reliability concerns affecting confidence in GitHub for critical software development projects</em></blockquote></p><br>
+<p>Sources: <a href="https://go.theregister.com/feed/www.theregister.com/2026/04/29/mitchell_hashimoto_ghostty_quitting_github/">The Register</a> · <a href="https://mitchellh.com/writing/ghostty-leaving-github">Mitchell Hashimoto</a></p><br>
+<p><h3><a href="https://www.theverge.com/streaming/919441/google-ask-youtube-ai-chatbot-search">YouTube Tests AI Chatbot Search for Premium Subscribers</a></h3><br>
+<em>2026-04-28T24:01:00.000Z</em></p><br>
+<p>Google is testing 'Ask YouTube,' a conversational AI search experience available to YouTube Premium subscribers in the US who are 18 or older. The feature provides prompts for content discovery and can summarize information from long-form videos, Shorts, and text. The experiment represents Google's push to integrate AI across all major platforms and fundamentally change how users discover and consume video content.</p><br>
+<p><blockquote><em>Major platform AI integration affecting how millions discover and consume video content on the world's largest video platform</em></blockquote></p><br>
+<p>Sources: <a href="https://www.theverge.com/streaming/919441/google-ask-youtube-ai-chatbot-search">The Verge</a></p><br>
+<p><h3><a href="https://www.theverge.com/report/919664/chatrie-v-united-states-supreme-court-arguments-fourth-amendment-geofence-warrants">Supreme Court Signals Location Data Searches Should Require Warrants</a></h3><br>
+<em>Apr 28, 18:45</em></p><br>
+<p>The US Supreme Court appears to support requiring warrants for geofence searches, which collect location data from all devices in a specific area and time period. Privacy advocates had worried the court might rule that geofencing doesn't qualify as a constitutionally protected search, opening doors to broader warrantless surveillance. The case could establish significant precedent for digital privacy protections and Fourth Amendment rights in the digital age.</p><br>
+<p><blockquote><em>Critical digital privacy ruling affecting law enforcement surveillance powers and constitutional protections for location data nationwide</em></blockquote></p><br>
+<p>Sources: <a href="https://www.theverge.com/report/919664/chatrie-v-united-states-supreme-court-arguments-fourth-amendment-geofence-warrants">The Verge</a></p><br>
+<p><h3><a href="https://www.theverge.com/tech/919411/canonical-ubuntu-linux-ai-features">Canonical Plans Major AI Integration for Ubuntu Linux</a></h3><br>
+<em>Apr 27, 20:47</em></p><br>
+<p>Ubuntu developer Canonical outlined plans to add comprehensive AI features to the Linux distribution over the next year, including background AI models enhancing existing OS functionality and 'AI native' features for users who want them. The features will range from accessibility tools like improved speech-to-text to agentic AI capabilities for various tasks. The integration represents a major shift for one of the most popular Linux distributions toward AI-first computing.</p><br>
+<p><blockquote><em>Major Linux distribution AI integration affecting how millions of developers and enterprise users interact with open source operating systems</em></blockquote></p><br>
+<p>Sources: <a href="https://www.theverge.com/tech/919411/canonical-ubuntu-linux-ai-features">The Verge</a></p><br>
+<p><h3><a href="https://www.theverge.com/policy/919739/fcc-disney-abc-broadcast-licenses-threat">FCC Orders Review of ABC's Broadcast Licenses Amid Trump-Kimmel Feud</a></h3><br>
+<em>Apr 28, 19:36</em></p><br>
+<p>The Federal Communications Commission ordered Disney-owned ABC stations to file for early license renewal as part of an investigation into the network's diversity, equity, and inclusion policies. The move comes one day after President Trump demanded ABC fire late-night host Jimmy Kimmel following controversial comments. The action represents escalating regulatory pressure on major broadcast networks and could set precedent for content-based license challenges.</p><br>
+<p><blockquote><em>Major broadcast regulation action potentially affecting media independence and setting precedent for politically-motivated license challenges</em></blockquote></p><br>
+<p>Sources: <a href="https://www.theverge.com/policy/919739/fcc-disney-abc-broadcast-licenses-threat">The Verge</a> · <a href="https://www.nytimes.com/2026/04/28/business/media/fcc-abc-television-kimmel.html">NYT Business</a></p><br>
+<p><h2>Business & Markets</h2></p><br>
+<p><h3><a href="https://www.nytimes.com/2026/04/28/business/dealbook/openai-misses-targets.html">OpenAI Falls Behind Revenue and User Growth Targets</a></h3><br>
+<em>Apr 28, 12:16</em></p><br>
+<p>OpenAI has reportedly missed its internal user growth and revenue targets, raising questions about the AI giant's data center expansion and IPO plans. The shortfall comes amid intense competition in the AI market and growing concerns about the sustainability of current AI business models. The performance gap could significantly impact OpenAI's valuation and strategic roadmap for becoming a public company.</p><br>
+<p><blockquote><em>Major AI industry development affecting the leading AI company's growth trajectory and potentially impacting broader AI market expectations</em></blockquote></p><br>
+<p>Sources: <a href="https://www.nytimes.com/2026/04/28/business/dealbook/openai-misses-targets.html">NYT Business</a></p><br>
+<p><h3><a href="https://go.theregister.com/feed/www.theregister.com/2026/04/28/china_blocks_meta_manus_acquisition/">China Blocks Meta's AI Acquisition Amid Escalating Tech Tensions</a></h3><br>
+<em>Apr 28, 02:09</em></p><br>
+<p>Chinese regulators will require Meta to unwind its acquisition of AI startup Manus, sending a chilling signal to Chinese tech founders considering partnerships with foreign companies. The ruling represents escalating technology tensions between China and US tech giants in the AI sector. The decision could significantly impact future cross-border AI investments and collaborations between Chinese startups and American tech companies.</p><br>
+<p><blockquote><em>Major AI industry regulatory action affecting cross-border technology investments and escalating US-China tech competition</em></blockquote></p><br>
+<p>Sources: <a href="https://go.theregister.com/feed/www.theregister.com/2026/04/28/china_blocks_meta_manus_acquisition/">The Register</a> · <a href="https://www.nytimes.com/2026/04/27/business/china-meta-manus-ai-deal.html">NYT Business</a></p><br>
+<p><h3><a href="https://www.nytimes.com/2026/04/28/business/oil-gas-stocks-iran-war.html">US Gas Prices Hit Highest Level Since Iran War Began</a></h3><br>
+<em>Apr 28, 20:13</em></p><br>
+<p>US gas prices jumped 1.6 percent on Tuesday, marking the highest percentage increase in over a month and reaching the highest levels since the beginning of the Iran war. The surge reflects ongoing disruption to global energy markets from the Middle East conflict and supply chain disruptions. Rising fuel costs threaten to impact broader economic recovery and consumer spending patterns.</p><br>
+<p><blockquote><em>Critical energy price surge affecting consumer costs and economic recovery while demonstrating ongoing impact of geopolitical conflicts</em></blockquote></p><br>
+<p>Sources: <a href="https://www.nytimes.com/2026/04/28/business/oil-gas-stocks-iran-war.html">NYT Business</a></p><br>
+<p><h3><a href="https://stratechery.com/2026/an-interview-with-openai-ceo-sam-altman-and-aws-ceo-matt-garman-about-bedrock-managed-agents/">Amazon Launches OpenAI Models on Bedrock Platform</a></h3><br>
+<em>Apr 28, 19:24</em></p><br>
+<p>Amazon Web Services announced availability of OpenAI's top models including GPT-5.5, o3, and new agent services on its Bedrock platform, marking a significant shift just one day after OpenAI ended Microsoft exclusivity. The partnership includes managed agent capabilities and represents a major competitive move in the cloud AI market. The deal demonstrates how quickly the AI landscape is reshaping following the Microsoft-OpenAI partnership changes.</p><br>
+<p><blockquote><em>Major cloud platform competition development affecting enterprise AI access and demonstrating rapid reshaping of AI industry partnerships</em></blockquote></p><br>
+<p>Sources: <a href="https://stratechery.com/2026/an-interview-with-openai-ceo-sam-altman-and-aws-ceo-matt-garman-about-bedrock-managed-agents/">Stratechery</a> · <a href="https://techcrunch.com/2026/04/28/amazon-is-already-offering-new-openai-products-on-aws/">TechCrunch</a></p><br>
+<p><h3><a href="https://techcrunch.com/2026/04/28/match-group-invests-100-million-in-sniffies-a-cruising-app-for-gay-men/">Match Group Invests $100M in Sniffies Dating App</a></h3><br>
+<em>Apr 28, 18:16</em></p><br>
+<p>Match Group made a $100 million investment in Sniffies, a location-based cruising app for gay men, as part of its strategy to revitalize mobile dating engagement. The investment represents Match Group's newest attempt to capture users in specialized dating segments and compete with evolving social connection platforms. The deal highlights how traditional dating companies are diversifying beyond mainstream apps like Tinder and Hinge.</p><br>
+<p><blockquote><em>Major dating industry investment affecting LGBTQ+ digital spaces and demonstrating evolution of online dating business models</em></blockquote></p><br>
+<p>Sources: <a href="https://techcrunch.com/2026/04/28/match-group-invests-100-million-in-sniffies-a-cruising-app-for-gay-men/">TechCrunch</a></p><br>
+<p><h3><a href="https://go.theregister.com/feed/www.theregister.com/2026/04/28/oracle_new_mexico_power_fuel_cell_farm/">Oracle Plans 2.45GW Fuel Cell Farm for New Mexico Datacenter</a></h3><br>
+<em>Apr 28, 21:58</em></p><br>
+<p>Oracle announced plans to power its massive new datacenter complex in the New Mexico desert with a 2.45-gigawatt fuel cell farm, representing one of the largest corporate clean energy deployments. The project demonstrates how AI and cloud computing demand is driving unprecedented infrastructure investments in alternative energy sources. The initiative comes as compute partners like OpenAI face mounting costs and capacity constraints for AI operations.</p><br>
+<p><blockquote><em>Massive clean energy infrastructure investment highlighting the enormous power requirements of AI datacenters and corporate sustainability commitments</em></blockquote></p><br>
+<p>Sources: <a href="https://go.theregister.com/feed/www.theregister.com/2026/04/28/oracle_new_mexico_power_fuel_cell_farm/">The Register</a></p><br>
+<p><h3><a href="https://techcrunch.com/2026/04/27/consumers-lost-2-1-billion-to-social-media-scams-in-2025-ftc-reports/">Consumers Lost $2.1B to Social Media Scams in 2025</a></h3><br>
+<em>Apr 27, 19:09</em></p><br>
+<p>The FTC reports that losses from social media scams increased eightfold, with consumers losing $2.1 billion in 2025, higher than losses from any other contact method scammers used. The report highlights the growing sophistication of social media fraud and its devastating financial impact on consumers. Social media platforms have become primary vectors for investment scams, romance fraud, and cryptocurrency theft.</p><br>
+<p><blockquote><em>Major consumer protection crisis demonstrating how social media platforms have become weaponized for financial fraud</em></blockquote></p><br>
+<p>Sources: <a href="https://techcrunch.com/2026/04/27/consumers-lost-2-1-billion-to-social-media-scams-in-2025-ftc-reports/">TechCrunch</a><br>
+</p>
+</body>
+</html>
