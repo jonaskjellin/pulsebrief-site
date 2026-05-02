@@ -5,7 +5,105 @@
   <link href="https://jonaskjellin.github.io/pulsebrief-site/feed.xml" rel="self"/>
   <link href="https://jonaskjellin.github.io/pulsebrief-site/"/>
   <id>https://jonaskjellin.github.io/pulsebrief-site/</id>
-  <updated>2026-05-02T11:39:10.753Z</updated>
+  <updated>2026-05-02T16:36:14.956Z</updated>
+  <entry>
+    <title>Evening — May 2, 2026</title>
+    <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-05-02-evening.html"/>
+    <id>https://jonaskjellin.github.io/pulsebrief-site/2026-05-02-evening.html</id>
+    <updated>2026-05-02T16:36:14.956Z</updated>
+    <content type="html">&lt;p&gt;&lt;h1&gt;PulseBrief's Evening Pulse&lt;/h1&gt;&lt;br&gt;
+&lt;em&gt;Sat, May 2, 11:00 → Sat, May 2, 16:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Cyber Security&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.bleepingcomputer.com/news/security/consentfix-v3-attacks-target-azure-with-automated-oauth-abuse/"&gt;ConsentFix v3 Attacks Target Azure with Automated OAuth Abuse&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;May 2, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;A new automated attack technique called ConsentFix v3 is circulating on hacker forums, targeting Microsoft Azure environments through OAuth abuse with enhanced automation and scaling capabilities. The attack builds on previous consent-based techniques but adds sophisticated automation to increase the potential impact and reach. The technique represents an evolution in cloud-focused attacks that exploit legitimate authentication mechanisms.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Critical cloud security threat affecting Azure environments with automated capabilities that could enable large-scale enterprise compromise&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.bleepingcomputer.com/news/security/consentfix-v3-attacks-target-azure-with-automated-oauth-abuse/"&gt;BleepingComputer&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://cybersecuritynews.com/exim-mail-server-vulnerabilities/"&gt;Multiple Critical Exim Mail Server Vulnerabilities Allow Server Crashes via Malicious DNS&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;May 2, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;The Exim development team released version 4.99.2 addressing four newly discovered security vulnerabilities that allow attackers to crash servers, corrupt memory, or leak sensitive information through malicious DNS data. The flaws affect one of the most widely deployed message transfer agents on the internet. System administrators need to apply patches immediately due to the critical nature of these vulnerabilities.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Critical mail infrastructure vulnerability affecting millions of email servers worldwide requiring immediate patching to prevent service disruption&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://cybersecuritynews.com/exim-mail-server-vulnerabilities/"&gt;Cybersecurity News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.wsj.com/articles/americas-expanding-domestic-surveillance-08b73187"&gt;America's Domestic Surveillance Programs Continue Expanding&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;May 2, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;A Wall Street Journal investigation reveals the continued expansion of domestic surveillance capabilities within the United States. The report details growing surveillance programs that affect American citizens and residents. The expansion raises significant privacy and civil liberties concerns as government monitoring capabilities increase.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major civil liberties development affecting all Americans and demonstrating the growing scope of government surveillance capabilities&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.wsj.com/articles/americas-expanding-domestic-surveillance-08b73187"&gt;Wall Street Journal&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;AI &amp; Machine Learning&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://arxiv.org/abs/2509.00462"&gt;LLMs Consistently Favor AI-Generated Resumes Over Human-Created Ones&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;May 2, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Research published in ArXiv demonstrates that large language models consistently prefer resumes they generate over those created by humans or other AI models. The study reveals inherent bias in AI systems toward their own outputs, raising concerns about fairness in AI-powered hiring processes. The findings have significant implications for recruitment technology and automated screening systems.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Critical AI bias discovery affecting hiring processes and revealing fundamental problems with AI-powered recruitment systems&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://arxiv.org/abs/2509.00462"&gt;ArXiv&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://arxiv.org/abs/2406.11717"&gt;Research Shows AI Model Refusal Behavior Controlled by Single Neural Direction&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;May 2, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;New research reveals that refusal behavior in language models is mediated by a single direction in the model's neural network, providing insights into how AI systems decline to perform certain tasks. The finding could have implications for AI safety and alignment research. Understanding this mechanism may help developers better control AI behavior and safety responses.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Breakthrough AI safety research that could improve understanding and control of AI system behavior and safety mechanisms&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://arxiv.org/abs/2406.11717"&gt;ArXiv&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.politico.com/news/2026/05/02/poll-trump-voters-skeptical-artificial-intelligence-jobs-00902754?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS_Syndication"&gt;Republican Voters Express Skepticism About AI Despite Trump's Deregulation Push&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;May 2, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;A new poll shows about three-quarters of Americans who voted for President Trump support some form of government oversight on artificial intelligence, even as the Trump administration pushes AI deregulation. The finding reveals a disconnect between voter preferences and administration policy on AI governance. The skepticism spans concerns about job displacement and AI's societal impact.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major political development showing voter-policy disconnect on AI regulation that could affect future AI governance decisions&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.politico.com/news/2026/05/02/poll-trump-voters-skeptical-artificial-intelligence-jobs-00902754?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS_Syndication"&gt;Politico&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.politico.com/news/magazine/2026/05/01/trump-ai-elon-musk-weapons-00902230?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS_Syndication"&gt;Trump AI Adviser Disagrees with Musk on AI Development Approach&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;May 2, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;President Trump's AI adviser publicly disagrees with Elon Musk's approach to artificial intelligence development, particularly regarding autonomous weapons and workforce disruption concerns. The disagreement highlights internal debates within Trump's circle about AI policy direction. The adviser argues against slowing AI development despite rising stakes around military applications and job displacement.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Internal Trump administration AI policy conflict that could affect national AI strategy and regulatory approach&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.politico.com/news/magazine/2026/05/01/trump-ai-elon-musk-weapons-00902230?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS_Syndication"&gt;Politico&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://go.theregister.com/feed/www.theregister.com/2026/05/02/local_ai_coding_agents/"&gt;Local AI Coding Agents Emerge as Alternative to Usage-Based Pricing Models&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;May 2, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Developers are increasingly turning to local AI coding agents as model providers implement more aggressive rate limits and usage-based pricing. The shift represents a cost-saving response to rising AI service costs for hobby projects and small-scale development. Local deployment offers unlimited usage without token limits but requires more technical setup and hardware resources.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major shift in AI development practices affecting how developers access and use AI coding assistance, potentially changing market dynamics&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://go.theregister.com/feed/www.theregister.com/2026/05/02/local_ai_coding_agents/"&gt;The Register&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Technology&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/05/01/uber-wants-to-turn-its-millions-of-drivers-into-a-sensor-grid-for-self-driving-companies/"&gt;Uber Plans to Transform Driver Fleet into Sensor Network for Autonomous Vehicles&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;May 1, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Uber CTO revealed plans to convert the company's millions of drivers into a sensor grid for autonomous vehicle companies through an expansion of its AV Labs program. The initiative would leverage Uber's massive driver network to collect real-world driving data for self-driving car development. The strategy represents a significant pivot toward becoming infrastructure for the autonomous vehicle industry.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major strategic shift for ride-hailing potentially affecting autonomous vehicle development and creating new business models for driver networks&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/05/01/uber-wants-to-turn-its-millions-of-drivers-into-a-sensor-grid-for-self-driving-companies/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://32bits.substack.com/p/under-the-microscope-pyramid-unreleased"&gt;Unknown Sega Saturn Game Project Discovered After 29 Years&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;May 2, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;An unreleased Sega Saturn game project called Pyramid has come to light after nearly three decades, discovered through documentation and prototype materials. The discovery provides insight into Sega's development activities during the Saturn era and represents a significant find for gaming historians. The project appears to have been cancelled during development in the mid-1990s.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Rare gaming history discovery that provides insight into console development practices and unreleased projects from a significant gaming era&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://32bits.substack.com/p/under-the-microscope-pyramid-unreleased"&gt;32 Bits&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://github.com/nexu-io/open-design"&gt;Open Design Project Enables AI Coding Agents as Design Tools&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;May 2, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;A new open-source project called Open Design allows developers to use AI coding agents as design engines for creating user interfaces and applications. The tool demonstrates how AI agents can be repurposed beyond traditional coding tasks into visual design workflows. The project represents growing experimentation with AI agents for creative and design applications.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Innovation in AI tool applications expanding beyond coding into design workflows, potentially affecting how developers approach interface creation&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://github.com/nexu-io/open-design"&gt;GitHub&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.nytimes.com/2026/05/01/sports/running-shoe-history-adidas-sneakers-london-marathon.html"&gt;Running Shoe Technology Evolution Drives Marathon Record Breaking&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;May 1, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Advanced running shoe technology featuring near-weightless materials and innovative designs has become a driving force behind recent marathon record performances at events like the London Marathon. The evolution from ancient Greek footwear to modern technical shoes demonstrates decades of materials science innovation. Modern shoes incorporate carbon fiber plates and advanced foam technologies to enhance performance.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Sports technology breakthrough affecting athletic performance and demonstrating how materials science innovation translates to measurable competitive advantages&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.nytimes.com/2026/05/01/sports/running-shoe-history-adidas-sneakers-london-marathon.html"&gt;NYT Sports&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Business &amp; Markets&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.nytimes.com/2026/05/02/business/spirit-airlines-shutdown.html"&gt;Spirit Airlines Shuts Down After Years of Financial Struggle&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;May 2, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Spirit Airlines has permanently ceased operations after years of financial difficulties, marking the end of a major low-cost carrier that once disrupted the airline industry with ultra-low fares. The shutdown represents the airline's second bankruptcy in two years following sustained losses and operational challenges. The closure eliminates a significant budget travel option for millions of passengers.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major airline shutdown affecting millions of travelers and demonstrating ongoing consolidation pressures in the aviation industry&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.nytimes.com/2026/05/02/business/spirit-airlines-shutdown.html"&gt;NYT Business&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.nytimes.com/2026/05/02/business/dealbook/cannabis-industry-trump.html"&gt;Cannabis Industry Benefits from Trump Administration's Regulatory Relaxation&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;May 2, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;The Trump administration's decision to relax federal regulations on medical marijuana includes significant tax breaks for cannabis companies and could drive new investment in the sector. The regulatory changes represent a major shift in federal cannabis policy that could reshape the industry landscape. The moves come with potential for expanded market access and reduced compliance costs.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major regulatory shift affecting multi-billion dollar cannabis industry and potentially opening new investment and market opportunities&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.nytimes.com/2026/05/02/business/dealbook/cannabis-industry-trump.html"&gt;NYT Business&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.nytimes.com/2026/05/02/business/japan-bathhouse-oil-iran.html"&gt;Iran War Economic Impact Reaches Japanese Bathhouses Through High Fuel Costs&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;May 2, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;High fuel costs from the Iran conflict are threatening Japan's traditional sento bathhouses, a declining industry that serves as a vital social lifeline for the country's isolated elderly population. The economic ripple effects demonstrate how geopolitical conflicts affect even traditional local businesses globally. Rising energy costs are forcing closures of culturally significant community gathering spaces.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Unexpected global economic impact of geopolitical conflict affecting cultural institutions and elderly care infrastructure in Japan&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.nytimes.com/2026/05/02/business/japan-bathhouse-oil-iran.html"&gt;NYT Business&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.politico.com/news/magazine/2026/05/01/pete-hoekstra-trump-ambassador-canada-00898848?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS_Syndication"&gt;Trump Administration Ambassador Creates Diplomatic Tensions with Canada&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;May 1, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Ambassador Pete Hoekstra has spent a year creating diplomatic friction with Canadians through undiplomatic approaches, raising questions about whether a détente between the countries is possible. The tensions affect one of America's most important bilateral relationships and trade partnerships. The diplomatic strain could impact cross-border cooperation on multiple issues.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Critical diplomatic relationship strain affecting major US trade partnership and bilateral cooperation with key ally&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.politico.com/news/magazine/2026/05/01/pete-hoekstra-trump-ambassador-canada-00898848?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS_Syndication"&gt;Politico&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.politico.eu/article/us-navy-pirates-iran-donald-trump/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS_Syndication"&gt;Trump Describes US Navy Actions in Iran as 'Pirate-Like'&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;May 2, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;President Trump publicly described US Navy operations in Iran using pirate metaphors, stating 'We're like pirates... but we are not playing games' at a Florida event. The comments represent unusual characterization of military operations by a sitting president. The rhetoric could affect international perceptions of US military actions and diplomatic relations.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Unusual presidential rhetoric about military operations that could affect international relations and perceptions of US foreign policy&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.politico.eu/article/us-navy-pirates-iran-donald-trump/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS_Syndication"&gt;Politico EU&lt;/a&gt;&lt;br&gt;
+&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>Afternoon — May 2, 2026</title>
     <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-05-02-afternoon.html"/>
@@ -2266,59 +2364,6 @@
 &lt;p&gt;Lionsgate estimated that the Michael Jackson biopic 'Michael' would collect more than $200 million over its first few days in theaters, shaking off negative critical reviews. The strong box office performance demonstrates the continued commercial appeal of music biopics despite critical reception. The success reflects audience demand for celebrity biographical content regardless of critical consensus.&lt;/p&gt;&lt;br&gt;
 &lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Entertainment industry success demonstrating audience demand for celebrity content overriding critical reception and affecting studio biopic strategies&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
 &lt;p&gt;Sources: &lt;a href="https://www.nytimes.com/2026/04/25/business/media/box-office-michael.html"&gt;NYT Business&lt;/a&gt;&lt;br&gt;
-&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>Evening — Apr 25, 2026</title>
-    <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-04-25-evening.html"/>
-    <id>https://jonaskjellin.github.io/pulsebrief-site/2026-04-25-evening.html</id>
-    <updated>2026-04-25T16:30:06.233Z</updated>
-    <content type="html">&lt;p&gt;&lt;h1&gt;PulseBrief's Evening Pulse&lt;/h1&gt;&lt;br&gt;
-&lt;em&gt;Sat, Apr 25, 11:00 → Sat, Apr 25, 16:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;Cyber Security&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.bleepingcomputer.com/news/security/threat-actor-uses-microsoft-teams-to-deploy-new-snow-malware/"&gt;Threat Actor Deploys Custom 'Snow' Malware Suite via Microsoft Teams Social Engineering&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Apr 25, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;UNC6692 threat group is using social engineering through Microsoft Teams to deploy a new custom malware suite called 'Snow' that includes a browser extension, tunneler, and backdoor components. The campaign demonstrates how attackers continue to abuse trusted enterprise communication platforms for initial access. The multi-component malware design suggests sophisticated targeting of corporate environments.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Enterprise security teams need to be aware of Teams-based social engineering attacks deploying custom malware targeting corporate infrastructure&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.bleepingcomputer.com/news/security/threat-actor-uses-microsoft-teams-to-deploy-new-snow-malware/"&gt;BleepingComputer&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;AI &amp; Machine Learning&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://cybersecuritynews.com/gpt-5-5-bio-bug-bounty/"&gt;OpenAI Launches GPT-5.5 Bio Bug Bounty Program to Test Biosecurity Controls&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Apr 25, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;OpenAI announced a new Bio Bug Bounty program specifically for GPT-5.5, inviting qualified researchers to test whether the advanced AI system can be universally jailbroken to bypass biosecurity protections. The program focuses on preventing misuse in biological applications and represents OpenAI's effort to strengthen safety controls for advanced AI capabilities. The initiative demonstrates growing concern about AI systems being exploited for biological threats.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Critical AI safety development affecting how advanced AI systems protect against biological misuse and potential bioweapons development&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://cybersecuritynews.com/gpt-5-5-bio-bug-bounty/"&gt;Cybersecurity News&lt;/a&gt; · &lt;a href="https://openai.com/index/gpt-5-5-bio-bug-bounty/"&gt;Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://cybersecuritynews.com/claude-ai-agents-close-deals/"&gt;Claude AI Agents Successfully Close 186 Real-World Deals in Anthropic Marketplace Experiment&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Apr 25, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Anthropic's 'Project Deal' transformed its San Francisco office into a live classified marketplace where Claude AI agents autonomously negotiated and closed 186 real-world transactions. The experiment demonstrated AI agents can handle complex negotiations but revealed troubling asymmetries in AI representation capabilities. The results show both the potential and risks of AI agents operating in real commercial environments.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major AI capability demonstration showing autonomous agents can handle real-world commercial transactions, with implications for business automation&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://cybersecuritynews.com/claude-ai-agents-close-deals/"&gt;Cybersecurity News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;Technology&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theverge.com/science/918753/researchers-talking-less"&gt;Human Conversation Declined 28% Between 2005-2019 as Digital Communication Rises&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Apr 25, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;University researchers found that face-to-face conversation dropped from 16,632 words per day in 2005 to significantly less by 2019, representing a 28% decline in spoken human interaction. The study analyzed over 2,000 people's daily audio recordings across 22 studies, showing how app-based ordering, increased texting, and online life have reduced verbal communication. The pandemic likely accelerated this trend toward reduced human verbal interaction.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major social communication shift affecting human interaction patterns and potentially impacting social skills and relationship development&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.theverge.com/science/918753/researchers-talking-less"&gt;The Verge&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/04/25/apple-under-ternus-what-comes-next-for-the-tech-giants-hardware-strategy/"&gt;Apple Hardware Chief John Ternus to Focus on Device-Centric Strategy as Incoming CEO&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Apr 25, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;John Ternus, Apple's incoming CEO and current hardware chief, signals Apple may be returning devices to the center of its strategy rather than services. As a hardware-focused leader, Ternus is expected to prioritize Apple's traditional strength in device innovation and design. The leadership transition represents a potential shift back to Apple's core hardware competencies amid intense AI and services competition.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major Apple strategic direction change potentially affecting the company's focus on hardware innovation versus services expansion&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/04/25/apple-under-ternus-what-comes-next-for-the-tech-giants-hardware-strategy/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;Business &amp; Markets&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/04/25/why-cohere-is-merging-with-aleph-alpha/"&gt;Cohere Merges with Aleph Alpha to Challenge US AI Dominance&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Apr 25, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Canadian AI company Cohere is acquiring German AI firm Aleph Alpha with backing from Lidl's owner Schwarz Group, creating a transatlantic alternative to US-dominated AI services. The merger has support from both Canadian and German governments and aims to serve enterprises concerned about American control over AI technology. The deal reflects growing international efforts to build competitive alternatives to Silicon Valley AI giants.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major international AI industry consolidation addressing concerns about US technology dominance and creating sovereign AI alternatives for enterprises&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/04/25/why-cohere-is-merging-with-aleph-alpha/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.nytimes.com/2026/04/25/business/dealbook/wine-fraud.html"&gt;Wine Industry Faces Sales Decline and Widespread Fraud Problem&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Apr 25, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;The wine industry is experiencing declining sales while grappling with rampant fraud throughout its murky supply chain. Industry experts note that 'wine and fraud go hand in hand' due to the complex distribution networks and authentication challenges. The combination of reduced consumer spending and increased fraudulent activity is creating significant challenges for legitimate wine businesses.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Industry-wide fraud affecting consumer trust and business integrity in a declining market with complex supply chain vulnerabilities&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.nytimes.com/2026/04/25/business/dealbook/wine-fraud.html"&gt;NYT Business&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/04/25/indias-snabbit-seeks-fresh-funding-at-a-400m-valuation-sources-say/"&gt;India's Snabbit Seeks $400 Million Valuation Funding Round&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Apr 25, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Indian startup Snabbit is seeking fresh funding at a $400 million valuation after scaling rapidly to cross one million jobs in March. The company has attracted growing investor interest in India's expanding gig economy and job marketplace sector. The funding round reflects continued investment appetite for Indian tech startups despite global market uncertainties.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major Indian startup funding indicating continued investor confidence in gig economy platforms and Indian tech market growth&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/04/25/indias-snabbit-seeks-fresh-funding-at-a-400m-valuation-sources-say/"&gt;TechCrunch&lt;/a&gt;&lt;br&gt;
 &lt;/p&gt;</content>
   </entry>
 </feed>
