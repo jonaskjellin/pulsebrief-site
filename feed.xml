@@ -5,7 +5,90 @@
   <link href="https://jonaskjellin.github.io/pulsebrief-site/feed.xml" rel="self"/>
   <link href="https://jonaskjellin.github.io/pulsebrief-site/"/>
   <id>https://jonaskjellin.github.io/pulsebrief-site/</id>
-  <updated>2026-05-09T07:03:10.566Z</updated>
+  <updated>2026-05-09T11:43:16.037Z</updated>
+  <entry>
+    <title>Afternoon — May 9, 2026</title>
+    <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-05-09-afternoon.html"/>
+    <id>https://jonaskjellin.github.io/pulsebrief-site/2026-05-09-afternoon.html</id>
+    <updated>2026-05-09T11:43:16.037Z</updated>
+    <content type="html">&lt;p&gt;&lt;h1&gt;PulseBrief's Afternoon Pulse&lt;/h1&gt;&lt;br&gt;
+&lt;em&gt;Sat, May 9, 05:00 → Sat, May 9, 11:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Cyber Security&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://thehackernews.com/2026/05/cpanel-whm-patch-3-new-vulnerabilities.html"&gt;cPanel, WHM Release Fixes for Three New Vulnerabilities — Patch Now&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;May 9, 07:16&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;cPanel has released updates to address three vulnerabilities in cPanel and Web Host Manager (WHM) that could be exploited to achieve privilege escalation, code execution, and denial-of-service. CVE-2026-29201 (CVSS score: 4.3) involves insufficient input validation in the feature file name handling that could result in security issues. The vulnerabilities affect critical web hosting management platforms used by millions of websites.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Critical web hosting platform vulnerabilities requiring immediate patching to prevent potential server compromises&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://thehackernews.com/2026/05/cpanel-whm-patch-3-new-vulnerabilities.html"&gt;The Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://cybersecuritynews.com/tclbanker-malware-targets-users-whatsapp-outlook-worm-modules/"&gt;TCLBANKER Banking Trojan Self-Spreads via WhatsApp and Outlook, Targets Financial Platforms&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;May 9, 06:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;A sophisticated Brazilian banking trojan named TCLBANKER is targeting users through self-propagating WhatsApp and Microsoft Outlook worm modules, representing a major evolution of the older Maverick and SORVEPOTEL malware families. The malware uses a fake, signed Logitech installer to infect systems and automatically spreads through popular communication platforms. The campaign demonstrates advanced social engineering and self-propagation techniques that make it particularly dangerous for financial institutions and their customers.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Sophisticated banking malware using popular communication platforms that could significantly impact financial services and user credentials&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://cybersecuritynews.com/tclbanker-malware-targets-users-whatsapp-outlook-worm-modules/"&gt;Cybersecurity News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.wired.com/story/security-news-this-week-hackable-robot-lawnmower-unlocks-a-new-nightmare/"&gt;Security Researchers Discover Hackable Robot Lawn Mower Vulnerabilities&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;May 9, 10:30&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Security researchers have uncovered vulnerabilities in robot lawn mowers that could allow attackers to hijack the devices, potentially creating new security nightmares for smart home ecosystems. The research highlights how everyday connected devices can become entry points for cyber attacks on home networks. The findings demonstrate the expanding attack surface as more household appliances become internet-connected and potentially exploitable.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;New IoT security vulnerabilities affecting home automation devices and potentially expanding attack surfaces for residential networks&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.wired.com/story/security-news-this-week-hackable-robot-lawnmower-unlocks-a-new-nightmare/"&gt;Wired Security&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://cyberinsider.com/eu-calls-vpns-a-loophole-that-needs-closing-in-age-verification-push/"&gt;EU Targets VPNs as 'Loophole' in Age Verification Push, Raising Privacy Concerns&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;May 9, 05:52&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;The European Union is calling VPNs 'a loophole that needs closing' as part of its push for stricter age verification requirements across digital platforms. The proposal could significantly impact privacy tools used by millions of Europeans to protect their online activities and bypass geographic restrictions. The move reflects growing regulatory pressure to implement age verification systems that could fundamentally change how Europeans access online content.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major privacy policy development that could restrict VPN usage and impact digital rights across Europe&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://cyberinsider.com/eu-calls-vpns-a-loophole-that-needs-closing-in-age-verification-push/"&gt;Cyberinsider&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;AI &amp; Machine Learning&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://adele.pages.casa/md/blog/all-my-clients-wanted-a-carousel-now-it-s-an-ai-chatbot.md"&gt;Client Demands Shift from Carousels to AI Chatbots as Industry Standard&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;May 9, 07:23&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Web developers are reporting that client requests have dramatically shifted from wanting carousel features to demanding AI chatbots as the new must-have website component. The trend reflects how AI integration has become a mainstream expectation rather than a cutting-edge feature for business websites. This shift demonstrates the rapid normalization of AI technology in everyday business applications and web development practices.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Significant shift in web development trends showing AI chatbots becoming standard business requirements rather than premium features&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://adele.pages.casa/md/blog/all-my-clients-wanted-a-carousel-now-it-s-an-ai-chatbot.md"&gt;Adele Pages Casa&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.politico.com/news/2026/05/08/trump-white-house-ai-confusion-00913092"&gt;White House 'Lack of Organization' Creates Confusion for AI Lobbyists&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;May 9, 07:11&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;AI industry lobbyists are expressing concern over the Trump administration's disorganized approach to artificial intelligence policy, with mixed signals about how tough the government intends to be in vetting powerful new AI models. The confusion stems from conflicting statements and unclear regulatory frameworks coming from different parts of the administration. The uncertainty is creating challenges for AI companies trying to plan their development and compliance strategies.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Critical AI policy uncertainty from the federal government that could impact AI development and regulation strategies&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.politico.com/news/2026/05/08/trump-white-house-ai-confusion-00913092"&gt;Politico&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Technology&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theregister.com/public-sector/2026/05/09/uk-wants-fresh-fingerprints-on-300m-biometrics-platform/5234933"&gt;UK Seeks Fresh Suppliers for £300M Biometrics Platform Overhaul&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;May 9, 08:30&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;The UK Home Office is probing supplier interest for its £300 million biometrics platform as the core police and immigration system heads for a major support shake-up. The platform handles fingerprints and other biometric data for law enforcement and immigration services across the country. The procurement process reflects the government's need to modernize critical identity verification systems used by multiple agencies.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major government technology procurement affecting critical law enforcement and immigration systems&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.theregister.com/public-sector/2026/05/09/uk-wants-fresh-fingerprints-on-300m-biometrics-platform/5234933"&gt;The Register&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theregister.com/offbeat/2026/05/09/londons-bt-tower-to-get-rooftop-swimming-pool/5237337"&gt;London's Iconic BT Tower to Get Rooftop Swimming Pool in £500M Redevelopment&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;May 9, 10:03&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;London's famous BT Tower is set to receive a rooftop swimming pool as part of a major redevelopment project, allowing visitors to take a dip 177 meters above the streets of London's West End. The iconic telecommunications tower is being transformed into a mixed-use development including hotel and residential spaces. The project represents a significant repurposing of one of London's most recognizable landmarks as telecommunications infrastructure evolves.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major landmark redevelopment project transforming iconic telecommunications infrastructure into mixed-use space&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.theregister.com/offbeat/2026/05/09/londons-bt-tower-to-get-rooftop-swimming-pool/5237337"&gt;The Register&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.nytimes.com/2026/05/09/business/taiwan-plastic-bag-shortage.html"&gt;Taiwan Faces Plastic Supply Shortages Due to Iran War Disruptions&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;May 9, 09:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Taiwan, one of the world's biggest plastic users, is experiencing supply disruptions caused by the war in Iran, with the plastic shortage already trickling down into everyday life. The country's heavy reliance on plastic products is colliding with global supply chain disruptions stemming from the Middle East conflict. The shortages are affecting everything from packaging to consumer goods in Taiwan's economy.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Critical supply chain disruption affecting one of Asia's major economies and demonstrating global manufacturing vulnerabilities&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.nytimes.com/2026/05/09/business/taiwan-plastic-bag-shortage.html"&gt;NYT Business&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Business &amp; Markets&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.nytimes.com/2026/05/09/business/china-april-trade-exports-imports.html"&gt;China's Exports and Imports Hit Records in April Ahead of Trump Visit&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;May 9, 06:19&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;China's exports surged and its trade surplus with the United States widened in April, setting new records ahead of President Trump's scheduled visit to Beijing next week. The strong trade performance comes despite high energy costs and ongoing geopolitical tensions affecting global commerce. The record-setting data could significantly influence upcoming negotiations between the world's two largest economies.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Critical trade data that could heavily impact upcoming US-China negotiations and global economic relations&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.nytimes.com/2026/05/09/business/china-april-trade-exports-imports.html"&gt;NYT Business&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.nytimes.com/2026/05/09/business/economy/trump-tariff-timeline.html"&gt;Trump Tariff Legal Battle Creates Complex Trade Policy Landscape&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;May 9, 09:02&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;The Trump administration has reworked its tariffs repeatedly, sometimes because they have been declared illegal by federal courts, with more updates still to come. A complex patchwork of trade restrictions has emerged as various tariff measures face legal challenges while others remain in place. The ongoing legal battles create uncertainty for businesses trying to navigate international trade compliance.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major trade policy uncertainty affecting international commerce and business planning across multiple industries&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.nytimes.com/2026/05/09/business/economy/trump-tariff-timeline.html"&gt;NYT Business&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.nytimes.com/2026/05/09/business/jetblue-airways-spirit.html"&gt;JetBlue Eyes Opportunity as Spirit Airlines Struggles with Bankruptcy&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;May 9, 09:02&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;JetBlue Airways is adding flights at Spirit Airlines' former home airport as the budget carrier struggles with financial difficulties, presenting an opportunity for JetBlue to expand its market presence. The move represents JetBlue's attempt to turn a profit again by capitalizing on reduced competition in key markets. Spirit's operational challenges are creating market opportunities for competitors in the ultra-low-cost airline segment.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major airline industry shift that could reshape low-cost air travel markets and competitive dynamics&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.nytimes.com/2026/05/09/business/jetblue-airways-spirit.html"&gt;NYT Business&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="http://www.euronews.com/business/2026/05/09/spains-bizum-heads-to-the-high-street-to-take-on-visa-and-mastercard"&gt;Spain's Bizum Payment App Challenges Visa and Mastercard with Physical Store Expansion&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;May 9, 05:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Spain's homegrown payment app Bizum is expanding to physical retail locations, bringing account-to-account payments to brick-and-mortar stores in a direct challenge to US card giants Visa and Mastercard. The move represents Bizum's biggest expansion yet, allowing Spanish consumers to make purchases without traditional card networks. The initiative could establish a precedent for domestic payment systems competing with international card companies.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Significant challenge to US payment card dominance in European markets that could influence global payment system competition&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="http://www.euronews.com/business/2026/05/09/spains-bizum-heads-to-the-high-street-to-take-on-visa-and-mastercard"&gt;Euronews Business&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.nytimes.com/2026/05/09/business/retirement-home-equity-selling-your-house.html"&gt;Home Equity May Not Provide Expected Retirement Safety Net for Older Americans&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;May 9, 09:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Retirees who expect their homes to serve as a financial safety net may be disappointed, as older homeowners often can't afford to maintain and renovate properties, leading to thousands in lost value when they sell. The reality of home maintenance costs and market conditions means many retirees receive less than expected from their primary asset. The issue affects retirement planning strategies that rely heavily on home equity for financial security.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Critical retirement planning concern affecting millions of older Americans' financial security and housing wealth expectations&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.nytimes.com/2026/05/09/business/retirement-home-equity-selling-your-house.html"&gt;NYT Business&lt;/a&gt;&lt;br&gt;
+&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>Custom — May 9, 2026</title>
     <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-05-09-custom.html"/>
@@ -2196,94 +2279,6 @@
 &lt;p&gt;President Trump publicly described US Navy operations in Iran using pirate metaphors, stating 'We're like pirates... but we are not playing games' at a Florida event. The comments represent unusual characterization of military operations by a sitting president. The rhetoric could affect international perceptions of US military actions and diplomatic relations.&lt;/p&gt;&lt;br&gt;
 &lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Unusual presidential rhetoric about military operations that could affect international relations and perceptions of US foreign policy&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
 &lt;p&gt;Sources: &lt;a href="https://www.politico.eu/article/us-navy-pirates-iran-donald-trump/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS_Syndication"&gt;Politico EU&lt;/a&gt;&lt;br&gt;
-&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>Afternoon — May 2, 2026</title>
-    <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-05-02-afternoon.html"/>
-    <id>https://jonaskjellin.github.io/pulsebrief-site/2026-05-02-afternoon.html</id>
-    <updated>2026-05-02T11:39:10.753Z</updated>
-    <content type="html">&lt;p&gt;&lt;h1&gt;PulseBrief's Afternoon Pulse&lt;/h1&gt;&lt;br&gt;
-&lt;em&gt;Sat, May 2, 05:00 → Sat, May 2, 11:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;Cyber Security&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://thehackernews.com/2026/05/trellix-confirms-source-code-breach.html"&gt;Trellix Confirms Source Code Breach With Unauthorized Repository Access&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;May 2, 06:41&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Cybersecurity company Trellix disclosed a security breach that enabled unauthorized access to a portion of its source code repository. The company immediately engaged leading forensic experts and notified law enforcement about the incident. The breach represents a significant security concern as it involves source code from a major cybersecurity vendor whose products are widely deployed in enterprise environments.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Critical security incident at a major cybersecurity vendor potentially exposing proprietary security technologies and affecting trust in enterprise security products&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://thehackernews.com/2026/05/trellix-confirms-source-code-breach.html"&gt;The Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://go.theregister.com/feed/www.theregister.com/2026/05/02/ncsc_brace_for_patch_tsunami/"&gt;UK Cyber Agency Warns AI is Unearthing Decades of Buried Code Vulnerabilities&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;May 2, 08:30&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Britain's National Cyber Security Centre warned that AI-powered bug hunting is about to flush out years of buried software flaws, leaving defenders scrambling to keep up with a 'patch tsunami.' The agency says the bill for years of technical shortcuts is coming due all at once as AI accelerates vulnerability discovery. This represents a fundamental shift in the cybersecurity landscape where AI reduces the time between vulnerability disclosure and exploitation.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major change in vulnerability management requiring organizations to prepare for accelerated patching cycles as AI transforms both attack and defense capabilities&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://go.theregister.com/feed/www.theregister.com/2026/05/02/ncsc_brace_for_patch_tsunami/"&gt;The Register&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://cybersecuritynews.com/attackers-abuse-google-appsheet-netlify-and-telegram/"&gt;30,000 Facebook Accounts Compromised in Vietnamese Google AppSheet Phishing Campaign&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;May 2, 05:36&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;A Vietnamese-linked operation codenamed AccountDumpling used Google AppSheet as a 'phishing relay' to distribute phishing emails targeting Facebook accounts. The threat actors successfully compromised approximately 30,000 Facebook accounts and are selling them through an illicit storefront. The campaign demonstrates how legitimate cloud services can be weaponized for large-scale credential harvesting operations.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Massive social media account compromise affecting tens of thousands of users and demonstrating new phishing techniques using trusted cloud platforms&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://cybersecuritynews.com/attackers-abuse-google-appsheet-netlify-and-telegram/"&gt;Cybersecurity News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.securityweek.com/new-bluekit-phishing-kit-features-ai-assistant/"&gt;New Bluekit Phishing Kit Features AI Assistant for Attack Automation&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;May 2, 10:50&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Security researchers discovered Bluekit, a new phishing kit still under development that provides users with automated domain registration capabilities and an AI Assistant for streamlining attacks. The tool represents the growing integration of AI into cybercrime operations, potentially lowering barriers to entry for less skilled attackers. The AI assistant could significantly accelerate phishing campaign development and deployment.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;AI-powered cybercrime tools are democratizing sophisticated attacks and potentially increasing the volume and effectiveness of phishing campaigns&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.securityweek.com/new-bluekit-phishing-kit-features-ai-assistant/"&gt;SecurityWeek&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://cybersecuritynews.com/attackers-deploy-aitm-phishing-page/"&gt;Attackers Deploy AiTM Phishing to Bypass MFA and Access Enterprise SaaS Platforms&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;May 2, 06:36&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Two distinct threat groups, CORDIAL SPIDER and SNARKY SPIDER, are conducting aggressive data theft campaigns using Adversary-in-the-Middle (AiTM) phishing to bypass multi-factor authentication. Since October 2025, these groups have operated almost exclusively within trusted SaaS environments like SharePoint, HubSpot, and Google Workspace, completely bypassing traditional endpoint security. The attacks demonstrate a shift toward high-speed, SaaS-centric intrusion methods.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major evolution in attack techniques that bypass traditional security controls and target the SaaS platforms central to modern business operations&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://cybersecuritynews.com/attackers-deploy-aitm-phishing-page/"&gt;Cybersecurity News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.wired.com/story/security-news-this-week-disneyland-now-uses-face-recognition-on-visitors/"&gt;Disneyland Implements Facial Recognition Technology for Visitor Monitoring&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;May 2, 10:30&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Disney has begun using facial recognition technology on visitors at Disneyland, marking a significant expansion of biometric surveillance in entertainment venues. The implementation raises privacy concerns about the collection and use of biometric data from millions of theme park visitors. The deployment represents a growing trend of major entertainment companies adopting facial recognition despite ongoing privacy debates.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major privacy development affecting millions of visitors and setting precedent for biometric surveillance adoption in entertainment and public venues&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.wired.com/story/security-news-this-week-disneyland-now-uses-face-recognition-on-visitors/"&gt;Wired Security&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;AI &amp; Machine Learning&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.wired.com/story/security-news-this-week-disneyland-now-uses-face-recognition-on-visitors/"&gt;NSA Tests Anthropic's Mythos Preview Model to Find Security Vulnerabilities&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;May 2, 10:30&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;The National Security Agency is testing Anthropic's restricted Mythos Preview AI model to identify security vulnerabilities, marking a significant government adoption of advanced AI for cybersecurity purposes. The collaboration represents the growing role of AI models in national security applications and vulnerability research. The testing highlights how government agencies are leveraging cutting-edge AI capabilities for defensive security operations.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major development in AI-government partnerships for national security applications, potentially affecting how AI models are developed and deployed for security purposes&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.wired.com/story/security-news-this-week-disneyland-now-uses-face-recognition-on-visitors/"&gt;Wired Security&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;Technology&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/05/01/uber-wants-to-turn-its-millions-of-drivers-into-a-sensor-grid-for-self-driving-companies/"&gt;Uber Plans to Turn Millions of Drivers Into Sensor Grid for Self-Driving Companies&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;May 2, 06:36&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Uber CTO Praveen Neppalli Naga revealed plans to transform the company's millions of drivers into a sensor network for autonomous vehicle companies through an extension of its AV Labs program. The initiative would leverage Uber's massive driver fleet to collect real-world data for self-driving car development. The plan represents a significant pivot toward becoming infrastructure for the autonomous vehicle industry rather than just a ride-hailing service.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major strategic shift for ride-hailing industry potentially affecting autonomous vehicle development and creating new business models for driver networks&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/05/01/uber-wants-to-turn-its-millions-of-drivers-into-a-sensor-grid-for-self-driving-companies/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://go.theregister.com/feed/www.theregister.com/2026/05/02/dvsa_shrugs_off_outages/"&gt;UK Drivers' Agency Booking System Offline for Week Despite Official Denials&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;May 2, 09:24&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;The DVSA's driving test booking system has spent the week offline according to frustrated users, despite the agency insisting everything is working fine and blaming browser configurations. Users report spending days failing to load the booking system, creating significant disruptions for driving test scheduling. The incident highlights problems with government digital service reliability and communication during outages.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Critical government service outage affecting driving test access and demonstrating ongoing challenges with public digital infrastructure reliability&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://go.theregister.com/feed/www.theregister.com/2026/05/02/dvsa_shrugs_off_outages/"&gt;The Register&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;Business &amp; Markets&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.nytimes.com/2026/05/02/business/spirit-airlines-shutdown.html"&gt;Spirit Airlines Shuts Down After Failed $500M Trump Administration Bailout&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;May 2, 06:51&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Spirit Airlines has permanently ceased operations after failing to secure a $500 million lifeline from the Trump administration, marking the end of a major low-cost carrier. The shutdown eliminates budget travel options for millions of passengers and represents the second bankruptcy in two years for the pioneer of ultra-low-fare flights. The collapse demonstrates the ongoing financial pressures facing the airline industry and the limits of government intervention.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major airline shutdown affecting millions of travelers and demonstrating ongoing financial instability in aviation industry despite government bailout attempts&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.nytimes.com/2026/05/02/business/spirit-airlines-shutdown.html"&gt;NYT Business&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.politico.com/news/2026/05/01/trump-congress-war-terminated-00902681?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS_Syndication"&gt;Trump Declares Iran War 'Terminated' as 60-Day Congressional Authorization Deadline Hits&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;May 2, 06:20&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;President Trump told Congress the Iran war has 'terminated' in a letter attempting to justify why the administration is not seeking congressional authorization after reaching the 60-day War Powers Resolution threshold. The declaration comes as oil prices remain above $120 per barrel and military operations continue in the Middle East. The legal maneuver raises questions about the actual status of military operations and presidential war powers.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Critical legal and geopolitical development affecting military operations, oil markets, and constitutional war powers during ongoing Middle East conflict&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.politico.com/news/2026/05/01/trump-congress-war-terminated-00902681?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS_Syndication"&gt;Politico&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.politico.com/news/2026/05/01/hegseth-withdrawal-us-troops-germany-00903551?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS_Syndication"&gt;Pentagon Orders Withdrawal of 5,000 US Troops from Germany&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;May 2, 05:51&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;The Pentagon ordered the withdrawal of 5,000 US troops from Germany, leaving approximately 33,000 American military personnel in the country. The drawdown follows tensions between President Trump and German leadership over the Iran war and represents a significant reduction in US military presence in Europe. The troop reduction affects NATO alliance dynamics and European security arrangements during ongoing geopolitical tensions.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major military realignment affecting NATO alliance structure and European security during period of geopolitical instability&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.politico.com/news/2026/05/01/hegseth-withdrawal-us-troops-germany-00903551?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS_Syndication"&gt;Politico&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.politico.eu/article/european-commission-options-open-donald-trump-trade-deal-car-tariffs/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS_Syndication"&gt;European Commission Keeps 'Options Open' Over Trump's 25% Auto Tariff Threat&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;May 2, 10:01&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;The European Commission said it will keep its options open in response to President Trump's threat to raise tariffs on EU automobiles to 25 percent. Trump claimed the EU is not living up to its end of a trade agreement struck last summer, escalating trade tensions. The threat could significantly impact European automakers and global automotive supply chains.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major trade threat potentially affecting global automotive industry and EU-US relations with significant implications for car prices and manufacturing&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.politico.eu/article/european-commission-options-open-donald-trump-trade-deal-car-tariffs/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS_Syndication"&gt;Politico EU&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.politico.com/news/2026/05/01/poll-trump-iran-war-00902519?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS_Syndication"&gt;Americans Remain Deeply Skeptical of Iran War, Poll Shows&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;May 2, 09:13&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sixty-one percent of U.S. adults said it was a mistake for the U.S. to use military force against Iran according to a Washington Post-ABC News-Ipsos poll released Friday. The poll reveals significant public opposition to the military engagement despite ongoing operations. The skepticism demonstrates a disconnect between administration policy and public opinion on military intervention.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Significant public opposition to ongoing military operations potentially affecting political support for continued engagement and electoral implications&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.politico.com/news/2026/05/01/poll-trump-iran-war-00902519?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS_Syndication"&gt;Politico&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.politico.com/news/2026/05/01/appeals-court-approves-sweeping-abortion-pill-restrictions-teeing-up-scotus-showdown-00903298?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS_Syndication"&gt;US Appeals Court Approves Sweeping Abortion Pill Restrictions&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;May 2, 07:15&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;A federal appeals court approved sweeping restrictions on abortion pills, setting up a high-stakes Supreme Court showdown. The temporary ruling will curtail nationwide access to a drug used in more than two-thirds of abortions in the U.S. The decision represents a major development in reproductive rights litigation with nationwide implications.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Critical healthcare access ruling affecting millions of women nationwide and setting up major Supreme Court case on reproductive rights&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.politico.com/news/2026/05/01/appeals-court-approves-sweeping-abortion-pill-restrictions-teeing-up-scotus-showdown-00903298?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS_Syndication"&gt;Politico&lt;/a&gt;&lt;br&gt;
 &lt;/p&gt;</content>
   </entry>
 </feed>
