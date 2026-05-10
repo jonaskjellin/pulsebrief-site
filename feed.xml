@@ -5,7 +5,105 @@
   <link href="https://jonaskjellin.github.io/pulsebrief-site/feed.xml" rel="self"/>
   <link href="https://jonaskjellin.github.io/pulsebrief-site/"/>
   <id>https://jonaskjellin.github.io/pulsebrief-site/</id>
-  <updated>2026-05-09T16:40:43.668Z</updated>
+  <updated>2026-05-10T07:21:28.534Z</updated>
+  <entry>
+    <title>Custom — May 10, 2026</title>
+    <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-05-10-custom.html"/>
+    <id>https://jonaskjellin.github.io/pulsebrief-site/2026-05-10-custom.html</id>
+    <updated>2026-05-10T07:21:28.534Z</updated>
+    <content type="html">&lt;p&gt;&lt;h1&gt;PulseBrief's Update Pulse&lt;/h1&gt;&lt;br&gt;
+&lt;em&gt;as of Sun, May 10, 07:21&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Cyber Security&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.bleepingcomputer.com/news/security/jdownloader-site-hacked-to-replace-installers-with-python-rat-malware/"&gt;JDownloader Site Hacked to Replace Installers with Python RAT Malware&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;May 9, 19:27&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;The popular JDownloader download manager website was compromised earlier this week to distribute malicious Windows and Linux installers containing a Python-based remote access trojan. The attack replaced legitimate software installers with malware-infected versions, targeting users of one of the most widely-used download management tools. The compromise demonstrates how attackers are increasingly targeting popular software distribution sites to reach large numbers of victims.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major supply chain attack affecting a widely-used download tool that could impact millions of users globally&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.bleepingcomputer.com/news/security/jdownloader-site-hacked-to-replace-installers-with-python-rat-malware/"&gt;BleepingComputer&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://cybersecuritynews.com/cpanel-and-whm-flaws/"&gt;Critical cPanel and WHM Vulnerabilities Enable Code Execution and DoS Attacks&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;May 10, 05:25&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;cPanel disclosed three critical security vulnerabilities (CVE-2026-29201, CVE-2026-29202, CVE-2026-29203) affecting its widely deployed web hosting control panel and WP Squared platform. The flaws, patched on May 8, expose servers to arbitrary file reads, Perl code injection, and denial-of-service attacks. The vulnerabilities affect critical web hosting infrastructure used by millions of websites worldwide.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Critical web hosting platform vulnerabilities requiring immediate patching to prevent server compromises across hosting providers&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://cybersecuritynews.com/cpanel-and-whm-flaws/"&gt;Cybersecurity News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.freebsd.org/security/advisories/FreeBSD-SA-26:13.exec.asc"&gt;FreeBSD Patches Local Privilege Escalation Vulnerability in execve()&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;May 9, 20:31&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;FreeBSD released a security advisory addressing a local privilege escalation vulnerability in the execve() system call that could allow attackers to gain elevated privileges on affected systems. The vulnerability affects the core execution mechanism for running programs on FreeBSD systems. The fix addresses a critical security flaw in one of the most fundamental system calls in Unix-like operating systems.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Critical operating system vulnerability affecting core system functionality that could enable privilege escalation attacks&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.freebsd.org/security/advisories/FreeBSD-SA-26:13.exec.asc"&gt;FreeBSD Security Advisory&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/05/09/gm-agrees-to-pay-12-75m-in-california-driver-privacy-settlement/"&gt;GM Pays $12.75M in California Driver Privacy Settlement Over Data Collection&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;May 9, 19:05&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;General Motors agreed to pay $12.75 million to settle privacy violations with California law enforcement agencies led by Attorney General Rob Bonta over driver data collection practices. The settlement addresses concerns about how GM collected and shared vehicle data without proper consumer consent. The case highlights growing regulatory scrutiny over automotive data privacy and connected vehicle information sharing.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major automotive privacy enforcement setting precedent for connected vehicle data protection and regulatory compliance costs&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/05/09/gm-agrees-to-pay-12-75m-in-california-driver-privacy-settlement/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;AI &amp; Machine Learning&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theregister.com/ai-and-ml/2026/05/09/google-tweaks-chrome-ai-privacy-wording-insists-processing-stays-on-device/5237580"&gt;Google Tweaks Chrome AI Privacy Wording Amid On-Device Processing Concerns&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;May 9, 17:57&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Google modified privacy language in Chrome regarding AI features after deleting a longstanding privacy assurance, sparking concerns about data processing practices. The company insists that AI processing continues to stay on-device despite the wording changes. The modification has raised questions about Google's commitment to local AI processing and user privacy protections in its browser.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Significant privacy policy change affecting Chrome's AI features that could impact user trust and data protection practices&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.theregister.com/ai-and-ml/2026/05/09/google-tweaks-chrome-ai-privacy-wording-insists-processing-stays-on-device/5237580"&gt;The Register&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag/"&gt;Google Expands Gemini API File Search with Multimodal Capabilities&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;May 10, 03:22&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Google enhanced its Gemini API File Search functionality to support multimodal retrieval-augmented generation (RAG), allowing developers to search across text, images, and other content types. The expansion enables more sophisticated document and media search capabilities within AI applications. The update represents a significant advancement in multimodal AI search and retrieval capabilities for enterprise and developer use.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major AI API enhancement enabling more sophisticated multimodal search capabilities for enterprise AI applications&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag/"&gt;Google AI Blog&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.nytimes.com/2026/05/09/business/dealbook/ai-notetakers-legal-risk.html"&gt;AI Note-Taking Tools Create Attorney-Client Privilege Concerns for Legal Profession&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;May 9, 20:15&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;AI-powered note-taking tools are making lawyers nervous as they capture every comment and joke in meetings, potentially waiving attorney-client privilege protection. The trendy productivity tools could inadvertently compromise confidential communications between lawyers and clients if AI systems record and process privileged information. Legal professionals are grappling with how to use AI productivity tools while maintaining professional obligations and client confidentiality.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Critical legal profession concern that could impact how AI tools are used in sensitive professional settings across industries&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.nytimes.com/2026/05/09/business/dealbook/ai-notetakers-legal-risk.html"&gt;NYT Business&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/05/09/voice-ai-in-india-is-hard-wispr-flow-is-betting-on-it-anyway/"&gt;Wispr Flow Expands Voice AI to India Despite Market Challenges&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;May 10, 02:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Wispr Flow reports accelerated growth in India following its Hinglish rollout, even as voice AI products continue to face significant challenges in diverse linguistic markets. The company is betting on India's multilingual voice AI market despite technical difficulties with accent recognition and language mixing. The expansion highlights both the opportunities and complexities of deploying voice AI in linguistically diverse markets.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Significant voice AI market expansion demonstrating both opportunities and challenges in diverse linguistic environments&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/05/09/voice-ai-in-india-is-hard-wispr-flow-is-betting-on-it-anyway/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.politico.com/news/2026/05/09/faa-artificial-intelligence-00909097"&gt;FAA Plans AI-Powered Overhaul of US Air Traffic Control Systems&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;May 10, 05:37&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;The Federal Aviation Administration unveiled plans for a dramatic AI-powered revamp of America's increasingly complex airspace management systems. The initiative envisions using artificial intelligence to modernize air traffic control operations and handle growing aviation demands. The plan represents one of the most significant proposed integrations of AI into critical national transportation infrastructure.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major AI integration into critical national infrastructure that could transform aviation safety and efficiency&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.politico.com/news/2026/05/09/faa-artificial-intelligence-00909097"&gt;Politico&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Technology&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://lists.debian.org/debian-devel-announce/2026/05/msg00001.html"&gt;Debian Mandates Reproducible Package Builds for Enhanced Security&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;May 10, 05:26&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Debian announced that all packages must now ship with reproducible builds, ensuring that identical source code produces bit-for-bit identical binaries. This security enhancement allows verification that packages haven't been tampered with during the build process. The requirement represents a major step forward in supply chain security for one of the most influential Linux distributions.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major Linux distribution security enhancement that could influence software supply chain security practices industry-wide&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://lists.debian.org/debian-devel-announce/2026/05/msg00001.html"&gt;Debian Developer Announce&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://github.com/imtomt/ymawky"&gt;Developer Creates ARM64 Assembly Web Server for macOS&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;May 10, 03:01&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;A developer built ymawky, a static file web server for macOS written entirely in ARM64 assembly language, supporting GET, PUT, DELETE, HEAD, and OPTIONS requests. The project includes Range header support for video streaming, URL decoding, and security mitigations against slowloris attacks. The unusual project demonstrates low-level systems programming and serves as an educational example of assembly-language web server implementation.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Impressive technical achievement demonstrating assembly-language programming and unusual approach to web server development&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://github.com/imtomt/ymawky"&gt;GitHub - ymawky&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://github.com/nooga/let-go"&gt;Developer Creates Fast-Booting Clojure-Like Language in Go&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;May 9, 17:52&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;A developer released let-go, a Clojure-like language written in pure Go that boots in 7ms and ships as a 10MB static binary, offering 90% compatibility with JVM Clojure. The language is 50x faster to start than the JVM and 3x faster than Babashka while maintaining decent algorithmic performance. The project includes nREPL server support and can be easily embedded in Go programs for CLI, web server, and systems programming applications.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Significant programming language development offering dramatic performance improvements for Clojure-style development&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://github.com/nooga/let-go"&gt;GitHub - let-go&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://zed.dev/theme-builder"&gt;Zed Editor Launches Theme Builder for Custom Visual Styling&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;May 9, 17:30&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Zed Editor released a theme builder tool allowing users to create custom visual themes for the code editor. The tool provides an interface for customizing colors, syntax highlighting, and visual elements to personalize the editing experience. The launch reflects Zed's focus on developer customization and community-driven development tools.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Developer tool enhancement supporting customization and potentially driving adoption of the modern code editor&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://zed.dev/theme-builder"&gt;Zed Theme Builder&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Business &amp; Markets&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.politico.com/news/2026/05/09/state-escalates-trade-row-with-china-over-iran-war-ahead-of-trump-xi-summit-00913421"&gt;US Escalates Trade Tensions with China Over Iran War Ahead of Trump-Xi Summit&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;May 9, 17:48&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;The United States escalated trade disputes with China over Iran war-related issues just days before President Trump's scheduled summit with Xi Jinping in Beijing. Trump will depart for Beijing in under a week alongside American CEOs positioned to negotiate deals with the geopolitical rival. The timing creates significant complexity for the high-stakes diplomatic and economic negotiations between the world's two largest economies.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Critical geopolitical development affecting global trade relations and potentially reshaping US-China economic cooperation&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.politico.com/news/2026/05/09/state-escalates-trade-row-with-china-over-iran-war-ahead-of-trump-xi-summit-00913421"&gt;Politico&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/05/09/fintech-startup-parker-files-for-bankruptcy/"&gt;Fintech Startup Parker Files for Bankruptcy After Funding Struggles&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;May 9, 20:32&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Parker, a well-funded startup offering corporate credit cards and banking services, has filed for bankruptcy and is widely reported to have shut down operations. The company had raised significant venture capital but struggled to achieve sustainable growth in the competitive fintech market. The bankruptcy highlights ongoing challenges in the fintech sector despite earlier investor enthusiasm and funding availability.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Significant fintech failure demonstrating ongoing challenges in the corporate financial services market despite venture funding&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/05/09/fintech-startup-parker-files-for-bankruptcy/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.nytimes.com/2026/05/09/us/frontier-airlines-plane-collision-denver.html"&gt;Frontier Airlines Jet Hits Person on Denver Airport Runway During Takeoff&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;May 9, 20:40&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;A Frontier Airlines plane struck a person on the runway during takeoff at Denver International Airport, forcing the aircraft to abort takeoff and report an engine fire. All passengers and crew were safely evacuated from the aircraft following the incident. The runway collision represents a serious aviation safety incident requiring investigation by federal authorities.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major aviation safety incident affecting airport operations and raising questions about runway security protocols&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.nytimes.com/2026/05/09/us/frontier-airlines-plane-collision-denver.html"&gt;NYT Business&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.politico.eu/article/israel-to-release-gaza-aid-flotilla-activists/"&gt;Israel to Release Gaza Aid Flotilla Activists Following Detention&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;May 9, 16:35&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Israel announced it will release activists from a Gaza aid flotilla, with Spanish-Swedish citizen Saif Abukeshek and Brazilian national Thiago Ávila expected to be deported in the coming days after security detention. The activists were detained as part of efforts to deliver humanitarian aid to Gaza. The releases come amid ongoing international pressure regarding humanitarian access to the territory.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;International humanitarian incident affecting diplomatic relations and Gaza aid delivery efforts&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.politico.eu/article/israel-to-release-gaza-aid-flotilla-activists/"&gt;Politico EU&lt;/a&gt;&lt;br&gt;
+&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>Evening — May 9, 2026</title>
     <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-05-09-evening.html"/>
@@ -2181,94 +2279,6 @@
 &lt;p&gt;Nicole Saphier, a radiologist and former Fox News medical contributor, faces opposition from the Make America Healthy Again movement as Trump's new surgeon general nominee. Saphier represents a more conventional pick than Casey Means, the previous nominee who had stronger MAHA support. The appointment reflects tensions within Trump's health policy coalition.&lt;/p&gt;&lt;br&gt;
 &lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Internal Trump administration health policy conflict that could affect national health initiatives and MAHA movement influence&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
 &lt;p&gt;Sources: &lt;a href="https://www.politico.com/news/2026/05/02/casey-means-maha-surgeon-general-nicole-saphier-00903761?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS_Syndication"&gt;Politico EU&lt;/a&gt;&lt;br&gt;
-&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>Custom — May 3, 2026</title>
-    <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-05-03-custom.html"/>
-    <id>https://jonaskjellin.github.io/pulsebrief-site/2026-05-03-custom.html</id>
-    <updated>2026-05-03T07:14:15.051Z</updated>
-    <content type="html">&lt;p&gt;&lt;h1&gt;PulseBrief's Update Pulse&lt;/h1&gt;&lt;br&gt;
-&lt;em&gt;as of Sun, May 3, 07:14&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;Cyber Security&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.bleepingcomputer.com/news/security/critrical-cpanel-flaw-mass-exploited-in-sorry-ransomware-attacks/"&gt;Critical cPanel Flaw Mass-Exploited in 'Sorry' Ransomware Campaign&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;May 2, 21:54&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;A critical cPanel authentication bypass vulnerability (CVE-2026-41940) is being mass-exploited by attackers deploying 'Sorry' ransomware to breach websites and encrypt data. The flaw, which CISA has ordered federal agencies to patch by Sunday, is also being used in sophisticated campaigns targeting government and military servers in Southeast Asia. Attackers are combining the cPanel exploit with custom zero-day chains to exfiltrate sensitive data including Chinese railway documents.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Critical web hosting infrastructure attack affecting millions of websites with active ransomware deployment and government data theft&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.bleepingcomputer.com/news/security/critrical-cpanel-flaw-mass-exploited-in-sorry-ransomware-attacks/"&gt;BleepingComputer&lt;/a&gt; · &lt;a href="https://cybersecuritynews.com/cpanel-vulnerability-exploited/"&gt;Cybersecurity News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://thehackernews.com/2026/05/cisa-adds-actively-exploited-linux-root.html"&gt;CISA Adds Actively Exploited Linux Root Access Bug to Known Exploited Vulnerabilities&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;May 3, 06:26&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;CISA added CVE-2026-31431, a Linux privilege escalation vulnerability affecting various distributions, to its Known Exploited Vulnerabilities catalog due to active exploitation in the wild. The flaw allows local attackers to gain root access on affected Linux systems. Federal agencies must patch by the mandated deadline as the vulnerability poses significant risk to enterprise Linux deployments.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Critical Linux infrastructure vulnerability with active exploitation requiring immediate patching across enterprise environments&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://thehackernews.com/2026/05/cisa-adds-actively-exploited-linux-root.html"&gt;The Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://cybersecuritynews.com/trellix-source-code-breach/"&gt;Trellix Source Code Breach Exposes Cybersecurity Vendor Code Repository&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;May 2, 16:38&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Major cybersecurity company Trellix disclosed that attackers gained unauthorized access to a portion of its source code repository. The company immediately engaged forensic experts and notified law enforcement about the incident. The breach represents a significant security concern as it involves proprietary source code from a vendor whose security products are widely deployed across enterprise environments.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major cybersecurity vendor compromise potentially exposing security product source code and affecting enterprise security infrastructure trust&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://cybersecuritynews.com/trellix-source-code-breach/"&gt;Cybersecurity News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;AI &amp; Machine Learning&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/"&gt;Chinese AI Model Kimi K2.6 Outperforms Claude, GPT-5.5, and Gemini in Coding Challenge&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;May 3, 04:05&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;An open-weights Chinese AI model called Kimi K2.6 has surpassed leading Western models including Claude, GPT-5.5, and Gemini in a programming challenge. The achievement represents a significant milestone for Chinese AI development and demonstrates competitive performance from open-weight models. The result challenges assumptions about the AI capabilities gap between Western and Chinese AI labs.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Breakthrough showing Chinese AI models achieving parity with leading Western systems and proving open-weight models can compete with proprietary ones&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/"&gt;Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/05/02/ai-generated-actors-and-scripts-are-now-ineligible-for-oscars/"&gt;Academy Awards Bars AI-Generated Actors and Scripts from Oscar Eligibility&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;May 2, 21:54&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;The Academy of Motion Picture Arts and Sciences announced that AI-generated actors and scripts are now ineligible for Oscar consideration. The decision represents the film industry's response to growing AI capabilities in content creation and performance. The ruling affects the future of AI in filmmaking and sets a precedent for how traditional entertainment institutions will handle AI-generated content.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major entertainment industry policy affecting AI adoption in filmmaking and setting precedent for how creative institutions handle AI-generated content&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/05/02/ai-generated-actors-and-scripts-are-now-ineligible-for-oscars/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.nytimes.com/2026/05/01/business/surveillance-pricing-groceries-maryland.html"&gt;Maryland Becomes First State to Ban AI-Driven Dynamic Pricing in Grocery Stores&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;May 1, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Maryland enacted the first state law prohibiting AI-powered surveillance pricing systems that adjust grocery prices based on customer data analysis. The legislation targets dynamic pricing algorithms that use personal information to set individualized prices for consumers. The law establishes a precedent for regulating AI pricing systems and could influence similar legislation in other states.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;First-of-its-kind AI regulation affecting retail pricing practices and potentially influencing nationwide AI commerce regulation&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.nytimes.com/2026/05/01/business/surveillance-pricing-groceries-maryland.html"&gt;New York Times&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;Technology&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/05/02/farewell-jeeves-ask-com-shuts-down/"&gt;Ask.com Shuts Down After 28 Years of Operation&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;May 2, 21:11&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Ask.com, one of the original web search engines launched in 1996, permanently shut down its search services after nearly three decades. Owner IAC announced it is discontinuing the search business that once competed with Google and Yahoo in the early internet era. The closure marks the end of a significant chapter in search engine history and reflects the continued consolidation of the search market.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;End of major internet era as historic search engine closes, demonstrating ongoing market consolidation and challenges for Google alternatives&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/05/02/farewell-jeeves-ask-com-shuts-down/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://github.com/microsoft/vscode/pull/310226"&gt;VS Code Automatically Adds 'Co-Authored-by Copilot' to Git Commits&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;May 2, 19:57&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Microsoft's VS Code is automatically inserting 'Co-Authored-by: GitHub Copilot' attributions into Git commits regardless of whether developers actually used Copilot assistance. The behavior has sparked controversy among developers who object to unwanted AI attribution in their commit history. The issue highlights broader questions about AI transparency and attribution in developer tools.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major developer tool controversy affecting Git history attribution and raising questions about AI transparency in coding workflows&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://github.com/microsoft/vscode/pull/310226"&gt;GitHub&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://nethack.org/v500/release.html"&gt;NetHack 5.0.0 Released After Years of Development&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;May 2, 18:03&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;The classic roguelike game NetHack released version 5.0.0, marking a major milestone after years of development by the NetHack DevTeam. The release includes significant gameplay updates, new features, and modernizations to the decades-old dungeon crawler. NetHack remains one of the longest-running open source games and a foundational influence on the roguelike genre.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major release of influential open source game demonstrating long-term community-driven software development and gaming history preservation&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://nethack.org/v500/release.html"&gt;NetHack&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://blog.haskell.org/a-couple-million-lines-of-haskell/"&gt;Mercury Engineering Shares Experience Running Millions of Lines of Haskell in Production&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;May 3, 24:01&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Mercury, a banking infrastructure company, published insights about running a couple million lines of Haskell code in production environments. The detailed account provides rare visibility into large-scale functional programming deployment and production engineering practices. The experience demonstrates how functional programming languages can scale to enterprise production systems.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Rare insight into large-scale functional programming deployment showing alternative approaches to enterprise software architecture&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://blog.haskell.org/a-couple-million-lines-of-haskell/"&gt;Haskell Blog&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;Business &amp; Markets&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theverge.com/business/922788/spirit-airlines-shutdown"&gt;Spirit Airlines Permanently Shuts Down Operations After Financial Collapse&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;May 2, 17:51&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Spirit Airlines ceased all operations and canceled flights early Saturday morning after 34 years in business, marking the end of a major ultra-low-cost carrier. The shutdown stranded passengers and eliminated budget travel options for millions after the airline's second bankruptcy in two years. The collapse demonstrates ongoing financial pressures in the aviation industry despite the carrier's role in pioneering the ultra-low-fare model.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major airline shutdown affecting millions of travelers and demonstrating ongoing financial instability in aviation industry&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.theverge.com/business/922788/spirit-airlines-shutdown"&gt;The Verge&lt;/a&gt; · &lt;a href="https://www.nytimes.com/2026/05/02/business/spirit-airlines-shutdown.html"&gt;New York Times&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.politico.eu/article/trump-casts-doubt-on-irans-new-peace-proposal/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS_Syndication"&gt;Trump Casts Doubt on Iran's Peace Proposal Amid Ongoing Conflict&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;May 3, 06:27&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;President Trump expressed skepticism about Iran's new peace proposal while conversations between the countries continue. The president had previously rejected an earlier Iranian proposal as military operations persist in the Middle East. The diplomatic developments come as Trump faces congressional pressure over war powers authorization and public skepticism about the military engagement.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Critical diplomatic development potentially affecting ongoing Middle East conflict and oil markets during tense geopolitical period&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.politico.eu/article/trump-casts-doubt-on-irans-new-peace-proposal/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS_Syndication"&gt;Politico EU&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/05/02/netflix-delays-greta-gerwigs-narnia-movie-for-big-theatrical-push-in-2027/"&gt;Netflix Plans Wide Theatrical Release for Greta Gerwig's Narnia Films&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;May 2, 17:05&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Netflix announced it will give Greta Gerwig's upcoming Narnia adaptation 'The Magician's Nephew' a wide theatrical release in 2027, breaking from its streaming-first strategy. The decision represents a significant shift toward hybrid distribution models as Netflix seeks to compete with traditional studios. The move could signal broader changes in how streaming services approach premium content distribution and theatrical partnerships.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major streaming strategy shift potentially affecting film industry distribution models and Netflix's competitive positioning against traditional studios&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/05/02/netflix-delays-greta-gerwigs-narnia-movie-for-big-theatrical-push-in-2027/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theverge.com/policy/922380/new-mexico-meta-public-nuisance-trial-kids-safety"&gt;New Mexico Meta Trial Could Force Major Platform Changes Beyond $375M Settlement&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;May 2, 18:25&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Meta faces a three-week public nuisance trial in New Mexico that could result in court-ordered changes to Facebook, Instagram, and WhatsApp, beyond the $375 million settlement already paid. Proposed changes include age verification for New Mexico users, prohibiting end-to-end encryption for minors, and limiting usage to 90 minutes daily. The case could set precedents affecting social media regulation nationwide and platform design requirements.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Landmark social media regulation case potentially forcing major platform changes and setting precedents for nationwide tech regulation&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.theverge.com/policy/922380/new-mexico-meta-public-nuisance-trial-kids-safety"&gt;The Verge&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.politico.com/news/2026/05/02/abortion-pill-telehealth-mifepristone-supreme-court-00903861?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS_Syndication"&gt;Federal Appeals Court Restricts Abortion Pill Access Nationwide&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;May 2, 17:56&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;A federal appeals court approved sweeping restrictions on abortion pills, rolling back access to mifepristone nationwide and setting up a potential Supreme Court showdown. The ruling affects a medication used in more than two-thirds of abortions in the United States. Drugmakers have filed emergency appeals to restore access as the restrictions create significant barriers to reproductive healthcare access.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Critical healthcare access ruling affecting millions of women nationwide and setting up major Supreme Court case on reproductive rights&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.politico.com/news/2026/05/02/abortion-pill-telehealth-mifepristone-supreme-court-00903861?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS_Syndication"&gt;Politico&lt;/a&gt;&lt;br&gt;
 &lt;/p&gt;</content>
   </entry>
 </feed>
