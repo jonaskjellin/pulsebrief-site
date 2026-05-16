@@ -5,7 +5,75 @@
   <link href="https://jonaskjellin.github.io/pulsebrief-site/feed.xml" rel="self"/>
   <link href="https://jonaskjellin.github.io/pulsebrief-site/"/>
   <id>https://jonaskjellin.github.io/pulsebrief-site/</id>
-  <updated>2026-05-16T11:45:02.796Z</updated>
+  <updated>2026-05-16T16:44:32.792Z</updated>
+  <entry>
+    <title>Evening — May 16, 2026</title>
+    <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-05-16-evening.html"/>
+    <id>https://jonaskjellin.github.io/pulsebrief-site/2026-05-16-evening.html</id>
+    <updated>2026-05-16T16:44:32.792Z</updated>
+    <content type="html">&lt;p&gt;&lt;h1&gt;PulseBrief's Evening Pulse&lt;/h1&gt;&lt;br&gt;
+&lt;em&gt;Sat, May 16, 11:00 → Sat, May 16, 16:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Cyber Security&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.bleepingcomputer.com/news/security/russian-hackers-turn-kazuar-backdoor-into-modular-p2p-botnet/"&gt;Russian FSB Group Evolves Kazuar Backdoor Into Modular P2P Botnet&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;May 16, 14:15&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Russian state-sponsored group Secret Blizzard (also known as Turla) has transformed its long-running Kazuar backdoor into a sophisticated modular peer-to-peer botnet designed for stealth and long-term persistence. The FSB-affiliated group's enhanced malware demonstrates advanced command-and-control capabilities that are significantly harder to detect and disrupt than traditional centralized botnets. The evolution represents a major advancement in nation-state persistent access tools that could affect critical infrastructure and high-value targets.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Nation-state malware evolution demonstrates increasingly sophisticated persistent access capabilities that could affect critical infrastructure and enterprise security&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.bleepingcomputer.com/news/security/russian-hackers-turn-kazuar-backdoor-into-modular-p2p-botnet/"&gt;BleepingComputer&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://thehackernews.com/2026/05/funnel-builder-flaw-under-active.html"&gt;WordPress Plugin Vulnerability Actively Exploited to Steal WooCommerce Credit Cards&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;May 16, 15:20&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;A critical vulnerability in the Funnel Builder WordPress plugin is being actively exploited to inject malicious JavaScript into WooCommerce checkout pages, enabling real-time credit card theft. The attacks target e-commerce websites using the popular plugin, directly compromising payment information during the checkout process. The exploitation demonstrates how supply chain vulnerabilities in website plugins can directly impact financial transactions and customer trust.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;E-commerce payment theft through website plugins directly affects online businesses and millions of customers' financial security&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://thehackernews.com/2026/05/funnel-builder-flaw-under-active.html"&gt;The Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;AI &amp; Machine Learning&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/05/16/openai-co-founder-greg-brockman-reportedly-takes-charge-of-product-strategy/"&gt;OpenAI Reorganizes Leadership with Brockman Taking Product Control&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;May 16, 15:33&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;OpenAI co-founder Greg Brockman has officially taken control of the company's product division as part of a broader executive restructuring aimed at unifying ChatGPT and Codex into a single core experience. The reorganization represents another significant leadership change at the most influential AI company, coming amid ongoing legal battles with Elon Musk. The move signals OpenAI's strategic focus on consolidating its product offerings and streamlining development efforts.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Leadership changes at the most influential AI company could significantly impact AI product development and industry direction&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/05/16/openai-co-founder-greg-brockman-reportedly-takes-charge-of-product-strategy/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://nvlabs.github.io/Sana/WM/"&gt;NVIDIA Releases SANA-WM Open-Source World Model for High-Quality Video Generation&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;May 16, 12:06&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;NVIDIA Labs released SANA-WM, a 2.6-billion parameter open-source world model capable of generating one-minute 720p videos, representing a significant advance in open AI video generation capabilities. The model demonstrates substantial improvements in video quality and length compared to previous open-source alternatives, bringing high-quality video generation closer to widespread accessibility. The release continues the trend of making sophisticated AI video capabilities available to researchers and developers outside major tech companies.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;High-quality open-source video generation models could democratize advanced AI video capabilities and accelerate creative applications&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://nvlabs.github.io/Sana/WM/"&gt;Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.seangoedecke.com/steering-vectors/"&gt;DeepSeek-V4-Flash Advances LLM Steering Vector Research&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;May 16, 14:58&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;The release of DeepSeek-V4-Flash has renewed interest in LLM steering vectors, a technique for controlling AI model behavior and outputs through mathematical interventions. The model's architecture appears particularly responsive to steering techniques, enabling researchers to better understand and control how language models process and generate content. This development could lead to more controllable and safer AI systems that can be directed away from harmful outputs.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Advanced AI control techniques could enable safer and more reliable AI systems by providing better mechanisms for directing model behavior&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.seangoedecke.com/steering-vectors/"&gt;Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Technology&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/05/16/60b-ai-chip-darling-cerebras-almost-died-early-on-burning-8m-a-month/"&gt;Cerebras AI Chip Company Overcame Near-Death Experience to Reach $60B Valuation&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;May 16, 15:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Cerebras Systems, now valued at $60 billion following 2026's largest tech IPO, nearly collapsed in its early years while burning $8 million per month developing what many considered an impossible chip design. The company's wafer-scale engine, which uses an entire silicon wafer as a single processor, faced massive technical and financial challenges before becoming one of the most valuable AI hardware companies. The success story demonstrates how high-risk AI hardware ventures can achieve massive valuations despite early struggles.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major AI hardware success story shows how high-risk semiconductor ventures are reshaping the technology industry and AI infrastructure&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/05/16/60b-ai-chip-darling-cerebras-almost-died-early-on-burning-8m-a-month/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/05/16/users-turn-to-jailbreaking-their-older-kindles-as-amazon-ends-support/"&gt;Users Jailbreak Older Kindles as Amazon Ends Support&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;May 16, 14:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Kindle users are increasingly turning to jailbreaking their older e-readers to continue adding books after Amazon ended official support for legacy devices. The workaround allows users to bypass Amazon's restrictions and install alternative software, though it carries risks including potential device bricking and warranty voidance. The trend highlights growing consumer frustration with planned obsolescence in digital devices and the desire to extend the useful life of functional hardware.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Device longevity concerns demonstrate growing consumer resistance to planned obsolescence and desire for greater control over purchased technology&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/05/16/users-turn-to-jailbreaking-their-older-kindles-as-amazon-ends-support/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://mag.openrockets.com/p/how-an-australian-teen-team-is-making-radio-astronomy-affordable-for-rural-schools-4894opuisyhfdisubgi/?b=2"&gt;Australian Teens Develop Affordable Radio Astronomy Kit for Schools&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;May 16, 15:12&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;An Australian teenage team has created an affordable radio astronomy system designed to bring space science education to rural and remote schools that lack access to expensive scientific equipment. Their open-source project aims to democratize radio astronomy education by providing schools with low-cost alternatives to traditional radio telescopes that can cost tens of thousands of dollars. The initiative represents how young innovators are addressing educational inequality in STEM fields through accessible technology.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Educational technology innovation by young developers could significantly expand access to advanced science education in underserved communities&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://mag.openrockets.com/p/how-an-australian-teen-team-is-making-radio-astronomy-affordable-for-rural-schools-4894opuisyhfdisubgi/?b=2"&gt;Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Business &amp; Markets&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.nytimes.com/2026/05/15/us/politics/trump-allies-weaponization-fund.html"&gt;Trump Administration Considers $1.7B Fund for Allies Investigated Under Biden&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;May 16, 15:42&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;The Trump administration is weighing a highly unusual $1.7 billion taxpayer-funded program to compensate allies who were investigated during the Biden administration, though the plan hasn't been finalized or approved. Critics denounce the proposal as a vast political slush fund that would use public money for partisan purposes, representing a significant escalation in using federal resources to address perceived political grievances. The unprecedented compensation scheme raises serious questions about the appropriate use of taxpayer funds for political purposes.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Unprecedented political compensation fund could set dangerous precedents for using taxpayer money for partisan purposes and government accountability&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.nytimes.com/2026/05/15/us/politics/trump-allies-weaponization-fund.html"&gt;NYT Business&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.nytimes.com/2026/05/16/business/dealbook/debt-100-percent-gdp.html"&gt;U.S. National Debt Exceeds 100% of GDP as Fiscal Concerns Mount&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;May 16, 12:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;The U.S. national debt has surpassed 100% of GDP, marking a significant fiscal milestone that Washington has largely brushed aside despite mounting economic implications. While debt-to-GDP ratios above 100% aren't unprecedented historically, the trend reflects growing fiscal challenges that could constrain future policy options and economic flexibility. The milestone comes amid ongoing debates about government spending, taxation, and long-term fiscal sustainability.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major fiscal milestone could impact future economic policy flexibility and government's ability to respond to crises or invest in priorities&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.nytimes.com/2026/05/16/business/dealbook/debt-100-percent-gdp.html"&gt;NYT Business&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.politico.eu/article/vladimir-putin-xi-jinping-visit-china-just-days-after-trump/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS_Syndication"&gt;Putin to Visit China Days After Trump Summit&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;May 16, 11:08&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Russian President Vladimir Putin will meet with Chinese President Xi Jinping in Beijing on May 19-20, just days after Trump's departure from China, according to Kremlin announcements. The timing of Putin's visit immediately following Trump's summit suggests coordinated diplomatic efforts between Russia and China in response to U.S. engagement. The back-to-back meetings highlight the complex geopolitical dynamics as major powers navigate relationships amid ongoing conflicts and economic tensions.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Coordinated Russia-China diplomacy following U.S. engagement could significantly impact global geopolitical alignments and crisis resolution efforts&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.politico.eu/article/vladimir-putin-xi-jinping-visit-china-just-days-after-trump/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS_Syndication"&gt;Politico EU&lt;/a&gt;&lt;br&gt;
+&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>Afternoon — May 16, 2026</title>
     <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-05-16-afternoon.html"/>
@@ -2406,94 +2474,6 @@
 &lt;p&gt;Israel announced it will release activists from a Gaza aid flotilla, with Spanish-Swedish citizen Saif Abukeshek and Brazilian national Thiago Ávila expected to be deported in the coming days after security detention. The activists were detained as part of efforts to deliver humanitarian aid to Gaza. The releases come amid ongoing international pressure regarding humanitarian access to the territory.&lt;/p&gt;&lt;br&gt;
 &lt;p&gt;&lt;blockquote&gt;&lt;em&gt;International humanitarian incident affecting diplomatic relations and Gaza aid delivery efforts&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
 &lt;p&gt;Sources: &lt;a href="https://www.politico.eu/article/israel-to-release-gaza-aid-flotilla-activists/"&gt;Politico EU&lt;/a&gt;&lt;br&gt;
-&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>Evening — May 9, 2026</title>
-    <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-05-09-evening.html"/>
-    <id>https://jonaskjellin.github.io/pulsebrief-site/2026-05-09-evening.html</id>
-    <updated>2026-05-09T16:40:43.668Z</updated>
-    <content type="html">&lt;p&gt;&lt;h1&gt;PulseBrief's Evening Pulse&lt;/h1&gt;&lt;br&gt;
-&lt;em&gt;Sat, May 9, 11:00 → Sat, May 9, 16:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;Cyber Security&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.bleepingcomputer.com/news/security/fake-openai-repository-on-hugging-face-pushes-infostealer-malware/"&gt;Fake OpenAI Repository on Hugging Face Delivers Infostealer Malware&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;May 9, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;A malicious Hugging Face repository impersonating OpenAI's 'Privacy Filter' project reached the platform's trending list and delivered information-stealing malware to Windows users. The fake repository exploited the trust associated with OpenAI's brand to distribute malware through one of the most popular AI model hosting platforms. The incident highlights growing security risks as attackers target AI platforms and repositories to distribute malware.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Demonstrates how AI platforms are becoming attack vectors and the security risks of open AI model repositories&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.bleepingcomputer.com/news/security/fake-openai-repository-on-hugging-face-pushes-infostealer-malware/"&gt;BleepingComputer&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://cyberinsider.com/grapheneos-fixes-android-vpn-leak-google-refused-to-patch/"&gt;GrapheneOS Fixes Android VPN Leak Google Refused to Patch&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;May 9, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;GrapheneOS has fixed a VPN leak vulnerability in Android that Google declined to address, demonstrating how the privacy-focused Android distribution is filling security gaps left by the official OS. The leak could potentially expose user traffic that was supposed to be protected by VPN connections. The fix highlights ongoing concerns about Google's commitment to patching certain privacy and security issues in Android.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Shows critical VPN privacy vulnerability affecting Android users that Google won't fix, impacting millions of VPN users&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://cyberinsider.com/grapheneos-fixes-android-vpn-leak-google-refused-to-patch/"&gt;Cyberinsider&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;AI &amp; Machine Learning&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://thenewstack.io/subquadratic-12-million-context-window/"&gt;Subquadratic Debuts 12M Token Context Window Breakthrough&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;May 9, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Subquadratic has achieved a 12 million token context window, representing a massive leap in AI model capabilities for processing extremely long documents and conversations. The breakthrough promises to enable AI models to maintain context across entire books, legal documents, or extended conversations without losing coherence. This advancement could fundamentally change how AI systems handle complex, long-form content and multi-turn interactions.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major AI capability breakthrough that could transform document processing and long-form AI applications&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://thenewstack.io/subquadratic-12-million-context-window/"&gt;The New Stack&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.nytimes.com/2026/05/09/business/dealbook/ai-notetakers-legal-risk.html"&gt;AI Note Takers Create Attorney-Client Privilege Concerns for Lawyers&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;May 9, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;AI-powered note-taking tools are making lawyers nervous as they capture every comment in meetings, potentially waiving attorney-client privilege protection. The trendy productivity tools could inadvertently compromise confidential communications between lawyers and clients if the AI systems record and process privileged information. Legal professionals are grappling with how to use AI productivity tools while maintaining professional obligations and client confidentiality.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Critical legal profession concern that could impact how AI tools are used in sensitive professional settings&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.nytimes.com/2026/05/09/business/dealbook/ai-notetakers-legal-risk.html"&gt;NYT Business&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://venturebeat.com/infrastructure/intent-based-chaos-testing-is-designed-for-when-ai-behaves-confidently-and-wrongly"&gt;Intent-Based Chaos Testing Targets Confident but Wrong AI Behavior&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;May 9, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;A new approach to testing autonomous AI systems focuses on scenarios where AI behaves confidently but incorrectly, addressing critical gaps in current testing methodologies. The technique is designed to prevent catastrophic failures like an observability agent triggering unnecessary rollbacks that cause hours-long outages. Only 14.4% of AI agents reach production with full security approval, highlighting the urgent need for better testing frameworks for autonomous systems.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Addresses critical testing gaps that could prevent catastrophic AI failures in production enterprise systems&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://venturebeat.com/infrastructure/intent-based-chaos-testing-is-designed-for-when-ai-behaves-confidently-and-wrongly"&gt;VentureBeat&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/05/09/nvidia-has-already-committed-40b-to-equity-ai-deals-this-year/"&gt;NVIDIA Commits $40B to AI Equity Deals in 2026&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;May 9, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;NVIDIA has already committed $40 billion to equity AI deals this year, demonstrating the chip giant's massive investment in the AI ecosystem beyond just hardware sales. The investments reflect NVIDIA's strategy to build a comprehensive AI platform and maintain its dominance in the rapidly growing artificial intelligence market. The scale of investment shows how NVIDIA is using its AI chip profits to shape the entire AI industry landscape.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Massive corporate investment demonstrating NVIDIA's strategy to control AI ecosystem development and market direction&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/05/09/nvidia-has-already-committed-40b-to-equity-ai-deals-this-year/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;Technology&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://internetarchive.ch/"&gt;Internet Archive Switzerland Launches Independent Digital Preservation&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;May 9, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Internet Archive Switzerland has been established as an independent digital preservation initiative, extending the mission of preserving digital culture and knowledge beyond the main Internet Archive. The Swiss organization aims to provide additional redundancy and geographic diversity for digital preservation efforts. The launch reflects growing recognition of the importance of distributed digital preservation infrastructure.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Important expansion of digital preservation infrastructure that could provide backup for critical internet history&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://internetarchive.ch/"&gt;Internet Archive Switzerland&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://dillo-browser.org/lab/web-fork/"&gt;Dillo Browser Project Proposes 'Forking the Web' Initiative&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;May 9, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;The Dillo browser project has proposed 'forking the web' to create a simpler, more sustainable alternative to the increasingly complex modern web ecosystem. The initiative aims to develop web standards and technologies that prioritize simplicity, accessibility, and resource efficiency over feature bloat. The proposal reflects growing frustration with web complexity and the dominance of resource-intensive web technologies.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Significant web development philosophy challenge that could influence future web standards and browser development&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://dillo-browser.org/lab/web-fork/"&gt;Dillo Browser&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theregister.com/software/2026/05/09/macos-27-threatens-to-bury-time-capsule-foss-brings-a-shovel/5234824"&gt;macOS 27 Threatens Time Capsule Support, Open Source Provides Alternative&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;May 9, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Apple's upcoming macOS 27 threatens to end support for Time Capsule backup devices that only support older AFP and SMB1 protocols, but open source solutions using NetBSD are providing alternatives. The aging backup devices face obsolescence as Apple moves to modern networking protocols and security standards. Open source developers are creating workarounds to extend the life of Time Capsule devices for users who still rely on them.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Apple ecosystem change forcing hardware obsolescence that affects backup strategies for longtime Mac users&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.theregister.com/software/2026/05/09/macos-27-threatens-to-bury-time-capsule-foss-brings-a-shovel/5234824"&gt;The Register&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;Business &amp; Markets&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.nytimes.com/2026/05/09/business/china-april-trade-exports-imports.html"&gt;China Sets Export Records Ahead of Trump's Beijing Visit&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;May 9, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;China's exports surged to new records in April while its trade surplus with the United States widened, occurring just ahead of President Trump's scheduled visit to Beijing next week. The strong trade performance comes despite high energy costs and ongoing geopolitical tensions that have affected global commerce. The record-setting data could significantly influence the upcoming negotiations between the world's two largest economies.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Critical trade data that could heavily impact upcoming U.S.-China negotiations and global economic relations&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.nytimes.com/2026/05/09/business/china-april-trade-exports-imports.html"&gt;NYT Business&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.nytimes.com/2026/05/09/business/jetblue-airways-spirit.html"&gt;JetBlue Expands as Spirit Airlines Struggles with Financial Difficulties&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;May 9, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;JetBlue Airways is adding flights at Spirit Airlines' former home airport as the budget carrier struggles with financial difficulties, presenting an opportunity for JetBlue to expand its market presence. The move represents JetBlue's attempt to turn a profit again by capitalizing on reduced competition in key markets. Spirit's operational challenges are creating market opportunities for competitors in the ultra-low-cost airline segment.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major airline industry shift that could reshape low-cost air travel markets and competitive dynamics&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.nytimes.com/2026/05/09/business/jetblue-airways-spirit.html"&gt;NYT Business&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.nytimes.com/2026/05/09/business/retirement-home-equity-selling-your-house.html"&gt;Home Equity May Not Provide Expected Retirement Safety Net&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;May 9, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Retirees who expect their homes to serve as a financial safety net may be disappointed, as older homeowners often can't afford to maintain and renovate properties, leading to thousands in lost value when they sell. The reality of home maintenance costs and market conditions means many retirees receive less than expected from their primary asset. The issue affects retirement planning strategies that rely heavily on home equity for financial security.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Critical retirement planning concern affecting millions of older Americans' financial security and housing wealth expectations&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.nytimes.com/2026/05/09/business/retirement-home-equity-selling-your-house.html"&gt;NYT Business&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.nytimes.com/2026/05/09/business/media/the-view-fcc-trump.html"&gt;'The View' at Center of Trump Administration Free Speech Battle&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;May 9, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;The Trump administration's focus on 'The View' television show has placed the 29-year-old broadcast program at the center of a free speech battle, demonstrating the enduring influence of traditional TV in the digital age. The administration's attention to the show reflects ongoing tensions between political leaders and media commentary programs. The controversy highlights how legacy broadcast television continues to wield significant political influence despite the rise of digital media.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Significant media-government conflict that could impact broadcast television regulation and free speech protections&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.nytimes.com/2026/05/09/business/media/the-view-fcc-trump.html"&gt;NYT Business&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.politico.eu/article/eu-countries-prepare-repatriation-hantavirus-cruise-passengers/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS_Syndication"&gt;EU Countries Prepare Hantavirus Cruise Passenger Repatriation&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;May 9, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;EU countries are preparing to repatriate passengers from a cruise ship affected by hantavirus, with WHO coordinating the ship's arrival in Tenerife. The outbreak represents a significant public health challenge requiring international coordination and emergency response protocols. The situation demonstrates how infectious disease outbreaks can quickly become international incidents requiring multilateral cooperation.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major international health emergency requiring coordinated EU response and potentially affecting travel industry&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.politico.eu/article/eu-countries-prepare-repatriation-hantavirus-cruise-passengers/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS_Syndication"&gt;Politico EU&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.politico.eu/article/us-forces-strike-iran-oil-tankers-while-waiting-tehran-peace-proposal/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS_Syndication"&gt;US Strikes Iranian Oil Tankers Amid Fragile Ceasefire&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;May 9, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;US forces struck Iranian oil tankers near the Strait of Hormuz while awaiting Tehran's response to a peace proposal, casting doubt on a tenuous ceasefire that the Trump administration claims is still holding. The attacks on ships in the critical oil shipping route threaten to escalate tensions despite ongoing diplomatic efforts. The strikes highlight the fragile nature of Middle East ceasefires and their impact on global energy security.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Critical escalation in Middle East tensions affecting global oil markets and international diplomatic efforts&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.politico.eu/article/us-forces-strike-iran-oil-tankers-while-waiting-tehran-peace-proposal/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS_Syndication"&gt;Politico EU&lt;/a&gt;&lt;br&gt;
 &lt;/p&gt;</content>
   </entry>
 </feed>
