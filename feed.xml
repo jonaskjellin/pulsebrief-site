@@ -5,7 +5,110 @@
   <link href="https://jonaskjellin.github.io/pulsebrief-site/feed.xml" rel="self"/>
   <link href="https://jonaskjellin.github.io/pulsebrief-site/"/>
   <id>https://jonaskjellin.github.io/pulsebrief-site/</id>
-  <updated>2026-05-16T16:44:32.792Z</updated>
+  <updated>2026-05-17T07:30:51.343Z</updated>
+  <entry>
+    <title>Custom — May 17, 2026</title>
+    <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-05-17-custom.html"/>
+    <id>https://jonaskjellin.github.io/pulsebrief-site/2026-05-17-custom.html</id>
+    <updated>2026-05-17T07:30:51.343Z</updated>
+    <content type="html">&lt;p&gt;&lt;h1&gt;PulseBrief's Update Pulse&lt;/h1&gt;&lt;br&gt;
+&lt;em&gt;as of Sun, May 17, 07:30&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Cyber Security&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://cybersecuritynews.com/first-public-macos-kernel-exploit/"&gt;First Public macOS Kernel Exploit Developed for Apple M5 Silicon Using AI&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;May 17, 02:48&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Security researchers successfully created the first public macOS kernel exploit for Apple's M5 silicon, achieving local privilege escalation on macOS 26.4.1 within just five days using the Mythos AI tool. The exploit bypasses Apple's hardware-level memory protection and demonstrates how AI is accelerating vulnerability research and exploit development. The breakthrough represents a significant advancement in attacking Apple's most secure silicon and highlights AI's growing role in offensive security research.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Demonstrates AI-accelerated exploit development capabilities against the most secure modern hardware platforms&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://cybersecuritynews.com/first-public-macos-kernel-exploit/"&gt;Cybersecurity News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.bleepingcomputer.com/news/security/microsoft-rejects-critical-azure-vulnerability-report-no-cve-issued/"&gt;Microsoft Rejects Azure Vulnerability Report Despite Silent Fix&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;May 16, 20:55&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;A security researcher claims Microsoft quietly fixed an Azure Backup for AKS vulnerability after rejecting his report and without issuing a CVE identifier. Microsoft disputes the claim, stating the behavior was expected and that no product changes were made, despite the researcher documenting evidence of a silent fix. The incident raises questions about vulnerability disclosure transparency and whether critical cloud infrastructure flaws are being addressed without proper public notification.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Questions about cloud security transparency could affect trust in critical enterprise infrastructure vulnerability management&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.bleepingcomputer.com/news/security/microsoft-rejects-critical-azure-vulnerability-report-no-cve-issued/"&gt;BleepingComputer&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://twitter.com/grafana/status/2055827123236171827"&gt;Grafana Labs Reports Internal Source Code Access Incident&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;May 17, 03:48&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Grafana Labs disclosed that unauthorized parties gained access to internal source code, marking another significant supply chain security incident affecting developer tools infrastructure. The company is investigating the extent of the breach and potential impact on their widely-used monitoring and observability platform. The incident highlights ongoing security challenges facing critical developer infrastructure providers.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Developer infrastructure breaches could compromise monitoring systems used across enterprise environments&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://twitter.com/grafana/status/2055827123236171827"&gt;Twitter/Grafana&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;AI &amp; Machine Learning&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://openai.com/index/malta-chatgpt-plus-partnership/"&gt;OpenAI Partners with Malta to Provide ChatGPT Plus to All Citizens&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;May 16, 20:14&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;OpenAI announced a groundbreaking partnership with the Government of Malta to roll out ChatGPT Plus access to all Maltese citizens, marking the first national-scale deployment of premium AI services. The initiative represents a significant milestone in AI democratization and government adoption of large language models for citizen services. The partnership could serve as a model for other small nations seeking to rapidly integrate AI capabilities into public services.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;First national AI deployment could establish precedents for government-sponsored AI access and citizen services&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://openai.com/index/malta-chatgpt-plus-partnership/"&gt;OpenAI&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://venturebeat.com/technology/the-enterprise-risk-nobody-is-modeling-ai-is-replacing-the-very-experts-it-needs-to-learn-from"&gt;Enterprise Risk: AI Replacing the Experts Needed for Training&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;May 16, 21:05&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;A new analysis warns that AI systems face a critical sustainability problem as they replace the human experts needed to evaluate their outputs and provide training feedback. Major tech companies have cut new graduate hiring by half since 2019, eliminating entry-level positions that traditionally developed the expertise needed for AI training and evaluation. Unlike games with clear win/lose conditions, knowledge work lacks stable environments and unambiguous feedback signals, making pure self-improvement insufficient for continued AI advancement.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Fundamental AI training sustainability issue could limit long-term AI improvement and create knowledge gaps in critical domains&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://venturebeat.com/technology/the-enterprise-risk-nobody-is-modeling-ai-is-replacing-the-very-experts-it-needs-to-learn-from"&gt;VentureBeat&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/"&gt;ArXiv Implements Year-Long Bans for Unchecked AI-Generated Papers&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;May 16, 18:54&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;The academic preprint repository ArXiv announced it will ban authors for one year if they submit papers with clear evidence of unchecked AI generation, including hallucinated references or LLM meta-comments. Future submissions from banned authors must be accepted at reputable peer-reviewed venues before being allowed back on the platform. The policy addresses growing concerns about AI contamination degrading scientific literature quality and research integrity.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Academic integrity measures could set important precedents for combating AI-generated misinformation in scientific publishing&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theregister.com/ai-ml/2026/05/16/ai-generated-code-is-pain-waiting-to-happen/5241574"&gt;AI-Generated Code Creates Technical Debt Crisis&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;May 16, 17:01&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Industry experts warn that the boom in AI-generated code is creating massive technical debt that will become a 'pain waiting to happen' as organizations rush to deploy AI-assisted development without proper review processes. The rapid adoption of AI coding tools is generating code that may appear functional but lacks the quality, maintainability, and security considerations of human-reviewed development. The warning comes as businesses increasingly rely on AI to accelerate software development timelines.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Technical debt from AI code could create significant maintenance costs and security vulnerabilities in enterprise software&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.theregister.com/ai-ml/2026/05/16/ai-generated-code-is-pain-waiting-to-happen/5241574"&gt;The Register&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://arxiv.org/abs/2601.19897"&gt;Self-Distillation Breakthrough Enables Continual AI Learning&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;May 17, 01:19&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;New research demonstrates that self-distillation techniques can enable AI models to continuously learn without catastrophic forgetting of previous knowledge. The approach allows models to retain earlier capabilities while acquiring new skills, addressing one of the key challenges in developing truly adaptive AI systems. The breakthrough could lead to more flexible AI systems that improve continuously without requiring complete retraining.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Continual learning breakthrough could enable more adaptive AI systems that improve continuously without losing prior knowledge&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://arxiv.org/abs/2601.19897"&gt;arXiv&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Technology&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theverge.com/tech/932153/snap-youtube-tiktok-lawsuit-social-media-addiction-schools"&gt;Snap, YouTube, and TikTok Settle First Social Media School Lawsuit&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;May 16, 18:34&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Snap, YouTube, and TikTok settled the first lawsuit of its kind filed by Kentucky's Breathitt County School District, which alleged social media addiction has cost schools massive amounts of money by disrupting learning and creating mental health crises. The settlement terms remain undisclosed, while Meta continues to face trial in the same case viewed as a bellwether for over 1,000 similar lawsuits nationwide. The precedent-setting case could reshape platform liability for educational and mental health impacts.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;First social media school lawsuit settlement could establish new platform liability standards affecting education and mental health&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.theverge.com/tech/932153/snap-youtube-tiktok-lawsuit-social-media-addiction-schools"&gt;The Verge&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://blog.mozilla.org/netpolicy/2026/05/15/mozilla-to-uk-regulators-vpns-are-essential-privacy-and-security-tools-and-should-not-be-undermined/"&gt;Mozilla Defends VPNs as Essential Privacy Tools to UK Regulators&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;May 17, 06:17&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Mozilla submitted testimony to UK regulators arguing that VPNs are essential privacy and security tools that should not be undermined by government restrictions or regulations. The submission comes amid growing government pressure on privacy technologies and encryption tools across multiple jurisdictions. Mozilla's advocacy highlights ongoing tensions between privacy rights and government surveillance capabilities in digital policy debates.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;VPN regulatory debates could significantly impact privacy rights and cybersecurity tool availability for organizations and individuals&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://blog.mozilla.org/netpolicy/2026/05/15/mozilla-to-uk-regulators-vpns-are-essential-privacy-and-security-tools-and-should-not-be-undermined/"&gt;Mozilla Blog&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://electrek.co/2026/05/16/fisker-ocean-open-source-ev-story-after-bankruptcy/"&gt;Fisker Owners Create Open Source Car Company After Bankruptcy&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;May 16, 23:59&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Following Fisker's bankruptcy, Ocean EV owners have organized to create an open-source car company to maintain and improve their vehicles. The community-driven initiative aims to provide ongoing software updates, parts availability, and technical support that disappeared when the original manufacturer collapsed. The effort demonstrates how open-source principles could provide sustainability for connected vehicle ownership beyond manufacturer lifecycles.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Open-source vehicle maintenance model could establish new paradigms for sustainable connected car ownership and manufacturer independence&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://electrek.co/2026/05/16/fisker-ocean-open-source-ev-story-after-bankruptcy/"&gt;Electrek&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://electrek.co/2026/05/14/tesla-solar-roof-promise-vs-reality-pivot-panels/"&gt;Tesla Solar Roof Program Struggles as Company Pivots to Panels&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;May 17, 04:09&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Tesla's Solar Roof product is reportedly on life support as the company pivots focus back to traditional solar panels, marking the potential end of one of Elon Musk's most ambitious clean energy promises. The integrated solar tile system faced significant installation challenges, cost overruns, and production scalability issues since its introduction. The shift reflects Tesla's strategic retreat from revolutionary solar technology toward proven conventional solar solutions.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major clean energy technology pivot could impact residential solar adoption and innovative energy infrastructure development&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://electrek.co/2026/05/14/tesla-solar-roof-promise-vs-reality-pivot-panels/"&gt;Electrek&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://crates.io/crates/zerostack/1.0.0"&gt;Zerostack: Unix-Inspired AI Coding Agent Built in Rust&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;May 16, 22:23&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Developers released Zerostack, a Unix-inspired coding agent written entirely in Rust that aims to bring command-line philosophy to AI-assisted software development. The tool combines traditional Unix design principles with modern AI capabilities to create a minimalist but powerful development assistant. The project reflects growing interest in applying proven Unix design patterns to new AI-powered development workflows.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Unix-inspired AI development tools could influence how developers integrate AI assistance into traditional software engineering workflows&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://crates.io/crates/zerostack/1.0.0"&gt;Crates.io&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Business &amp; Markets&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.nytimes.com/2026/05/16/business/economy/china-tariffs-trump-summit.html"&gt;China Signals Tariff Discussions Despite Trump's Contrary Claims&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;May 16, 23:25&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;China's Ministry of Commerce indicated Saturday that countries struck a preliminary agreement to reduce some tariffs during the Trump-Xi summit, seemingly contradicting President Trump's statements about the meeting's outcomes. The conflicting accounts highlight ongoing communication challenges between the world's two largest economies even after direct diplomatic engagement. The discrepancy raises questions about the actual progress made during the high-stakes Beijing summit.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Conflicting diplomatic accounts maintain uncertainty about US-China trade relations and global economic stability&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.nytimes.com/2026/05/16/business/economy/china-tariffs-trump-summit.html"&gt;NYT Business&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.nytimes.com/2026/05/16/us/politics/white-house-ballroom-senate.html"&gt;Senate Parliamentary Ruling Threatens GOP Ballroom Funding&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;May 17, 02:43&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Democrats announced that the Senate's top parliamentary referee determined the $1 billion White House ballroom provision in the GOP budget bill does not comply with budget rules. The ruling threatens a key Republican priority and could force significant changes to the spending legislation. The parliamentary challenge demonstrates how budget process rules continue to shape major spending decisions in divided government.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Budget process challenges could significantly impact government spending priorities and legislative strategy&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.nytimes.com/2026/05/16/us/politics/white-house-ballroom-senate.html"&gt;NYT Business&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/05/16/marketing-operating-system-nectar-social-raises-30m-series-a-in-round-led-by-menlo/"&gt;Nectar Social Raises $30M Series A for AI-Powered Marketing Platform&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;May 16, 19:26&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;AI marketing platform Nectar Social secured a $30 million Series A round led by Menlo Ventures and its Anthology Fund, which was created in partnership with Anthropic. The funding reflects continued investor confidence in AI-powered marketing automation and customer engagement tools. The investment demonstrates how AI startups are attracting significant funding by applying large language model capabilities to specific business verticals.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major AI marketing funding signals continued investment in AI-powered business automation and customer engagement tools&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/05/16/marketing-operating-system-nectar-social-raises-30m-series-a-in-round-led-by-menlo/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.nytimes.com/2026/05/16/business/media/fivethirtyeight-abc-removed.html"&gt;Thousands of FiveThirtyEight Articles Disappear from Internet&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;May 16, 22:15&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Thousands of articles from the influential polling analysis site FiveThirtyEight have seemingly vanished from the internet as the archived site now redirects users to ABC News. The site was shut down last year but an archived version had remained accessible until recently, preserving years of political and statistical analysis. The disappearance represents a significant loss of digital journalism archives and raises concerns about the preservation of online media content.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Digital journalism preservation issues affect public access to political analysis archives and media accountability&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.nytimes.com/2026/05/16/business/media/fivethirtyeight-abc-removed.html"&gt;NYT Business&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.nytimes.com/2026/05/16/business/swatch-audemars-piguet-watch-launch-closures.html"&gt;Swatch Forced to Close Stores Over 'Royal Pop' Watch Frenzy&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;May 17, 24:24&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Swatch closed stores worldwide after crowds swarmed locations seeking the limited 'Royal Pop' pocket watches, a collaboration with luxury maker Audemars Piguet. The unexpected consumer frenzy for the premium timepieces drew massive crowds to stores and malls globally, forcing temporary closures for safety reasons. The incident demonstrates how luxury collaborations can create unprecedented demand that overwhelms traditional retail infrastructure.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Luxury product collaboration frenzy demonstrates changing consumer behavior and retail crowd management challenges&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.nytimes.com/2026/05/16/business/swatch-audemars-piguet-watch-launch-closures.html"&gt;NYT Business&lt;/a&gt;&lt;br&gt;
+&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>Evening — May 16, 2026</title>
     <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-05-16-evening.html"/>
@@ -2376,104 +2479,6 @@
 &lt;p&gt;Poland could serve as a role model for Brussels on simplifying legislation and deregulation, according to Rafał Brzoska, one of Poland's richest men, speaking at the European Economic Congress. The country is establishing itself as a leader in reducing regulatory complexity within the European Union framework. The initiative reflects growing calls for regulatory simplification across EU member states.&lt;/p&gt;&lt;br&gt;
 &lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Significant EU regulatory reform initiative that could influence business environment and competitiveness across Europe&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
 &lt;p&gt;Sources: &lt;a href="http://www.euronews.com/business/2026/05/10/brzoska-poland-establishes-itself-as-a-deregulation-model-for-the-eu"&gt;Euronews Business&lt;/a&gt;&lt;br&gt;
-&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>Custom — May 10, 2026</title>
-    <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-05-10-custom.html"/>
-    <id>https://jonaskjellin.github.io/pulsebrief-site/2026-05-10-custom.html</id>
-    <updated>2026-05-10T07:21:28.534Z</updated>
-    <content type="html">&lt;p&gt;&lt;h1&gt;PulseBrief's Update Pulse&lt;/h1&gt;&lt;br&gt;
-&lt;em&gt;as of Sun, May 10, 07:21&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;Cyber Security&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.bleepingcomputer.com/news/security/jdownloader-site-hacked-to-replace-installers-with-python-rat-malware/"&gt;JDownloader Site Hacked to Replace Installers with Python RAT Malware&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;May 9, 19:27&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;The popular JDownloader download manager website was compromised earlier this week to distribute malicious Windows and Linux installers containing a Python-based remote access trojan. The attack replaced legitimate software installers with malware-infected versions, targeting users of one of the most widely-used download management tools. The compromise demonstrates how attackers are increasingly targeting popular software distribution sites to reach large numbers of victims.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major supply chain attack affecting a widely-used download tool that could impact millions of users globally&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.bleepingcomputer.com/news/security/jdownloader-site-hacked-to-replace-installers-with-python-rat-malware/"&gt;BleepingComputer&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://cybersecuritynews.com/cpanel-and-whm-flaws/"&gt;Critical cPanel and WHM Vulnerabilities Enable Code Execution and DoS Attacks&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;May 10, 05:25&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;cPanel disclosed three critical security vulnerabilities (CVE-2026-29201, CVE-2026-29202, CVE-2026-29203) affecting its widely deployed web hosting control panel and WP Squared platform. The flaws, patched on May 8, expose servers to arbitrary file reads, Perl code injection, and denial-of-service attacks. The vulnerabilities affect critical web hosting infrastructure used by millions of websites worldwide.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Critical web hosting platform vulnerabilities requiring immediate patching to prevent server compromises across hosting providers&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://cybersecuritynews.com/cpanel-and-whm-flaws/"&gt;Cybersecurity News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.freebsd.org/security/advisories/FreeBSD-SA-26:13.exec.asc"&gt;FreeBSD Patches Local Privilege Escalation Vulnerability in execve()&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;May 9, 20:31&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;FreeBSD released a security advisory addressing a local privilege escalation vulnerability in the execve() system call that could allow attackers to gain elevated privileges on affected systems. The vulnerability affects the core execution mechanism for running programs on FreeBSD systems. The fix addresses a critical security flaw in one of the most fundamental system calls in Unix-like operating systems.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Critical operating system vulnerability affecting core system functionality that could enable privilege escalation attacks&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.freebsd.org/security/advisories/FreeBSD-SA-26:13.exec.asc"&gt;FreeBSD Security Advisory&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/05/09/gm-agrees-to-pay-12-75m-in-california-driver-privacy-settlement/"&gt;GM Pays $12.75M in California Driver Privacy Settlement Over Data Collection&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;May 9, 19:05&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;General Motors agreed to pay $12.75 million to settle privacy violations with California law enforcement agencies led by Attorney General Rob Bonta over driver data collection practices. The settlement addresses concerns about how GM collected and shared vehicle data without proper consumer consent. The case highlights growing regulatory scrutiny over automotive data privacy and connected vehicle information sharing.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major automotive privacy enforcement setting precedent for connected vehicle data protection and regulatory compliance costs&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/05/09/gm-agrees-to-pay-12-75m-in-california-driver-privacy-settlement/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;AI &amp; Machine Learning&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theregister.com/ai-and-ml/2026/05/09/google-tweaks-chrome-ai-privacy-wording-insists-processing-stays-on-device/5237580"&gt;Google Tweaks Chrome AI Privacy Wording Amid On-Device Processing Concerns&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;May 9, 17:57&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Google modified privacy language in Chrome regarding AI features after deleting a longstanding privacy assurance, sparking concerns about data processing practices. The company insists that AI processing continues to stay on-device despite the wording changes. The modification has raised questions about Google's commitment to local AI processing and user privacy protections in its browser.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Significant privacy policy change affecting Chrome's AI features that could impact user trust and data protection practices&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.theregister.com/ai-and-ml/2026/05/09/google-tweaks-chrome-ai-privacy-wording-insists-processing-stays-on-device/5237580"&gt;The Register&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag/"&gt;Google Expands Gemini API File Search with Multimodal Capabilities&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;May 10, 03:22&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Google enhanced its Gemini API File Search functionality to support multimodal retrieval-augmented generation (RAG), allowing developers to search across text, images, and other content types. The expansion enables more sophisticated document and media search capabilities within AI applications. The update represents a significant advancement in multimodal AI search and retrieval capabilities for enterprise and developer use.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major AI API enhancement enabling more sophisticated multimodal search capabilities for enterprise AI applications&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag/"&gt;Google AI Blog&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.nytimes.com/2026/05/09/business/dealbook/ai-notetakers-legal-risk.html"&gt;AI Note-Taking Tools Create Attorney-Client Privilege Concerns for Legal Profession&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;May 9, 20:15&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;AI-powered note-taking tools are making lawyers nervous as they capture every comment and joke in meetings, potentially waiving attorney-client privilege protection. The trendy productivity tools could inadvertently compromise confidential communications between lawyers and clients if AI systems record and process privileged information. Legal professionals are grappling with how to use AI productivity tools while maintaining professional obligations and client confidentiality.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Critical legal profession concern that could impact how AI tools are used in sensitive professional settings across industries&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.nytimes.com/2026/05/09/business/dealbook/ai-notetakers-legal-risk.html"&gt;NYT Business&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/05/09/voice-ai-in-india-is-hard-wispr-flow-is-betting-on-it-anyway/"&gt;Wispr Flow Expands Voice AI to India Despite Market Challenges&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;May 10, 02:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Wispr Flow reports accelerated growth in India following its Hinglish rollout, even as voice AI products continue to face significant challenges in diverse linguistic markets. The company is betting on India's multilingual voice AI market despite technical difficulties with accent recognition and language mixing. The expansion highlights both the opportunities and complexities of deploying voice AI in linguistically diverse markets.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Significant voice AI market expansion demonstrating both opportunities and challenges in diverse linguistic environments&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/05/09/voice-ai-in-india-is-hard-wispr-flow-is-betting-on-it-anyway/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.politico.com/news/2026/05/09/faa-artificial-intelligence-00909097"&gt;FAA Plans AI-Powered Overhaul of US Air Traffic Control Systems&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;May 10, 05:37&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;The Federal Aviation Administration unveiled plans for a dramatic AI-powered revamp of America's increasingly complex airspace management systems. The initiative envisions using artificial intelligence to modernize air traffic control operations and handle growing aviation demands. The plan represents one of the most significant proposed integrations of AI into critical national transportation infrastructure.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major AI integration into critical national infrastructure that could transform aviation safety and efficiency&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.politico.com/news/2026/05/09/faa-artificial-intelligence-00909097"&gt;Politico&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;Technology&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://lists.debian.org/debian-devel-announce/2026/05/msg00001.html"&gt;Debian Mandates Reproducible Package Builds for Enhanced Security&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;May 10, 05:26&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Debian announced that all packages must now ship with reproducible builds, ensuring that identical source code produces bit-for-bit identical binaries. This security enhancement allows verification that packages haven't been tampered with during the build process. The requirement represents a major step forward in supply chain security for one of the most influential Linux distributions.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major Linux distribution security enhancement that could influence software supply chain security practices industry-wide&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://lists.debian.org/debian-devel-announce/2026/05/msg00001.html"&gt;Debian Developer Announce&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://github.com/imtomt/ymawky"&gt;Developer Creates ARM64 Assembly Web Server for macOS&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;May 10, 03:01&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;A developer built ymawky, a static file web server for macOS written entirely in ARM64 assembly language, supporting GET, PUT, DELETE, HEAD, and OPTIONS requests. The project includes Range header support for video streaming, URL decoding, and security mitigations against slowloris attacks. The unusual project demonstrates low-level systems programming and serves as an educational example of assembly-language web server implementation.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Impressive technical achievement demonstrating assembly-language programming and unusual approach to web server development&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://github.com/imtomt/ymawky"&gt;GitHub - ymawky&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://github.com/nooga/let-go"&gt;Developer Creates Fast-Booting Clojure-Like Language in Go&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;May 9, 17:52&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;A developer released let-go, a Clojure-like language written in pure Go that boots in 7ms and ships as a 10MB static binary, offering 90% compatibility with JVM Clojure. The language is 50x faster to start than the JVM and 3x faster than Babashka while maintaining decent algorithmic performance. The project includes nREPL server support and can be easily embedded in Go programs for CLI, web server, and systems programming applications.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Significant programming language development offering dramatic performance improvements for Clojure-style development&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://github.com/nooga/let-go"&gt;GitHub - let-go&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://zed.dev/theme-builder"&gt;Zed Editor Launches Theme Builder for Custom Visual Styling&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;May 9, 17:30&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Zed Editor released a theme builder tool allowing users to create custom visual themes for the code editor. The tool provides an interface for customizing colors, syntax highlighting, and visual elements to personalize the editing experience. The launch reflects Zed's focus on developer customization and community-driven development tools.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Developer tool enhancement supporting customization and potentially driving adoption of the modern code editor&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://zed.dev/theme-builder"&gt;Zed Theme Builder&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;Business &amp; Markets&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.politico.com/news/2026/05/09/state-escalates-trade-row-with-china-over-iran-war-ahead-of-trump-xi-summit-00913421"&gt;US Escalates Trade Tensions with China Over Iran War Ahead of Trump-Xi Summit&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;May 9, 17:48&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;The United States escalated trade disputes with China over Iran war-related issues just days before President Trump's scheduled summit with Xi Jinping in Beijing. Trump will depart for Beijing in under a week alongside American CEOs positioned to negotiate deals with the geopolitical rival. The timing creates significant complexity for the high-stakes diplomatic and economic negotiations between the world's two largest economies.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Critical geopolitical development affecting global trade relations and potentially reshaping US-China economic cooperation&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.politico.com/news/2026/05/09/state-escalates-trade-row-with-china-over-iran-war-ahead-of-trump-xi-summit-00913421"&gt;Politico&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/05/09/fintech-startup-parker-files-for-bankruptcy/"&gt;Fintech Startup Parker Files for Bankruptcy After Funding Struggles&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;May 9, 20:32&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Parker, a well-funded startup offering corporate credit cards and banking services, has filed for bankruptcy and is widely reported to have shut down operations. The company had raised significant venture capital but struggled to achieve sustainable growth in the competitive fintech market. The bankruptcy highlights ongoing challenges in the fintech sector despite earlier investor enthusiasm and funding availability.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Significant fintech failure demonstrating ongoing challenges in the corporate financial services market despite venture funding&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/05/09/fintech-startup-parker-files-for-bankruptcy/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.nytimes.com/2026/05/09/us/frontier-airlines-plane-collision-denver.html"&gt;Frontier Airlines Jet Hits Person on Denver Airport Runway During Takeoff&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;May 9, 20:40&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;A Frontier Airlines plane struck a person on the runway during takeoff at Denver International Airport, forcing the aircraft to abort takeoff and report an engine fire. All passengers and crew were safely evacuated from the aircraft following the incident. The runway collision represents a serious aviation safety incident requiring investigation by federal authorities.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major aviation safety incident affecting airport operations and raising questions about runway security protocols&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.nytimes.com/2026/05/09/us/frontier-airlines-plane-collision-denver.html"&gt;NYT Business&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.politico.eu/article/israel-to-release-gaza-aid-flotilla-activists/"&gt;Israel to Release Gaza Aid Flotilla Activists Following Detention&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;May 9, 16:35&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Israel announced it will release activists from a Gaza aid flotilla, with Spanish-Swedish citizen Saif Abukeshek and Brazilian national Thiago Ávila expected to be deported in the coming days after security detention. The activists were detained as part of efforts to deliver humanitarian aid to Gaza. The releases come amid ongoing international pressure regarding humanitarian access to the territory.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;International humanitarian incident affecting diplomatic relations and Gaza aid delivery efforts&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.politico.eu/article/israel-to-release-gaza-aid-flotilla-activists/"&gt;Politico EU&lt;/a&gt;&lt;br&gt;
 &lt;/p&gt;</content>
   </entry>
 </feed>
