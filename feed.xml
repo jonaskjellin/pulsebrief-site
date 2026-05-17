@@ -5,7 +5,100 @@
   <link href="https://jonaskjellin.github.io/pulsebrief-site/feed.xml" rel="self"/>
   <link href="https://jonaskjellin.github.io/pulsebrief-site/"/>
   <id>https://jonaskjellin.github.io/pulsebrief-site/</id>
-  <updated>2026-05-17T11:55:41.286Z</updated>
+  <updated>2026-05-17T16:44:30.066Z</updated>
+  <entry>
+    <title>Evening — May 17, 2026</title>
+    <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-05-17-evening.html"/>
+    <id>https://jonaskjellin.github.io/pulsebrief-site/2026-05-17-evening.html</id>
+    <updated>2026-05-17T16:44:30.066Z</updated>
+    <content type="html">&lt;p&gt;&lt;h1&gt;PulseBrief's Evening Pulse&lt;/h1&gt;&lt;br&gt;
+&lt;em&gt;Sun, May 17, 11:00 → Sun, May 17, 16:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Cyber Security&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://thehackernews.com/2026/05/nginx-cve-2026-42945-exploited-in-wild.html"&gt;NGINX Critical Vulnerability CVE-2026-42945 Under Active Exploitation&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;May 17, 11:57&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;A critical heap buffer overflow vulnerability (CVE-2026-42945) in NGINX Plus and Open Source is being actively exploited in the wild, just days after public disclosure. The flaw affects NGINX versions 0.6.27 through 1.30.0 with a CVSS score of 9.2, potentially allowing remote code execution. The rapid exploitation demonstrates how quickly attackers are weaponizing newly disclosed vulnerabilities in critical web infrastructure.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;NGINX powers millions of websites and APIs, making this actively exploited critical vulnerability an immediate threat to web infrastructure globally&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://thehackernews.com/2026/05/nginx-cve-2026-42945-exploited-in-wild.html"&gt;The Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.bleepingcomputer.com/news/security/tycoon2fa-hijacks-microsoft-365-accounts-via-device-code-phishing/"&gt;Tycoon2FA Phishing Kit Targets Microsoft 365 with Device-Code Attacks&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;May 17, 14:43&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;The Tycoon2FA phishing kit has evolved to support device-code phishing attacks and now abuses Trustifi click-tracking URLs to hijack Microsoft 365 accounts. This sophisticated attack method bypasses traditional MFA protections by exploiting legitimate OAuth device authorization flows. The evolution demonstrates how phishing kits are becoming more advanced at circumventing enterprise security controls.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Microsoft 365 account compromise can provide attackers with access to corporate email, documents, and cloud resources across entire organizations&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.bleepingcomputer.com/news/security/tycoon2fa-hijacks-microsoft-365-accounts-via-device-code-phishing/"&gt;BleepingComputer&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.techspot.com/news/112410-security-researcher-microsoft-secretly-built-backdoor-bitlocker-releases.html"&gt;Security Researcher Claims Microsoft Built BitLocker Backdoor, Releases Exploit&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;May 17, 13:42&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;A security researcher has published claims that Microsoft secretly built a backdoor into BitLocker encryption and has released an exploit demonstrating the vulnerability. The researcher alleges the backdoor allows unauthorized access to encrypted drives, potentially compromising millions of Windows systems that rely on BitLocker for data protection. Microsoft has not yet responded to the specific allegations.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;BitLocker is the primary disk encryption solution for Windows enterprise environments, making any backdoor a critical threat to data security&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.techspot.com/news/112410-security-researcher-microsoft-secretly-built-backdoor-bitlocker-releases.html"&gt;TechSpot&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;AI &amp; Machine Learning&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.politico.eu/article/pope-leo-launches-ai-commission-ahead-of-first-encyclical/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS_Syndication"&gt;Pope Leo Launches Vatican AI Commission Ahead of First Encyclical&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;May 17, 12:25&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Pope Leo has established an AI commission at the Vatican, motivated by the increasing usage of artificial intelligence and concerns about its effects on human dignity and humanity as a whole. The commission is being formed ahead of the Pope's first encyclical, suggesting AI ethics will be a central theme of his papacy. This represents the Catholic Church's formal engagement with AI governance and ethical frameworks at the highest levels.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Vatican AI guidance could significantly influence global AI ethics discussions and shape how 1.3 billion Catholics view AI development&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.politico.eu/article/pope-leo-launches-ai-commission-ahead-of-first-encyclical/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS_Syndication"&gt;Politico EU&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theregister.com/ai-ml/2026/05/17/how-ai-agent-harnesses-like-openclaw-are-changing-llms-inference-and-cpus/5241530"&gt;AI Agent Harnesses Like OpenClaw Changing How We Build and Run AI Models&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;May 17, 15:30&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;New AI agent harnesses like OpenClaw are fundamentally changing how developers build and deploy AI models by providing better control and management frameworks. These harness systems enable more sophisticated AI agent deployment with improved safety controls and operational oversight. The development represents a significant shift toward productionizing AI agents with enterprise-grade reliability and governance.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Agent harness frameworks could enable safer and more reliable deployment of AI systems in production enterprise environments&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.theregister.com/ai-ml/2026/05/17/how-ai-agent-harnesses-like-openclaw-are-changing-llms-inference-and-cpus/5241530"&gt;The Register&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://daringfireball.net/2026/05/ai_is_technology_not_a_product"&gt;Analysis: AI is a Technology Not a Product&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;May 17, 13:11&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;A new analysis argues that AI should be understood as a foundational technology rather than a standalone product, similar to how electricity or the internet transformed industries without being products themselves. The perspective suggests that AI's true value lies in its integration into existing systems and workflows rather than as isolated AI applications. This framing could significantly influence how organizations approach AI adoption and investment strategies.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Understanding AI as infrastructure rather than products could reshape enterprise AI strategy and investment approaches&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://daringfireball.net/2026/05/ai_is_technology_not_a_product"&gt;Daring Fireball&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.thestateofbrand.com/news/ai-subscription-time-bomb"&gt;Enterprise Warning: AI Subscriptions Create Ticking Time Bomb Risk&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;May 17, 11:49&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;A new analysis warns that every AI subscription creates a potential 'ticking time bomb' for enterprise organizations due to dependency risks, data lock-in, and escalating costs. Companies rushing to adopt AI tools through subscription models may be creating unsustainable dependencies that could become major liabilities. The warning highlights the need for more strategic approaches to AI tool adoption and vendor management.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;AI subscription dependencies could create significant business continuity and cost risks for organizations adopting multiple AI tools&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.thestateofbrand.com/news/ai-subscription-time-bomb"&gt;The State of Brand&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.williamangel.net/blog/2026/05/17/offline-llm-energy-use.html"&gt;Apple Silicon Costs More Than OpenRouter for LLM Inference&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;May 17, 12:09&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;A detailed analysis reveals that running large language models on Apple Silicon hardware costs more than using cloud services like OpenRouter, challenging assumptions about local AI deployment economics. The research examines energy costs and hardware amortization for local LLM inference versus cloud-based alternatives. The findings suggest that cloud-based AI services may be more cost-effective than previously assumed for many use cases.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Cost analysis could influence enterprise decisions about local versus cloud-based AI deployment strategies and hardware investments&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.williamangel.net/blog/2026/05/17/offline-llm-energy-use.html"&gt;William Angel&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Technology&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://github.com/tech4bot/rk3562deb"&gt;Developer Transforms $80 Android Tablet into Debian Linux Workstation&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;May 17, 13:16&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;A developer successfully converted an inexpensive RK3562 Android tablet into a fully functional Debian Linux workstation, demonstrating how low-cost ARM hardware can be repurposed for development work. The project provides detailed instructions and tooling for the conversion process, making it accessible to other developers. The effort showcases the potential for affordable ARM-based computing alternatives to traditional x86 development machines.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Low-cost ARM development workstations could provide affordable alternatives for developers and expand access to computing resources&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://github.com/tech4bot/rk3562deb"&gt;GitHub&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://justsitandgrin.im/posts/native-all-the-way-until-you-need-text/"&gt;Developer Analysis: Native Development Struggles with Text Processing&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;May 17, 11:49&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;A developer analysis explores how native application development works well until complex text processing requirements emerge, highlighting fundamental challenges in cross-platform text handling. The piece examines why text rendering, internationalization, and complex typography remain difficult problems even for native applications. The insights reveal ongoing technical challenges that affect user experience across different platforms and languages.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Text processing challenges affect user experience quality and development complexity across all software platforms&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://justsitandgrin.im/posts/native-all-the-way-until-you-need-text/"&gt;Just Sit and Grin&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://github.com/alternbits/awesome-cuda-books"&gt;Comprehensive CUDA Programming Book Collection Released&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;May 17, 12:52&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;A curated collection of CUDA programming books and resources has been compiled to help developers learn GPU programming and parallel computing techniques. The resource includes books covering everything from CUDA basics to advanced optimization techniques and real-world applications. The collection addresses growing demand for GPU programming skills as AI and high-performance computing applications expand.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;CUDA programming skills are increasingly critical for AI development, scientific computing, and high-performance application development&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://github.com/alternbits/awesome-cuda-books"&gt;GitHub&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Business &amp; Markets&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.nytimes.com/2026/05/17/world/africa/ebola-congo-uganda-who-public-health-emergency.html"&gt;WHO Declares Ebola Outbreak Global Health Emergency&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;May 17, 13:22&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;The World Health Organization has declared the Ebola outbreak in Congo and Uganda a public health emergency of international concern, marking the highest level of health alert. The outbreak has already caused significant fatalities and threatens to spread beyond the affected regions. The declaration triggers international response protocols and could impact global travel, trade, and economic stability.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Global health emergencies can significantly disrupt international business operations, supply chains, and economic stability worldwide&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.nytimes.com/2026/05/17/world/africa/ebola-congo-uganda-who-public-health-emergency.html"&gt;New York Times&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/05/17/for-eclipse-the-2-5b-cerebras-win-is-just-the-start-of-realizing-its-physical-world-thesis/"&gt;Eclipse Ventures Sees $2.5B Cerebras Win as Start of Physical-World Thesis&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;May 17, 15:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Eclipse Ventures views its successful $2.5 billion Cerebras investment as validation of its 'physical-world thesis' and the beginning of broader opportunities in hardware-focused AI companies. The venture capital firm has been investing in real-world applications of technology when such investments were considered unfashionable. The Cerebras success demonstrates how hardware-focused AI investments are now at the center of the tech industry's attention.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major VC thesis validation could influence significant capital allocation toward physical-world AI and hardware companies&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/05/17/for-eclipse-the-2-5b-cerebras-win-is-just-the-start-of-realizing-its-physical-world-thesis/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.politico.com/news/2026/05/17/greer-trump-taiwan-arms-china-00925454?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS_Syndication"&gt;US Trade Rep Attempts to Clarify Trump's Taiwan Arms Remarks&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;May 17, 15:10&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;US Trade Representative Jamieson Greer attempted to walk back President Trump's remarks on arms sales to Taiwan, saying Trump is 'considering' how to approach such deals. The clarification comes after Trump's comments created confusion about US commitment to Taiwan's defense capabilities amid tensions with China. The diplomatic backtracking highlights ongoing challenges in managing US-Taiwan-China relations and defense commitments.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Taiwan defense policy uncertainty affects regional security stability and could impact global supply chain security, particularly semiconductors&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.politico.com/news/2026/05/17/greer-trump-taiwan-arms-china-00925454?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS_Syndication"&gt;Politico&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.politico.eu/article/us-china-and-russia-prefer-a-divided-europe-kallas-warns/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS_Syndication"&gt;EU Diplomat Warns US, China, Russia Prefer Divided Europe&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;May 17, 11:33&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;EU High Representative Kaja Kallas warned that the United States, China, and Russia all prefer a divided Europe because the bloc is stronger when acting collectively. She cautioned member countries against making individual deals with these powers that could undermine European unity. The warning highlights growing concerns about European strategic autonomy and the challenges of maintaining unity amid competing foreign influences.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;European unity affects global trade relationships, regulatory standards, and geopolitical stability that impacts international business&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.politico.eu/article/us-china-and-russia-prefer-a-divided-europe-kallas-warns/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS_Syndication"&gt;Politico EU&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.politico.com/news/2026/05/17/world-cup-drones-00914360?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS_Syndication"&gt;World Cup Security Race Intensifies Over Drone Threats&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;May 17, 11:23&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Organizers are racing to implement drone security measures for the upcoming World Cup, facing challenges from equipment shortages, government shutdown impacts, and regulatory complications. The timing of these security preparations is creating significant pressure with games just weeks away. The situation highlights the growing complexity of securing major international events against emerging technological threats.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major sporting event security affects international travel, business operations, and sets precedents for future large-scale event protection&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.politico.com/news/2026/05/17/world-cup-drones-00914360?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS_Syndication"&gt;Politico&lt;/a&gt;&lt;br&gt;
+&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>Afternoon — May 17, 2026</title>
     <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-05-17-afternoon.html"/>
@@ -2400,94 +2493,6 @@
 &lt;p&gt;One American passenger has tested positive for hantavirus and another is showing mild symptoms following an outbreak on a cruise ship, with a flight carrying 17 Americans returning to the US. The outbreak prompted international health coordination and emergency response protocols for passenger repatriation. The incident highlights the vulnerability of cruise ships to infectious disease outbreaks and the challenges of international health emergency management.&lt;/p&gt;&lt;br&gt;
 &lt;p&gt;&lt;blockquote&gt;&lt;em&gt;International health emergency demonstrating cruise industry disease vulnerability and cross-border health coordination challenges&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
 &lt;p&gt;Sources: &lt;a href="https://www.politico.com/news/2026/05/10/one-cruise-ship-passenger-returning-to-the-u-s-showing-mild-hantavirus-symptoms-00913723?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS_Syndication"&gt;Politico&lt;/a&gt;&lt;br&gt;
-&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>Evening — May 10, 2026</title>
-    <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-05-10-evening.html"/>
-    <id>https://jonaskjellin.github.io/pulsebrief-site/2026-05-10-evening.html</id>
-    <updated>2026-05-10T16:41:35.417Z</updated>
-    <content type="html">&lt;p&gt;&lt;h1&gt;PulseBrief's Evening Pulse&lt;/h1&gt;&lt;br&gt;
-&lt;em&gt;Sun, May 10, 11:00 → Sun, May 10, 16:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;Cyber Security&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.bleepingcomputer.com/news/security/police-shut-down-reboot-of-crimenetwork-marketplace-arrest-admin/"&gt;German Police Shut Down Crimenetwork Marketplace, Arrest Administrator&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;May 10, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;German authorities have shut down a relaunch version of the criminal marketplace 'Crimenetwork' that generated more than 3.6 million euros and arrested its operator. The takedown represents another significant victory in international law enforcement efforts against dark web marketplaces. The operation demonstrates continued collaboration between European authorities to disrupt cybercriminal infrastructure and financial flows.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major dark web marketplace takedown showing law enforcement's evolving capabilities against cybercriminal operations&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.bleepingcomputer.com/news/security/police-shut-down-reboot-of-crimenetwork-marketplace-arrest-admin/"&gt;BleepingComputer&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://thehackernews.com/2026/05/ollama-out-of-bounds-read-vulnerability.html"&gt;Critical Ollama Vulnerability Exposes AI Server Memory to Remote Attackers&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;May 10, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Cybersecurity researchers disclosed a critical vulnerability in Ollama (CVE-2026-7482, CVSS 9.1) that allows remote, unauthenticated attackers to leak entire process memory from AI servers. The out-of-bounds read flaw, nicknamed 'Bleeding Llama,' potentially impacts over 300,000 servers globally running the popular AI model hosting platform. The vulnerability highlights significant security risks in the rapidly expanding AI infrastructure ecosystem.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Critical vulnerability affecting hundreds of thousands of AI servers with potential for massive data exposure and AI model theft&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://thehackernews.com/2026/05/ollama-out-of-bounds-read-vulnerability.html"&gt;The Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;AI &amp; Machine Learning&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theverge.com/tech/924933/google-chrome-4gb-gemini-nano-ai-features"&gt;Chrome's Gemini Nano AI Features Consuming 4GB of Local Storage&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;May 10, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Google Chrome's AI features are using approximately 4GB of local storage for the Gemini Nano model, raising concerns about resource consumption on user devices. The substantial storage requirement reflects the growing footprint of on-device AI capabilities in web browsers. The storage usage represents a significant portion of available space on devices with limited storage capacity.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Significant resource impact of browser-based AI that could affect device performance and user adoption of AI features&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.theverge.com/tech/924933/google-chrome-4gb-gemini-nano-ai-features"&gt;The Verge&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theregister.com/oses/2026/05/10/both-fedora-and-ubuntu-will-get-ai-support-soon/5237409"&gt;Fedora and Ubuntu Preparing AI Integration Support&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;May 10, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Both Fedora and Ubuntu Linux distributions are preparing to add AI support in upcoming releases, marking a significant shift toward AI integration in mainstream Linux operating systems. The initiatives reflect growing demand for native AI capabilities in desktop and server environments. The development could accelerate AI adoption across Linux-based enterprise and development environments.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major Linux distributions embracing AI integration could accelerate enterprise AI adoption and developer productivity&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.theregister.com/oses/2026/05/10/both-fedora-and-ubuntu-will-get-ai-support-soon/5237409"&gt;The Register&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/05/10/were-feeling-cynical-about-xais-big-deal-with-anthropic/"&gt;xAI Strikes Major Deal with Anthropic Amid Industry Consolidation&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;May 10, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;xAI has announced a significant partnership deal with Anthropic, though details remain limited about the scope and implications of the collaboration. The partnership represents a major development in AI industry consolidation and could have significant implications for parent company SpaceX. The deal raises questions about competitive dynamics and resource sharing in the increasingly concentrated AI market.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major AI partnership that could reshape competitive dynamics and influence AI development priorities across the industry&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/05/10/were-feeling-cynical-about-xais-big-deal-with-anthropic/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;Technology&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.tomshardware.com/3d-printing/louis-rossmann-tells-3d-printer-maker-bambu-lab-to-go-bleep-yourself-over-its-lawsuit-against-enthusiast-right-to-repair-advocate-offers-to-pay-the-legal-fees-for-a-threatened-orcaslicer-developer"&gt;Louis Rossmann Challenges Bambu Lab Over Right-to-Repair Lawsuit&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;May 10, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Right-to-repair advocate Louis Rossmann has publicly criticized 3D printer maker Bambu Lab over its lawsuit against an enthusiast developer, offering to pay legal fees for the threatened OrcaSlicer developer. The conflict highlights growing tensions between hardware manufacturers and the open-source community over repair rights and software modifications. Rossmann's intervention demonstrates how right-to-repair activism is expanding beyond traditional electronics into emerging technology sectors.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major right-to-repair confrontation in the 3D printing space that could influence broader hardware modification and repair rights&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.tomshardware.com/3d-printing/louis-rossmann-tells-3d-printer-maker-bambu-lab-to-go-bleep-yourself-over-its-lawsuit-against-enthusiast-right-to-repair-advocate-offers-to-pay-the-legal-fees-for-a-threatened-orcaslicer-developer"&gt;Tom's Hardware&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theverge.com/tech/927294/substack-tax-ghost-beehiiv"&gt;Writers Fleeing Substack Over Platform Changes and Pricing Model&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;May 10, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;High-profile publications like The Ankler are leaving Substack for competing platforms, citing concerns over increased social features and a restrictive pricing model that limits business growth. Writers are migrating to platforms like Ghost and Beehiiv that offer more control over their sites and business models. The exodus reflects broader tensions between creator monetization and platform control in the newsletter publishing space.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Creator economy shift that could reshape newsletter publishing and platform business models affecting content creator revenue&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.theverge.com/tech/927294/substack-tax-ghost-beehiiv"&gt;The Verge&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theregister.com/systems/2026/05/10/memory-godboxes-could-offer-relief-from-the-rampocalypse/5237463"&gt;Memory Solutions Emerge to Address AI-Driven RAM Shortage&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;May 10, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;New 'memory godboxes' using Compute Express Link (CXL) technology are being developed to address the AI-fueled memory crunch affecting data centers and high-performance computing. The solutions aim to provide scalable memory resources to meet the massive RAM requirements of large AI models and training workloads. The development represents a critical infrastructure response to AI's exponentially growing memory demands.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Critical infrastructure solution addressing AI's massive memory requirements that could enable larger AI model deployment&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.theregister.com/systems/2026/05/10/memory-godboxes-could-offer-relief-from-the-rampocalypse/5237463"&gt;The Register&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theverge.com/column/926250/netflix-tv-games-strategy"&gt;Netflix Gaming Strategy Shows Signs of Success with TV Integration&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;May 10, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Netflix's gaming initiative appears to be gaining traction through TV-based games like Boggle that create shared family experiences around the television. The strategy represents a shift from mobile gaming toward games designed for TV viewing and group participation. The approach could differentiate Netflix's gaming efforts from mobile-focused competitors and leverage its core TV platform strength.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Netflix's unique approach to gaming could succeed where others failed by leveraging TV platform strengths for social gaming&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.theverge.com/column/926250/netflix-tv-games-strategy"&gt;The Verge&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;Business &amp; Markets&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.nytimes.com/2026/05/10/us/politics/energy-secretary-federal-gas-tax.html"&gt;Trump Administration Considers Federal Gas Tax Suspension&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;May 10, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;The Trump administration is considering pausing the federal gas tax of approximately 18 cents per gallon to provide relief from high fuel prices, according to the Energy Secretary. With average national gas prices above $4.50 per gallon, the measure would provide limited financial relief to consumers. The proposal reflects ongoing political pressure to address high energy costs affecting household budgets.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Significant federal tax policy proposal that could impact government revenue and provide limited consumer relief from high gas prices&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.nytimes.com/2026/05/10/us/politics/energy-secretary-federal-gas-tax.html"&gt;NYT Business&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.politico.eu/article/tehran-responds-us-peace-proposal-war-defense-iran-media/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS_Syndication"&gt;Iran Responds to US Peace Proposal as Diplomatic Efforts Continue&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;May 10, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Tehran has responded to a US peace proposal amid ongoing diplomatic efforts, according to Iranian state media, following Pakistan-brokered ceasefire talks between the two nations in April. The response represents a potential breakthrough in diplomatic negotiations between the US and Iran. The development comes as both sides have submitted multiple peace proposals to resolve ongoing tensions.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Critical diplomatic development that could significantly impact Middle East stability and global energy markets&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.politico.eu/article/tehran-responds-us-peace-proposal-war-defense-iran-media/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS_Syndication"&gt;Politico EU&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.nytimes.com/2026/05/10/business/consumers-credit-inflation-costs.html"&gt;Consumers Increasingly Reliant on Credit to Manage Rising Costs&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;May 10, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;More households are borrowing to cover basic expenses as prices increase for gas, groceries, and other staples, creating a cycle of debt dependence that economists describe as a 'hamster wheel' of credit. The trend reflects how persistent inflation continues to strain household budgets, forcing consumers to use credit to maintain their standard of living. The borrowing pattern indicates growing financial stress among American families dealing with sustained high costs.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Critical indicator of consumer financial stress that could signal broader economic challenges and recession risks&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.nytimes.com/2026/05/10/business/consumers-credit-inflation-costs.html"&gt;NYT Business&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.politico.eu/article/ex-poland-justice-minister-ziobro-flees-us-hungary-orban-magyar-tusk-trump/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS_Syndication"&gt;Former Polish Justice Minister Reportedly Flees to US&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;May 10, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Zbigniew Ziobro, former Polish Justice Minister, has reportedly fled to the United States while being wanted in Poland over alleged misuse of public funds and deployment of Pegasus spyware against political opponents. The flight represents a significant escalation in Poland's efforts to prosecute former government officials for alleged abuses of power. The case highlights ongoing political tensions and rule-of-law concerns in Central European democracies.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major international fugitive case involving surveillance abuse that could impact US-Poland relations and European rule-of-law discussions&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.politico.eu/article/ex-poland-justice-minister-ziobro-flees-us-hungary-orban-magyar-tusk-trump/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS_Syndication"&gt;Politico EU&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.nytimes.com/2026/05/08/business/dealbook/musk-openai-trial.html"&gt;Musk vs. OpenAI Trial Exposes AI Industry Leadership Tensions&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;May 8, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Elon Musk's ongoing court battle against OpenAI has revealed significant tensions between the AI startup's leaders and raised questions about the billionaire's motivations in challenging the company he helped found. The trial proceedings have laid bare conflicts over OpenAI's direction and governance since its transformation from a non-profit to a for-profit structure. The case could have broader implications for AI industry governance and founder rights in rapidly evolving tech companies.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;High-profile legal battle that could influence AI industry governance and set precedents for founder disputes in tech companies&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.nytimes.com/2026/05/08/business/dealbook/musk-openai-trial.html"&gt;NYT Business&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/05/10/the-hottest-place-for-startups-to-strike-a-deal-the-f1-paddock/"&gt;F1 Paddock Emerges as New Startup Deal-Making Hub&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;May 10, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Formula 1 Grand Prix events have become hotspots for startup founders and investors to network and strike deals, with the racing paddock serving as an exclusive venue for business development. The trend reflects how high-profile sporting events are becoming integrated into venture capital and startup ecosystems. The phenomenon demonstrates how the startup world is expanding beyond traditional Silicon Valley networking venues.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Emerging trend in startup networking that could influence how venture capital deals are made and startup communities form&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/05/10/the-hottest-place-for-startups-to-strike-a-deal-the-f1-paddock/"&gt;TechCrunch&lt;/a&gt;&lt;br&gt;
 &lt;/p&gt;</content>
   </entry>
 </feed>
