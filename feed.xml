@@ -5,7 +5,110 @@
   <link href="https://jonaskjellin.github.io/pulsebrief-site/feed.xml" rel="self"/>
   <link href="https://jonaskjellin.github.io/pulsebrief-site/"/>
   <id>https://jonaskjellin.github.io/pulsebrief-site/</id>
-  <updated>2026-05-31T12:06:25.881Z</updated>
+  <updated>2026-05-31T16:55:45.288Z</updated>
+  <entry>
+    <title>Evening — May 31, 2026</title>
+    <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-05-31-evening.html"/>
+    <id>https://jonaskjellin.github.io/pulsebrief-site/2026-05-31-evening.html</id>
+    <updated>2026-05-31T16:55:45.288Z</updated>
+    <content type="html">&lt;p&gt;&lt;h1&gt;PulseBrief's Evening Pulse&lt;/h1&gt;&lt;br&gt;
+&lt;em&gt;Sun, May 31, 11:00 → Sun, May 31, 16:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Cyber Security&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://thehackernews.com/2026/05/dutch-authorities-dismantle-botnet.html"&gt;Dutch Authorities Dismantle 17 Million Device Botnet Network&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;May 31, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Dutch authorities dismantled a botnet that infected at least 17 million devices including computers, tablets, smartphones, and IoT devices. More than 200 servers in the Netherlands served as command and control infrastructure for the malicious network. The takedown represents one of the largest botnet operations disrupted by law enforcement.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Massive botnet takedowns reduce global cybercrime infrastructure and protect enterprise networks from coordinated attacks&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://thehackernews.com/2026/05/dutch-authorities-dismantle-botnet.html"&gt;The Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.bleepingcomputer.com/news/security/wp-maps-pro-bug-exploited-to-create-admin-accounts-on-wordpress-sites/"&gt;WordPress Sites Attacked Through WP Maps Pro Plugin Vulnerability&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;May 31, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Attackers are exploiting a vulnerability in the WP Maps Pro plugin to create unauthorized administrator accounts on WordPress websites without authentication. The bug allows complete takeover of affected WordPress installations. The active exploitation puts thousands of WordPress sites at immediate risk of compromise.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;WordPress vulnerabilities affect millions of websites and can lead to widespread data breaches and website defacements&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.bleepingcomputer.com/news/security/wp-maps-pro-bug-exploited-to-create-admin-accounts-on-wordpress-sites/"&gt;BleepingComputer&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://hannesweissteiner.com/pdfs/frost.pdf"&gt;FROST Attack Uses Browser Storage to Fingerprint Users Remotely&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;May 31, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Researchers developed FROST, a novel fingerprinting technique that exploits OPFS-based SSD timing variations in web browsers to remotely identify users. The attack leverages the Origin Private File System API to measure storage performance characteristics unique to each device. The technique demonstrates new privacy risks in modern web browsers.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Browser-based fingerprinting threatens user privacy and could enable tracking across websites despite privacy protections&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://hannesweissteiner.com/pdfs/frost.pdf"&gt;Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://hacktivis.me/articles/cloudflare-turnstile-webgl-fingerprinting"&gt;Cloudflare Turnstile Now Requires Fingerprintable WebGL for Verification&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;May 31, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Cloudflare's Turnstile CAPTCHA service now requires WebGL functionality that enables device fingerprinting to complete verification challenges. The change forces users to expose hardware and driver information that can uniquely identify their systems. Privacy advocates argue this undermines user anonymity for bot detection purposes.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;CAPTCHA services requiring fingerprinting create privacy trade-offs that could affect user anonymity and compliance requirements&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://hacktivis.me/articles/cloudflare-turnstile-webgl-fingerprinting"&gt;Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;AI &amp; Machine Learning&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://prismml.com/news/bonsai-image-4b"&gt;Prism Releases 1-Bit Bonsai Image 4B Model for Local Device Generation&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;May 31, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Prism ML launched Bonsai Image 4B, a 1-bit quantized image generation model designed to run efficiently on local devices without cloud infrastructure. The 4 billion parameter model demonstrates significant compression while maintaining image quality for on-device AI applications. The release addresses growing demand for privacy-preserving AI that doesn't require internet connectivity.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Local AI image generation reduces privacy risks and enables creative applications without cloud dependencies or data transmission&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://prismml.com/news/bonsai-image-4b"&gt;Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://github.com/pewdiepie-archdaemon/odysseus"&gt;Open-Source Odysseus Provides Self-Hosted AI Workspace Platform&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;May 31, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Odysseus offers a self-hosted AI workspace that allows organizations to deploy AI capabilities on their own infrastructure rather than relying on cloud services. The platform provides a complete environment for AI development and deployment while maintaining data sovereignty. The tool addresses enterprise concerns about data privacy and AI vendor lock-in.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Self-hosted AI platforms give enterprises control over sensitive data while accessing advanced AI capabilities&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://github.com/pewdiepie-archdaemon/odysseus"&gt;Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://thoughts.hmmz.org/2026-05-31.html"&gt;Analysis Questions Value of AI Subscriptions for Individual Users&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;May 31, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;A detailed analysis suggests that canceling AI subscriptions might be a practical solution for many individual users who find limited value in current AI offerings. The piece examines whether the monthly costs of AI services justify their utility for typical consumer use cases. The discussion reflects growing scrutiny of AI subscription pricing models.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;AI subscription value analysis affects consumer adoption patterns and could influence pricing strategies for AI services&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://thoughts.hmmz.org/2026-05-31.html"&gt;Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/05/31/making-sense-of-the-debate-over-ai-psychosis/"&gt;Tech Industry Debate Emerges Over 'AI Psychosis' Among CEOs&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;May 31, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;TechCrunch analyzes whether technology executives are 'uniquely prone to AI psychosis' as the industry grapples with AI development and deployment decisions. The debate examines the psychological and business pressures affecting leadership decisions in AI companies. The discussion highlights concerns about rational decision-making in the rapidly evolving AI landscape.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;CEO decision-making in AI affects industry direction, regulation, and the responsible development of AI technologies&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/05/31/making-sense-of-the-debate-over-ai-psychosis/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Technology&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theverge.com/column/939026/user-replaceable-batteries-eu-european-union-legislation"&gt;EU Regulation Forces Return of User-Replaceable Batteries in Smartphones&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;May 31, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Two European Union regulations mandating user-replaceable batteries in portable devices are reshaping how smartphones and tablets must be designed. Commission Regulation (EU) 2023/1670 for smartphones and tablets came into force last year, while Regulation (EU) 2023/1542 takes effect next year. The legislation aims to improve device longevity, repairability, and recyclability across the tech industry.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;EU battery regulations could force global smartphone manufacturers to redesign devices and influence repairability standards worldwide&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.theverge.com/column/939026/user-replaceable-batteries-eu-european-union-legislation"&gt;The Verge&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theverge.com/transportation/940486/united-flight-236-bluetooth-speaker-name-bomb"&gt;United Flight Diverted Over Bluetooth Speaker Name Security Concern&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;May 31, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;United flight 236 from Newark to Palma de Mallorca was forced to turn around after one hour due to a Bluetooth device name that triggered security concerns. Flight attendants repeatedly requested passengers turn off Bluetooth devices, with one device name apparently containing concerning language. The incident highlights how digital device names can disrupt air travel operations.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Digital device security protocols affecting air travel demonstrate how technology policies impact transportation operations&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.theverge.com/transportation/940486/united-flight-236-bluetooth-speaker-name-bomb"&gt;The Verge&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://blog.tymscar.com/posts/v100localllm/"&gt;Datacenter GPUs Become Accessible for Consumer AI Applications&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;May 31, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;A detailed analysis shows how a £200 datacenter GPU (Tesla V100) can be integrated into consumer gaming PCs for local AI applications. The approach provides enterprise-grade AI compute power at consumer price points, though with compatibility challenges. The trend demonstrates growing accessibility of high-end AI hardware for individual developers and enthusiasts.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Affordable access to datacenter-class AI hardware could accelerate local AI development and reduce cloud computing dependencies&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://blog.tymscar.com/posts/v100localllm/"&gt;Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://jbkempf.com/blog/2026/dav2d/"&gt;Dav2d Video Decoder Advances Open Source Media Technology&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;May 31, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;The Dav2d project has released significant improvements to the open-source AV1 video decoder, enhancing performance and compatibility for next-generation video formats. The decoder plays a critical role in enabling efficient video streaming and playback across platforms. The advancement supports the broader adoption of royalty-free video codecs.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Open source video decoder improvements reduce licensing costs and enable better video streaming performance across platforms&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://jbkempf.com/blog/2026/dav2d/"&gt;Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://github.com/MichalStrehovsky/chibil"&gt;Chibil Compiler Targets .NET IL for C Development&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;May 31, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Chibil represents a novel C compiler that targets .NET Intermediate Language instead of native machine code, bridging traditional C development with the .NET ecosystem. The project enables C code to run within .NET runtime environments while maintaining C language semantics. The approach could expand C language usage in modern development environments.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Cross-platform C compilation to .NET could enable legacy C code integration with modern development platforms and cloud services&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://github.com/MichalStrehovsky/chibil"&gt;Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Business &amp; Markets&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/05/31/black-founders-raise-highest-amount-of-quarterly-funding-since-2022-but-theres-a-catch/"&gt;Black Founders Achieve Highest Quarterly Funding Since 2022 Despite Challenges&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;May 31, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Black founders raised their highest amount of quarterly funding since 2022, though significant barriers remain in accessing venture capital networks and early-stage introductions. Crunchbase research indicates systemic challenges in network access continue to limit funding opportunities. The funding increase comes amid broader efforts to improve diversity in startup investments.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Startup funding diversity affects innovation patterns and economic opportunity distribution in the technology sector&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/05/31/black-founders-raise-highest-amount-of-quarterly-funding-since-2022-but-theres-a-catch/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/05/31/i-went-to-the-so-called-steroid-olympics-to-understand-why-silicon-valley-is-obsessed-with-peptides/"&gt;Enhanced Games Explores Steroid-Positive Sports as New Business Model&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;May 31, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;The Enhanced Games, a sporting competition where most athletes use performance-enhancing drugs, may represent a new business model that Silicon Valley is prepared to embrace. The event challenges traditional sports regulations and explores commercial opportunities in performance enhancement. Technology industry interest suggests potential markets for human optimization products and services.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Performance enhancement sports could create new markets for biotech products and influence regulatory approaches to human optimization&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/05/31/i-went-to-the-so-called-steroid-olympics-to-understand-why-silicon-valley-is-obsessed-with-peptides/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.politico.eu/article/maltas-prime-minister-declares-historic-victory-in-snap-election/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS_Syndication"&gt;Malta's Labour Party Wins Unprecedented Fourth Term in Snap Election&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;May 31, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Prime Minister Robert Abela's Labour Party secured a historic fourth consecutive term in Malta's snap election, marking an unprecedented political achievement. The victory gives the party continued control over one of the European Union's smallest member states. The result affects EU political dynamics and Malta's role in European decision-making.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;European election outcomes influence EU policy direction and can affect regional economic and regulatory approaches&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.politico.eu/article/maltas-prime-minister-declares-historic-victory-in-snap-election/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS_Syndication"&gt;Politico EU&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.politico.com/news/magazine/2026/05/31/california-governor-polls-elections-roundtable-00933722?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS_Syndication"&gt;California Governor's Race Lacks Star Power as Major Democrats Decline&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;May 31, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;The field to succeed Gov. Gavin Newsom lacks heavyweight candidates after former VP Kamala Harris and Sen. Alex Padilla declined to run. Democratic leaders worry about vote splitting that could allow a Republican to advance in the primary system. The race dynamics could significantly impact California's political direction and influence national Democratic strategy.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;California's governor race affects the nation's largest state economy and could influence national political and business trends&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.politico.com/news/magazine/2026/05/31/california-governor-polls-elections-roundtable-00933722?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS_Syndication"&gt;Politico EU&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theguardian.com/society/2026/may/31/daily-pill-daraxonrasib-double-survival-time-pancreatic-pancreas-cancer-clinical-trial"&gt;Breakthrough Pancreatic Cancer Drug Doubles Patient Survival Time&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;May 31, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;A new daily pill called daraxonrasib has shown the ability to double survival time for patients with pancreatic cancer, one of the deadliest forms of the disease. The clinical trial results represent a significant breakthrough in treating a cancer with historically poor outcomes. The drug targets specific genetic mutations found in pancreatic cancer patients.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major cancer treatment breakthroughs create new pharmaceutical market opportunities and offer hope for patients with limited treatment options&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.theguardian.com/society/2026/may/31/daily-pill-daraxonrasib-double-survival-time-pancreatic-pancreas-cancer-clinical-trial"&gt;Hacker News&lt;/a&gt;&lt;br&gt;
+&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>Custom — May 31, 2026</title>
     <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-05-31-custom.html"/>
@@ -2113,124 +2216,6 @@
 &lt;p&gt;Russian President Vladimir Putin will meet with Chinese President Xi Jinping in Beijing on May 19-20, just days after Trump's departure from China, according to Kremlin announcements. The timing of Putin's visit immediately following Trump's summit suggests coordinated diplomatic efforts between Russia and China in response to U.S. engagement. The back-to-back meetings highlight the complex geopolitical dynamics as major powers navigate relationships amid ongoing conflicts and economic tensions.&lt;/p&gt;&lt;br&gt;
 &lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Coordinated Russia-China diplomacy following U.S. engagement could significantly impact global geopolitical alignments and crisis resolution efforts&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
 &lt;p&gt;Sources: &lt;a href="https://www.politico.eu/article/vladimir-putin-xi-jinping-visit-china-just-days-after-trump/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS_Syndication"&gt;Politico EU&lt;/a&gt;&lt;br&gt;
-&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>Afternoon — May 16, 2026</title>
-    <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-05-16-afternoon.html"/>
-    <id>https://jonaskjellin.github.io/pulsebrief-site/2026-05-16-afternoon.html</id>
-    <updated>2026-05-16T11:45:02.796Z</updated>
-    <content type="html">&lt;p&gt;&lt;h1&gt;PulseBrief's Afternoon Pulse&lt;/h1&gt;&lt;br&gt;
-&lt;em&gt;Sat, May 16, 05:00 → Sat, May 16, 11:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;Cyber Security&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.securityweek.com/poc-code-published-for-critical-nginx-vulnerability/"&gt;Proof-of-Concept Code Published for 18-Year-Old Critical NGINX Vulnerability&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;May 16, 10:02&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Security researchers have published working exploit code for a critical NGINX vulnerability (CVE-2026-42945) that remained undetected for 18 years since its introduction in 2008. The heap buffer overflow flaw in the rewrite module enables unauthenticated remote code execution with a CVSS score of 9.2. The vulnerability affects both NGINX Plus and NGINX Open Source, which power millions of websites worldwide, making this one of the most significant web server vulnerabilities discovered in recent years.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Critical web server vulnerability with public exploit code could enable widespread compromise of millions of websites and applications&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.securityweek.com/poc-code-published-for-critical-nginx-vulnerability/"&gt;SecurityWeek&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://cybersecuritynews.com/linux-kernel-vulnerability-ssh-keysign-pwn/"&gt;Critical Linux Kernel Vulnerability 'ssh-keysign-pwn' Exposes SSH Keys and Passwords&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;May 16, 07:36&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;A critical Linux kernel vulnerability (CVE-2026-46333) nicknamed 'ssh-keysign-pwn' allows attackers to access highly sensitive data including SSH private keys and password hashes on affected systems. The flaw impacts a wide range of Linux distributions and has raised serious concerns across the security community. The vulnerability demonstrates how kernel-level flaws can expose the most sensitive authentication credentials on Linux systems.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Critical Linux vulnerability affecting authentication systems could compromise SSH access and password security across enterprise infrastructure&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://cybersecuritynews.com/linux-kernel-vulnerability-ssh-keysign-pwn/"&gt;Cybersecurity News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://cybersecuritynews.com/jdownloader-website-compromised/"&gt;JDownloader Website Compromised to Distribute Malicious Installers&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;May 16, 10:23&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;The official JDownloader website was compromised between May 6-7, 2026, with attackers replacing legitimate installers with malicious versions targeting both Windows and Linux users. The widely-used download manager trusted by millions briefly turned into a malware delivery platform during the compromise window. Security researchers and developers confirmed the incident, highlighting supply chain risks even for established software projects.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Popular software website compromise demonstrates supply chain attack risks affecting millions of users who downloaded during the incident window&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://cybersecuritynews.com/jdownloader-website-compromised/"&gt;Cybersecurity News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://cybersecuritynews.com/microsoft-exchange-windows-11-and-cursor-zero-days-exploited-pwn2own/"&gt;Pwn2Own Day 2 Reveals Microsoft Exchange, Windows 11, and AI Tool Zero-Days&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;May 16, 10:51&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Pwn2Own Berlin 2026's second day showcased critical zero-day exploits targeting enterprise software, including Microsoft Exchange, Windows 11, and AI coding platforms like Cursor. Security researchers demonstrated real-world attack scenarios against high-value targets in what's shaping up to be one of the most intense offensive security contests in recent years. The rapid discovery of exploits across diverse platforms highlights ongoing security challenges in enterprise and AI development tools.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Multiple zero-day discoveries in enterprise software and AI tools demonstrate ongoing critical security gaps in widely-used business systems&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://cybersecuritynews.com/microsoft-exchange-windows-11-and-cursor-zero-days-exploited-pwn2own/"&gt;Cybersecurity News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://cybersecuritynews.com/malicious-jpeg-images-php-memory-safety-vulnerabilities/"&gt;PHP Memory Safety Flaws Enable Attacks via Malicious JPEG Images&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;May 16, 09:01&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Two critical memory-safety vulnerabilities in PHP's image-processing functions allow attackers to leak sensitive heap memory or execute denial-of-service attacks through specially crafted JPEG files. The flaws, discovered by Positive Technologies researcher Nikita Sveshnikov, affect the widely-used getimagesize and iptcembed functions that process JPEG metadata. The vulnerabilities highlight security risks in common web application image processing workflows.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;PHP image processing vulnerabilities could affect millions of web applications that handle user-uploaded images and JPEG files&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://cybersecuritynews.com/malicious-jpeg-images-php-memory-safety-vulnerabilities/"&gt;Cybersecurity News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.wired.com/story/security-news-this-week-cybercriminal-twins-caught-after-they-forgot-to-turn-off-microsoft-teams-recording/"&gt;Cybercriminal Twins Caught After Forgetting to Turn Off Teams Recording&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;May 16, 10:30&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Law enforcement caught cybercriminal twins after they inadvertently left Microsoft Teams recording enabled during their illegal activities, providing authorities with detailed evidence of their operations. The case demonstrates how common collaboration tools can become unexpected sources of incriminating evidence for cybercriminals. The incident highlights both the sophistication and operational security failures of modern cybercrime operations.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Notable cybercriminal capture through collaboration tool mistakes demonstrates how digital evidence collection is evolving in cybercrime investigations&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.wired.com/story/security-news-this-week-cybercriminal-twins-caught-after-they-forgot-to-turn-off-microsoft-teams-recording/"&gt;Wired Security&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;AI &amp; Machine Learning&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theregister.com/ai-ml/2026/05/16/one-in-seven-brits-swapped-their-gp-for-chatgpt-study-finds/5240514"&gt;One in Seven Brits Have Replaced Their GP with ChatGPT for Medical Advice&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;May 16, 08:33&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;A new study reveals that one in seven British patients are using ChatGPT and other AI chatbots for medical advice instead of consulting their general practitioner. The trend highlights growing patient frustration with healthcare access while the NHS continues debating where AI belongs in medical care. The shift toward AI-powered medical guidance raises significant questions about patient safety and the quality of automated health recommendations.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Significant healthcare shift toward AI medical advice could impact patient safety and traditional healthcare delivery systems&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.theregister.com/ai-ml/2026/05/16/one-in-seven-brits-swapped-their-gp-for-chatgpt-study-finds/5240514"&gt;The Register&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.wired.com/story/some-asexual-people-are-using-ai-companions-for-intimacy-without-the-sex/"&gt;Asexual Community Adopts AI Companions for Non-Sexual Intimacy&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;May 16, 09:30&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Some members of the asexual community are turning to AI companions to experience emotional intimacy without sexual components, finding these relationships fulfill needs for connection and companionship. The trend represents a unique application of AI relationship technology that focuses purely on emotional rather than sexual engagement. However, some asexual advocates express concerns about the association between their community and AI companion use.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Unique AI relationship application demonstrates how different communities are adapting AI technology for specific emotional and social needs&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.wired.com/story/some-asexual-people-are-using-ai-companions-for-intimacy-without-the-sex/"&gt;Wired AI&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://kabir.au/blog/the-ctf-scene-is-dead"&gt;Frontier AI Breaking Traditional Cybersecurity Competition Formats&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;May 16, 07:01&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Advanced AI capabilities are fundamentally disrupting the traditional Capture the Flag (CTF) cybersecurity competition format, making many challenges obsolete as AI systems can solve them faster than human competitors. Security researchers report that frontier AI models are breaking the established competitive framework that has trained generations of cybersecurity professionals. The development raises questions about how to maintain meaningful security training and competition environments in the AI era.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;AI disruption of cybersecurity training competitions could fundamentally change how the next generation of security professionals develops skills&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://kabir.au/blog/the-ctf-scene-is-dead"&gt;Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://arxiv.org/abs/2605.12357"&gt;Δ-Mem: New Efficient Memory System for Large Language Models&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;May 16, 09:30&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Researchers have developed Δ-Mem, a novel memory architecture designed to improve efficiency in large language models by optimizing how AI systems store and retrieve information during processing. The system aims to address memory bottlenecks that limit LLM performance and scalability. The research represents ongoing efforts to make AI systems more computationally efficient and capable of handling larger contexts.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Memory efficiency improvements could significantly enhance AI system performance and reduce computational costs for LLM operations&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://arxiv.org/abs/2605.12357"&gt;Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.nytimes.com/2026/05/16/business/tyrangiel-ai-book-openai-khan-academy-khanmigo.html"&gt;OpenAI and Khan Academy Collaboration Creates Educational Chatbot&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;May 16, 09:01&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;A new book excerpt reveals details about the collaboration between OpenAI and Khan Academy to develop Khanmigo, an AI-powered educational chatbot designed to bring artificial intelligence into classroom settings. The partnership demonstrates how major AI companies are working with educational organizations to create specialized learning tools. The collaboration highlights growing efforts to integrate AI technology into educational environments while addressing concerns about academic integrity and learning effectiveness.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major AI-education collaboration could significantly influence how AI is integrated into classrooms and educational technology worldwide&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.nytimes.com/2026/05/16/business/tyrangiel-ai-book-openai-khan-academy-khanmigo.html"&gt;NYT Business&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;Technology&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theregister.com/systems/2026/05/16/europe-built-sovereign-clouds-to-escape-us-control-then-forgot-about-the-processors/5237735"&gt;Europe's Sovereign Cloud Initiative Overlooks Critical Processor Dependencies&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;May 16, 10:30&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;European sovereign cloud initiatives designed to escape US control have a fundamental blind spot: they still rely on Intel ME and AMD PSP processors with embedded security features that aren't certified or fully transparent. The silicon layer represents a critical dependency that undermines sovereignty goals, as these processors contain management engines and security processors with opaque functionality. This highlights the challenge of achieving true technological sovereignty when fundamental hardware components remain controlled by US companies.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Hardware dependency undermines European digital sovereignty efforts and reveals critical gaps in attempts to reduce US technology control&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.theregister.com/systems/2026/05/16/europe-built-sovereign-clouds-to-escape-us-control-then-forgot-about-the-processors/5237735"&gt;The Register&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.nytimes.com/2026/05/16/technology/instagram-instants-feature.html"&gt;Instagram Instants Feature Automatically Shares Photos to Close Friends&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;May 16, 09:01&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Instagram's new 'Instants' feature automatically blasts photos to mutual followers or close friends immediately after taking them, raising questions about intentional sharing versus accidental exposure. The feature represents a shift toward more spontaneous, less curated social media sharing but has sparked concerns about privacy and unintended photo distribution. Users need to understand the feature's automatic sharing behavior to avoid accidentally distributing personal content.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;New social media auto-sharing feature could significantly impact user privacy expectations and photo sharing behaviors across millions of users&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.nytimes.com/2026/05/16/technology/instagram-instants-feature.html"&gt;NYT Technology&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theregister.com/on-prem/2026/05/01/where-to-buy-a-non-apple-non-google-smartphone/5219681"&gt;Alternative Smartphone Options Beyond Apple and Google&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;May 16, 08:34&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;The Register explores options for consumers seeking smartphones that don't rely on Apple or Google ecosystems, examining alternatives that offer greater privacy and independence from big tech platforms. The analysis covers various manufacturers and operating systems that provide viable alternatives to mainstream iOS and Android devices. The discussion reflects growing consumer interest in digital sovereignty and privacy-focused mobile computing options.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Consumer technology independence options become increasingly important as privacy concerns and big tech market dominance continue growing&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.theregister.com/on-prem/2026/05/01/where-to-buy-a-non-apple-non-google-smartphone/5219681"&gt;Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://futhark-lang.org/examples.html"&gt;Futhark Programming Language Gains Developer Attention&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;May 16, 09:50&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;The Futhark functional programming language, designed for high-performance parallel computing, is gaining developer interest through comprehensive examples and documentation. Futhark specializes in generating efficient parallel code for GPUs and multicore CPUs from high-level functional programs. The language represents growing interest in functional programming approaches for computationally intensive applications and parallel processing.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Specialized programming languages for parallel computing could become increasingly important as AI and high-performance computing demands grow&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://futhark-lang.org/examples.html"&gt;Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;Business &amp; Markets&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="http://www.euronews.com/business/2026/05/16/nvidia-surpasses-germany-how-the-market-caps-of-tech-giants-compare-to-top-economies"&gt;Nvidia Market Cap Surpasses Germany's GDP at $5.7 Trillion&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;May 16, 05:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Nvidia's market capitalization has reached $5.7 trillion, officially surpassing Germany's GDP of $5.45 trillion, demonstrating the extraordinary valuation of AI infrastructure companies. The combined value of the five largest US tech companies now exceeds the total GDP of Europe's five largest economies. This milestone reflects the massive investor confidence in AI technology and the concentration of economic value in American tech giants.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Tech company valuations exceeding national economies demonstrates unprecedented concentration of economic power in AI and technology sectors&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="http://www.euronews.com/business/2026/05/16/nvidia-surpasses-germany-how-the-market-caps-of-tech-giants-compare-to-top-economies"&gt;Euronews Business&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.nytimes.com/2026/05/16/business/energy-environment/iran-war-oil-countries-winners-losers.html"&gt;Iran War Oil Shock Creates Winners and Losers Among Oil-Exporting Nations&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;May 16, 09:01&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Analysis of oil export data reveals which countries are profiting from higher oil prices due to the Iran conflict and Strait of Hormuz tensions, while others have lost significant revenue. The geopolitical crisis has reshuffled global energy markets, creating economic winners and losers based on countries' ability to increase production and access alternative shipping routes. The oil price shock continues to drive inflation and economic uncertainty worldwide.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Global energy market reshuffling affects international economic relationships and could drive long-term geopolitical realignments&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.nytimes.com/2026/05/16/business/energy-environment/iran-war-oil-countries-winners-losers.html"&gt;NYT Business&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.nytimes.com/2026/05/16/business/media/influencers-political-financing-disclosure.html"&gt;Political Money Flows to Influencers with Limited Disclosure Requirements&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;May 16, 09:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Social media influencers have become major recipients of political funding from campaigns and groups seeking to promote agendas without transparent disclosure of funding sources. The trend allows political actors to push priorities through influencer content without revealing the financial relationships behind the messaging. Current disclosure requirements for influencer political content remain limited, creating transparency gaps in political advertising.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Hidden political influence through social media could significantly impact public opinion and democratic discourse without voter awareness&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.nytimes.com/2026/05/16/business/media/influencers-political-financing-disclosure.html"&gt;NYT Business&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.politico.com/news/2026/05/15/big-promises-thin-results-from-trumps-china-trip-00924309"&gt;Trump-China Summit Yields Limited Results on Key Issues&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;May 16, 05:08&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;President Trump returned from his two-day summit with Chinese leader Xi Jinping with minimal concrete achievements and no progress on major issues straining US-China relations. The summit produced hints of potential deals but failed to address core disputes or secure Chinese assistance on global challenges like the Iran conflict. The limited results disappointed investors hoping for breakthrough agreements that could ease economic tensions.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Failed diplomatic breakthrough maintains US-China tensions and economic uncertainty while missing opportunities to address global crises&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.politico.com/news/2026/05/15/big-promises-thin-results-from-trumps-china-trip-00924309"&gt;Politico EU&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.politico.eu/article/taiwan-to-trump-we-are-sovereign-and-independent/"&gt;Taiwan Asserts Sovereignty in Response to Trump-Xi Summit&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;May 16, 09:43&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Taiwan's government publicly declared its sovereign and independent status following President Trump's summit with Chinese President Xi Jinping, where Trump appeared to warn against Taiwanese self-determination. The statement represents Taiwan's diplomatic pushback against any agreements that might compromise its autonomy or democratic governance. The response highlights rising tensions around Taiwan's status amid great power competition.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Taiwan sovereignty tensions could escalate into major international crisis affecting global technology supply chains and regional stability&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.politico.eu/article/taiwan-to-trump-we-are-sovereign-and-independent/"&gt;Politico EU&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.politico.eu/article/israel-lebanon-extend-ceasefire-even-as-strikes-continue/"&gt;Israel-Lebanon Ceasefire Extended Despite Continued Strikes&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;May 16, 08:46&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;The US-brokered ceasefire between Israel and Lebanon has been extended for an additional 45 days despite ongoing strikes and violations from both sides. The extension comes as the original ceasefire was set to expire Sunday, though the durability remains questionable given continued military activities. The fragile truce represents one of the few diplomatic successes in an increasingly volatile Middle East region.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Middle East ceasefire extension provides temporary stability but ongoing violations threaten broader regional conflict escalation&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.politico.eu/article/israel-lebanon-extend-ceasefire-even-as-strikes-continue/"&gt;Politico EU&lt;/a&gt;&lt;br&gt;
 &lt;/p&gt;</content>
   </entry>
 </feed>
