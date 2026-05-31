@@ -5,7 +5,69 @@
   <link href="https://jonaskjellin.github.io/pulsebrief-site/feed.xml" rel="self"/>
   <link href="https://jonaskjellin.github.io/pulsebrief-site/"/>
   <id>https://jonaskjellin.github.io/pulsebrief-site/</id>
-  <updated>2026-05-30T16:51:44.343Z</updated>
+  <updated>2026-05-31T08:08:54.905Z</updated>
+  <entry>
+    <title>Custom — May 31, 2026</title>
+    <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-05-31-custom.html"/>
+    <id>https://jonaskjellin.github.io/pulsebrief-site/2026-05-31-custom.html</id>
+    <updated>2026-05-31T08:08:54.905Z</updated>
+    <content type="html">&lt;p&gt;&lt;h1&gt;PulseBrief's Update Pulse&lt;/h1&gt;&lt;br&gt;
+&lt;em&gt;as of Sun, May 31, 08:08&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Cyber Security&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.bleepingcomputer.com/news/security/palo-alto-globalprotect-vpn-auth-bypass-flaw-now-exploited-in-attacks/"&gt;Palo Alto Networks GlobalProtect VPN Authentication Bypass Actively Exploited&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;May 30, 18:02&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Palo Alto Networks confirmed that hackers are now actively exploiting CVE-2026-0257, an authentication bypass vulnerability in PAN-OS GlobalProtect VPN systems. The flaw allows remote unauthenticated attackers to bypass authentication and establish VPN connections to corporate networks. This represents a critical escalation as the vulnerability moves from disclosure to active exploitation targeting enterprise VPN infrastructure.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Authentication bypass in enterprise VPN systems provides attackers direct access to corporate networks, potentially compromising internal systems and data&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.bleepingcomputer.com/news/security/palo-alto-globalprotect-vpn-auth-bypass-flaw-now-exploited-in-attacks/"&gt;BleepingComputer&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.securityweek.com/russian-spies-are-aggressively-seeking-western-technology-as-sanctions-bite-officials-say/"&gt;Russian Intelligence Escalates Cyber Operations to Circumvent Western Sanctions&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;May 30, 16:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;U.S. and allied intelligence officials report that Russian spies are aggressively deploying fake companies, recruiting middlemen, and using cyber operations to acquire Western technology blocked by sanctions. Moscow's intelligence services are building networks of hackers and cyber spies to gather information that could be used to attack critical infrastructure. The escalation demonstrates how economic sanctions are driving more sophisticated cyber intelligence operations.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Nation-state cyber operations targeting critical infrastructure and technology acquisition pose direct threats to enterprise systems and supply chains&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.securityweek.com/russian-spies-are-aggressively-seeking-western-technology-as-sanctions-bite-officials-say/"&gt;SecurityWeek&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.politico.com/news/2026/05/30/ice-immigration-privacy-data-advertising-00939078?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS_Syndication"&gt;Trump Administration Explores Immigration Enforcement Through Commercial Data Purchases&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;May 31, 05:37&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Immigration and Customs Enforcement (ICE) is investigating the purchase of commercial advertising data to support federal immigration enforcement operations. The approach would leverage the massive consumer data collection industry for government surveillance purposes, raising significant privacy concerns. Industry insiders fear the precedent of using commercial data ecosystems for immigration targeting could expand surveillance capabilities.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Government use of commercial data for enforcement could affect privacy practices and create new compliance requirements for data-driven businesses&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.politico.com/news/2026/05/30/ice-immigration-privacy-data-advertising-00939078?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS_Syndication"&gt;Politico&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Technology&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/"&gt;GitHub Copilot's Token-Based Billing Draws Developer Backlash&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;May 30, 16:30&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;GitHub's shift to token-based billing for Copilot has sparked significant criticism from developers who view the new pricing model as a dramatic departure from the service's original flat-rate structure. The change affects how developers budget for AI-assisted coding tools and signals potential pricing increases for enterprise AI development tools. The backlash highlights growing tensions around AI service pricing as providers seek to monetize expensive infrastructure investments.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;AI coding tool pricing changes affect enterprise development costs and could influence adoption of AI-powered developer productivity tools&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://av2.aomedia.org"&gt;AV2 Video Standard Reaches Final Specification Release&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;May 30, 21:46&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;The Alliance for Open Media officially released the final version 1.0 specification for AV2, the next-generation video codec designed to provide significant compression improvements over current standards. The release marks a major milestone in video technology that could affect streaming services, video conferencing, and content delivery networks. AV2 aims to reduce bandwidth requirements while maintaining quality, potentially impacting infrastructure costs for video-heavy applications.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;New video compression standards could reduce bandwidth costs and improve video quality across streaming, conferencing, and content delivery platforms&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://av2.aomedia.org"&gt;Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://consumerrights.wiki/w/Microsoft_Office_2019_and_2021_for_Mac_view-only_conversion_(2026"&gt;Microsoft Office 2019/2021 for Mac Converted to View-Only Mode&lt;/a&gt;)&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;May 30, 23:26&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Microsoft has reportedly converted Office 2019 and 2021 for Mac to view-only mode, preventing users from editing documents in older versions of the software. The change appears to be pushing users toward newer Office versions or subscription-based Office 365 services. The move has generated significant discussion about software licensing practices and planned obsolescence in enterprise productivity software.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Forced software upgrades affect enterprise licensing costs and IT planning for organizations relying on stable productivity software versions&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://consumerrights.wiki/w/Microsoft_Office_2019_and_2021_for_Mac_view-only_conversion_(2026"&gt;Hacker News&lt;/a&gt;)&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Business &amp; Markets&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/"&gt;SoftBank Commits €75 Billion to French Data Center Expansion&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;May 30, 21:45&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;SoftBank announced plans to invest up to €75 billion to develop and operate up to 5 gigawatts of additional data center capacity in France. The massive infrastructure investment reflects growing demand for data center services driven by AI workloads and digital transformation. The commitment represents one of the largest data center investments announced in Europe.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major data center investments signal massive infrastructure buildout to support AI and cloud computing growth, affecting enterprise capacity and pricing&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theverge.com/entertainment/940421/backrooms-blockbuster-38-million-opening"&gt;YouTube Directors Dominate Box Office with Backrooms Horror Success&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;May 30, 16:58&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Kane Parsons' film 'Backrooms' earned $38 million on its opening day, putting it on track for a $90 million opening weekend that obliterates A24's previous record. The horror film, made on a $10 million budget by a YouTube creator, outperformed major studio releases and demonstrates the growing influence of digital-native creators in traditional entertainment. The success highlights how YouTube has become a talent pipeline for mainstream media.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;YouTube creators breaking into mainstream entertainment could disrupt traditional media production and influence how content is discovered and funded&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.theverge.com/entertainment/940421/backrooms-blockbuster-38-million-opening"&gt;The Verge&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/05/30/snap-alums-unveil-ghost-angels-fund/"&gt;Snap Alumni Launch Ghost Angels Fund for Social Media Startups&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;May 30, 17:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Twenty former Snap employees have formed Ghost Angels, a new investment fund focused on backing the next generation of social media companies. The fund leverages the founders' experience building Snapchat to identify and support emerging social platforms. The initiative reflects ongoing innovation in social media despite platform consolidation and regulatory pressures.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Social media industry veterans launching focused investment funds could accelerate innovation in emerging social platforms and creator economy tools&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/05/30/snap-alums-unveil-ghost-angels-fund/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.nytimes.com/2026/05/29/business/spacex-openai-anthropic-ipo-invest.html"&gt;High-Priced IPOs Present Poor Prospects for Retail Investors&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;May 30, 17:26&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Analysis suggests that when companies go public at extremely high valuations like those expected for SpaceX, OpenAI, and Anthropic, ordinary investors historically face poor returns. The premium pricing of these landmark IPOs means most upside value has already been captured by private investors, leaving little room for public market gains. The trend raises concerns about retail investor access to meaningful returns in high-growth technology companies.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;High-priced tech IPOs could limit investment opportunities for ordinary investors and affect how retail portfolios access growth technology exposure&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.nytimes.com/2026/05/29/business/spacex-openai-anthropic-ipo-invest.html"&gt;NYT Business&lt;/a&gt;&lt;br&gt;
+&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>Evening — May 30, 2026</title>
     <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-05-30-evening.html"/>
@@ -2250,149 +2312,6 @@
 &lt;p&gt;The Trump administration is weighing a highly unusual $1.7 billion taxpayer-funded program to compensate allies who were investigated under the Biden administration. Critics denounce the plan, which hasn't been finalized or approved, as a vast political slush fund using public money for partisan purposes. The proposal represents a significant escalation in using federal resources to address perceived political grievances.&lt;/p&gt;&lt;br&gt;
 &lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Unprecedented political compensation fund could set dangerous precedents for using taxpayer money for partisan purposes&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
 &lt;p&gt;Sources: &lt;a href="https://www.nytimes.com/2026/05/15/us/politics/trump-allies-weaponization-fund.html"&gt;NYT Business&lt;/a&gt;&lt;br&gt;
-&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>Custom — May 15, 2026</title>
-    <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-05-15-custom.html"/>
-    <id>https://jonaskjellin.github.io/pulsebrief-site/2026-05-15-custom.html</id>
-    <updated>2026-05-15T17:22:09.811Z</updated>
-    <content type="html">&lt;p&gt;&lt;h1&gt;PulseBrief's Update Pulse&lt;/h1&gt;&lt;br&gt;
-&lt;em&gt;as of Fri, May 15, 17:22&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;Cyber Security&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.bleepingcomputer.com/news/security/popular-node-ipc-npm-package-compromised-to-steal-credentials/"&gt;Popular node-ipc npm Package Compromised in Supply Chain Attack&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;May 15, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Hackers injected credential-stealing malware into newly published versions of node-ipc, a popular JavaScript inter-process communication package used by thousands of developers. The supply chain attack targets npm repositories to steal developer credentials and authentication tokens. This follows the recent Shai-Hulud worm campaign that compromised hundreds of packages across npm and PyPI repositories.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Critical development tool compromise affects thousands of JavaScript projects and demonstrates ongoing vulnerability of open source package ecosystems&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.bleepingcomputer.com/news/security/popular-node-ipc-npm-package-compromised-to-steal-credentials/"&gt;BleepingComputer&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://therecord.media/cisa-orders-all-federal-agencies-to-patch-cisco-sd-wan-bug"&gt;CISA Orders Federal Agencies to Patch Critical Cisco SD-WAN Bug by Sunday&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;May 15, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;CISA added a new Cisco SD-WAN vulnerability to its Known Exploited Vulnerabilities catalog, requiring federal agencies to patch by Sunday. The flaw allows unauthenticated remote attackers to bypass authentication and gain administrative privileges on affected systems. This marks another critical network infrastructure vulnerability requiring immediate attention.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Maximum severity network infrastructure vulnerability affecting federal agencies and enterprises using Cisco SD-WAN systems&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://therecord.media/cisa-orders-all-federal-agencies-to-patch-cisco-sd-wan-bug"&gt;The Record&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://cybersecuritynews.com/shai-hulud-worm-steals-npm/"&gt;Shai-Hulud Worm Steals Credentials from npm, GitHub, AWS, and Kubernetes&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;May 15, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;The self-propagating Shai-Hulud malware is tunneling through developer environments to steal credentials from npm, GitHub, AWS, and Kubernetes simultaneously. Hundreds of malicious packages have been tied to this campaign, making it one of 2026's most alarming supply chain threats. The worm demonstrates sophisticated capabilities for multi-platform credential theft across development infrastructure.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major supply chain threat targeting the entire developer ecosystem could compromise thousands of applications and cloud infrastructure&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://cybersecuritynews.com/shai-hulud-worm-steals-npm/"&gt;Cybersecurity News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://thehackernews.com/2026/05/turla-turns-kazuar-backdoor-into.html"&gt;Turla Transforms Kazuar Backdoor Into Modular P2P Botnet&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;May 15, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Russian state-sponsored group Turla has evolved its custom Kazuar backdoor into a modular peer-to-peer botnet designed for stealth and persistent access to compromised systems. The FSB-affiliated group's enhanced malware demonstrates sophisticated command-and-control capabilities that are harder to detect and disrupt. The transformation represents a significant advancement in nation-state persistent access tools.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Nation-state malware evolution demonstrates increasingly sophisticated persistent access capabilities that could affect critical infrastructure&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://thehackernews.com/2026/05/turla-turns-kazuar-backdoor-into.html"&gt;The Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://cybersecuritynews.com/openclaw-chain-vulnerabilities/"&gt;OpenClaw AI Agent Platform Vulnerabilities Expose 245,000 Servers&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;May 15, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Four critical vulnerabilities in OpenClaw, a fast-growing open-source AI agent platform, have left an estimated 245,000 publicly accessible server instances exposed to remote exploitation. The vulnerability chain enables credential theft and persistent backdoor installation on systems running autonomous AI agents. The flaws affect one of the most popular platforms for connecting large language models to filesystems and applications.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Massive AI agent platform vulnerability could enable widespread compromise of autonomous AI systems and connected infrastructure&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://cybersecuritynews.com/openclaw-chain-vulnerabilities/"&gt;Cybersecurity News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://cybersecuritynews.com/hackers-abuse-oauth-device-authorization-flow/"&gt;Hackers Exploit OAuth Device Flow to Steal Microsoft 365 Tokens&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;May 15, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Cybercriminals are exploiting Microsoft's OAuth device authorization flow to steal account credentials at scale through device code phishing campaigns. The attacks manipulate a legitimate security feature, turning it into a vulnerability that targets organizations worldwide. This emerging threat has surged dramatically since late 2024, catching security teams unprepared.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Authentication system exploitation could compromise Microsoft 365 access for millions of users through legitimate security mechanisms&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://cybersecuritynews.com/hackers-abuse-oauth-device-authorization-flow/"&gt;Cybersecurity News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;AI &amp; Machine Learning&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theverge.com/ai-artificial-intelligence/931122/openai-chatgpt-financial-accounts-plaid-connection"&gt;OpenAI Launches ChatGPT Bank Account Integration via Plaid&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;May 15, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;OpenAI announced ChatGPT will soon allow users to securely connect their bank accounts through Plaid, enabling the AI to access financial data from over 12,000 institutions including Chase, Capital One, and Fidelity. The feature will provide personalized financial advice by analyzing spending patterns, budgets, and investment portfolios. The integration represents a significant expansion of AI into personal financial management.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major AI expansion into personal finance could transform how millions manage money but raises significant privacy and security concerns&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.theverge.com/ai-artificial-intelligence/931122/openai-chatgpt-financial-accounts-plaid-connection"&gt;The Verge&lt;/a&gt; · &lt;a href="https://techcrunch.com/2026/05/15/openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.wired.com/story/openai-reorg-greg-brockman-product/"&gt;Greg Brockman Takes Control of OpenAI Products in Executive Restructure&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;May 15, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;OpenAI has reorganized its executive ranks with Greg Brockman officially taking control of the company's product division as part of efforts to unify ChatGPT and Codex into one core experience. The restructuring comes amid ongoing legal battles and represents another significant leadership change at the influential AI company. The move aims to streamline OpenAI's product strategy and development efforts.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Leadership changes at the most influential AI company could significantly impact AI product development and industry direction&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.wired.com/story/openai-reorg-greg-brockman-product/"&gt;Wired AI&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theverge.com/ai-artificial-intelligence/931479/andon-labs-ai-radio-companies"&gt;AI Radio Hosts Demonstrate Reliability Problems in Autonomous Systems&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;May 15, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Andon Labs' experiment with AI agents running radio stations autonomously revealed spectacular failures as models burned through their $20 seed money quickly. The quartet of stations run by Claude, ChatGPT, Gemini, and Grok all failed to turn a profit despite being prompted to broadcast forever. The experiment highlights fundamental challenges in AI reliability for autonomous operations.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;AI autonomous system failures demonstrate critical reliability issues that could affect broader deployment of AI agents in business operations&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.theverge.com/ai-artificial-intelligence/931479/andon-labs-ai-radio-companies"&gt;The Verge&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theverge.com/tech/931416/google-ai-search-spam-policy"&gt;Google Updates Spam Policy to Target AI Search Result Manipulation&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;May 15, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Google updated its spam policy to explicitly mark attempts to manipulate AI models in search results as spam, including AI Overview and AI Mode responses. The policy targets tactics like biased listicles and recommendation poisoning designed to influence AI-generated search responses. The move addresses growing concerns about AI search result integrity and manipulation.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Search result integrity measures could significantly impact how AI systems access and present information to billions of users&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.theverge.com/tech/931416/google-ai-search-spam-policy"&gt;The Verge&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theregister.com/ai-ml/2026/05/15/anthropic-urges-uncle-sam-to-kneecap-chinas-ai-ambitions-before-2028/5241201"&gt;Anthropic Urges US to Restrict China's AI Development Before 2028&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;May 15, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Anthropic warned the US government that authoritarian regimes could set global AI rules unless Washington tightens chip export controls and model restrictions before 2028. The Claude maker argued that without decisive action, China could gain decisive advantages in AI development that would reshape global AI governance. The warning reflects growing concerns about AI competition and national security implications.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;AI geopolitical competition concerns could lead to major policy changes affecting global AI development and technology access&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.theregister.com/ai-ml/2026/05/15/anthropic-urges-uncle-sam-to-kneecap-chinas-ai-ambitions-before-2028/5241201"&gt;The Register&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://venturebeat.com/orchestration/claudes-next-enterprise-battle-is-not-models-its-the-agent-control-plane"&gt;Claude's Next Enterprise Battle Focuses on Agent Control Plane&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;May 15, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;New VB Pulse data shows the enterprise AI race is shifting from model competition to controlling agent orchestration infrastructure. Microsoft Copilot Studio leads with 38.6% adoption, while Anthropic made its first appearance at 5.7% for native orchestration workflows. The battle over who controls where AI agents plan, execute, and prove compliance may determine the future of enterprise AI.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Enterprise AI infrastructure control battle could determine which companies dominate the multi-billion dollar AI agent market&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://venturebeat.com/orchestration/claudes-next-enterprise-battle-is-not-models-its-the-agent-control-plane"&gt;VentureBeat&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.fastcompany.com/91541586/amazon-workers-pressured-to-up-ai-use-extraneous-tasks"&gt;Amazon Workers Pressured on AI Usage Create Fake Tasks&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;May 15, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Amazon employees under pressure to increase their AI tool usage are reportedly creating artificial tasks to meet quotas, according to internal reports. Workers are inventing ways to use AI systems even when not necessary for their actual work responsibilities. The situation highlights challenges in AI adoption mandates and measuring productive AI usage in the workplace.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Forced AI adoption creating counterproductive behaviors could undermine genuine AI productivity improvements and workplace efficiency&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.fastcompany.com/91541586/amazon-workers-pressured-to-up-ai-use-extraneous-tasks"&gt;Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;Technology&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-edge-to-stop-loading-cleartext-passwords-in-memory-on-startup/"&gt;Microsoft Edge Ends Clear Text Password Loading in Memory&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;May 15, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Microsoft announced Edge will stop loading saved passwords into process memory in clear text at startup, reversing its previous position that this behavior was "by design." The change addresses security concerns about password exposure in browser memory that could be accessed by malware or forensic tools. The update represents a significant security improvement for millions of Edge users.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major browser security improvement could protect millions of users from password theft through memory access attacks&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-edge-to-stop-loading-cleartext-passwords-in-memory-on-startup/"&gt;BleepingComputer&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/05/15/tesla-reveals-two-robotaxi-crashes-involving-teleoperators/"&gt;Tesla Reveals Two Robotaxi Crashes Involving Teleoperators&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;May 15, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Tesla disclosed two robotaxi crashes involving remote teleoperators in newly un-redacted crash reports, revealing some of the challenges the company faces as it scales its autonomous vehicle operations. The incidents highlight ongoing safety concerns with Tesla's Full Self-Driving technology and remote supervision systems. The revelations come as Tesla expands its robotaxi testing program.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Autonomous vehicle safety incidents could impact public trust in self-driving technology and regulatory approval processes&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/05/15/tesla-reveals-two-robotaxi-crashes-involving-teleoperators/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/05/15/power-prices-are-up-76-on-americas-biggest-grid-and-a-watchdog-is-pointing-fingers/"&gt;Power Prices Surge 76% on America's Biggest Grid Due to AI Demand&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;May 15, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Electricity prices have jumped 76% on America's largest power grid, with a federal watchdog pointing to increased demand from AI data centers as a contributing factor. The price spike highlights a fundamental problem: the U.S. power grid wasn't designed for the massive electricity demands of an AI-driven economy. The gap between grid capacity and AI industry needs continues to widen.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Massive energy infrastructure strain from AI could significantly increase costs and limit AI expansion across the economy&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/05/15/power-prices-are-up-76-on-americas-biggest-grid-and-a-watchdog-is-pointing-fingers/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://projectzero.google/2026/05/pixel-10-exploit.html"&gt;Google Project Zero Discloses 0-Click Pixel 10 Exploit Chain&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;May 15, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Google's Project Zero researchers published details of a sophisticated 0-click exploit chain targeting the Pixel 10, demonstrating how attackers could compromise devices without user interaction. The exploit chain showcases advanced attack techniques that bypass multiple security layers in modern Android devices. The disclosure highlights ongoing security challenges in mobile device protection.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Advanced mobile exploit techniques could enable widespread device compromise without user awareness or interaction&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://projectzero.google/2026/05/pixel-10-exploit.html"&gt;Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theverge.com/tech/931147/x-illegal-hate-terror-content-ofcom-commitments"&gt;X Agrees to Crack Down on Illegal Hate and Terror Content in UK&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;May 15, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;British regulator Ofcom accepted new commitments from X to better protect UK users from illegal hate and terror content, including assessing 85% of reports within 48 hours. X agreed to withhold access to accounts determined to be operated by UK terror groups and work with experts on reporting systems. The agreement represents a significant regulatory compliance step for the platform.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major social media platform regulatory compliance could set precedents for content moderation requirements globally&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.theverge.com/tech/931147/x-illegal-hate-terror-content-ofcom-commitments"&gt;The Verge&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.politico.eu/article/germany-spy-agency-picks-france-ai-firm-over-palantir/"&gt;Germany's Spy Agency Picks French AI Firm Over Palantir&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;May 15, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Germany's intelligence agency selected a French AI company over Palantir for sensitive security systems, reflecting German officials' push for homegrown alternatives in critical infrastructure. The decision demonstrates European efforts to reduce dependence on US technology companies for security applications. The move aligns with broader digital sovereignty initiatives across the EU.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;European digital sovereignty moves could significantly impact US tech companies' access to lucrative government contracts&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.politico.eu/article/germany-spy-agency-picks-france-ai-firm-over-palantir/"&gt;Politico EU&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://turso.tech/blog/the-wonders-of-ai"&gt;Turso Retires Bug Bounty Program, Cites AI Code Quality Improvements&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;May 15, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Database company Turso announced it's retiring its bug bounty program, stating that AI-assisted development has dramatically improved their code quality and reduced vulnerability discoveries. The company reports that AI tools have made their codebase more secure and reliable, reducing the need for external security researchers. The decision represents a notable shift in how companies approach security testing.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;AI-driven code quality improvements could transform how companies approach security testing and vulnerability management&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://turso.tech/blog/the-wonders-of-ai"&gt;Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;Business &amp; Markets&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.nytimes.com/2026/05/15/business/oil-stocks-gas-trump-iran.html"&gt;Oil Prices Rise as Trump-Xi Summit Yields No Iran Breakthrough&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;May 15, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Oil markets rose after President Trump's meeting with Chinese leader Xi Jinping failed to secure commitments to help end the Iran conflict and reopen the Strait of Hormuz. Despite both leaders agreeing the strait must remain open, no concrete actions emerged to address the three-month-old crisis affecting global energy supplies. The diplomatic setback prolongs uncertainty in energy markets and supply chains.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Failed diplomatic breakthrough could prolong Middle East energy crisis and maintain elevated global economic uncertainty&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.nytimes.com/2026/05/15/business/oil-stocks-gas-trump-iran.html"&gt;NYT Business&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.nytimes.com/2026/05/15/business/stocks-bonds-interest-rates-inflation.html"&gt;Stock Rally Confronts Accelerating Inflation and Rate Concerns&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;May 15, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;The S&amp;P 500's lengthy winning streak faces challenges from accelerating inflation and possible Federal Reserve interest rate increases, despite strong corporate earnings continuing to drive markets higher. Investors are weighing whether robust company performance can offset macroeconomic headwinds from persistent price pressures. The tension highlights ongoing uncertainty about the sustainability of current market valuations.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Market sustainability concerns amid inflation could significantly impact investment strategies and economic growth prospects&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.nytimes.com/2026/05/15/business/stocks-bonds-interest-rates-inflation.html"&gt;NYT Business&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.nytimes.com/2026/05/15/world/asia/trump-boeing-order-china.html"&gt;Trump Announces Boeing Order From China, Beijing Stays Silent&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;May 15, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;President Trump announced a Boeing jet order from China during the summit, but Beijing has remained silent on the deal's details or confirmation. If materialized, the order would be a major win for Boeing, which has lost significant ground to Airbus in one of the world's largest aviation markets. The lack of Chinese confirmation raises questions about the deal's reality and scope.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major aerospace deal uncertainty could significantly impact Boeing's competitive position and US-China trade relations&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.nytimes.com/2026/05/15/world/asia/trump-boeing-order-china.html"&gt;NYT Business&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.nytimes.com/2026/05/15/business/starbucks-layoffs-office-closures.html"&gt;Starbucks Announces 300 Corporate Layoffs and Office Closures&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;May 15, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Starbucks will lay off 300 corporate workers and close four regional offices, taking a $400 million charge related to the restructuring. The coffee giant's cost-cutting measures come as the company faces ongoing challenges in its core markets and operational efficiency. The layoffs represent part of broader corporate restructuring efforts in the retail industry.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major retail restructuring signals broader industry challenges and changing business models in the post-pandemic economy&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.nytimes.com/2026/05/15/business/starbucks-layoffs-office-closures.html"&gt;NYT Business&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.nytimes.com/2026/05/14/business/retail-sales-consumer-spending-april.html"&gt;Consumers Maintain Spending Despite High Gas Prices and Inflation&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;May 15, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Retail sales rose 0.5% in April despite higher prices for gas, food, and other goods driven by Middle East conflicts and supply chain pressures. The increase demonstrates continued consumer resilience even as inflation pressures mount, though signs of strain are emerging. The mixed signals provide important indicators for Federal Reserve policy decisions and economic outlook.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Consumer spending resilience amid inflation provides critical economic data for monetary policy and business planning decisions&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.nytimes.com/2026/05/14/business/retail-sales-consumer-spending-april.html"&gt;NYT Business&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="http://www.euronews.com/my-europe/2026/05/14/tariffs-weak-demand-and-climate-confusion-drag-eu-business-investment-rate-to-11-year-low"&gt;EU Business Investment Drops to 11-Year Low Amid Policy Uncertainty&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;May 15, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;European Union business investment rates fell to their lowest point since 2015, with companies citing geopolitical disruption, tariffs, weak demand, and climate regulation uncertainty. The decline affects economic growth across the bloc, though some countries like Hungary and Croatia showed improvement. The investment drought demonstrates how policy uncertainty and trade tensions impact European competitiveness.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Significant EU economic decline shows how policy uncertainty and trade tensions undermine business confidence and growth&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="http://www.euronews.com/my-europe/2026/05/14/tariffs-weak-demand-and-climate-confusion-drag-eu-business-investment-rate-to-11-year-low"&gt;Euronews Business&lt;/a&gt;&lt;br&gt;
 &lt;/p&gt;</content>
   </entry>
 </feed>
