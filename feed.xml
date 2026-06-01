@@ -5,7 +5,130 @@
   <link href="https://jonaskjellin.github.io/pulsebrief-site/feed.xml" rel="self"/>
   <link href="https://jonaskjellin.github.io/pulsebrief-site/"/>
   <id>https://jonaskjellin.github.io/pulsebrief-site/</id>
-  <updated>2026-05-31T16:55:45.288Z</updated>
+  <updated>2026-06-01T10:11:48.857Z</updated>
+  <entry>
+    <title>Custom — Jun 1, 2026</title>
+    <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-06-01-custom.html"/>
+    <id>https://jonaskjellin.github.io/pulsebrief-site/2026-06-01-custom.html</id>
+    <updated>2026-06-01T10:11:48.857Z</updated>
+    <content type="html">&lt;p&gt;&lt;h1&gt;PulseBrief's Update Pulse&lt;/h1&gt;&lt;br&gt;
+&lt;em&gt;as of Mon, Jun 1, 10:11&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Cyber Security&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://cybersecuritynews.com/windows-netlogon-0-click-rce/"&gt;Windows Netlogon 0-Click RCE Vulnerability Now Actively Exploited In The Wild&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Jun 1, 03:16&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;The critical Windows Netlogon remote code execution vulnerability tracked as CVE-2026-41089 is now under active exploitation in the wild, significantly raising the risk profile for unpatched Windows Server environments. The flaw affects Windows servers configured as domain controllers and allows unauthenticated remote attackers to execute arbitrary code with SYSTEM-level privileges by sending specially crafted packets. Multiple sources confirm active exploitation of this zero-click vulnerability.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Domain controller compromises provide attackers complete control over enterprise networks and user credentials&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://cybersecuritynews.com/windows-netlogon-0-click-rce/"&gt;Cybersecurity News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://thehackernews.com/2026/06/critical-wp-maps-pro-flaw-actively.html"&gt;Critical WP Maps Pro Flaw Actively Exploited to Create Admin Accounts&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Jun 1, 08:45&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Attackers are actively exploiting a critical security flaw in WP Maps Pro, a WordPress plugin with over 15,000 sales, to create malicious administrator accounts on vulnerable websites. The vulnerability allows threat actors to gain complete control of WordPress sites without authentication. The plugin enables site owners to embed customizable Google Maps and OpenStreetMap with markers and advanced location features.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;WordPress vulnerabilities affect millions of websites and enable complete site takeovers for data theft and defacement&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://thehackernews.com/2026/06/critical-wp-maps-pro-flaw-actively.html"&gt;The Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://cybersecuritynews.com/instagram-meta-ai-vulnerability/"&gt;Instagram Meta AI Vulnerability Allegedly Enables Password Reset for Accounts&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Jun 1, 03:50&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;A critical flaw in Meta's AI-powered account recovery tool on Instagram allowed attackers to hijack high-value accounts by tricking the chatbot into forwarding password reset codes with no verification required. Security researchers ZachXBT and Dark Web Informer were among the first to publicly expose the vulnerability, revealing that threat actors had found a way to manipulate the AI system. The vulnerability demonstrates new attack vectors targeting AI-powered security systems.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;AI-powered security systems create new attack surfaces that could bypass traditional authentication mechanisms&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://cybersecuritynews.com/instagram-meta-ai-vulnerability/"&gt;Cybersecurity News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://cybersecuritynews.com/famous-chollima-hackers-target-php-developers/"&gt;Famous Chollima Hackers Target PHP Developers Using Compromised Packagist Package&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Jun 1, 07:45&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;A well-known North Korean threat actor has been caught hiding malware inside a legitimate PHP package available through Packagist, the main package repository for PHP projects. The attack targets software developers directly, disguising a dangerous payload as a routine configuration file within normal development workflows. This supply chain attack demonstrates how nation-state actors are infiltrating developer tools and package repositories.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Supply chain attacks on developer repositories can compromise thousands of applications and enterprise software projects&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://cybersecuritynews.com/famous-chollima-hackers-target-php-developers/"&gt;Cybersecurity News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.wired.com/story/websites-can-now-spy-on-you-through-your-hard-drive/"&gt;Websites Can Now Spy on You Through Your Hard Drive&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Jun 1, 09:30&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;The newly detailed FROST technique allows websites to measure telltale SSD activity in browsers using simple JavaScript, creating a new fingerprinting method that exploits storage timing variations. Researchers demonstrated how the Origin Private File System API can be used to measure storage performance characteristics unique to each device. The technique represents a novel privacy threat that bypasses traditional browser protections.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Browser-based hardware fingerprinting threatens user privacy and could enable persistent tracking across websites&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.wired.com/story/websites-can-now-spy-on-you-through-your-hard-drive/"&gt;Wired Security&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://cybersecuritynews.com/hackers-attacking-signal-users/"&gt;Hackers Attacking Signal Users to Steal Backups in New Wave of Attacks&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Jun 1, 07:11&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;A new wave of phishing attacks is targeting users of Signal, the encrypted messaging app trusted by journalists, activists, and privacy-conscious individuals worldwide. Hackers are impersonating Signal's support team and tricking users into handing over their backup recovery keys, which can unlock entire archives of private chat history. The campaign has raised serious concerns among security professionals about the targeting of secure communication platforms.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Attacks on secure messaging platforms threaten confidential communications for journalists, activists, and enterprise users&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://cybersecuritynews.com/hackers-attacking-signal-users/"&gt;Cybersecurity News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;AI &amp; Machine Learning&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://venturebeat.com/security/claude-mythos-exposed-a-hard-truth-your-enterprise-patching-process-is-way-too-slow"&gt;Claude Mythos Exposed a Hard Truth: Your Enterprise Patching Process is Way Too Slow&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;May 31, 16:30&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Anthropic announced that Claude Mythos Preview had autonomously discovered thousands of zero-day vulnerabilities across major operating systems and browsers, closing the "margin of safety" that previously existed when AI could only exploit known vulnerabilities. The model scored 83.1% on the CyberGym vulnerability reproduction benchmark, with exploitation campaigns costing less than $20,000 in compute. Recent exploits show dramatically reduced timelines - Langflow's CVE-2026-33017 was exploited 20 hours after disclosure, while Marimo's CVE-2026-39987 was hit in under 10 hours.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;AI-powered vulnerability discovery and exploitation dramatically reduces time available for enterprise patching and security response&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://venturebeat.com/security/claude-mythos-exposed-a-hard-truth-your-enterprise-patching-process-is-way-too-slow"&gt;VentureBeat&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://spectrum.ieee.org/ai-video-games-llms-togelius"&gt;Why Are Large Language Models So Terrible at Video Games?&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Jun 1, 09:14&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Analysis examines the fundamental limitations preventing large language models from achieving competence in video game environments despite their success in other domains. The research explores how current LLM architectures struggle with real-time decision making, spatial reasoning, and the multi-modal nature of gaming interfaces. The findings have implications for AI development in interactive and dynamic environments beyond gaming.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Understanding AI limitations in gaming reveals broader challenges for AI deployment in interactive and real-time applications&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://spectrum.ieee.org/ai-video-games-llms-togelius"&gt;IEEE Spectrum&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.promptarmor.com/resources/gpt-for-google-sheets-data-exfiltration"&gt;ChatGPT for Google Sheets Exfiltrates Workbooks&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;May 31, 20:35&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Security researchers discovered that the ChatGPT for Google Sheets extension can exfiltrate sensitive spreadsheet data, potentially exposing financial information, customer lists, and proprietary business data. The vulnerability demonstrates how AI-powered productivity tools can create new data security risks in enterprise environments. The finding highlights the need for careful security evaluation of AI integrations with business applications.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;AI productivity tools integrated with business applications create new data exfiltration risks that could expose sensitive enterprise information&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.promptarmor.com/resources/gpt-for-google-sheets-data-exfiltration"&gt;PromptArmor&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://darylcecile.net/notes/speed-of-prototyping-age-of-ai"&gt;The Speed of Prototyping in the Age of AI&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;May 31, 16:37&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Analysis examines how AI tools are dramatically accelerating software prototyping cycles, enabling developers to create functional applications in hours rather than weeks. The piece explores how AI-assisted development is changing the economics of software creation and enabling rapid validation of business ideas. The trend has implications for startup funding, development team structures, and competitive dynamics in technology markets.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;AI-accelerated prototyping could fundamentally change software development economics and competitive dynamics for technology businesses&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://darylcecile.net/notes/speed-of-prototyping-age-of-ai"&gt;Daryl Cecile&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Technology&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theverge.com/tech/940589/nvidia-rtx-spark-n1-n1x-laptop-desktop-pc-cpu-gpu-ai-release-date"&gt;Nvidia Announces RTX Spark as 'The Most Efficient PC Chip Ever Built'&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Jun 1, 04:28&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Nvidia officially announced RTX Spark, the first in a family of chips that will put complete computing capabilities into laptops and mini-PCs, marking Nvidia's entry as a consumer PC chipmaker alongside Intel, AMD, Apple, and Qualcomm. The company claims RTX Spark will meet or beat the most powerful thin-and-light Windows machines ever, though specific performance metrics weren't shared. The RTX Spark is effectively the same GB10 chip used in datacenter applications, adapted for consumer devices.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Nvidia's entry into consumer PC processors could reshape the laptop market and challenge Intel/AMD dominance in personal computing&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.theverge.com/tech/940589/nvidia-rtx-spark-n1-n1x-laptop-desktop-pc-cpu-gpu-ai-release-date"&gt;The Verge&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theverge.com/tech/940584/microsoft-surface-laptop-ultra-nvidia-rtx-spark-pictures"&gt;Microsoft Launches Surface Laptop Ultra with Nvidia RTX Spark&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Jun 1, 04:36&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Microsoft and Nvidia announced the Surface Laptop Ultra, a 15-inch computer powered by Nvidia's new ARM-based RTX Spark chip. Microsoft promises this is "the most powerful Surface, period," though final specs and pricing remain undisclosed. The collaboration marks Microsoft's second attempt at ARM-based computing after the original Surface RT in 2012, leveraging Nvidia's Tegra ARM CPUs.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;ARM-based Windows laptops with high-end graphics could challenge Intel/AMD dominance and improve battery life for creative professionals&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.theverge.com/tech/940584/microsoft-surface-laptop-ultra-nvidia-rtx-spark-pictures"&gt;The Verge&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theregister.com/personal-tech/2026/06/01/memory-crunch-sends-pc-prices-into-double-digit-climb/5248525"&gt;Memory Crunch Sends PC Prices into Double-Digit Climb&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Jun 1, 09:15&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;PC prices are experiencing significant increases with notebooks up 11% and desktops up 10% as memory manufacturers shift production focus from consumer components to higher-margin AI server chips. The supply constraint is driving up costs across the entire PC ecosystem as chipmakers prioritize datacenter and AI workload memory over consumer applications. Multiple sources confirm the trend affecting global PC markets.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Rising PC costs due to AI infrastructure prioritization could affect enterprise hardware budgets and consumer technology adoption&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.theregister.com/personal-tech/2026/06/01/memory-crunch-sends-pc-prices-into-double-digit-climb/5248525"&gt;The Register&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theregister.com/systems/2026/06/01/intel-launches-288-core-clearwater-forest-xeon-6-on-18a-process/5248150"&gt;Intel Launches 288-Core Clearwater Xeon 6+ on 18A Process&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Jun 1, 06:30&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Intel unveiled its first 2nm-class Xeon processor, the Clearwater Forest Xeon 6+, featuring 288 cores and built on Intel's 18A manufacturing process. The chip targets AI agent workloads and represents a significant core count increase for Intel's server processor lineup. The launch demonstrates Intel's progress in advanced manufacturing and high-core-count processor design for datacenter applications.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;High-core-count processors enable more powerful AI and datacenter workloads while advancing semiconductor manufacturing capabilities&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.theregister.com/systems/2026/06/01/intel-launches-288-core-clearwater-forest-xeon-6-on-18a-process/5248150"&gt;The Register&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theverge.com/tech/940524/amd-computex-am5-promise-2029-rx9070gre-7700x3d-5800x3d"&gt;AMD Extends AM5 Socket Support Through 2029&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Jun 1, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;AMD announced it will continue supporting its AM5 desktop motherboard socket with new Ryzen processors through 2029, allowing users to upgrade CPUs without changing motherboards through the end of the decade. The company also relaunched three older components as part of a strategy emphasizing long-term platform stability. The commitment addresses customer concerns about frequent platform changes and upgrade costs.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Extended socket support reduces total cost of ownership for PC builders and could influence platform choice for enterprise and enthusiast markets&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.theverge.com/tech/940524/amd-computex-am5-promise-2029-rx9070gre-7700x3d-5800x3d"&gt;The Verge&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theverge.com/games/940722/asus-xbox-ally-x20-special-edition-oled-screen"&gt;Asus Announces OLED Xbox Ally X20 Special Edition&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Jun 1, 10:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Asus unveiled the ROG Xbox Ally X20, a handheld gaming device featuring a larger OLED screen, drift-resistant GuliKit TMR joysticks, and a transforming D-pad that switches between 8-way and 4-way configurations. The translucent handheld addresses key complaints about the original Xbox Ally X, including screen size and accidental button presses. The device represents continued innovation in the portable PC gaming market.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Portable gaming device improvements drive competition in the growing handheld PC gaming market and could influence gaming hardware trends&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.theverge.com/games/940722/asus-xbox-ally-x20-special-edition-oled-screen"&gt;The Verge&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Business &amp; Markets&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.nytimes.com/2026/06/01/business/oil-gas-price-iran.html"&gt;Oil Prices Jump as U.S. and Iran Exchange Fire&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Jun 1, 09:28&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Oil prices climbed as investors weighed a renewed exchange of military strikes between the United States and Iran against signs that both sides remain engaged in negotiations. The price increase reflects market concerns about potential disruption to Middle Eastern oil production and shipping routes. Multiple sources confirm the price volatility tied to escalating tensions in the region.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Middle East military conflicts directly impact global oil prices, affecting energy costs and supply chain stability for all industries&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.nytimes.com/2026/06/01/business/oil-gas-price-iran.html"&gt;NYT Business&lt;/a&gt; · &lt;a href="http://www.euronews.com/business/2026/06/01/oil-prices-climb-as-israel-expands-military-operation-in-lebanon"&gt;Euronews Business&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.nytimes.com/2026/05/31/business/media/young-moviegoers-backrooms-a24-box-office.html"&gt;Young Moviegoers Power 'Backrooms' to $82 Million in Ticket Sales&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Jun 1, 02:33&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;The horror film 'Backrooms,' which cost $10 million and came from a 20-year-old filmmaker, earned $82 million in ticket sales, adding to evidence that young people will go to theaters for the right offering. The success demonstrates the continued viability of theatrical releases and the influence of digital-native creators in traditional entertainment. The film's performance outpaced many major studio releases.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;YouTube creators breaking into mainstream entertainment could disrupt traditional media production and influence content discovery and funding models&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.nytimes.com/2026/05/31/business/media/young-moviegoers-backrooms-a24-box-office.html"&gt;NYT Business&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.nytimes.com/2026/06/01/business/economy/china-military-nvidia-chips.html"&gt;Chinese Military Sought Nvidia Chips for Years, Report Says&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Jun 1, 09:02&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;An analysis of six years of procurement records suggests that the People's Liberation Army has openly tried to acquire restricted U.S. technology, particularly Nvidia chips subject to export controls. The findings reveal systematic efforts by China's military to obtain advanced semiconductors despite U.S. restrictions. Multiple sources confirm the pattern of procurement attempts documented in government records.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Military acquisition of restricted technology affects export control effectiveness and could escalate U.S.-China technology tensions&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.nytimes.com/2026/06/01/business/economy/china-military-nvidia-chips.html"&gt;NYT Business&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/06/01/unastella-a-south-korean-rocket-startup-that-launched-from-home-raises-24m/"&gt;Unastella Raises $24M for South Korean Rocket Development&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Jun 1, 10:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;The Seoul-based rocket startup Unastella raised $24 million to develop its own launch vehicles and engines, representing significant progress for the South Korean space industry. The company has been developing rocket technology from its home base and represents growing international competition in the commercial space launch market. The funding will support continued development of the company's launch capabilities.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;International space startups create competition for established launch providers and could reduce satellite deployment costs&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/06/01/unastella-a-south-korean-rocket-startup-that-launched-from-home-raises-24m/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="http://www.euronews.com/business/2026/06/01/spaniards-now-spend-half-their-salary-on-rent-over-70-in-madrid-and-barcelona"&gt;Spaniards Now Spend Half Their Salary on Rent, Over 70% in Madrid and Barcelona&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Jun 1, 09:55&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;The share of wages spent on rent in Spain has risen from 38% in 2019 to 50% in 2025, representing the highest level in the entire data series. In Madrid and Barcelona, residents spend over 70% of their salary on housing costs. The figures reveal a worrying trend affecting affordability and economic mobility across major Spanish cities.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Housing affordability crises affect workforce mobility, consumer spending power, and economic growth in major metropolitan areas&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="http://www.euronews.com/business/2026/06/01/spaniards-now-spend-half-their-salary-on-rent-over-70-in-madrid-and-barcelona"&gt;Euronews Business&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/"&gt;Meta Launches Instagram, Facebook, and WhatsApp Subscriptions&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;May 31, 17:02&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Meta officially launched subscription services for Instagram, Facebook, and WhatsApp with more features planned, including AI-powered capabilities. The move represents a significant shift toward subscription revenue models for the social media giant beyond traditional advertising. The subscriptions offer enhanced features and capabilities across Meta's platform ecosystem.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Social media subscription models could reduce advertising dependence and change how users interact with major platforms&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/"&gt;TechCrunch&lt;/a&gt;&lt;br&gt;
+&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>Evening — May 31, 2026</title>
     <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-05-31-evening.html"/>
@@ -2148,74 +2271,6 @@
 &lt;p&gt;Swatch closed stores worldwide after crowds swarmed locations seeking the limited 'Royal Pop' pocket watches, a collaboration with luxury maker Audemars Piguet. The unexpected consumer frenzy for the premium timepieces drew massive crowds to stores and malls globally, forcing temporary closures for safety reasons. The incident demonstrates how luxury collaborations can create unprecedented demand that overwhelms traditional retail infrastructure.&lt;/p&gt;&lt;br&gt;
 &lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Luxury product collaboration frenzy demonstrates changing consumer behavior and retail crowd management challenges&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
 &lt;p&gt;Sources: &lt;a href="https://www.nytimes.com/2026/05/16/business/swatch-audemars-piguet-watch-launch-closures.html"&gt;NYT Business&lt;/a&gt;&lt;br&gt;
-&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>Evening — May 16, 2026</title>
-    <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-05-16-evening.html"/>
-    <id>https://jonaskjellin.github.io/pulsebrief-site/2026-05-16-evening.html</id>
-    <updated>2026-05-16T16:44:32.792Z</updated>
-    <content type="html">&lt;p&gt;&lt;h1&gt;PulseBrief's Evening Pulse&lt;/h1&gt;&lt;br&gt;
-&lt;em&gt;Sat, May 16, 11:00 → Sat, May 16, 16:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;Cyber Security&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.bleepingcomputer.com/news/security/russian-hackers-turn-kazuar-backdoor-into-modular-p2p-botnet/"&gt;Russian FSB Group Evolves Kazuar Backdoor Into Modular P2P Botnet&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;May 16, 14:15&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Russian state-sponsored group Secret Blizzard (also known as Turla) has transformed its long-running Kazuar backdoor into a sophisticated modular peer-to-peer botnet designed for stealth and long-term persistence. The FSB-affiliated group's enhanced malware demonstrates advanced command-and-control capabilities that are significantly harder to detect and disrupt than traditional centralized botnets. The evolution represents a major advancement in nation-state persistent access tools that could affect critical infrastructure and high-value targets.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Nation-state malware evolution demonstrates increasingly sophisticated persistent access capabilities that could affect critical infrastructure and enterprise security&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.bleepingcomputer.com/news/security/russian-hackers-turn-kazuar-backdoor-into-modular-p2p-botnet/"&gt;BleepingComputer&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://thehackernews.com/2026/05/funnel-builder-flaw-under-active.html"&gt;WordPress Plugin Vulnerability Actively Exploited to Steal WooCommerce Credit Cards&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;May 16, 15:20&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;A critical vulnerability in the Funnel Builder WordPress plugin is being actively exploited to inject malicious JavaScript into WooCommerce checkout pages, enabling real-time credit card theft. The attacks target e-commerce websites using the popular plugin, directly compromising payment information during the checkout process. The exploitation demonstrates how supply chain vulnerabilities in website plugins can directly impact financial transactions and customer trust.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;E-commerce payment theft through website plugins directly affects online businesses and millions of customers' financial security&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://thehackernews.com/2026/05/funnel-builder-flaw-under-active.html"&gt;The Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;AI &amp; Machine Learning&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/05/16/openai-co-founder-greg-brockman-reportedly-takes-charge-of-product-strategy/"&gt;OpenAI Reorganizes Leadership with Brockman Taking Product Control&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;May 16, 15:33&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;OpenAI co-founder Greg Brockman has officially taken control of the company's product division as part of a broader executive restructuring aimed at unifying ChatGPT and Codex into a single core experience. The reorganization represents another significant leadership change at the most influential AI company, coming amid ongoing legal battles with Elon Musk. The move signals OpenAI's strategic focus on consolidating its product offerings and streamlining development efforts.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Leadership changes at the most influential AI company could significantly impact AI product development and industry direction&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/05/16/openai-co-founder-greg-brockman-reportedly-takes-charge-of-product-strategy/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://nvlabs.github.io/Sana/WM/"&gt;NVIDIA Releases SANA-WM Open-Source World Model for High-Quality Video Generation&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;May 16, 12:06&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;NVIDIA Labs released SANA-WM, a 2.6-billion parameter open-source world model capable of generating one-minute 720p videos, representing a significant advance in open AI video generation capabilities. The model demonstrates substantial improvements in video quality and length compared to previous open-source alternatives, bringing high-quality video generation closer to widespread accessibility. The release continues the trend of making sophisticated AI video capabilities available to researchers and developers outside major tech companies.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;High-quality open-source video generation models could democratize advanced AI video capabilities and accelerate creative applications&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://nvlabs.github.io/Sana/WM/"&gt;Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.seangoedecke.com/steering-vectors/"&gt;DeepSeek-V4-Flash Advances LLM Steering Vector Research&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;May 16, 14:58&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;The release of DeepSeek-V4-Flash has renewed interest in LLM steering vectors, a technique for controlling AI model behavior and outputs through mathematical interventions. The model's architecture appears particularly responsive to steering techniques, enabling researchers to better understand and control how language models process and generate content. This development could lead to more controllable and safer AI systems that can be directed away from harmful outputs.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Advanced AI control techniques could enable safer and more reliable AI systems by providing better mechanisms for directing model behavior&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.seangoedecke.com/steering-vectors/"&gt;Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;Technology&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/05/16/60b-ai-chip-darling-cerebras-almost-died-early-on-burning-8m-a-month/"&gt;Cerebras AI Chip Company Overcame Near-Death Experience to Reach $60B Valuation&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;May 16, 15:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Cerebras Systems, now valued at $60 billion following 2026's largest tech IPO, nearly collapsed in its early years while burning $8 million per month developing what many considered an impossible chip design. The company's wafer-scale engine, which uses an entire silicon wafer as a single processor, faced massive technical and financial challenges before becoming one of the most valuable AI hardware companies. The success story demonstrates how high-risk AI hardware ventures can achieve massive valuations despite early struggles.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major AI hardware success story shows how high-risk semiconductor ventures are reshaping the technology industry and AI infrastructure&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/05/16/60b-ai-chip-darling-cerebras-almost-died-early-on-burning-8m-a-month/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/05/16/users-turn-to-jailbreaking-their-older-kindles-as-amazon-ends-support/"&gt;Users Jailbreak Older Kindles as Amazon Ends Support&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;May 16, 14:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Kindle users are increasingly turning to jailbreaking their older e-readers to continue adding books after Amazon ended official support for legacy devices. The workaround allows users to bypass Amazon's restrictions and install alternative software, though it carries risks including potential device bricking and warranty voidance. The trend highlights growing consumer frustration with planned obsolescence in digital devices and the desire to extend the useful life of functional hardware.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Device longevity concerns demonstrate growing consumer resistance to planned obsolescence and desire for greater control over purchased technology&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/05/16/users-turn-to-jailbreaking-their-older-kindles-as-amazon-ends-support/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://mag.openrockets.com/p/how-an-australian-teen-team-is-making-radio-astronomy-affordable-for-rural-schools-4894opuisyhfdisubgi/?b=2"&gt;Australian Teens Develop Affordable Radio Astronomy Kit for Schools&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;May 16, 15:12&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;An Australian teenage team has created an affordable radio astronomy system designed to bring space science education to rural and remote schools that lack access to expensive scientific equipment. Their open-source project aims to democratize radio astronomy education by providing schools with low-cost alternatives to traditional radio telescopes that can cost tens of thousands of dollars. The initiative represents how young innovators are addressing educational inequality in STEM fields through accessible technology.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Educational technology innovation by young developers could significantly expand access to advanced science education in underserved communities&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://mag.openrockets.com/p/how-an-australian-teen-team-is-making-radio-astronomy-affordable-for-rural-schools-4894opuisyhfdisubgi/?b=2"&gt;Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;Business &amp; Markets&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.nytimes.com/2026/05/15/us/politics/trump-allies-weaponization-fund.html"&gt;Trump Administration Considers $1.7B Fund for Allies Investigated Under Biden&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;May 16, 15:42&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;The Trump administration is weighing a highly unusual $1.7 billion taxpayer-funded program to compensate allies who were investigated during the Biden administration, though the plan hasn't been finalized or approved. Critics denounce the proposal as a vast political slush fund that would use public money for partisan purposes, representing a significant escalation in using federal resources to address perceived political grievances. The unprecedented compensation scheme raises serious questions about the appropriate use of taxpayer funds for political purposes.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Unprecedented political compensation fund could set dangerous precedents for using taxpayer money for partisan purposes and government accountability&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.nytimes.com/2026/05/15/us/politics/trump-allies-weaponization-fund.html"&gt;NYT Business&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.nytimes.com/2026/05/16/business/dealbook/debt-100-percent-gdp.html"&gt;U.S. National Debt Exceeds 100% of GDP as Fiscal Concerns Mount&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;May 16, 12:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;The U.S. national debt has surpassed 100% of GDP, marking a significant fiscal milestone that Washington has largely brushed aside despite mounting economic implications. While debt-to-GDP ratios above 100% aren't unprecedented historically, the trend reflects growing fiscal challenges that could constrain future policy options and economic flexibility. The milestone comes amid ongoing debates about government spending, taxation, and long-term fiscal sustainability.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major fiscal milestone could impact future economic policy flexibility and government's ability to respond to crises or invest in priorities&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.nytimes.com/2026/05/16/business/dealbook/debt-100-percent-gdp.html"&gt;NYT Business&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.politico.eu/article/vladimir-putin-xi-jinping-visit-china-just-days-after-trump/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS_Syndication"&gt;Putin to Visit China Days After Trump Summit&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;May 16, 11:08&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Russian President Vladimir Putin will meet with Chinese President Xi Jinping in Beijing on May 19-20, just days after Trump's departure from China, according to Kremlin announcements. The timing of Putin's visit immediately following Trump's summit suggests coordinated diplomatic efforts between Russia and China in response to U.S. engagement. The back-to-back meetings highlight the complex geopolitical dynamics as major powers navigate relationships amid ongoing conflicts and economic tensions.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Coordinated Russia-China diplomacy following U.S. engagement could significantly impact global geopolitical alignments and crisis resolution efforts&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.politico.eu/article/vladimir-putin-xi-jinping-visit-china-just-days-after-trump/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS_Syndication"&gt;Politico EU&lt;/a&gt;&lt;br&gt;
 &lt;/p&gt;</content>
   </entry>
 </feed>
