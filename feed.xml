@@ -5,7 +5,110 @@
   <link href="https://jonaskjellin.github.io/pulsebrief-site/feed.xml" rel="self"/>
   <link href="https://jonaskjellin.github.io/pulsebrief-site/"/>
   <id>https://jonaskjellin.github.io/pulsebrief-site/</id>
-  <updated>2026-06-13T08:17:35.969Z</updated>
+  <updated>2026-06-13T12:21:12.930Z</updated>
+  <entry>
+    <title>Custom — Jun 13, 2026</title>
+    <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-06-13-custom.html"/>
+    <id>https://jonaskjellin.github.io/pulsebrief-site/2026-06-13-custom.html</id>
+    <updated>2026-06-13T12:21:12.930Z</updated>
+    <content type="html">&lt;p&gt;&lt;h1&gt;PulseBrief's Update Pulse&lt;/h1&gt;&lt;br&gt;
+&lt;em&gt;as of Sat, Jun 13, 12:21&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Cyber Security&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.phoronix.com/news/Arch-Linux-AUR-More-Than-1500"&gt;Arch Linux Supply Chain Attack Expands to Over 1,500 Compromised Packages&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Jun 13, 11:55&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;The Arch Linux AUR supply chain attack has expanded to affect more than 1,500 packages, significantly larger than initial estimates of 400 packages. Arch Linux maintainers now believe the malware incident is under control after identifying and removing compromised packages containing credential-stealing malware and rootkits. The attack represents one of the most extensive supply chain compromises targeting Linux development environments.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Massive Linux supply chain attacks threaten enterprise development environments and demonstrate growing risks in community-maintained package repositories&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.phoronix.com/news/Arch-Linux-AUR-More-Than-1500"&gt;Phoronix&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://cybersecuritynews.com/splunk-enterprise-pre-auth-rce-chain-exposes/"&gt;Critical Splunk Enterprise Vulnerability Enables Pre-Authentication Remote Code Execution&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Jun 13, 11:12&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;A critical vulnerability chain in Splunk Enterprise (CVE-2026-20253) with CVSS score 9.8 allows unauthenticated attackers to achieve remote code execution through a misconfigured PostgreSQL sidecar service. The flaw affects Splunk Enterprise 10 and later versions, exposing the database with zero authentication requirements. The vulnerability represents a serious threat to enterprise security infrastructure relying on Splunk for log analysis and monitoring.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Critical SIEM platform vulnerabilities threaten enterprise security monitoring capabilities and could compromise security operations centers&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://cybersecuritynews.com/splunk-enterprise-pre-auth-rce-chain-exposes/"&gt;Cybersecurity News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.wired.com/story/security-news-this-week-the-fcc-wants-to-kill-burner-phones/"&gt;FCC Proposes Eliminating Burner Phones to Combat Criminal Activity&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Jun 13, 10:30&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;The Federal Communications Commission is pursuing regulations that would effectively eliminate anonymous burner phones as part of broader security enforcement efforts. The proposal aims to reduce criminal use of untraceable mobile communications while raising privacy concerns about anonymous communication rights. The regulatory move reflects government efforts to enhance law enforcement capabilities in tracking mobile communications.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Communication privacy regulations affect anonymous communication tools and could influence enterprise security and privacy strategies&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.wired.com/story/security-news-this-week-the-fcc-wants-to-kill-burner-phones/"&gt;Wired Security&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/06/13/the-fbi-built-its-own-replica-small-town-to-simulate-real-world-cyberattacks/"&gt;FBI Creates Replica Small Town for Realistic Cyberattack Training Simulations&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Jun 13, 11:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;The FBI constructed a full replica small town inside a building in Alabama specifically designed as a cyber training ground for simulating real-world cyberattacks. The facility enables realistic training scenarios that mirror actual community infrastructure and attack vectors. The investment demonstrates government recognition of the need for practical cybersecurity training environments that reflect real-world attack scenarios.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Advanced cybersecurity training facilities demonstrate government investment in threat preparedness and could influence enterprise security training approaches&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/06/13/the-fbi-built-its-own-replica-small-town-to-simulate-real-world-cyberattacks/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;AI &amp; Machine Learning&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.bleepingcomputer.com/news/security/us-gov-asks-anthropic-to-ban-foreign-national-access-to-fable-mythos/"&gt;US Government Orders Anthropic to Suspend Advanced AI Models for Foreign Nationals&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Jun 13, 10:01&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;The U.S. government ordered Anthropic to block all foreign nationals from accessing Claude Fable 5 and Mythos 5, forcing the company to suspend both models worldwide on Friday evening. The order cited national security concerns over a potential jailbreak method, though Anthropic disputes the decision, calling the cited capability narrow and widely available elsewhere. The unprecedented action demonstrates how national security export controls can rapidly shut down commercial AI services regardless of their broad customer base.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;AI export controls demonstrate how national security concerns can rapidly shut down AI services and could influence enterprise AI deployment strategies&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.bleepingcomputer.com/news/security/us-gov-asks-anthropic-to-ban-foreign-national-access-to-fable-mythos/"&gt;BleepingComputer&lt;/a&gt; · &lt;a href="https://www.politico.eu/article/anthropic-suspends-access-to-latest-ai-models-following-us-order/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS_Syndication"&gt;Politico EU&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.wired.com/story/a-court-has-ruled-that-google-is-liable-for-false-statements-generated-by-ai-overviews/"&gt;Google Held Liable for False AI Overview Statements in Landmark Court Ruling&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Jun 13, 09:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;A court ruled that Google is legally liable for false statements generated by its AI Overviews feature, establishing that companies must assume legal responsibility for damages caused by AI-generated responses. The ruling holds that organizations designing, training, operating, and managing AI systems bear liability for their outputs. This precedent could fundamentally change how companies approach AI deployment and liability management across all AI-powered services.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;AI liability precedents affect how organizations approach AI deployment risk management and could influence enterprise AI adoption strategies&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.wired.com/story/a-court-has-ruled-that-google-is-liable-for-false-statements-generated-by-ai-overviews/"&gt;Wired AI&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://research.google/blog/a-low-carbon-computing-platform-from-your-retired-phones/"&gt;Google Research Proposes Low-Carbon Computing Platform Using Retired Smartphones&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Jun 13, 09:38&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Google researchers outlined a low-carbon computing platform that repurposes retired smartphones for distributed computing tasks rather than traditional data center infrastructure. The research explores how millions of discarded mobile devices could be networked together to create sustainable computing resources. The approach addresses both electronic waste reduction and carbon footprint concerns in large-scale computing deployments.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Sustainable computing alternatives could influence enterprise data center strategies and demonstrate environmental approaches to AI infrastructure&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://research.google/blog/a-low-carbon-computing-platform-from-your-retired-phones/"&gt;Google Research&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theverge.com/tech/949360/apple-ai-photo-edit-reframe-extend-clean-up-hands-on"&gt;Apple Launches Native AI Photo Editing Features for iPhone Users&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Jun 13, 12:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;iPhone owners gained access to real AI photo editing capabilities for the first time through iOS 27 developer beta, marking a tipping point for the world's most popular camera platform. While tame compared to Google Pixel features, the new tools represent Apple's first serious native AI photo manipulation capabilities. The features raise questions about photo authenticity as AI editing becomes mainstream across consumer devices.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Mainstream AI photo editing affects content authenticity and could influence how organizations approach visual content verification&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.theverge.com/tech/949360/apple-ai-photo-edit-reframe-extend-clean-up-hands-on"&gt;The Verge&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://github.com/Paca-AI/paca"&gt;Paca Launches Human-AI Collaboration Project Management Platform&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Jun 13, 09:44&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;A new open-source project management tool called Paca positions humans and AI agents as equal teammates for sprint planning and task assignment. Written in Go with WASM-based plugin architecture, the platform offers a lightweight alternative to Jira with full customization capabilities. The tool represents growing integration of AI agents into core business workflow management.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Human-AI collaboration tools demonstrate evolving workplace dynamics and could influence how organizations structure project management processes&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://github.com/Paca-AI/paca"&gt;Paca GitHub&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Technology&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theregister.com/networks/2026/06/13/aws-rolls-the-dice-for-faster-more-efficient-networking/5253248"&gt;AWS Introduces Flattened Data Center Networking Architecture&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Jun 13, 11:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Amazon Web Services deployed a new flattened network architecture design aimed at delivering faster and more efficient data center networking capabilities. The networking overhaul represents AWS's efforts to optimize infrastructure performance as cloud workloads become increasingly demanding. The architectural change could influence how enterprises approach private cloud and hybrid networking strategies.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Cloud infrastructure improvements affect enterprise networking performance and could influence hybrid cloud architecture decisions&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.theregister.com/networks/2026/06/13/aws-rolls-the-dice-for-faster-more-efficient-networking/5253248"&gt;The Register&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theregister.com/databases/2026/06/13/nhs-patients-cant-opt-out-of-palantirs-data-platform-but-their-hospital-can/5254766"&gt;NHS Patients Cannot Opt Out of Palantir Data Platform Despite Privacy Concerns&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Jun 13, 09:30&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;NHS patients have no ability to opt out of Palantir's data platform, though individual hospital trusts can choose alternative procurement options, according to government ministers. The arrangement affects patient data privacy as Parliament considers the February 2027 contract renewal for the Federated Data Platform. The situation highlights ongoing tensions between healthcare data utilization and patient privacy rights in government technology contracts.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Healthcare data platform policies affect patient privacy rights and could influence how organizations approach sensitive data management&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.theregister.com/databases/2026/06/13/nhs-patients-cant-opt-out-of-palantirs-data-platform-but-their-hospital-can/5254766"&gt;The Register&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theregister.com/offbeat/2026/06/13/xp-era-windows-spotted-haunting-londons-driverless-railway/5253651"&gt;Windows XP-Era Systems Still Operating London's Driverless Railway&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Jun 13, 08:30&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Legacy Windows XP-era systems continue operating London's driverless railway infrastructure, greeting commuters with outdated technology managing critical transportation systems. The discovery highlights the persistence of legacy systems in critical infrastructure despite security and maintenance concerns. The situation demonstrates challenges in upgrading mission-critical systems that require high reliability and minimal downtime.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Legacy system persistence in critical infrastructure affects operational security and demonstrates challenges in modernizing essential services&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.theregister.com/offbeat/2026/06/13/xp-era-windows-spotted-haunting-londons-driverless-railway/5253651"&gt;The Register&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Business &amp; Markets&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.nytimes.com/2026/06/13/business/dealbook/ai-tax-proposals.html"&gt;Policymakers Propose Various AI Tax Structures as Technology Wealth Surges&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Jun 13, 12:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Bernie Sanders, President Trump, and AI companies themselves are proposing different approaches to taxing artificial intelligence to share wealth with the public. The proposals range from corporate taxes on AI companies to usage-based fees, reflecting broad agreement that AI profits should benefit society. The debate intensifies as AI companies achieve massive valuations while workers face potential job displacement from automation.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;AI taxation policies affect technology industry costs and could influence how businesses approach AI investment and deployment strategies&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.nytimes.com/2026/06/13/business/dealbook/ai-tax-proposals.html"&gt;NYT Business&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.nytimes.com/2026/06/13/business/economy-trillionaire-wealth-wages.html"&gt;Wages Fall While Wealth Surges as Musk Becomes World's First Trillionaire&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Jun 13, 11:05&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;American workers are experiencing falling wages and higher prices while Elon Musk achieved trillionaire status through the SpaceX IPO, highlighting growing wealth inequality. The disparity reflects broader economic tensions as AI-driven automation threatens traditional employment while technology executives accumulate unprecedented wealth. The situation demonstrates the growing disconnect between technology sector success and broader economic conditions.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Extreme wealth inequality affects consumer spending power and could influence business strategies as purchasing power shifts among different economic segments&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.nytimes.com/2026/06/13/business/economy-trillionaire-wealth-wages.html"&gt;NYT Business&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.nytimes.com/2026/06/13/business/spacex-ipo-musk-stock-bubble.html"&gt;Mega IPO Frenzy Raises Stock Market Bubble Concerns&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Jun 13, 09:01&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;The massive SpaceX IPO and planned offerings from OpenAI and Anthropic are raising concerns about a potential stock market bubble driven by tech enthusiasm that defies economic gravity. Market analysts warn that rampant enthusiasm is pushing technology valuations to unsustainable levels despite uncertain profitability. The situation echoes previous tech bubbles where investor excitement outpaced underlying business fundamentals.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Stock market bubble warnings affect investment strategies and could influence how businesses approach public market funding and valuations&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.nytimes.com/2026/06/13/business/spacex-ipo-musk-stock-bubble.html"&gt;NYT Business&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.nytimes.com/2026/06/13/business/oil-strait-of-hormuz.html"&gt;Strait of Hormuz Oil Transit Remains Far Below Pre-Conflict Levels&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Jun 13, 09:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Despite U.S. military escorts, fewer than 200 commercial vessels have safely transited the Strait of Hormuz, far below pre-conflict traffic levels. President Trump cited the escort success while acknowledging the continued disruption to global oil supply chains. The reduced transit demonstrates ongoing risks to energy security and global trade through the critical maritime chokepoint.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Energy supply chain disruptions affect global trade costs and demonstrate how geopolitical conflicts impact business logistics and energy prices&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.nytimes.com/2026/06/13/business/oil-strait-of-hormuz.html"&gt;NYT Business&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.politico.com/news/2026/06/12/trump-anti-weaponization-fund-frozen-judge-00960588?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS_Syndication"&gt;Judge Extends Block on Trump's Anti-Weaponization Fund&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Jun 13, 11:46&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Judge Leonie Brinkema extended the freeze on President Trump's 'Anti-Weaponization Fund' and indicated she would likely dismiss the related lawsuit if officials formally terminate the project. The legal challenge affects the administration's efforts to provide financial support to individuals claiming government persecution. The ruling demonstrates ongoing judicial oversight of executive branch spending initiatives.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Government fund disputes affect public policy implementation and could influence how administrations structure controversial spending programs&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.politico.com/news/2026/06/12/trump-anti-weaponization-fund-frozen-judge-00960588?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS_Syndication"&gt;Politico EU&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.politico.com/news/2026/06/13/iranian-ambassador-mexico-world-cup-00961264?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS_Syndication"&gt;Iranian Ambassador Signals Diplomatic Openness Amid World Cup Participation&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Jun 13, 11:37&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Iran's ambassador to Mexico stated that 'Iran and the US can be very good friends' as Iran participates in the World Cup, describing the country's presence as a gesture of goodwill during ongoing conflict resolution talks. The diplomatic messaging coincides with negotiations to end the Middle East conflict and reduce tensions. The World Cup provides a platform for diplomatic signaling between the two nations.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Diplomatic signals affect geopolitical stability and could influence global business confidence in Middle East operations and energy markets&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.politico.com/news/2026/06/13/iranian-ambassador-mexico-world-cup-00961264?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS_Syndication"&gt;Politico EU&lt;/a&gt;&lt;br&gt;
+&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>Custom — Jun 13, 2026</title>
     <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-06-13-custom.html"/>
@@ -2326,99 +2429,6 @@
 &lt;p&gt;Google agreed to pay SpaceX $920 million per month through June 2029 to lease AI computing power, following SpaceX's acquisition of xAI's massive data centers in February. The $30 billion deal comes just ahead of SpaceX's highly anticipated IPO next week. The agreement demonstrates the enormous computing requirements for competitive AI services and SpaceX's expansion beyond aerospace into AI infrastructure.&lt;/p&gt;&lt;br&gt;
 &lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Massive AI computing deals reshape cloud infrastructure markets and demonstrate the scale of investment required for competitive AI services&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
 &lt;p&gt;Sources: &lt;a href="http://www.euronews.com/business/2026/06/06/google-rents-spacexai-supercomputers-for-920m-a-month-ahead-of-ipo"&gt;Euronews Business&lt;/a&gt;&lt;br&gt;
-&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>Evening — Jun 6, 2026</title>
-    <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-06-06-evening.html"/>
-    <id>https://jonaskjellin.github.io/pulsebrief-site/2026-06-06-evening.html</id>
-    <updated>2026-06-06T16:58:45.534Z</updated>
-    <content type="html">&lt;p&gt;&lt;h1&gt;PulseBrief's Evening Pulse&lt;/h1&gt;&lt;br&gt;
-&lt;em&gt;Sat, Jun 6, 11:00 → Sat, Jun 6, 16:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;Cyber Security&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.bleepingcomputer.com/news/security/critical-everest-forms-pro-flaw-exploited-to-take-over-wordpress-sites/"&gt;Critical WordPress Plugin Flaw Enables Complete Site Takeover&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Jun 6, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Hackers are actively exploiting CVE-2026-3300, a critical vulnerability in the Everest Forms Pro WordPress plugin that allows complete website takeover. The flaw enables attackers to gain administrative control of WordPress sites running the popular form plugin. This represents a significant threat to thousands of websites using the compromised plugin.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;WordPress vulnerabilities affect millions of websites and could enable widespread compromise of business websites and customer data&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.bleepingcomputer.com/news/security/critical-everest-forms-pro-flaw-exploited-to-take-over-wordpress-sites/"&gt;BleepingComputer&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://cybersecuritynews.com/free-apps-turning-smart-tvs-into-proxies/"&gt;Smart TVs Secretly Enrolled as AI Data Collection Proxies&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Jun 6, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Free apps on Samsung, LG, Roku and other smart TV platforms are quietly turning millions of devices into commercial residential proxy networks for AI training data collection. Users unknowingly participate through consent dialogs buried in TV remote navigation interfaces. The discovery reveals how consumer devices are being weaponized for large-scale web scraping operations.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Consumer devices being weaponized for commercial data collection threatens user privacy and network security while raising questions about informed consent&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://cybersecuritynews.com/free-apps-turning-smart-tvs-into-proxies/"&gt;Cybersecurity News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.ft.com/content/229e5949-3ebc-4151-8a86-a01b5e259241"&gt;UK Police Banned from Using AI in Court Statements&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Jun 6, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Police forces in England and Wales have been instructed to halt the use of AI tools in preparing court statements and legal documents. The directive comes amid growing concerns about AI accuracy and reliability in legal proceedings. The ban affects law enforcement's ability to use AI assistance in case documentation and evidence preparation.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;AI use in legal proceedings affects justice system integrity and sets precedents for AI applications in critical government functions&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.ft.com/content/229e5949-3ebc-4151-8a86-a01b5e259241"&gt;Financial Times&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;AI &amp; Machine Learning&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://thehackernews.com/2026/06/new-chatgpt-lockdown-mode-limits-tools.html"&gt;OpenAI Introduces ChatGPT Lockdown Mode to Prevent Data Exfiltration&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Jun 6, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;OpenAI launched Lockdown Mode for ChatGPT to reduce data exfiltration risks from prompt injection attacks, targeting users and organizations handling sensitive information. The feature limits tools and capabilities that could enable unauthorized data access. Lockdown Mode is available across Free, Go, Plus, and Pro accounts for eligible users.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;AI security features could influence enterprise adoption decisions and establish new standards for protecting sensitive AI interactions&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://thehackernews.com/2026/06/new-chatgpt-lockdown-mode-limits-tools.html"&gt;The Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theverge.com/tech/944245/apple-wwdc-2026-ai-siri-gemini"&gt;Apple Prepares to Reintroduce AI-Enhanced Siri at WWDC&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Jun 6, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Apple appears ready to unveil the long-promised AI-powered Siri at WWDC 2026, following the incomplete Apple Intelligence launch in 2024. The original redesign included a glowing interface and ChatGPT integration, but core intelligence features were delayed. Apple's promotional claims around Apple Intelligence were so misleading the company is settling a class-action lawsuit.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Apple's AI strategy affects enterprise device adoption and could influence the competitive landscape in AI-powered workplace tools&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.theverge.com/tech/944245/apple-wwdc-2026-ai-siri-gemini"&gt;The Verge&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.nytimes.com/2026/06/06/business/dealbook/ai-digital-twin.html"&gt;AI Digital Twins Become New Productivity Tool for CEOs and Executives&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Jun 6, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;AI-powered digital twins are emerging as the hot new productivity hack for CEOs and Harvard professors, capable of answering questions and attending meetings on behalf of their human counterparts. The technology represents a shift toward AI representation in business communications and decision-making processes. The trend demonstrates growing executive acceptance of AI as a proxy for human interaction.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;AI representation in business meetings could fundamentally change corporate communication and decision-making processes across organizations&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.nytimes.com/2026/06/06/business/dealbook/ai-digital-twin.html"&gt;NYT Business&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theverge.com/ai-artificial-intelligence/944235/meta-app-ai-clickbait-articles"&gt;Meta Creates AI-Generated Clickbait News Feed&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Jun 6, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Facebook's Meta AI app now features a 'For You' section populated with clickbait-style stories entirely generated by AI, including topics, images, and text. The AI-created content is as questionable as expected, with examples like royal family images featuring two Queen Elizabeth IIs. Meta has shifted from user-generated AI content to fully automated article creation.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;AI-generated content at platform scale could reshape information quality and influence how users consume news and media&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.theverge.com/ai-artificial-intelligence/944235/meta-app-ai-clickbait-articles"&gt;The Verge&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.reuters.com/business/us-house-lawmakers-release-draft-bill-regulate-ai-2026-06-04/"&gt;US House Draft Bill Would Prohibit State AI Regulations&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Jun 4, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;US House lawmakers released a draft bill that would prohibit states from implementing their own AI regulations, seeking to create uniform federal oversight instead. The proposed legislation aims to prevent a patchwork of state-level AI rules that could complicate compliance for technology companies. The bill represents a significant federal intervention in AI governance.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Federal preemption of state AI laws could fundamentally reshape how AI development and deployment are regulated across the United States&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.reuters.com/business/us-house-lawmakers-release-draft-bill-regulate-ai-2026-06-04/"&gt;Reuters&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;Technology&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://discuss.python.org/t/an-announcement-from-the-steering-council-regarding-the-jit-project/107638"&gt;Python Core Team Pauses JIT Development Project&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Jun 6, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;The Python Steering Council announced they have asked the JIT (Just-In-Time compilation) project to pause development. The decision affects efforts to significantly improve Python's execution performance through compilation optimizations. Details about the reasons for the pause and timeline for potential resumption remain unclear.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Python performance improvements affect millions of developers and could influence programming language adoption across enterprise and scientific computing&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://discuss.python.org/t/an-announcement-from-the-steering-council-regarding-the-jit-project/107638"&gt;Python Discussions&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://pokeemerald.com/"&gt;Pokemon Emerald Ported to WebAssembly Achieves 100k FPS&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Jun 6, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Developers successfully ported Pokemon Emerald to WebAssembly, achieving unprecedented performance of 100,000 frames per second in web browsers. The port demonstrates the potential for high-performance retro gaming through modern web technologies. The achievement showcases WebAssembly's capabilities for running complex applications at native-like speeds.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;WebAssembly performance breakthroughs enable new possibilities for web-based applications and could influence how software is distributed and deployed&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://pokeemerald.com/"&gt;Pokemon Emerald Web&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://su3.io/posts/introducing-zeroserve"&gt;Zeroserve Enables eBPF-Scriptable Web Servers&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Jun 6, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;A new project called Zeroserve offers a zero-configuration web server that can be scripted and customized using eBPF (Extended Berkeley Packet Filter). The tool allows developers to modify server behavior at the kernel level without traditional configuration files. The project demonstrates innovative applications of eBPF technology beyond network monitoring.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;eBPF-based server technologies could transform web infrastructure management and enable new approaches to performance optimization and security&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://su3.io/posts/introducing-zeroserve"&gt;Su3.io&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://twitter.com/lemire/status/2062880075117113739"&gt;NVIDIA Proposes High-Performance CPU System for Windows&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Jun 6, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;NVIDIA is reportedly proposing a powerful CPU system architecture specifically designed for Windows PCs, potentially challenging traditional x86 dominance. The proposal suggests significant performance improvements for AI workloads and general computing tasks. The development could represent a major shift in PC processor architecture.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Alternative CPU architectures could reshape the PC market and influence enterprise hardware purchasing decisions and software compatibility&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://twitter.com/lemire/status/2062880075117113739"&gt;Twitter&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theverge.com/ai-artificial-intelligence/944984/shelbyville-indiana-mayor-shitty-houses-data-center"&gt;Data Center Opposition Sparks Political Controversy in Indiana&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Jun 6, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;The mayor of Shelbyville, Indiana sparked controversy by stating that only people who live in 'shitty houses' oppose a proposed $2 billion data center project. The comments, caught on camera, have intensified local opposition to the facility and raised questions about community input in infrastructure decisions. The incident highlights growing tensions over data center development in small communities.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Local data center opposition affects infrastructure development and demonstrates growing community resistance to large-scale technology projects&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.theverge.com/ai-artificial-intelligence/944984/shelbyville-indiana-mayor-shitty-houses-data-center"&gt;The Verge&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;Business &amp; Markets&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/"&gt;Google to Pay SpaceX $920M Monthly for AI Computing Power&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Jun 5, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;SpaceX secured a massive deal to provide Google with AI computing power at $920 million per month as part of a $30 billion agreement. Google described the deal as a response to unexpected demand for its recently launched AI products. The contract demonstrates the massive computing requirements for competitive AI services and SpaceX's expansion beyond aerospace.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Massive AI computing deals affect cloud infrastructure markets and demonstrate the scale of investment required for competitive AI services&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/06/06/beyond-instagram-introducing-the-next-generation-of-social-apps/"&gt;Next-Generation Social Apps Challenge Instagram Dominance&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Jun 6, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;A new wave of social applications is emerging as alternatives to Big Tech's algorithm-driven feeds, focusing on interests, creativity, and authentic community building. These platforms offer different approaches to social networking beyond the engagement-maximizing models of established platforms. The trend suggests growing user demand for more meaningful social media experiences.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Social media platform evolution could reshape digital marketing strategies and influence how businesses engage with customers online&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/06/06/beyond-instagram-introducing-the-next-generation-of-social-apps/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.politico.com/news/2026/06/05/house-republicans-war-department-ndaa-00951582"&gt;House Republicans Endorse Trump's Department of War Renaming&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Jun 5, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;The House Armed Services Committee endorsed President Trump's proposal to rename the Department of Defense back to the Department of War, injecting partisan politics into defense legislation. The move adds another contentious issue to an already fraught defense authorization bill. The renaming reflects broader changes in military and defense policy under the current administration.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Defense department restructuring affects military operations, government contracting, and international security relationships&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.politico.com/news/2026/06/05/house-republicans-war-department-ndaa-00951582"&gt;Politico&lt;/a&gt;&lt;br&gt;
 &lt;/p&gt;</content>
   </entry>
 </feed>
