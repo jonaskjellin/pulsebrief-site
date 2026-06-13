@@ -5,7 +5,100 @@
   <link href="https://jonaskjellin.github.io/pulsebrief-site/feed.xml" rel="self"/>
   <link href="https://jonaskjellin.github.io/pulsebrief-site/"/>
   <id>https://jonaskjellin.github.io/pulsebrief-site/</id>
-  <updated>2026-06-13T12:21:12.930Z</updated>
+  <updated>2026-06-13T17:09:41.653Z</updated>
+  <entry>
+    <title>Custom — Jun 13, 2026</title>
+    <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-06-13-custom.html"/>
+    <id>https://jonaskjellin.github.io/pulsebrief-site/2026-06-13-custom.html</id>
+    <updated>2026-06-13T17:09:41.653Z</updated>
+    <content type="html">&lt;p&gt;&lt;h1&gt;PulseBrief's Update Pulse&lt;/h1&gt;&lt;br&gt;
+&lt;em&gt;as of Sat, Jun 13, 17:09&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Cyber Security&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.bleepingcomputer.com/news/security/chinese-hackers-hijack-auth-flow-spy-on-isolated-network-for-a-decade/"&gt;Chinese Hackers Maintain Decade-Long Persistence by Hijacking Authentication Systems&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Jun 13, 14:06&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Chinese threat actors compromised a target organization's entire authentication stack and maintained undetected access for 10 years, gaining full visibility into administrative activities across the network. The attackers hijacked the authentication flow itself, allowing them to spy on an isolated network with complete administrative oversight. This represents one of the most sophisticated long-term persistence techniques observed, targeting the foundation of enterprise security controls.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Authentication system compromises threaten the core security foundation that enterprises rely on for access control&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.bleepingcomputer.com/news/security/chinese-hackers-hijack-auth-flow-spy-on-isolated-network-for-a-decade/"&gt;BleepingComputer&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://thehackernews.com/2026/06/critical-splunk-enterprise-flaw-lets.html"&gt;Critical Splunk Enterprise Vulnerability Allows Unauthenticated Remote Code Execution&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Jun 13, 13:23&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Splunk patched a critical vulnerability (CVE-2026-20253) with a CVSS score of 9.8 that allows unauthenticated attackers to execute arbitrary file operations and achieve remote code execution on Splunk Enterprise systems. The flaw affects versions below 10.2.4 and 10.0.7, putting enterprise security monitoring infrastructure at severe risk. Organizations using Splunk for security operations center functions face immediate threats to their core security monitoring capabilities.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;SIEM platform vulnerabilities threaten enterprise security monitoring capabilities and could compromise security operations centers&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://thehackernews.com/2026/06/critical-splunk-enterprise-flaw-lets.html"&gt;The Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.securityweek.com/npm-12-will-change-script-execution-behavior-to-prevent-supply-chain-attacks/"&gt;NPM 12 to Block Script Execution by Default to Prevent Supply Chain Attacks&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Jun 13, 15:52&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;The upcoming NPM 12 release will change default behavior to prevent automatic script execution from dependencies during installation, requiring explicit permission from developers. This security enhancement addresses the growing threat of supply chain attacks targeting JavaScript package repositories. The change represents a significant shift in NPM's security posture after numerous incidents of malicious packages compromising developer environments.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Package manager security improvements reduce supply chain attack risks that threaten enterprise development environments&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.securityweek.com/npm-12-will-change-script-execution-behavior-to-prevent-supply-chain-attacks/"&gt;SecurityWeek&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;AI &amp; Machine Learning&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://venturebeat.com/technology/anthropic-blocks-all-public-access-to-claude-fable-5-mythos-5-following-us-government-order-what-enterprises-should-do"&gt;US Government Forces Anthropic to Shut Down Fable 5 and Mythos 5 Models Globally&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Jun 13, 12:24&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;The U.S. government ordered Anthropic to block access to its most advanced AI models, Claude Fable 5 and Mythos 5, for all foreign nationals on Friday evening, citing national security concerns. Anthropic complied by completely cutting off public access to both models worldwide, affecting all users including paying enterprise customers and even Anthropic employees. The order reportedly followed a viral jailbreak demonstration that showed how to bypass safety guardrails to extract instructions for cyber exploits and chemical synthesis. Anthropic expressed disagreement with the decision and is working to restore access.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;AI export controls demonstrate how national security concerns can instantly shut down AI services regardless of commercial impact&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://venturebeat.com/technology/anthropic-blocks-all-public-access-to-claude-fable-5-mythos-5-following-us-government-order-what-enterprises-should-do"&gt;VentureBeat&lt;/a&gt; · &lt;a href="https://www.theverge.com/ai-artificial-intelligence/949553/anthropic-fable-5-mythos-5-government-national-security"&gt;The Verge&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/"&gt;OpenAI Under Investigation by Multiple State Attorneys General&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Jun 13, 16:47&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Multiple state attorneys general are investigating OpenAI across various areas including advertising policies and health data handling, though specific states and detailed allegations remain unclear. The investigation represents growing regulatory scrutiny of leading AI companies as they expand into sensitive domains like healthcare and consumer services. The probe could influence how AI companies approach compliance and data handling across different jurisdictions.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;AI company investigations affect regulatory compliance requirements and could influence enterprise AI vendor selection strategies&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theverge.com/tech/949502/apple-macos-27-golden-gate-siri-ai-apple-intelligence"&gt;Apple Launches Early Preview of Siri AI for Mac in macOS 27 Developer Beta&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Jun 13, 15:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Apple released an early preview of Siri AI in the macOS 27 Golden Gate developer beta, representing a significant evolution of the long-dormant Mac voice assistant. The new AI-powered Siri aims to provide more sophisticated assistance for Mac users after years of limited functionality. While still in early development with ongoing file indexing and feature limitations, the preview suggests Apple's serious investment in bringing advanced AI capabilities to desktop computing.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Apple's desktop AI evolution affects enterprise productivity tool adoption and demonstrates Apple's AI strategy beyond mobile devices&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.theverge.com/tech/949502/apple-macos-27-golden-gate-siri-ai-apple-intelligence"&gt;The Verge&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Technology&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theverge.com/games/949584/microsoft-spinning-off-xbox"&gt;Microsoft Considers Spinning Off Xbox Division Amid Restructuring Plans&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Jun 13, 16:29&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Microsoft is preparing significant layoffs in its Xbox division and reevaluating plans for its next-generation Project Helix console, while considering dramatic restructuring options including spinning off Xbox as a separate company. The company has reportedly explored turning Xbox into a wholly owned subsidiary, joint venture, or even selling the business entirely. While nothing is imminent, the considerations reflect Microsoft's efforts to make its Xbox unit more sustainable amid changing gaming industry dynamics.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major gaming platform restructuring affects enterprise gaming strategies and demonstrates how tech giants approach struggling business units&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.theverge.com/games/949584/microsoft-spinning-off-xbox"&gt;The Verge&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://economist.com/science-and-technology/2026/06/12/treating-pancreatic-tumours-may-have-revealed-cancers-master-switch"&gt;Cancer Treatment Breakthrough May Have Revealed Master Switch for Cancer Control&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Jun 13, 13:34&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Research on pancreatic tumor treatments has potentially uncovered a cancer 'master switch' that could revolutionize how multiple cancer types are approached therapeutically. The discovery emerged from studies targeting notoriously difficult pancreatic cancers, known for their poor prognosis and resistance to treatment. The breakthrough could open new therapeutic pathways for various cancer types by targeting fundamental cancer cell control mechanisms.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Cancer treatment breakthroughs affect biotechnology investment and could transform healthcare industry approaches to oncology therapeutics&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://economist.com/science-and-technology/2026/06/12/treating-pancreatic-tumours-may-have-revealed-cancers-master-switch"&gt;Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Business &amp; Markets&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.nytimes.com/2026/06/13/business/dealbook/ai-tax-proposals.html"&gt;Policymakers Propose Various AI Tax Structures as Technology Wealth Surges&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Jun 13, 12:27&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Bernie Sanders, President Trump, and AI companies themselves are proposing different approaches to taxing artificial intelligence to share wealth with the public. The proposals range from corporate taxes on AI companies to usage-based fees, reflecting broad agreement that AI profits should benefit society. The debate intensifies as AI companies achieve massive valuations while workers face potential job displacement from automation.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;AI taxation policies affect technology industry costs and could influence how businesses approach AI investment and deployment strategies&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.nytimes.com/2026/06/13/business/dealbook/ai-tax-proposals.html"&gt;NYT Business&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.nytimes.com/2026/06/13/business/economy-trillionaire-wealth-wages.html"&gt;Wages Fall While Wealth Surges as Musk Becomes World's First Trillionaire&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Jun 13, 12:28&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;American workers are experiencing falling wages and higher prices while Elon Musk achieved trillionaire status through the SpaceX IPO, highlighting growing wealth inequality. The disparity reflects broader economic tensions as AI-driven automation threatens traditional employment while technology executives accumulate unprecedented wealth. The situation demonstrates the growing disconnect between technology sector success and broader economic conditions.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Extreme wealth inequality affects consumer spending power and could influence business strategies as purchasing power shifts among different economic segments&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.nytimes.com/2026/06/13/business/economy-trillionaire-wealth-wages.html"&gt;NYT Business&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://desfontain.es/blog/banning-noise.html"&gt;US Bans Differential Privacy in Census Data Collection&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Jun 13, 13:54&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;The United States has banned the use of differential privacy techniques in Census data collection, reversing previous privacy-preserving approaches to government statistics. Differential privacy adds mathematical noise to datasets to protect individual privacy while maintaining statistical accuracy for research and policy purposes. The ban represents a significant shift in government data privacy policies and could affect how organizations approach privacy-preserving analytics.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Government privacy policy reversals affect enterprise data privacy strategies and could influence privacy-preserving analytics adoption&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://desfontain.es/blog/banning-noise.html"&gt;Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.politico.com/news/2026/06/12/iran-war-trump-midterms-labor-day-00960925?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS_Syndication"&gt;Trump Administration Faces Republican Deadline Pressure on Iran Conflict&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Jun 13, 14:59&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Republican allies are drawing a line in the sand for President Trump on the Iran conflict, setting Labor Day as their unofficial deadline for resolution. The timeline pressure reflects growing political concerns about prolonged military engagement affecting midterm election prospects. The deadline demonstrates how domestic political considerations influence foreign policy decision-making timelines.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Political deadlines on international conflicts affect business planning and market stability expectations for global operations&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.politico.com/news/2026/06/12/iran-war-trump-midterms-labor-day-00960925?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS_Syndication"&gt;Politico EU&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.politico.eu/article/trumps-name-purged-from-kennedy-center/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS_Syndication"&gt;Trump's Name Removed from Kennedy Center Following Institutional Independence Efforts&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Jun 13, 17:07&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;The Kennedy Center has purged President Trump's name from the institution, marking the end of his longtime effort to assert control over one of Washington's most iconic cultural landmarks. The removal represents broader tensions between political leadership and institutional independence in arts and cultural organizations. The action reflects ongoing debates about political influence over cultural institutions and their operational autonomy.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Cultural institution independence affects how organizations approach political relationships and could influence corporate sponsorship strategies&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.politico.eu/article/trumps-name-purged-from-kennedy-center/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS_Syndication"&gt;Politico EU&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.politico.com/live-updates/2026/06/13/world-cup-2026/heat-waves-humidity-00961300?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS_Syndication"&gt;World Cup Heat Wave Concerns Threaten Player and Fan Safety&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Jun 13, 14:29&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;The timing and locations of several World Cup stadiums across the U.S. and Mexico, combined with peak summer scheduling, are raising serious concerns about overheating risks for players and fans. The extreme heat and humidity conditions expected during the tournament could pose significant health and safety challenges. Tournament organizers are grappling with how to manage heat-related risks while maintaining the global sporting event schedule.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Major sporting event safety concerns affect event management strategies and could influence how organizations approach outdoor events during extreme weather&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.politico.com/live-updates/2026/06/13/world-cup-2026/heat-waves-humidity-00961300?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS_Syndication"&gt;Politico EU&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.politico.eu/article/sweden-russia-jets-intercept-aircraft-2-separate-incidents/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS_Syndication"&gt;Swedish Military Intercepts Russian Aircraft in Two Separate Incidents&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Jun 13, 14:11&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Swedish jets intercepted Russian aircraft in two separate incidents, highlighting escalating tensions as Sweden becomes a major target of Kremlin provocations. The incidents reflect ongoing military posturing in Northern Europe as geopolitical tensions continue. Sweden's NATO membership and strategic location make it a focal point for Russian testing of air defense responses.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Nordic security incidents affect European business confidence and demonstrate ongoing geopolitical tensions that could impact regional operations&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.politico.eu/article/sweden-russia-jets-intercept-aircraft-2-separate-incidents/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS_Syndication"&gt;Politico EU&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.politico.eu/article/german-commander-warns-russia-may-take-nuclear-threat-into-space/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS_Syndication"&gt;German Military Commander Warns of Russian Space-Based Nuclear Threats&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Jun 13, 12:39&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Major General Michael Traut warned that Russia may extend nuclear threats into space as Germany prepares new military space capabilities including jammers, lasers, and sovereign satellite communications networks. The warning highlights escalating concerns about space militarization and threats to critical satellite infrastructure. Germany's investment in space defense capabilities reflects broader NATO concerns about protecting space-based assets from hostile actions.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Space-based security threats affect satellite-dependent business operations and could influence how organizations approach space-based infrastructure resilience&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.politico.eu/article/german-commander-warns-russia-may-take-nuclear-threat-into-space/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS_Syndication"&gt;Politico EU&lt;/a&gt;&lt;br&gt;
+&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>Custom — Jun 13, 2026</title>
     <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-06-13-custom.html"/>
@@ -2336,99 +2429,6 @@
 &lt;p&gt;Rising oil prices are sparking discussions about 'demand destruction' - the sustained loss of demand for a commodity caused by persistently high prices. The decades-old economic term reflects market concerns about consumer behavior changes in response to energy cost increases. The situation could affect transportation, manufacturing, and consumer spending patterns across industries.&lt;/p&gt;&lt;br&gt;
 &lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Oil demand destruction affects supply chain costs, inflation pressures, and could influence energy transition investments and corporate strategy&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
 &lt;p&gt;Sources: &lt;a href="https://www.nytimes.com/2026/06/07/business/07biz-demand-destruction-iran-war.html"&gt;NYT Business&lt;/a&gt;&lt;br&gt;
-&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>Custom — Jun 7, 2026</title>
-    <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-06-07-custom.html"/>
-    <id>https://jonaskjellin.github.io/pulsebrief-site/2026-06-07-custom.html</id>
-    <updated>2026-06-07T08:19:03.674Z</updated>
-    <content type="html">&lt;p&gt;&lt;h1&gt;PulseBrief's Update Pulse&lt;/h1&gt;&lt;br&gt;
-&lt;em&gt;as of Sun, Jun 7, 08:19&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;Cyber Security&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/"&gt;Meta Confirms Thousands of Instagram Accounts Hacked Through AI Chatbot Abuse&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Jun 6, 18:35&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Meta confirmed that thousands of Instagram accounts were compromised by attackers who exploited the platform's AI chatbot systems to gain unauthorized access. The attack method represents a new vector for social media account takeovers through AI system vulnerabilities. The incident highlights security risks as platforms increasingly integrate AI chatbots into their core services.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;AI chatbot vulnerabilities threaten millions of social media users and demonstrate new attack vectors as AI integration expands across platforms&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/"&gt;This Week in Security&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;AI &amp; Machine Learning&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/"&gt;OpenAI Launches Lockdown Mode to Protect Against Prompt Injection Attacks&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Jun 6, 20:32&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;OpenAI introduced Lockdown Mode for ChatGPT to reduce data exfiltration risks from prompt injection attacks, targeting users and organizations handling sensitive information. The feature limits tools and capabilities that could enable unauthorized data access while maintaining ChatGPT functionality. Even with Lockdown Mode, ChatGPT remains potentially vulnerable to prompt injections, but the goal is to reduce the likelihood of sensitive data exposure.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;AI security features could influence enterprise adoption decisions and establish new standards for protecting sensitive AI interactions&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai/"&gt;Trump Administration Considers Taking Equity Stake in OpenAI&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Jun 6, 16:17&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;President Trump said he's discussing deals 'where the American people can benefit from the success of AI,' potentially involving government equity stakes in AI companies like OpenAI. The discussions represent a significant shift toward direct government investment in AI development. Such arrangements could fundamentally change the relationship between government and private AI companies.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Government equity stakes in AI companies could reshape the competitive landscape and influence how AI development is funded and controlled&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.nytimes.com/2026/06/06/business/dealbook/ai-digital-twin.html"&gt;AI Digital Twins Become New Productivity Tool for CEOs and Executives&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Jun 7, 24:19&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;AI-powered digital twins are emerging as the hot new productivity hack for CEOs and Harvard professors, capable of answering questions and attending meetings on behalf of their human counterparts. The technology represents a shift toward AI representation in business communications and decision-making processes. The trend demonstrates growing executive acceptance of AI as a proxy for human interaction in professional settings.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;AI representation in business meetings could fundamentally change corporate communication and decision-making processes across organizations&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.nytimes.com/2026/06/06/business/dealbook/ai-digital-twin.html"&gt;NYT Business&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/06/06/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/"&gt;Apple Prepares Major Siri Revamp and Apple Intelligence Updates for WWDC 2026&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Jun 6, 18:13&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Apple is expected to unveil a long-awaited AI-powered Siri overhaul at WWDC 2026, following the incomplete Apple Intelligence launch in 2024. The revamp includes enhanced AI capabilities and potential new integration features. Apple's previous AI promises fell short of expectations, leading to legal challenges over misleading promotional claims.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Apple's AI strategy affects enterprise device adoption and could influence the competitive landscape in AI-powered workplace tools&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/06/06/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://blog.janestreet.com/i-design-with-claude-code-more-than-figma-now-index/"&gt;Designer Reports Using Claude More Than Figma for Design Work&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Jun 7, 05:04&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;A Jane Street designer documented how they now use Claude AI more than traditional design tools like Figma for their design workflow. The shift demonstrates how AI is disrupting traditional design processes and toolchains. The development suggests AI could fundamentally change how design work is approached and executed in professional environments.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;AI replacing traditional design tools could transform creative workflows and influence software development across design-heavy industries&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://blog.janestreet.com/i-design-with-claude-code-more-than-figma-now-index/"&gt;Jane Street Blog&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/06/06/sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor/"&gt;White House AI Advisor Sriram Krishnan Steps Down&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Jun 6, 17:42&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sriram Krishnan is leaving his role as White House AI advisor and reportedly starting a new institution to continue shaping Trump's AI policy from outside government. The departure represents a significant change in the administration's AI leadership structure. Krishnan's exit comes as the administration considers major AI policy changes including potential equity stakes in AI companies.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Changes in government AI leadership could influence national AI policy direction and regulatory approaches to AI development&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/06/06/sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://arxiv.org/abs/2601.14470"&gt;Research Examines Token Usage Patterns in AI Software Engineering&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Jun 7, 01:37&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;New research quantifies where tokens are used in agentic software engineering systems, providing insights into AI resource consumption patterns. The study analyzes token distribution across different AI-powered development tasks and workflows. The findings could influence how organizations budget for and optimize AI-assisted software development.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Understanding AI token economics affects cost planning for organizations adopting AI development tools and influences platform pricing strategies&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://arxiv.org/abs/2601.14470"&gt;arXiv&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;Technology&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theverge.com/reviews/943732/best-portable-4k-projector-review"&gt;JMGO's N3 Ultimate Becomes New Portable 4K Projector Champion&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Jun 7, 07:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;JMGO's N3 Ultimate projector defeats moderate ambient light at severe placement angles and rivals more expensive home theater installations, priced at $2,399 ($500 off list price). The portable 4K projector built around Google TV offers superior adaptability compared to competitors like Anker. Modern all-in-one projectors are becoming increasingly accommodating for flexible placement and automatic screen detection.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Portable projector advances could influence remote work setups and business presentation technology adoption across organizations&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.theverge.com/reviews/943732/best-portable-4k-projector-review"&gt;The Verge&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://github.com/ValveSoftware/GameNetworkingSockets/issues/398"&gt;Valve's P2P Networking Broken for Over Two Months&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Jun 7, 03:21&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Steam's peer-to-peer networking system has been broken for more than two months, affecting multiplayer gaming functionality across Valve's platform. The issue impacts games relying on Valve's GameNetworkingSockets for multiplayer connections. The extended outage demonstrates infrastructure challenges in maintaining gaming network services at scale.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Gaming platform infrastructure issues affect millions of users and highlight dependency risks for developers relying on platform networking services&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://github.com/ValveSoftware/GameNetworkingSockets/issues/398"&gt;GitHub&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://ataraxy-labs.github.io/sem/"&gt;New Code Understanding Tool 'Sem' Introduces Entity-Based Analysis&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Jun 6, 20:03&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;A new primitive for code understanding called 'Sem' offers entity-based analysis on top of Git rather than traditional Language Server Protocols. The tool aims to provide better code comprehension through semantic understanding of code entities. The approach could change how developers navigate and understand large codebases.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Code analysis tools affect developer productivity and could influence how organizations manage large software projects and technical debt&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://ataraxy-labs.github.io/sem/"&gt;Ataraxy Labs&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://ntsc.rs/"&gt;Open-Source Tool Emulates Analog TV and VHS Artifacts&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Jun 6, 19:17&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Ntsc-rs provides open-source video emulation of analog TV and VHS artifacts, enabling realistic simulation of retro video effects. The tool demonstrates growing interest in nostalgic technology aesthetics and video processing capabilities. The project showcases advanced video processing techniques for creative and preservation applications.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Video processing tools enable new creative applications and could influence media production workflows and digital preservation efforts&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://ntsc.rs/"&gt;ntsc.rs&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.ioccc.org/2025/"&gt;29th International Obfuscated C Code Contest Winners Announced&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Jun 7, 05:47&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;The 2025 winners of the International Obfuscated C Code Contest were announced, showcasing creative and deliberately obscure C programming techniques. The contest celebrates programming artistry and pushes the boundaries of what's possible with the C language. The competition continues to inspire creative approaches to programming and code optimization.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Programming contests influence developer creativity and demonstrate advanced techniques that can inspire innovation in software development&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.ioccc.org/2025/"&gt;IOCCC&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://github.com/las7/TakoVM"&gt;TakoVM Provides Isolated Model and Tool Execution for Enterprise&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Jun 7, 02:42&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;TakoVM offers isolated execution environments for AI models and tools specifically designed for enterprise security requirements. The platform addresses growing enterprise needs for secure AI deployment and model isolation. The tool demonstrates increasing demand for enterprise-grade AI security solutions.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Secure AI execution platforms affect enterprise AI adoption and could establish new standards for AI model deployment in sensitive environments&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://github.com/las7/TakoVM"&gt;GitHub&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://github.com/sauravrao637/oproxy"&gt;Browser-Based Network Traffic Inspection Tool Oproxy Launched&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Jun 7, 02:11&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Oproxy enables network traffic inspection and modification directly from web browsers, providing debugging capabilities for web development. The tool offers a browser-native alternative to traditional network debugging proxies. The development addresses growing needs for accessible network analysis tools in web development workflows.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Web development tools affect developer productivity and could influence how organizations approach network debugging and security testing&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://github.com/sauravrao637/oproxy"&gt;GitHub&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;Business &amp; Markets&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="http://www.euronews.com/business/2026/06/06/google-rents-spacexai-supercomputers-for-920m-a-month-ahead-of-ipo"&gt;Google Signs $30 Billion Deal with SpaceX for AI Computing Power&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Jun 6, 17:03&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Google agreed to pay SpaceX $920 million per month through June 2029 to lease AI computing power, following SpaceX's acquisition of xAI's massive data centers in February. The $30 billion deal comes just ahead of SpaceX's highly anticipated IPO next week. The agreement demonstrates the enormous computing requirements for competitive AI services and SpaceX's expansion beyond aerospace into AI infrastructure.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Massive AI computing deals reshape cloud infrastructure markets and demonstrate the scale of investment required for competitive AI services&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="http://www.euronews.com/business/2026/06/06/google-rents-spacexai-supercomputers-for-920m-a-month-ahead-of-ipo"&gt;Euronews Business&lt;/a&gt;&lt;br&gt;
 &lt;/p&gt;</content>
   </entry>
 </feed>
