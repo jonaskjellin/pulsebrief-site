@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Custom — Jun 16, 2026 — PulseBrief</title>
+  <link rel="alternate" type="application/atom+xml" title="PulseBrief Feed" href="feed.xml">
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { font-family: -apple-system, system-ui, sans-serif; max-width: 720px; margin: 0 auto; padding: 24px 16px; color: #1a1a1a; line-height: 1.6; }
+    h1 { font-size: 1.6em; margin-bottom: 4px; }
+    h2 { font-size: 1.2em; margin-top: 32px; margin-bottom: 16px; color: #444; border-bottom: 1px solid #eee; padding-bottom: 8px; }
+    h3 { font-size: 1em; margin-top: 20px; margin-bottom: 4px; }
+    h3 a { color: #1a1a1a; text-decoration: none; border-bottom: 1px solid #ccc; }
+    h3 a:hover { border-color: #333; }
+    p { margin-bottom: 12px; }
+    blockquote { border-left: 3px solid #ddd; padding-left: 12px; color: #555; margin: 8px 0 12px; }
+    em { font-style: italic; }
+    a { color: #0066cc; }
+    hr { border: none; border-top: 1px solid #eee; margin: 32px 0; }
+    .meta { color: #888; font-size: 0.9em; }
+    .sources { font-size: 0.85em; color: #666; }
+    .nav { margin-bottom: 24px; font-size: 0.9em; }
+    .nav a { color: #0066cc; text-decoration: none; }
+    .brief-list { list-style: none; }
+    .brief-list li { padding: 8px 0; border-bottom: 1px solid #f0f0f0; }
+    .brief-list a { text-decoration: none; color: #1a1a1a; }
+    .brief-list .date { color: #888; font-size: 0.85em; }
+  </style>
+</head>
+<body>
+  <div class="nav"><a href="./">← All Briefs</a> · <a href="feed.xml">RSS</a></div>
+  <p><h1>PulseBrief's Update Pulse</h1><br>
+<em>as of Tue, Jun 16, 10:03</em></p><br>
+<p><h2>Cyber Security</h2></p><br>
+<p><h3><a href="https://www.bleepingcomputer.com/news/security/cisco-fixes-sd-wan-vmanage-flaw-exploited-in-zero-day-attacks/">Cisco SD-WAN vManage Zero-Day Actively Exploited — Patch Now</a></h3><br>
+<em>Jun 15, 17:12</em></p><br>
+<p>Cisco has patched CVE-2026-20262, an arbitrary file-write vulnerability in Catalyst SD-WAN Manager being actively exploited as a zero-day, allowing attackers to escalate to root privileges. This is the second SD-WAN Manager zero-day exploited in attacks this month, covered by six sources — a strong signal of active, targeted campaigns against enterprise network infrastructure. Organizations running Catalyst SD-WAN should treat this as urgent.</p><br>
+<p><blockquote><em>Actively exploited zero-days in widely deployed enterprise network management platforms demand immediate patch prioritization</em></blockquote></p><br>
+<p>Sources: <a href="https://www.bleepingcomputer.com/news/security/cisco-fixes-sd-wan-vmanage-flaw-exploited-in-zero-day-attacks/">BleepingComputer</a> · <a href="https://www.securityweek.com/cisco-patches-another-sd-wan-zero-day-exploited-in-attacks/">SecurityWeek</a> · <a href="https://thehackernews.com/2026/06/cisco-releases-security-updates-for.html">The Hacker News</a> · <a href="https://www.theregister.com/patches/2026/06/15/cisco-sd-wan-make-me-root-bug-under-attack/5255916">The Register</a></p><br>
+<p><h3><a href="https://www.bleepingcomputer.com/news/security/critical-fortinet-fortisandbox-flaws-now-exploited-in-attacks/">Critical Fortinet FortiSandbox Vulnerabilities Now Under Active Exploitation</a></h3><br>
+<em>Jun 16, 09:19</em></p><br>
+<p>Attackers are actively exploiting multiple critical vulnerabilities in Fortinet's FortiSandbox cyber threat detection platform, according to threat intelligence firm Defused. FortiSandbox sits in the inspection path of many enterprise security stacks, making compromise of the platform itself a high-value target that could blind defenders. Covered by three sources, this follows a pattern of Fortinet products being targeted in nation-state and criminal campaigns.</p><br>
+<p><blockquote><em>Exploitation of security inspection infrastructure is particularly dangerous — it can disable the visibility organizations rely on to detect other attacks</em></blockquote></p><br>
+<p>Sources: <a href="https://www.bleepingcomputer.com/news/security/critical-fortinet-fortisandbox-flaws-now-exploited-in-attacks/">BleepingComputer</a></p><br>
+<p><h3><a href="https://www.bleepingcomputer.com/news/security/optinmonster-wordpress-plugin-hacked-in-cdn-supply-chain-attack/">WordPress Supply Chain Attack Compromises 1.2 Million Sites via Awesome Motive CDN</a></h3><br>
+<em>Jun 15, 17:37</em></p><br>
+<p>Attackers injected malicious JavaScript into OptinMonster, TrustPulse, and PushEngage plugins distributed through Awesome Motive's CDN, exposing more than 1.2 million WordPress sites. The attack was discovered by Sansec researchers and represents a classic supply chain compromise through trusted infrastructure rather than direct plugin compromise. Sites running these plugins should audit for unauthorized code.</p><br>
+<p><blockquote><em>CDN-level supply chain attacks have massive blast radius — a single poisoned distribution point compromises every downstream installation simultaneously</em></blockquote></p><br>
+<p>Sources: <a href="https://www.bleepingcomputer.com/news/security/optinmonster-wordpress-plugin-hacked-in-cdn-supply-chain-attack/">BleepingComputer</a> · <a href="https://cybersecuritynews.com/optinmonster-plugin-exposes-wordpress-sites/">Cybersecurity News</a></p><br>
+<p><h3><a href="https://thehackernews.com/2026/06/cisa-flags-litespeed-cpanel-plugin-flaw.html">LiteSpeed cPanel Plugin Zero-Day Added to CISA KEV with June 18 Patch Deadline</a></h3><br>
+<em>Jun 16, 05:41</em></p><br>
+<p>CISA added CVE-2026-54420, a privilege escalation to root flaw in the LiteSpeed cPanel plugin, to its Known Exploited Vulnerabilities catalog with a mandatory patch deadline of June 18 for federal agencies. The vulnerability affects shared hosting environments worldwide and is actively exploited in the wild, making it a broad threat given LiteSpeed's prevalence in web hosting infrastructure.</p><br>
+<p><blockquote><em>A root-escalation zero-day in widely deployed hosting infrastructure with a mandatory federal patch deadline signals active, broad exploitation requiring immediate attention</em></blockquote></p><br>
+<p>Sources: <a href="https://thehackernews.com/2026/06/cisa-flags-litespeed-cpanel-plugin-flaw.html">The Hacker News</a> · <a href="https://cybersecuritynews.com/litespeed-cpanel-plugin-0-day-vulnerability-exploit/">Cybersecurity News</a></p><br>
+<p><h3><a href="https://www.bleepingcomputer.com/news/security/simplehelp-bug-lets-hackers-create-rogue-remote-support-accounts/">14,000 Exposed SimpleHelp Servers Vulnerable to Auth Bypass Enabling Rogue Admin Accounts</a></h3><br>
+<em>Jun 16, 24:38</em></p><br>
+<p>Nearly 14,000 internet-facing SimpleHelp servers are exposed following disclosure of CVE-2026-48558, an authentication bypass that lets unauthenticated attackers create privileged technician accounts on servers using OIDC authentication. SimpleHelp is a widely deployed remote monitoring and management tool, making this a high-value target for ransomware operators and threat actors seeking persistent access to managed environments.</p><br>
+<p><blockquote><em>RMM platform vulnerabilities are a favored initial access vector for ransomware groups — 14,000 exposed servers represents significant enterprise attack surface</em></blockquote></p><br>
+<p>Sources: <a href="https://www.bleepingcomputer.com/news/security/simplehelp-bug-lets-hackers-create-rogue-remote-support-accounts/">BleepingComputer</a> · <a href="https://cybersecuritynews.com/simplehelp-servers-exposed-authentication-bypass-disclosure/">Cybersecurity News</a></p><br>
+<p><h3><a href="https://thehackernews.com/2026/06/fake-microsoft-alerts-used-to-deploy.html">North Korean Hackers Deploy NarwhalRAT via Fake Microsoft Security Alerts</a></h3><br>
+<em>Jun 16, 08:14</em></p><br>
+<p>APT37 (ScarCruft) is running spear-phishing campaigns impersonating Microsoft Account security notifications to deliver a new malware strain called NarwhalRAT. Separately, the Contagious Interview cluster (also North Korean) is running developer recruitment-themed campaigns to turn developer tools into malware delivery channels. The dual campaigns signal stepped-up North Korean cyber operations targeting technical workers.</p><br>
+<p><blockquote><em>North Korean threat actors actively targeting developers and IT workers through trusted-brand impersonation is a direct threat to software supply chain integrity</em></blockquote></p><br>
+<p>Sources: <a href="https://thehackernews.com/2026/06/fake-microsoft-alerts-used-to-deploy.html">The Hacker News</a> · <a href="https://thehackernews.com/2026/06/north-korean-hackers-are-turning.html">The Hacker News</a></p><br>
+<p><h3><a href="https://thehackernews.com/2026/06/litellm-vulnerability-chain-lets-low.html">LiteLLM Vulnerability Chain Allows Low-Privilege Users to Seize AI Gateway Servers</a></h3><br>
+<em>Jun 15, 16:39</em></p><br>
+<p>Obsidian Security disclosed a three-vulnerability chain in LiteLLM, the widely deployed open-source AI gateway used to broker calls to 100+ model providers, that lets a default low-privilege account escalate to full admin and execute arbitrary code. A server takeover exposes every API key the gateway holds — potentially credentials for OpenAI, Anthropic, Google, and dozens of other providers. Organizations self-hosting LiteLLM should patch immediately.</p><br>
+<p><blockquote><em>AI gateway compromises have outsized blast radius — one server takeover can expose API keys to every AI provider an organization uses</em></blockquote></p><br>
+<p>Sources: <a href="https://thehackernews.com/2026/06/litellm-vulnerability-chain-lets-low.html">The Hacker News</a></p><br>
+<p><h2>AI & Machine Learning</h2></p><br>
+<p><h3><a href="https://www.wired.com/story/anthropic-is-still-at-odds-with-the-white-house-over-claude-fable-5/">Anthropic Still at Odds With White House Over Fable 5 and Mythos 5 Ban</a></h3><br>
+<em>Jun 16, 24:53</em></p><br>
+<p>Anthropic leaders flew to Washington DC on Monday to meet with White House officials but remain at an impasse over the emergency export control order forcing the company to suspend all access to its Fable 5 and Mythos 5 models. The ban was triggered after Amazon security researchers reportedly found the model could respond to a simple 'fix this code' prompt in ways that could assist cyberattacks — not a sophisticated jailbreak, per a researcher who read the underlying paper. Anthropic had to shut off both models globally, including for its own foreign national employees, and the unprecedented action has accelerated EU calls for AI sovereignty.</p><br>
+<p><blockquote><em>The biggest AI story of the week — a sitting government forcing an AI company to pull its flagship models mid-launch — directly reshapes enterprise AI procurement risk and vendor dependency calculus</em></blockquote></p><br>
+<p>Sources: <a href="https://www.wired.com/story/anthropic-is-still-at-odds-with-the-white-house-over-claude-fable-5/">Wired</a> · <a href="https://www.theverge.com/ai-artificial-intelligence/950412/anthropic-trump-adminstration-claude-mythos-fable-5-export-controls">The Verge</a> · <a href="https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/">TechCrunch</a> · <a href="https://www.politico.com/news/2026/06/15/trumps-newest-fight-with-anthropic-00962858">Politico</a> · <a href="https://www.theregister.com/security/2026/06/15/feds-freaked-over-fable-5-after-simple-fix-this-code-prompt-not-jailbreak-says-researcher/5255827">The Register</a></p><br>
+<p><h3><a href="https://www.wired.com/story/doj-lawyers-argue-xai-vital-national-security-naacp-lawsuit/">DOJ Argues xAI Is 'Vital' to National Security in Lawsuit Seeking to Dismiss Pollution Claims</a></h3><br>
+<em>Jun 16, 03:06</em></p><br>
+<p>The Justice Department intervened in an NAACP lawsuit over xAI's polluting gas turbines in Memphis, arguing the company is integral to U.S. military operations including the Iran War and that the suit should be dismissed on national security grounds. The filing reveals the extent to which xAI has become embedded in defense infrastructure and sets a precedent for using national security claims to shield AI companies from environmental accountability.</p><br>
+<p><blockquote><em>Government invocation of national security to protect AI company operations signals how deeply frontier AI is becoming entangled with military and defense policy</em></blockquote></p><br>
+<p>Sources: <a href="https://www.wired.com/story/doj-lawyers-argue-xai-vital-national-security-naacp-lawsuit/">Wired</a></p><br>
+<p><h3><a href="https://venturebeat.com/technology/satya-nadella-warns-that-ai-could-hollow-out-entire-industries-echoing-the-damage-done-by-globalization">Satya Nadella Warns AI Could Hollow Out Industries Like Globalization Did</a></h3><br>
+<em>Jun 15, 19:49</em></p><br>
+<p>Microsoft CEO Satya Nadella published a sweeping essay warning that if all AI value accrues to a few frontier models, 'the political economy will simply not tolerate it' — arguing there is 'no societal permission for an AI future that hollows out entire industries.' He introduced 'token capital' alongside 'human capital' as the new framework for enterprise AI strategy, arguing human direction remains essential. The essay is notable for its unusual candor from a sitting CEO of a $3 trillion company about AI's structural risks.</p><br>
+<p><blockquote><em>The CEO of the world's largest AI infrastructure company publicly warning about AI's hollowing-out risk sets the tone for enterprise AI adoption conversations</em></blockquote></p><br>
+<p>Sources: <a href="https://venturebeat.com/technology/satya-nadella-warns-that-ai-could-hollow-out-entire-industries-echoing-the-damage-done-by-globalization">VentureBeat</a></p><br>
+<p><h3><a href="https://www.anthropic.com/news/claude-corps">Anthropic Launches Claude Corps — Nonprofit and Public Sector AI Access Program</a></h3><br>
+<em>Jun 15, 17:41</em></p><br>
+<p>Anthropic announced Claude Corps, a program providing nonprofits, public sector organizations, and academic institutions with access to Claude at reduced or no cost. The initiative comes during the company's high-profile battle with the White House over model access restrictions. The program signals Anthropic's effort to broaden Claude's deployment beyond commercial enterprise even as its most capable models remain suspended.</p><br>
+<p><blockquote><em>Direct Anthropic announcement — vendor signal about market expansion strategy and mission framing during a politically sensitive moment for the company</em></blockquote></p><br>
+<p>Sources: <a href="https://www.anthropic.com/news/claude-corps">Anthropic</a></p><br>
+<p><h3><a href="https://www.wired.com/story/claude-tokens-compute-cost-code-8x8/">Enterprises Grappling With 'Token Economics' as AI Compute Costs Spiral</a></h3><br>
+<em>Jun 16, 09:30</em></p><br>
+<p>Wired reports that enterprises are hitting unexpected compute cost walls as AI usage scales — one Silicon Valley software maker described token usage as 'pretty crazy,' with costs 8x initial projections. The emerging discipline of 'tokenomics' — managing which tasks go to which models at what cost — is becoming a new enterprise competency as AI moves from pilot to production. Organizations are experimenting with routing, caching, and model tiers to control spend.</p><br>
+<p><blockquote><em>Token cost management is becoming a critical operational challenge as AI moves to production scale — directly affects enterprise AI ROI calculations</em></blockquote></p><br>
+<p>Sources: <a href="https://www.wired.com/story/claude-tokens-compute-cost-code-8x8/">Wired</a></p><br>
+<p><h3><a href="https://venturebeat.com/security/85-of-it-teams-claim-every-ai-agent-is-under-control-only-42-actually-know-who-owns-them">Shadow AI Crisis: 85% of IT Teams Claim Ownership of Every Agent, Only 42% Can Actually Name the Owner</a></h3><br>
+<em>Jun 15, 17:19</em></p><br>
+<p>New Ivanti research across 3,900 employees finds an alarming 43-point gap between IT teams claiming governance of AI agents and those who can actually identify ownership — while organizational leaders are nearly twice as likely to hide AI use as regular employees. Prompt Security has catalogued over 12,000 AI apps in enterprise environments, with 40% defaulting to training on any data fed to them. CrowdStrike has detected 1,800 AI applications across 160 million endpoint instances.</p><br>
+<p><blockquote><em>The scale of unmanaged AI agent sprawl in enterprises represents a significant data exfiltration and governance risk that security teams are largely flying blind on</em></blockquote></p><br>
+<p>Sources: <a href="https://venturebeat.com/security/85-of-it-teams-claim-every-ai-agent-is-under-control-only-42-actually-know-who-owns-them">VentureBeat</a></p><br>
+<p><h3><a href="https://www.politico.eu/article/french-spy-service-drops-palantir/">France's Intelligence Service DGSI Drops Palantir, Switches to French Vendor ChapsVision</a></h3><br>
+<em>Jun 16, 08:50</em></p><br>
+<p>French Prime Minister announced that the DGSI (domestic intelligence agency) is terminating its Palantir contract and replacing it with French company ChapsVision, in the most significant European sovereign AI/data move since the Anthropic model ban. The decision is part of a broader European push to reduce dependency on U.S. technology for sensitive government functions, accelerated by the White House's unilateral action against Anthropic.</p><br>
+<p><blockquote><em>A major intelligence agency replacing a U.S. tech vendor with a domestic alternative is a concrete business consequence of U.S. AI export control overreach — the EU sovereignty wave is now producing real vendor changes</em></blockquote></p><br>
+<p>Sources: <a href="https://www.politico.eu/article/french-spy-service-drops-palantir/">Politico EU</a></p><br>
+<p><h2>Technology</h2></p><br>
+<p><h3><a href="https://therecord.media/uk-to-ban-social-media-access-for-children-under-16">UK Bans Social Media for Children Under 16 — Broadest Restriction Yet</a></h3><br>
+<em>Jun 16, 24:03</em></p><br>
+<p>Prime Minister Keir Starmer announced a comprehensive social media ban for under-16s, going further than Australia's restrictions by also prohibiting children from talking to strangers in online games, livestreaming, and using romantic or sexual chatbots. The ban is expected to take effect in early 2027 and applies to 'user-to-user platforms whose purpose is to enable social interaction.' Social media companies face significant compliance and enforcement challenges.</p><br>
+<p><blockquote><em>The broadest child social media restriction enacted by a major democracy sets a regulatory precedent that other governments are likely to follow</em></blockquote></p><br>
+<p>Sources: <a href="https://therecord.media/uk-to-ban-social-media-access-for-children-under-16">The Record</a> · <a href="https://techcrunch.com/2026/06/15/social-media-ban-children-countries-list/">TechCrunch</a> · <a href="https://www.nytimes.com/2026/06/15/world/europe/uk-social-media-children.html">NYT</a></p><br>
+<p><h3><a href="https://www.theverge.com/tech/950005/google-chrome-removing-ad-blocker-loopholes">Google Chrome Closing Final Loopholes for Legacy Ad Blockers in Versions 150-151</a></h3><br>
+<em>Jun 15, 18:06</em></p><br>
+<p>Chrome versions 150 and 151, expected in late June and July, will remove the last remaining compatibility code for Manifest V2 extensions, permanently ending support for ad blockers like uBlock Origin that didn't fully transition to Manifest V3. Google phased out MV2 support in 2024 but left residual code that allowed some workarounds; those are now being eliminated. Users relying on MV2-based extensions will need to switch to MV3 alternatives or a different browser.</p><br>
+<p><blockquote><em>The final elimination of MV2 ad blocker support affects enterprise browser security policies and content filtering strategies that relied on legacy extensions</em></blockquote></p><br>
+<p>Sources: <a href="https://www.theverge.com/tech/950005/google-chrome-removing-ad-blocker-loopholes">The Verge</a></p><br>
+<p><h3><a href="https://arstechnica.com/security/2026/06/users-cry-foul-after-amd-stripped-memory-crypto-from-its-consumer-cpus/">AMD Quietly Removed Memory Encryption from Consumer CPUs — Users Cry Foul</a></h3><br>
+<em>Jun 15, 17:55</em></p><br>
+<p>AMD stripped Transparent Secure Memory Encryption (TSME) from its consumer CPU lineup in what users and security researchers are describing as a deliberate, undisclosed move. TSME provides hardware-level memory encryption that protects against cold boot attacks and physical memory access. The removal was not announced in patch notes or product documentation, triggering significant backlash from security-conscious users.</p><br>
+<p><blockquote><em>Covert removal of hardware security features from widely deployed consumer CPUs has direct implications for threat models that depend on memory encryption</em></blockquote></p><br>
+<p>Sources: <a href="https://arstechnica.com/security/2026/06/users-cry-foul-after-amd-stripped-memory-crypto-from-its-consumer-cpus/">Ars Technica</a></p><br>
+<p><h3><a href="https://www.theverge.com/games/950204/xbox-ninja-theory-shutdown-hellblade-senua">Xbox Closes Ninja Theory, Multiple Studios in 'Active Negotiations' to Spin Off</a></h3><br>
+<em>Jun 15, 21:13</em></p><br>
+<p>Microsoft is shutting down Ninja Theory (Hellblade), with Compulsion Games and Double Fine in active negotiations to spin off as independent studios following Xbox CEO Asha Sharma's warning of a 'reset' at Xbox. The closures and spin-offs signal a major strategic retreat from Microsoft's $69 billion Activision Blizzard-era studio expansion. The pattern mirrors broader tech industry contraction as AI investment redirects capital away from content businesses.</p><br>
+<p><blockquote><em>Microsoft's retreat from its gaming studio empire reflects wider tech capital reallocation toward AI at the expense of traditional content businesses</em></blockquote></p><br>
+<p>Sources: <a href="https://www.theverge.com/games/950204/xbox-ninja-theory-shutdown-hellblade-senua">The Verge</a></p><br>
+<p><h3><a href="https://www.wired.com/story/meta-rank-one-computing-face-recognition-smart-glasses/">Meta Pairs with Pentagon Contractor Rank One Computing to Prototype Face Recognition for Smart Glasses</a></h3><br>
+<em>Jun 15, 24:00</em></p><br>
+<p>Meta worked with Rank One Computing — a Pentagon supplier with former CIA and FBI officials on its board — to prototype facial recognition capabilities for its Ray-Ban smart glasses app. The partnership was not previously disclosed publicly and represents a significant step toward consumer-worn surveillance capabilities. The move comes as Meta expands AI features across its platforms and raises serious privacy concerns about the normalization of ambient face recognition.</p><br>
+<p><blockquote><em>Consumer smart glasses with face recognition capability represent a qualitative shift in ambient surveillance infrastructure with major privacy and regulatory implications</em></blockquote></p><br>
+<p>Sources: <a href="https://www.wired.com/story/meta-rank-one-computing-face-recognition-smart-glasses/">Wired</a></p><br>
+<p><h3><a href="https://www.theregister.com/devops/2026/06/15/javas-project-valhalla-finally-lands-a-preview-in-jdk-28/5255557">Java Project Valhalla Lands Preview in JDK 28 After Years of Development</a></h3><br>
+<em>Jun 15, 17:15</em></p><br>
+<p>Java's long-awaited Project Valhalla, which introduces value types to eliminate object overhead and dramatically improve performance for data-intensive workloads, has finally landed a preview in JDK 28. Architect Brian Goetz warns the feature will likely still be in preview for the next LTS release, so production adoption remains some time away. Valhalla has been in development for nearly a decade and addresses one of Java's most significant performance limitations.</p><br>
+<p><blockquote><em>Valhalla preview availability is a meaningful milestone for enterprise Java performance engineering, even if production LTS availability remains an LTS cycle away</em></blockquote></p><br>
+<p>Sources: <a href="https://www.theregister.com/devops/2026/06/15/javas-project-valhalla-finally-lands-a-preview-in-jdk-28/5255557">The Register</a></p><br>
+<p><h2>Business & Markets</h2></p><br>
+<p><h3><a href="https://www.nytimes.com/2026/06/15/business/fox-roku-acquisition-streaming-media.html">Fox Acquires Roku for $22 Billion in Landmark Streaming Consolidation</a></h3><br>
+<em>Jun 15, 16:41</em></p><br>
+<p>Fox announced it will acquire Roku in a $22 billion cash-and-stock deal, combining Fox's TV networks, Tubi streaming service, and local stations with Roku's 100 million+ device footprint and smart TV operating system. The deal would make Fox the third-largest TV company in the US by viewing share and gives it control over the platform layer — including data — for a massive installed base of living room screens. Fox CEO Lachlan Murdoch said the companies will remain operationally separate.</p><br>
+<p><blockquote><em>Platform-layer control of 100 million screens represents a fundamental shift in media power — whoever owns the OS controls data, discovery, and ultimately advertising economics</em></blockquote></p><br>
+<p>Sources: <a href="https://www.nytimes.com/2026/06/15/business/fox-roku-acquisition-streaming-media.html">NYT</a> · <a href="https://www.theverge.com/streaming/950116/fox-roku-takeover">The Verge</a> · <a href="https://techcrunch.com/2026/06/15/fox-to-acquire-roku-in-22-billion-deal/">TechCrunch</a></p><br>
+<p><h3><a href="http://www.euronews.com/business/2026/06/16/nvidia-raises-over-215bn-in-first-bond-sale-since-2021-as-ai-growth-race-continues">Nvidia Raises $25 Billion in First Bond Sale Since 2021 — $85B in Orders</a></h3><br>
+<em>Jun 16, 09:49</em></p><br>
+<p>Nvidia priced a $25 billion bond sale that drew approximately $85 billion in orders, its first return to the corporate debt market in five years. The oversubscription ratio reflects extraordinary investor demand for AI infrastructure exposure. The capital raise comes as Nvidia accelerates data center buildout and R&D to maintain its dominant position in AI compute.</p><br>
+<p><blockquote><em>A $25B bond raise with 3.4x oversubscription signals institutional investors are treating Nvidia AI infrastructure exposure as near-mandatory portfolio allocation</em></blockquote></p><br>
+<p>Sources: <a href="http://www.euronews.com/business/2026/06/16/nvidia-raises-over-215bn-in-first-bond-sale-since-2021-as-ai-growth-race-continues">Euronews Business</a></p><br>
+<p><h3><a href="https://www.nytimes.com/2026/06/16/business/economy/iran-war-oil-trade.html">Iran War Has Permanently Altered the Global Economy — Recovery Will Be Slow</a></h3><br>
+<em>Jun 16, 09:01</em></p><br>
+<p>The New York Times reports the Iran war has structurally altered global trade and energy flows in ways that won't simply reverse when the Strait of Hormuz reopens, with damaged infrastructure, reconfigured supply chains, and new trade patterns likely persisting. Japan raised interest rates to a 31-year high in response to war-driven inflation, against government wishes. Oil prices continue falling on Iran deal hopes but energy experts warn gas prices at the pump will remain elevated for months.</p><br>
+<p><blockquote><em>Permanent structural changes to energy markets and supply chains affect enterprise cost planning, logistics strategy, and vendor risk assessments across every industry</em></blockquote></p><br>
+<p>Sources: <a href="https://www.nytimes.com/2026/06/16/business/economy/iran-war-oil-trade.html">NYT</a> · <a href="https://www.nytimes.com/2026/06/16/business/japan-interest-rates-war.html">NYT</a> · <a href="https://www.nytimes.com/2026/06/16/business/oil-prices-iran-war.html">NYT</a></p><br>
+<p><h3><a href="https://www.nytimes.com/2026/06/15/business/spacex-stock.html">SpaceX Post-IPO: Stock Surges, Record $85.7B Raised, AI IPO Wave Accelerating</a></h3><br>
+<em>Jun 15, 20:24</em></p><br>
+<p>SpaceX's IPO expanded to $85.7 billion as underwriters exercised full overallotment, with the stock jumping again on its first full trading day. The offering remains the largest IPO in history and has made Elon Musk the world's first trillionaire. TechCrunch reports AI companies are now rushing to go public to 'ride the SpaceX wave,' with investor appetite for technology offerings at a high.</p><br>
+<p><blockquote><em>The SpaceX IPO wave is creating a window for AI company public offerings that will reshape the funding and competitive landscape for the sector</em></blockquote></p><br>
+<p>Sources: <a href="https://www.nytimes.com/2026/06/15/business/spacex-stock.html">NYT</a> · <a href="https://techcrunch.com/2026/06/15/spacex-is-public-everything-you-need-to-know-post-ipo/">TechCrunch</a> · <a href="https://techcrunch.com/2026/06/14/as-ai-companies-race-to-go-public-who-else-is-along-for-the-ride/">TechCrunch</a></p><br>
+<p><h3><a href="https://www.nytimes.com/2026/06/16/business/warsh-fed-chair.html">New Fed Chair Warsh Faces Inflation and Rate Pressure in Debut Meeting</a></h3><br>
+<em>Jun 16, 09:03</em></p><br>
+<p>Kevin Warsh takes the chair of the Federal Reserve for his first policy meeting facing elevated inflation and mounting market pressure for rate decisions — with the Iran war's energy disruptions complicating the picture. The Fed faces a difficult balancing act between inflation fighting and supporting an economy navigating post-war supply chain restructuring. Markets are closely watching for signals on the rate trajectory under new leadership.</p><br>
+<p><blockquote><em>Fed rate direction under new leadership directly affects technology investment costs, startup financing conditions, and enterprise capital planning</em></blockquote></p><br>
+<p>Sources: <a href="https://www.nytimes.com/2026/06/16/business/warsh-fed-chair.html">NYT</a><br>
+</p>
+</body>
+</html>
