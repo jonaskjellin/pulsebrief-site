@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Custom — Jul 7, 2026 — PulseBrief</title>
+  <link rel="alternate" type="application/atom+xml" title="PulseBrief Feed" href="feed.xml">
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { font-family: -apple-system, system-ui, sans-serif; max-width: 720px; margin: 0 auto; padding: 24px 16px; color: #1a1a1a; line-height: 1.6; }
+    h1 { font-size: 1.6em; margin-bottom: 4px; }
+    h2 { font-size: 1.2em; margin-top: 32px; margin-bottom: 16px; color: #444; border-bottom: 1px solid #eee; padding-bottom: 8px; }
+    h3 { font-size: 1em; margin-top: 20px; margin-bottom: 4px; }
+    h3 a { color: #1a1a1a; text-decoration: none; border-bottom: 1px solid #ccc; }
+    h3 a:hover { border-color: #333; }
+    p { margin-bottom: 12px; }
+    blockquote { border-left: 3px solid #ddd; padding-left: 12px; color: #555; margin: 8px 0 12px; }
+    em { font-style: italic; }
+    a { color: #0066cc; }
+    hr { border: none; border-top: 1px solid #eee; margin: 32px 0; }
+    .meta { color: #888; font-size: 0.9em; }
+    .sources { font-size: 0.85em; color: #666; }
+    .nav { margin-bottom: 24px; font-size: 0.9em; }
+    .nav a { color: #0066cc; text-decoration: none; }
+    .brief-list { list-style: none; }
+    .brief-list li { padding: 8px 0; border-bottom: 1px solid #f0f0f0; }
+    .brief-list a { text-decoration: none; color: #1a1a1a; }
+    .brief-list .date { color: #888; font-size: 0.85em; }
+  </style>
+</head>
+<body>
+  <div class="nav"><a href="./">← All Briefs</a> · <a href="feed.xml">RSS</a></div>
+  <p><h1>PulseBrief's Update Pulse</h1><br>
+<em>as of Tue, Jul 7, 08:15</em></p><br>
+<p><h2>Cyber Security</h2></p><br>
+<p><h3><a href="https://www.bleepingcomputer.com/news/security/beyondtrust-warns-of-critical-flaws-in-remote-access-software/">BeyondTrust Patches Critical Auth Bypass Flaws in Remote Support and PRA — CVSS 9.2</a></h3><br>
+<em>Jul 7, 24:00</em></p><br>
+<p>BeyondTrust disclosed and patched two critical vulnerabilities (CVE-2026-40138, CVSS 9.2) in its Remote Support and Privileged Remote Access products that allow unauthenticated attackers to take control of affected systems. BeyondTrust is widely deployed in enterprise IT for privileged access management and remote support — exactly the tooling attackers target to pivot deep into corporate environments. Given BeyondTrust's previous exploitation history (including a notable 2024 breach affecting US Treasury), this warrants emergency patching priority.</p><br>
+<p><blockquote><em>Critical auth bypass in the privileged access management tooling that sits at the heart of enterprise IT infrastructure is a top-priority patch for any organization running BeyondTrust products.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.bleepingcomputer.com/news/security/beyondtrust-warns-of-critical-flaws-in-remote-access-software/">BleepingComputer</a> · <a href="https://thehackernews.com/2026/07/beyondtrust-patches-critical-auth.html">The Hacker News</a> · <a href="https://cybersecuritynews.com/beyondtrust-vulnerabilities/">Cybersecurity News</a></p><br>
+<p><h3><a href="https://www.darkreading.com/vulnerabilities-threats/citrixbleed-ing-again-netscaler-vulnerability-under-attack">NetScaler Memory Disclosure Flaw Under Active Attack After PoC Release</a></h3><br>
+<em>Jul 6, 24:00</em></p><br>
+<p>Attackers are actively exploiting a new memory disclosure vulnerability in Citrix NetScaler products, moving quickly after researchers published a proof-of-concept exploit. NetScaler ADC and Gateway are deployed at massive scale in enterprise network infrastructure, and memory disclosure flaws can expose session tokens, credentials, and encryption keys. The speed of exploitation after PoC publication mirrors the pattern of the original CitrixBleed (CVE-2023-4966), which was one of 2023's most damaging vulnerabilities.</p><br>
+<p><blockquote><em>Active exploitation of a NetScaler memory disclosure flaw following PoC release is an urgent patching priority for any organization running Citrix infrastructure.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.darkreading.com/vulnerabilities-threats/citrixbleed-ing-again-netscaler-vulnerability-under-attack">Dark Reading</a></p><br>
+<p><h3><a href="https://thehackernews.com/2026/07/certcc-warns-of-hidden-admin-backdoor.html">Tenda Router Firmware Contains Hardcoded Admin Backdoor — CVE-2026-11405</a></h3><br>
+<em>Jul 7, 24:00</em></p><br>
+<p>CERT/CC warned that multiple Tenda router firmware versions contain an undocumented authentication backdoor (CVE-2026-11405) that grants full administrative access to the web management interface without valid credentials. Affected models include the FH1201, W15E, AC10, AC5, and AC6 series — common in SMB and home office environments. A hardcoded backdoor in firmware is a permanent vulnerability until the device is replaced or patched, and Tenda's track record on security updates is poor.</p><br>
+<p><blockquote><em>A vendor-embedded authentication backdoor in widely deployed consumer and SMB routers is an infrastructure exposure requiring immediate inventory and mitigation.</em></blockquote></p><br>
+<p>Sources: <a href="https://thehackernews.com/2026/07/certcc-warns-of-hidden-admin-backdoor.html">The Hacker News</a> · <a href="https://cybersecuritynews.com/tenda-authentication-backdoor-grants-access/">Cybersecurity News</a></p><br>
+<p><h3><a href="https://cybersecuritynews.com/16-year-old-linux-kvm-vulnerability/">'Januscape' — 16-Year-Old Linux KVM Flaw Lets Malicious VM Corrupt Host Kernel</a></h3><br>
+<em>Jul 7, 24:00</em></p><br>
+<p>A newly disclosed Linux KVM vulnerability (CVE-2026-53359, 'Januscape') that went undetected for 16 years allows a malicious guest virtual machine to corrupt host kernel memory, breaking the fundamental isolation guarantee of virtualization. The flaw affects KVM's x86 shadow memory management logic and has implications for any cloud or virtualization environment running untrusted guest workloads. Patches are expected but not yet universally available across distributions.</p><br>
+<p><blockquote><em>A guest-to-host kernel memory corruption flaw in Linux KVM undermines the isolation model that cloud and virtualized environments are built on — directly relevant for any organization running multi-tenant or shared Linux infrastructure.</em></blockquote></p><br>
+<p>Sources: <a href="https://cybersecuritynews.com/16-year-old-linux-kvm-vulnerability/">Cybersecurity News</a></p><br>
+<p><h3><a href="https://cybersecuritynews.com/windows-device-identifier-tracking/">Scattered Spider Member Arrested — Windows Device Identifier Was the Undoing</a></h3><br>
+<em>Jul 7, 24:00</em></p><br>
+<p>A federal superseding complaint reveals that a persistent Microsoft Windows device identifier (GDID) was instrumental in unraveling the anonymity of Peter Stokes, 19, an alleged Scattered Spider operator arrested in Finland. Stokes used multiple aliases and took operational security precautions, but the device identifier persisted across sessions and linked his activity. A full technical writeup of the Windows GDID mechanism was simultaneously published on GitHub and attracted 64 Hacker News points.</p><br>
+<p><blockquote><em>The GDID-based takedown of a Scattered Spider operator is a significant law enforcement win and a concrete illustration of how device identifiers survive threat actor opsec — relevant for both defenders tracking adversaries and anyone thinking about endpoint anonymity.</em></blockquote></p><br>
+<p>Sources: <a href="https://cybersecuritynews.com/windows-device-identifier-tracking/">Cybersecurity News</a> · <a href="https://github.com/SmtimesIWndr/gdid-reversal">GitHub (GDID Writeup)</a></p><br>
+<p><h3><a href="https://thehackernews.com/2026/07/iran-linked-hackers-use-new-cavern-c2.html">Iran-Linked Hackers Deploy New 'Cavern' C2 Framework Against Israeli IT and Government Targets</a></h3><br>
+<em>Jul 6, 24:00</em></p><br>
+<p>A threat cluster affiliated with Iran's Ministry of Intelligence and Security (MOIS) is using a previously undocumented modular C2 framework dubbed Cavern to target Israeli IT providers and government sectors, according to Check Point Research. The modular architecture of Cavern allows operators to load capabilities on demand, complicating detection and attribution. The campaign represents a new Iranian offensive cyber toolset entering active use against a high-priority target set.</p><br>
+<p><blockquote><em>A new state-linked C2 framework in active deployment against government and IT infrastructure targets is a meaningful threat intelligence update for organizations tracking Iranian cyber operations.</em></blockquote></p><br>
+<p>Sources: <a href="https://thehackernews.com/2026/07/iran-linked-hackers-use-new-cavern-c2.html">The Hacker News</a></p><br>
+<p><h2>AI & Machine Learning</h2></p><br>
+<p><h3><a href="https://venturebeat.com/technology/anthropics-new-j-lens-reveals-a-silent-workspace-inside-claude-that-mirrors-a-leading-theory-of-consciousness">Anthropic Research: Claude Has Developed a 'Global Workspace' Structure Mirroring Consciousness Theory</a></h3><br>
+<em>Jul 6, 24:00</em></p><br>
+<p>Anthropic published a 16-author study revealing that Claude has spontaneously developed an internal structure called 'J-space' — a small, privileged zone of representations the model can report on and reason with, surrounded by automatic processing it cannot access. The researchers argue this mirrors global workspace theory, one of neuroscience's leading accounts of conscious thought. Anthropic says the finding is already reshaping how it monitors Claude for safety risks, giving the result direct interpretability and alignment applications beyond the philosophical implications.</p><br>
+<p><blockquote><em>First-party Anthropic research on Claude's internal architecture with direct safety and interpretability applications is a mandatory read for anyone working on AI alignment, deployment risk, or evaluating frontier model internals.</em></blockquote></p><br>
+<p>Sources: <a href="https://venturebeat.com/technology/anthropics-new-j-lens-reveals-a-silent-workspace-inside-claude-that-mirrors-a-leading-theory-of-consciousness">VentureBeat</a></p><br>
+<p><h3><a href="https://www.theregister.com/ai-and-ml/2026/07/07/ai-startup-thats-never-turned-a-profit-says-itll-totally-be-around-in-2047-to-close-its-19b-lease/5267385">Anthropic Signs 20-Year, $19B Data Center Lease With TeraWulf — While Still Unprofitable</a></h3><br>
+<em>Jul 6, 24:00</em></p><br>
+<p>Anthropic has signed a 20-year lease with TeraWulf for data center capacity valued at $19 billion, committing to infrastructure costs through 2047 despite never having turned a profit. The scale of the commitment signals Anthropic's confidence in sustained frontier model compute demand — or significant pressure to lock in capacity before prices rise further. The deal raises questions about the financial runway assumptions underpinning a multi-decade infrastructure bet.</p><br>
+<p><blockquote><em>A $19B, 20-year infrastructure commitment from an unprofitable AI lab is a significant signal about frontier AI compute economics and the long-term capital structure of leading AI companies.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.theregister.com/ai-and-ml/2026/07/07/ai-startup-thats-never-turned-a-profit-says-itll-totally-be-around-in-2047-to-close-its-19b-lease/5267385">The Register</a></p><br>
+<p><h3><a href="https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/">JadePuffer AI Ransomware: TechCrunch Reveals Human Was Still Required — Initial Headlines Overstated Autonomy</a></h3><br>
+<em>Jul 6, 24:00</em></p><br>
+<p>TechCrunch reports that while an AI agent did autonomously execute the technical steps of the JadePuffer ransomware attack, a human operator still selected the victim, set up the infrastructure, and supplied stolen credentials — meaning the attack was AI-assisted, not fully autonomous. The clarification is important context for the widely circulated 'first autonomous AI ransomware' framing from prior coverage. The genuine milestone is AI-executed technical exploitation without human intervention during the attack chain itself; full end-to-end autonomy has not yet been demonstrated.</p><br>
+<p><blockquote><em>Accurate framing of AI offensive capability milestones matters for threat modeling — understanding where human involvement remains required is as important as knowing what AI can now execute independently.</em></blockquote></p><br>
+<p>Sources: <a href="https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/">TechCrunch</a></p><br>
+<p><h3><a href="https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/">GLM-5.2 and the Coming AI Margin Collapse — 357 HN Points</a></h3><br>
+<em>Jul 6, 24:00</em></p><br>
+<p>A widely discussed analysis (357 HN points, 225 comments) argues that GLM-5.2's competitive performance at dramatically lower cost than frontier US models signals an impending collapse in AI inference margins, as capable open and low-cost models make it impossible to sustain premium pricing. The piece frames GLM-5.2 specifically as the inflection point where price-performance competition becomes existential for API-first AI businesses. The discussion attracted significant practitioner engagement on deployment economics.</p><br>
+<p><blockquote><em>An AI margin collapse thesis with strong community engagement is a direct input for any organization making build-vs-buy decisions or evaluating AI vendor sustainability.</em></blockquote></p><br>
+<p>Sources: <a href="https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/">Martin Alderson (via Hacker News)</a></p><br>
+<p><h3><a href="https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals">Small AI Models Gaining Traction in Low-Connectivity Environments — Pharmaceutical and Field Use Cases Documented</a></h3><br>
+<em>Jul 6, 24:00</em></p><br>
+<p>IEEE Spectrum reports that small language models are finding genuine product-market fit in pharmaceutical research, remote field operations, and other environments where network reliability is poor or data sovereignty is required. The piece documents specific deployments where on-device inference outperforms cloud-dependent alternatives not on capability but on reliability and compliance. The trend runs counter to the frontier-model scaling narrative dominating AI investment discussions.</p><br>
+<p><blockquote><em>Documented small model deployments in regulated and connectivity-constrained environments are directly relevant for any organization evaluating on-device or offline AI deployment strategies.</em></blockquote></p><br>
+<p>Sources: <a href="https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals">IEEE Spectrum (via Hacker News)</a></p><br>
+<p><h3><a href="https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/">iOS 27 Beta Adds Siri Voice Customization — Pace and Expressivity Controls Signal Rebuilt Assistant</a></h3><br>
+<em>Jul 6, 24:00</em></p><br>
+<p>Apple's latest iOS 27 beta introduces user controls for Siri's speaking pace and expressivity, part of the broader rebuild of Siri around generative AI. The update is incremental but signals Apple's continued effort to close the gap with more expressive AI voice assistants from OpenAI and Google. iOS 27's Siri rebuild is one of Apple's highest-stakes product efforts given how far Siri has fallen behind competitive assistants.</p><br>
+<p><blockquote><em>Apple's Siri trajectory in iOS 27 is a direct signal for anyone building voice AI products or evaluating platform-level AI assistant capabilities across the major mobile ecosystems.</em></blockquote></p><br>
+<p>Sources: <a href="https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/">TechCrunch</a></p><br>
+<p><h2>Technology</h2></p><br>
+<p><h3><a href="https://www.theregister.com/systems/2026/07/07/samsungs-profits-jump-19x-in-a-year-and-you-dont-need-ai-to-figure-out-why/5267467">Samsung Q2 Profit Jumps 19x Year-on-Year — AI Chip Demand Drives Record Earnings, Shares Fall on Expectations Miss</a></h3><br>
+<em>Jul 7, 24:00</em></p><br>
+<p>Samsung reported Q2 2026 earnings showing profit roughly 19 times higher than the same quarter last year, driven almost entirely by AI chip demand for its HBM memory and advanced DRAM products. Despite the record result, Samsung shares fell sharply as investors had priced in even higher expectations — a sign of how extreme the AI chip premium has become in equity valuations. The result mirrors SK Hynix's upcoming US IPO, with both companies riding the same AI memory supercycle.</p><br>
+<p><blockquote><em>Samsung's 19x profit jump and the market's disappointment with it is a concrete data point on how elevated AI chip expectations have become — directly relevant for semiconductor supply chain and technology investment analysis.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.theregister.com/systems/2026/07/07/samsungs-profits-jump-19x-in-a-year-and-you-dont-need-ai-to-figure-out-why/5267467">The Register</a> · <a href="https://www.nytimes.com/2026/07/06/business/samsung-earnings-chips.html">NYT Business</a></p><br>
+<p><h3><a href="https://www.nytimes.com/2026/07/02/business/energy-environment/electric-grid-data-centers-pjm.html">Data Centers Ordered to Use Backup Generators During US Heat Wave to Ease Grid Strain</a></h3><br>
+<em>Jul 7, 24:00</em></p><br>
+<p>The Trump administration directed grid managers to require data centers to run on backup diesel generators during the current heat wave, as triple-digit temperatures across much of the US push electricity demand to levels threatening grid stability. The order highlights the structural tension between the explosive growth in data center power demand — driven by AI workloads — and grid capacity. It is the most visible example yet of AI infrastructure directly competing with residential and commercial users for power during peak conditions.</p><br>
+<p><blockquote><em>Government-mandated data center load-shifting during a heat wave is a concrete illustration of AI power demand creating real grid stress — a critical infrastructure and operational risk for any organization running large-scale compute.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.nytimes.com/2026/07/02/business/energy-environment/electric-grid-data-centers-pjm.html">NYT Business</a></p><br>
+<p><h3><a href="https://www.theregister.com/personal-tech/2026/07/07/broadcom-and-apple-extend-custom-silicon-pact-to-2031/5267491">Broadcom and Apple Extend Custom Silicon Partnership to 2031</a></h3><br>
+<em>Jul 7, 24:00</em></p><br>
+<p>Apple and Broadcom have extended their custom silicon collaboration agreement through 2031, covering wireless and networking components that ship inside Apple devices. The deal is an extension of a long-running arrangement rather than a new category, but locking in through 2031 signals Apple's continued commitment to custom component co-development over the coming silicon generations. Broadcom's Apple relationship is one of its most significant revenue anchors.</p><br>
+<p><blockquote><em>A five-year extension of Apple's custom silicon partnership is a supply chain and semiconductor strategy signal for anyone tracking Apple's hardware roadmap or Broadcom's business.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.theregister.com/personal-tech/2026/07/07/broadcom-and-apple-extend-custom-silicon-pact-to-2031/5267491">The Register</a></p><br>
+<p><h3><a href="https://techcrunch.com/2026/07/06/vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents/">Vercel CEO on Separating Models from Agents in Production AI Architecture</a></h3><br>
+<em>Jul 6, 24:00</em></p><br>
+<p>Vercel CEO Guillermo Rauch outlined his view that production AI systems need to decouple model selection from agent orchestration, allowing price-performance optimization at the model layer without restructuring the agent logic. The interview reflects a maturing production AI architecture philosophy — moving from monolithic 'use one model for everything' to composable, cost-aware orchestration. Rauch's position is directly informed by Vercel's scale of AI application deployments across its platform.</p><br>
+<p><blockquote><em>Architecture guidance from the CEO of a platform running production AI applications at scale is directly actionable for teams designing or refactoring AI-powered systems.</em></blockquote></p><br>
+<p>Sources: <a href="https://techcrunch.com/2026/07/06/vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents/">TechCrunch</a></p><br>
+<p><h3><a href="https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/">Tech Layoffs Named-Checking AI in 2026 — Running Tracker Now a Major Story</a></h3><br>
+<em>Jul 6, 24:00</em></p><br>
+<p>TechCrunch published an updated running tracker of significant 2026 tech layoffs where employers explicitly cited AI as a factor, following Microsoft's 4,800-person cut. The list has grown substantially and now spans multiple major companies across enterprise software, media, and services. The tracker is becoming a key artifact documenting the labor market impact of AI adoption in technology companies.</p><br>
+<p><blockquote><em>A documented, multi-company record of AI-attributed layoffs is a direct signal for workforce planning, hiring strategy, and understanding where AI is producing measurable headcount displacement.</em></blockquote></p><br>
+<p>Sources: <a href="https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/">TechCrunch</a></p><br>
+<p><h2>Business & Markets</h2></p><br>
+<p><h3><a href="https://www.nytimes.com/2026/07/07/world/middleeast/iran-war-oman-hormuz-tanker.html">Iranian Missiles Strike Two Commercial Ships in Strait of Hormuz — US-Iran Ceasefire Under Stress</a></h3><br>
+<em>Jul 7, 24:00</em></p><br>
+<p>A US official confirmed that Iranian missiles struck two commercial vessels in the Strait of Hormuz, directly testing the recently negotiated US-Iran ceasefire that had allowed oil flows to normalize. The strikes come within 24 hours of reports that Persian Gulf shipping had recovered and oil prices were falling — the geopolitical risk premium may reassert rapidly. There was no immediate Iranian comment on the reported attacks.</p><br>
+<p><blockquote><em>Iranian strikes on commercial ships in the Strait of Hormuz after a ceasefire agreement is the highest-priority geopolitical risk event in this cycle — directly affecting energy prices, shipping costs, and supply chain risk for any organization with exposure to global oil and freight markets.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.nytimes.com/2026/07/07/world/middleeast/iran-war-oman-hormuz-tanker.html">NYT World</a></p><br>
+<p><h3><a href="https://www.politico.eu/article/marine-le-pen-to-finally-learn-if-she-can-run-for-president-france-court-verdict/">Marine Le Pen Appeal Verdict Today — French Presidential Race and EU Policy Direction Hang on Outcome</a></h3><br>
+<em>Jul 7, 24:00</em></p><br>
+<p>A Paris appeals court is delivering its verdict today on Marine Le Pen's conviction and five-year ban from public office, a ruling that will determine whether Le Pen can run for president in 2027 or whether 30-year-old Jordan Bardella becomes the National Rally's presidential candidate. Multiple Politico EU pieces are tracking the ruling live, reflecting the pan-European significance of the outcome. A confirmed ban would reshape French electoral politics and has downstream implications for EU coalition math on defense spending, trade policy, and AI regulation.</p><br>
+<p><blockquote><em>The Le Pen verdict is the most consequential European political event of the day — with direct implications for EU policy direction on defense, trade, and regulation that affect any organization operating in European markets.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.politico.eu/article/marine-le-pen-to-finally-learn-if-she-can-run-for-president-france-court-verdict/">Politico EU</a> · <a href="https://www.politico.eu/article/live-blog-marine-le-pen-verdict/">Politico EU (live blog)</a></p><br>
+<p><h3><a href="https://techcrunch.com/2026/07/06/us-investors-will-soon-get-access-to-sk-hynix-another-memory-maker-riding-the-ai-boom/">SK Hynix US IPO Expected Friday — AI Memory Boom's First Major Public Market Test</a></h3><br>
+<em>Jul 6, 24:00</em></p><br>
+<p>SK Hynix is proceeding with a multibillion-dollar US IPO expected to close Friday, giving American investors direct access to the South Korean memory maker that has become one of the primary beneficiaries of AI chip demand alongside Samsung. The IPO will be a real-time valuation test of how public markets price the AI memory supercycle after Samsung's earnings beat expectations but still disappointed investors. HBM memory demand from AI accelerator manufacturers is SK Hynix's core growth driver.</p><br>
+<p><blockquote><em>SK Hynix's US IPO is the most significant public market event in the AI infrastructure supply chain this week — a direct valuation benchmark for AI memory and semiconductor investment.</em></blockquote></p><br>
+<p>Sources: <a href="https://techcrunch.com/2026/07/06/us-investors-will-soon-get-access-to-sk-hynix-another-memory-maker-riding-the-ai-boom/">TechCrunch</a></p><br>
+<p><h3><a href="https://therecord.media/attackers-vote-themselves-20-million-bonk-crypto">BONK DAO Suffers $20M Governance Attack — Holders Vote Their Own Treasury Transfer</a></h3><br>
+<em>Jul 6, 24:00</em></p><br>
+<p>BonkDAO confirmed it was the victim of a 'malicious governance proposal' in which attackers accumulating sufficient BONK token holdings used on-chain voting rights to approve a transfer of $20 million in BONK to attacker-controlled wallets. The attack exploits a fundamental design vulnerability in token-weighted governance: sufficient token acquisition converts voting rights into treasury extraction rights. The mechanism is a known DeFi attack vector but its execution at $20M scale on a high-profile DAO is notable.</p><br>
+<p><blockquote><em>A $20M governance attack on a named DAO is a significant crypto security incident and a concrete illustration of the systemic vulnerability in token-weighted on-chain governance — relevant for any organization with DeFi exposure or DAO governance responsibilities.</em></blockquote></p><br>
+<p>Sources: <a href="https://therecord.media/attackers-vote-themselves-20-million-bonk-crypto">The Record</a><br>
+</p>
+</body>
+</html>
