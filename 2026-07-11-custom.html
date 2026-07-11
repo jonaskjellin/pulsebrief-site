@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Custom — Jul 11, 2026 — PulseBrief</title>
+  <link rel="alternate" type="application/atom+xml" title="PulseBrief Feed" href="feed.xml">
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { font-family: -apple-system, system-ui, sans-serif; max-width: 720px; margin: 0 auto; padding: 24px 16px; color: #1a1a1a; line-height: 1.6; }
+    h1 { font-size: 1.6em; margin-bottom: 4px; }
+    h2 { font-size: 1.2em; margin-top: 32px; margin-bottom: 16px; color: #444; border-bottom: 1px solid #eee; padding-bottom: 8px; }
+    h3 { font-size: 1em; margin-top: 20px; margin-bottom: 4px; }
+    h3 a { color: #1a1a1a; text-decoration: none; border-bottom: 1px solid #ccc; }
+    h3 a:hover { border-color: #333; }
+    p { margin-bottom: 12px; }
+    blockquote { border-left: 3px solid #ddd; padding-left: 12px; color: #555; margin: 8px 0 12px; }
+    em { font-style: italic; }
+    a { color: #0066cc; }
+    hr { border: none; border-top: 1px solid #eee; margin: 32px 0; }
+    .meta { color: #888; font-size: 0.9em; }
+    .sources { font-size: 0.85em; color: #666; }
+    .nav { margin-bottom: 24px; font-size: 0.9em; }
+    .nav a { color: #0066cc; text-decoration: none; }
+    .brief-list { list-style: none; }
+    .brief-list li { padding: 8px 0; border-bottom: 1px solid #f0f0f0; }
+    .brief-list a { text-decoration: none; color: #1a1a1a; }
+    .brief-list .date { color: #888; font-size: 0.85em; }
+  </style>
+</head>
+<body>
+  <div class="nav"><a href="./">← All Briefs</a> · <a href="feed.xml">RSS</a></div>
+  <p><h1>PulseBrief's Update Pulse</h1><br>
+<em>as of Sat, Jul 11, 07:06</em></p><br>
+<p><h2>Cyber Security</h2></p><br>
+<p><h3><a href="https://techcrunch.com/2026/07/10/us-cyber-agency-cisa-had-to-build-its-incident-playbook-during-the-incident-agency-reveals/">CISA Had No Incident Playbook When Its Own AWS GovCloud Credentials Were Exposed — Built Response Procedures During the Incident</a></h3><br>
+<em>Jul 10, 24:00</em></p><br>
+<p>CISA published a rare public 'lessons learned' disclosure revealing that a contractor accidentally uploaded the agency's AWS GovCloud credentials and Infrastructure-as-Code repositories to a personal public GitHub account. More significantly, CISA had to build its incident response playbook in real time during the breach — the federal cybersecurity agency responsible for protecting critical infrastructure lacked pre-written procedures for responding to its own credential exposure. The disclosure is notable for its candor and the procedural gap it reveals.</p><br>
+<p><blockquote><em>If CISA was improvising its incident response during a cloud credential leak, every organization that assumed federal cybersecurity leadership had mature playbooks needs to revisit that assumption — and their own credential exposure controls.</em></blockquote></p><br>
+<p>Sources: <a href="https://techcrunch.com/2026/07/10/us-cyber-agency-cisa-had-to-build-its-incident-playbook-during-the-incident-agency-reveals/">TechCrunch</a> · <a href="https://cybersecuritynews.com/cisa-details-aws-credentials-leak/">Cybersecurity News</a></p><br>
+<p><h3><a href="https://cybersecuritynews.com/dell-bios-flaw-admin-passwords/">Dell BIOS Flaw Enables Instant Admin Password Recovery From SPI Flash — Broken XOR Encryption Scheme</a></h3><br>
+<em>Jul 11, 24:00</em></p><br>
+<p>CVE-2026-40639 reveals that Dell stores BIOS administrator and user passwords using a broken XOR-based scheme rather than cryptographic hashing, allowing anyone with access to a SPI flash dump to recover the password in milliseconds without brute force. The vulnerability affects a wide range of Dell commercial and enterprise systems. An attacker with physical access or the ability to read SPI flash — achievable via other firmware vulnerabilities — gains immediate BIOS-level control.</p><br>
+<p><blockquote><em>BIOS admin password recovery in milliseconds from a flash dump eliminates the last layer of hardware-level access control on affected Dell systems — critical for any organization with physical security assumptions in their threat model.</em></blockquote></p><br>
+<p>Sources: <a href="https://cybersecuritynews.com/dell-bios-flaw-admin-passwords/">Cybersecurity News</a></p><br>
+<p><h3><a href="https://nebusec.ai/research/ionstack-part-2/">GhostLock: 15-Year-Old Stack Use-After-Free in All Linux Distributions Disclosed</a></h3><br>
+<em>Jul 10, 24:00</em></p><br>
+<p>Security researchers published details of GhostLock, a stack-based use-after-free vulnerability present in the Linux kernel's io_uring subsystem that has existed across all Linux distributions for approximately 15 years. The flaw is in the ionstack component and represents a privilege escalation path for local attackers. With 69 Hacker News points and active community discussion, the disclosure is drawing immediate attention from the Linux security community.</p><br>
+<p><blockquote><em>A 15-year-old privilege escalation flaw present across every Linux distribution is a foundational infrastructure risk — any organization running Linux servers, containers, or cloud instances needs to track patch availability.</em></blockquote></p><br>
+<p>Sources: <a href="https://nebusec.ai/research/ionstack-part-2/">Nebusec Research</a> · <a href="https://news.ycombinator.com/item?id=48864969">Hacker News</a></p><br>
+<p><h3><a href="https://cybersecuritynews.com/forg365-phishing-attack-microsoft-365-accounts/">Forg365: AI-Powered Phishing-as-a-Service Platform Targeting Microsoft 365 Sold via Telegram for $30/Month</a></h3><br>
+<em>Jul 11, 24:00</em></p><br>
+<p>Forg365 is a newly identified phishing-as-a-service platform that combines AI-generated phishing content, session token theft, and post-compromise mailbox access in a single operator panel, available on Telegram with a 30-day trial and monthly or annual subscription tiers. The platform specifically targets Microsoft 365 accounts and automates the full attack chain from lure generation through credential harvest and persistent mailbox access. The subscription model signals continued commoditization of sophisticated M365 attacks.</p><br>
+<p><blockquote><em>AI-augmented phishing-as-a-service at $30/month targeting M365 means the barrier to conducting persistent, convincing account compromise campaigns against your organization is now essentially zero.</em></blockquote></p><br>
+<p>Sources: <a href="https://cybersecuritynews.com/forg365-phishing-attack-microsoft-365-accounts/">Cybersecurity News</a></p><br>
+<p><h3><a href="https://therecord.media/chat-control-2-csam-scans-european-parliament-passage">Europe Passes Chat Control 2.0 — Big Tech Must Scan Private Messages for CSAM</a></h3><br>
+<em>Jul 10, 24:00</em></p><br>
+<p>The European Parliament passed Chat Control 2.0, requiring companies including Google, Meta, and Microsoft to scan users' private messages to detect child sexual abuse material. The law has been deeply controversial among security and privacy researchers who argue it functionally mandates client-side scanning, undermining end-to-end encryption. The passage ends years of legislative back-and-forth and creates a new legal compliance requirement for any messaging platform operating in the EU.</p><br>
+<p><blockquote><em>A mandatory private message scanning law in the EU directly affects the encryption architecture and compliance posture of every messaging and collaboration platform used by European businesses and users.</em></blockquote></p><br>
+<p>Sources: <a href="https://therecord.media/chat-control-2-csam-scans-european-parliament-passage">The Record</a></p><br>
+<p><h3><a href="https://www.bleepingcomputer.com/news/security/ryuk-ransomware-member-pleads-guilty-in-the-us-faces-15-years-in-prison/">Ryuk Ransomware Member Pleads Guilty in US — Faces 15 Years for Hacking American Companies</a></h3><br>
+<em>Jul 10, 24:00</em></p><br>
+<p>A 34-year-old Armenian national pleaded guilty in the US to hacking American companies and deploying Ryuk ransomware, one of the most destructive ransomware strains of the past decade responsible for hundreds of millions in damages. The plea adds to a growing series of international ransomware prosecutions and extraditions. Ryuk was particularly associated with attacks on hospitals, schools, and local government.</p><br>
+<p><blockquote><em>Continued successful prosecution of ransomware operators signals improving international law enforcement coordination — and serves as a deterrence data point for anyone assessing the criminal risk calculus in ransomware operations.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.bleepingcomputer.com/news/security/ryuk-ransomware-member-pleads-guilty-in-the-us-faces-15-years-in-prison/">BleepingComputer</a></p><br>
+<p><h2>AI & Machine Learning</h2></p><br>
+<p><h3><a href="https://news.ycombinator.com/item?id=48863490">GPT-5.6 Sol Ultra Produces Proof of Long-Unsolved Cycle Double Cover Conjecture</a></h3><br>
+<em>Jul 10, 24:00</em></p><br>
+<p>OpenAI's GPT-5.6 Sol Ultra model generated what appears to be a valid proof of the Cycle Double Cover Conjecture, a major open problem in graph theory that has resisted solution for decades. The proof was posted to Hacker News where it attracted over 400 points and 330 comments, with mathematicians beginning peer review. If verified, this would be the most significant mathematical result produced autonomously by an AI system to date.</p><br>
+<p><blockquote><em>An AI-generated proof of a decades-old open mathematical conjecture is a landmark capability milestone — the most concrete evidence yet that frontier models are crossing into genuine scientific discovery.</em></blockquote></p><br>
+<p>Sources: <a href="https://news.ycombinator.com/item?id=48863490">Hacker News</a> · <a href="https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf">OpenAI (PDF)</a></p><br>
+<p><h3><a href="https://www.wired.com/story/openai-head-of-safety-leaving/">OpenAI Head of Safety Johannes Heidecke Leaves — Second Senior Safety Departure This Cycle</a></h3><br>
+<em>Jul 11, 24:00</em></p><br>
+<p>Johannes Heidecke, OpenAI's Head of Safety, is leaving the company as OpenAI attempts to further integrate its research and safety teams organizationally. The departure follows Fidji Simo stepping down as CEO of AGI Deployment earlier this week, creating a significant leadership gap in both safety and product functions simultaneously. Heidecke's exit is particularly notable given ongoing government scrutiny of how frontier model safety is evaluated before public release.</p><br>
+<p><blockquote><em>The Head of Safety leaving OpenAI during active government clearance oversight and an IPO build-up is a governance and credibility signal that every enterprise AI buyer and regulator will be watching.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.wired.com/story/openai-head-of-safety-leaving/">Wired</a></p><br>
+<p><h3><a href="https://venturebeat.com/technology/openai-introduces-chatgpt-work-a-cloud-based-ai-agent-that-manages-tasks-across-email-slack-and-calendars">OpenAI Launches ChatGPT Work — Autonomous Multi-Hour Agent Across Email, Slack, Calendars, and Code</a></h3><br>
+<em>Jul 10, 24:00</em></p><br>
+<p>OpenAI launched ChatGPT Work, a persistent cloud-based AI agent powered by GPT-5.6 that autonomously executes multi-step tasks across email, calendars, Slack, code repositories, and file systems — staying on complex projects for hours without human check-ins. The product is OpenAI's clearest repositioning of ChatGPT from a chatbot to a workplace platform, directly competing with Microsoft Copilot and Google Workspace AI. The launch coincides with OpenAI's confidential S-1 filing and a reported valuation of $730B–$852B.</p><br>
+<p><blockquote><em>ChatGPT Work is OpenAI's enterprise platform bet — if it gains traction it reshapes the productivity software market and changes the competitive calculus for every SaaS tool with workflow automation claims.</em></blockquote></p><br>
+<p>Sources: <a href="https://venturebeat.com/technology/openai-introduces-chatgpt-work-a-cloud-based-ai-agent-that-manages-tasks-across-email-slack-and-calendars">VentureBeat</a></p><br>
+<p><h3><a href="https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes">Meta Removes Instagram AI Deepfake Feature Within Days After Creator and Studio Backlash</a></h3><br>
+<em>Jul 10, 24:00</em></p><br>
+<p>Meta pulled its newly launched Muse Image feature from Instagram within days of release after widespread backlash from creators, Hollywood agencies, and privacy advocates. The feature had allowed any user to generate AI images based on content from public Instagram accounts simply by tagging them — without the account owner's permission. Meta acknowledged the feature 'missed the mark' on consent and creator control.</p><br>
+<p><blockquote><em>Meta reversing an AI product rollout within days under creator pressure is a signal about where consent and copyright lines are being drawn in practice — relevant for anyone building or governing AI image generation products.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes">The Verge</a> · <a href="https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/">TechCrunch</a> · <a href="https://www.nytimes.com/2026/07/10/technology/meta-muse-images-instagram-removal.html">NYT Technology</a></p><br>
+<p><h2>Technology</h2></p><br>
+<p><h3><a href="https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets">Apple Sues OpenAI for Alleged Hardware Trade Secret Theft — Jony Ive's IO Products Also Named</a></h3><br>
+<em>Jul 10, 24:00</em></p><br>
+<p>Apple filed suit against OpenAI alleging a pattern of trade secret theft by former Apple engineers who joined OpenAI, including Chief Hardware Officer Tang Tan and engineer Chang Liu. The lawsuit also names IO Products — Jony Ive's hardware startup acquired by OpenAI in 2025 — and accuses OpenAI senior leadership of directing the misconduct. Apple claims stolen materials included confidential presentations, secret prototypes, and key supplier details. The suit arrives as OpenAI's hardware ambitions have become central to its post-ChatGPT strategy.</p><br>
+<p><blockquote><em>A trade secrets lawsuit between the two most influential companies in consumer AI — covering the hardware layer that will define the next computing platform — is the biggest tech legal story of the year.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets">The Verge</a> · <a href="https://www.wired.com/story/apple-sues-openai-allegedly-stealing-ip-hardware/">Wired</a> · <a href="https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/">TechCrunch</a> · <a href="https://www.nytimes.com/2026/07/10/technology/apple-openai-lawsuit.html">NYT Technology</a></p><br>
+<p><h3><a href="https://www.zdnet.com/home-and-office/networking/spacex-wants-to-launch-100000-more-starlink-satellites/">SpaceX Files to Launch 100,000 Additional Starlink Satellites — 100x Bandwidth Increase Sought</a></h3><br>
+<em>Jul 10, 24:00</em></p><br>
+<p>SpaceX has filed regulatory paperwork seeking authorization to launch 100,000 additional Starlink satellites, which would increase the constellation's total bandwidth capacity by roughly 100x. The filing represents a massive expansion of what is already the world's largest satellite internet network and would significantly extend SpaceX's lead over competing LEO broadband providers. With 150 Hacker News points and 445 comments, it is drawing broad attention across the tech community.</p><br>
+<p><blockquote><em>A 100x bandwidth expansion of global satellite internet infrastructure has direct implications for connectivity in conflict zones, remote operations, maritime logistics, and the competitive dynamics of broadband markets worldwide.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.zdnet.com/home-and-office/networking/spacex-wants-to-launch-100000-more-starlink-satellites/">ZDNet</a> · <a href="https://news.ycombinator.com/item?id=48863064">Hacker News</a></p><br>
+<p><h3><a href="https://www.theverge.com/policy/964342/fcc-crack-down-dji-front-companies-xtra-skyrover-sgs-lab">FCC Fines Eight DJI Front Companies $25K Each — 10-Day Deadline Before Further Action on Foreign Drone Ban Evasion</a></h3><br>
+<em>Jul 10, 24:00</em></p><br>
+<p>The FCC is fining eight companies it identifies as DJI front companies — including Xtra, Skyrover, Cogito Tech, and Fixaxo Technology — $25,000 each for evading the US foreign drone ban by selling DJI hardware under alternative branding. The companies have until July 20th, just 10 calendar days, to respond to the FCC's questions before additional enforcement action. The crackdown targets a pattern The Verge documented last year of DJI using shell brands to maintain US market access.</p><br>
+<p><blockquote><em>FCC enforcement against drone front companies closes a supply chain compliance gap — directly relevant for any organization procuring drones for operations, security, or inspection that may have unknowingly purchased banned hardware.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.theverge.com/policy/964342/fcc-crack-down-dji-front-companies-xtra-skyrover-sgs-lab">The Verge</a></p><br>
+<p><h3><a href="https://www.theguardian.com/us-news/2026/jul/10/new-york-city-deceptive-subscriptions-ban">New York City Bans Deceptive Subscription Practices — Dark Patterns Outlawed for NYC Consumers</a></h3><br>
+<em>Jul 10, 24:00</em></p><br>
+<p>New York City enacted legislation banning deceptive subscription practices under Mayor Mamdani, targeting dark patterns that make cancellation difficult, obscure recurring charges, or trap consumers in unwanted subscriptions. The law drew 492 Hacker News points and 246 comments, reflecting broad consumer interest. NYC joins a growing list of jurisdictions — including California and the FTC at the federal level — tightening rules around subscription UX.</p><br>
+<p><blockquote><em>NYC joining the subscription dark pattern enforcement wave creates a new local compliance requirement for any consumer-facing SaaS or subscription business with New York customers.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.theguardian.com/us-news/2026/jul/10/new-york-city-deceptive-subscriptions-ban">The Guardian</a> · <a href="https://news.ycombinator.com/item?id=48863464">Hacker News</a></p><br>
+<p><h3><a href="https://techcrunch.com/2026/07/10/blueskys-interim-ceo-toni-schneider-drops-the-interim/">Bluesky Names Toni Schneider Permanent CEO — Former Automattic CEO Goes 'All In'</a></h3><br>
+<em>Jul 10, 24:00</em></p><br>
+<p>Bluesky confirmed Toni Schneider, who has served as interim CEO since Jay Graber's departure, as its permanent chief executive. Schneider, former CEO of Automattic (WordPress.com parent) and a True Ventures partner, says he is 'all in' on Bluesky's decentralized social media platform. The appointment stabilizes Bluesky's leadership as the platform continues to grow amid ongoing Twitter/X user exodus.</p><br>
+<p><blockquote><em>Permanent CEO confirmation at Bluesky resolves leadership uncertainty at the decentralized social platform that has become the primary alternative destination for users and brands leaving X.</em></blockquote></p><br>
+<p>Sources: <a href="https://techcrunch.com/2026/07/10/blueskys-interim-ceo-toni-schneider-drops-the-interim/">TechCrunch</a></p><br>
+<p><h2>Business & Markets</h2></p><br>
+<p><h3><a href="https://www.nytimes.com/2026/07/11/business/media/new-york-times-trump-subpoenas.html">DOJ Subpoenas NYT Journalists Who Covered New Air Force One — Trump Escalates Press Freedom Battle</a></h3><br>
+<em>Jul 11, 24:00</em></p><br>
+<p>The Justice Department issued subpoenas compelling testimony from New York Times journalists who reported on the new Air Force One, in what the Times called a 'brazen act' of government pressure on the press. The move is the most direct use of legal process against a major news organization in the current administration and arrives as the Times is simultaneously fighting an EEOC discrimination lawsuit and an OpenAI evidence dispute. Press freedom organizations are treating the subpoenas as a significant escalation.</p><br>
+<p><blockquote><em>DOJ subpoenas targeting journalists over national security-adjacent reporting signals a direct threat to press freedom and source protection that affects every organization relying on independent journalism for market intelligence and accountability reporting.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.nytimes.com/2026/07/11/business/media/new-york-times-trump-subpoenas.html">NYT Business</a></p><br>
+<p><h3><a href="https://news.crunchbase.com/ai/biggest-funding-rounds-billion-dollar-cyber-ai-keyfactor-sambanova/">Billion-Dollar Week in Venture: Keyfactor and SambaNova Lead Cyber and AI Infrastructure Raises</a></h3><br>
+<em>Jul 10, 24:00</em></p><br>
+<p>Two billion-dollar funding rounds led this week's venture activity — one for Keyfactor in cybersecurity and one for SambaNova in AI infrastructure — with AI claiming five of the ten largest rounds overall. The concentration of capital in AI infrastructure and security reflects sustained investor conviction despite broader market concentration concerns. The full top-ten list spans cyber, AI, and deep tech.</p><br>
+<p><blockquote><em>Back-to-back billion-dollar rounds in cybersecurity and AI infrastructure confirm that enterprise security and compute remain the two highest-conviction investment categories in the current market cycle.</em></blockquote></p><br>
+<p>Sources: <a href="https://news.crunchbase.com/ai/biggest-funding-rounds-billion-dollar-cyber-ai-keyfactor-sambanova/">Crunchbase News</a></p><br>
+<p><h3><a href="https://www.nytimes.com/2026/07/10/business/sk-hynix-stock.html">SK Hynix Opens Above IPO Price on Nasdaq Debut — Largest Foreign IPO in US History Holds</a></h3><br>
+<em>Jul 10, 24:00</em></p><br>
+<p>SK Hynix began US trading at $170 per share, above its $149 IPO price, in the largest US listing by a foreign company ever. The memory chipmaker — which supplies the HBM chips critical to Nvidia's AI accelerators — saw strong first-day demand, briefly surpassing Samsung as South Korea's most valuable company. The Trump administration has separately urged SK Hynix and Samsung to build new US fabrication facilities.</p><br>
+<p><blockquote><em>Strong first-day trading for the world's most critical AI memory supplier confirms institutional appetite for AI hardware exposure at the highest levels of the capital markets.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.nytimes.com/2026/07/10/business/sk-hynix-stock.html">NYT Business</a></p><br>
+<p><h3><a href="https://www.nytimes.com/2026/07/10/business/oil-gas-stocks-shipping-iran-hormuz.html">Hormuz Shipping Crisis Deepens — Attacks on Three Ships Push Oil Back Above Pre-War Levels</a></h3><br>
+<em>Jul 10, 24:00</em></p><br>
+<p>Attacks on three commercial vessels in the Strait of Hormuz pushed crude oil prices back above pre-conflict levels this week, with shipping executives describing conditions as 'uglier by the minute.' The disruption is now repricing sustained supply risk rather than a one-time shock, with no diplomatic resolution visible after Trump declared the Iran ceasefire 'over in no uncertain terms.' Roughly 20% of global oil supply transits the strait.</p><br>
+<p><blockquote><em>Sustained Hormuz disruption with no off-ramp is a direct energy cost and logistics input for any organization with supply chain, manufacturing, or fuel exposure — the risk is no longer speculative.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.nytimes.com/2026/07/10/business/oil-gas-stocks-shipping-iran-hormuz.html">NYT Business</a> · <a href="https://www.nytimes.com/2026/07/10/business/iran-shipping-strait-of-hormuz.html">NYT Business</a></p><br>
+<p><h3><a href="https://www.nytimes.com/2026/07/10/business/meta-instagram-facebook-europe.html">EU Orders Meta to Redesign Instagram and Facebook 'Addictive Design' — Up to $12B Fine</a></h3><br>
+<em>Jul 10, 24:00</em></p><br>
+<p>The European Commission issued preliminary findings that Meta's Instagram and Facebook violate the Digital Services Act through addictive design features — infinite scroll, autoplay, hyper-personalized recommendations — without adequate systemic risk assessment. Meta faces fines of up to $12 billion and mandatory redesign of both apps for EU users. This is the most consequential DSA enforcement action to date, covered by four independent sources.</p><br>
+<p><blockquote><em>A $12B fine threat and mandatory UX redesign order sets a DSA precedent that directly affects every consumer-facing platform operating in the EU using engagement-maximizing design patterns.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.nytimes.com/2026/07/10/business/meta-instagram-facebook-europe.html">NYT Business</a><br>
+</p>
+</body>
+</html>
