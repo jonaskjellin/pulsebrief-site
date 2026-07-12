@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Custom — Jul 12, 2026 — PulseBrief</title>
+  <link rel="alternate" type="application/atom+xml" title="PulseBrief Feed" href="feed.xml">
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { font-family: -apple-system, system-ui, sans-serif; max-width: 720px; margin: 0 auto; padding: 24px 16px; color: #1a1a1a; line-height: 1.6; }
+    h1 { font-size: 1.6em; margin-bottom: 4px; }
+    h2 { font-size: 1.2em; margin-top: 32px; margin-bottom: 16px; color: #444; border-bottom: 1px solid #eee; padding-bottom: 8px; }
+    h3 { font-size: 1em; margin-top: 20px; margin-bottom: 4px; }
+    h3 a { color: #1a1a1a; text-decoration: none; border-bottom: 1px solid #ccc; }
+    h3 a:hover { border-color: #333; }
+    p { margin-bottom: 12px; }
+    blockquote { border-left: 3px solid #ddd; padding-left: 12px; color: #555; margin: 8px 0 12px; }
+    em { font-style: italic; }
+    a { color: #0066cc; }
+    hr { border: none; border-top: 1px solid #eee; margin: 32px 0; }
+    .meta { color: #888; font-size: 0.9em; }
+    .sources { font-size: 0.85em; color: #666; }
+    .nav { margin-bottom: 24px; font-size: 0.9em; }
+    .nav a { color: #0066cc; text-decoration: none; }
+    .brief-list { list-style: none; }
+    .brief-list li { padding: 8px 0; border-bottom: 1px solid #f0f0f0; }
+    .brief-list a { text-decoration: none; color: #1a1a1a; }
+    .brief-list .date { color: #888; font-size: 0.85em; }
+  </style>
+</head>
+<body>
+  <div class="nav"><a href="./">← All Briefs</a> · <a href="feed.xml">RSS</a></div>
+  <p><h1>PulseBrief's Update Pulse</h1><br>
+<em>as of Sun, Jul 12, 07:24</em></p><br>
+<p><h2>Cyber Security</h2></p><br>
+<p><h3><a href="https://thehackernews.com/2026/07/compromised-jscrambler-8140-npm-release.html">jscrambler 8.14.0 npm Package Compromised — Installs Rust Infostealer on All Platforms</a></h3><br>
+<em>Jul 11, 24:00</em></p><br>
+<p>The popular jscrambler npm package was backdoored in version 8.14.0, with a preinstall hook that drops and executes a native Rust infostealer binary targeting Windows, macOS, and Linux. Socket flagged the malicious release just six minutes after publication, but any developer or CI pipeline that ran npm install during that window is potentially compromised. jscrambler is widely used for JavaScript obfuscation and code protection, making its supply chain position particularly sensitive.</p><br>
+<p><blockquote><em>A compromised install-time hook in a widely used JavaScript toolchain package is a classic supply chain attack — any team using jscrambler must audit install logs and assume credential exposure.</em></blockquote></p><br>
+<p>Sources: <a href="https://thehackernews.com/2026/07/compromised-jscrambler-8140-npm-release.html">The Hacker News</a></p><br>
+<p><h3><a href="https://www.securityweek.com/ghost-accounts-abuse-github-api-in-mass-recon-campaign/">Ghost Accounts Weaponize GitHub API for Mass Organizational Reconnaissance</a></h3><br>
+<em>Jul 11, 24:00</em></p><br>
+<p>Multiple active campaigns are using ghost GitHub accounts — dormant or fake personas — to systematically enumerate GitHub organizations, map their repositories, and harvest member lists at scale via the GitHub API. The campaigns appear designed to build target intelligence for follow-on attacks, including phishing, credential stuffing, and supply chain compromise. The scale and automation suggest a coordinated threat actor rather than opportunistic scanning.</p><br>
+<p><blockquote><em>If your organization has public GitHub presence, your repository structure, contributors, and internal tooling may already be in an attacker's target dossier — review GitHub org visibility settings now.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.securityweek.com/ghost-accounts-abuse-github-api-in-mass-recon-campaign/">SecurityWeek</a></p><br>
+<p><h3><a href="https://thehackernews.com/2026/07/hackers-weaponize-balochistan-police.html">China- and India-Aligned APTs Both Compromised Balochistan Police Infrastructure in Overlapping Espionage Campaigns</a></h3><br>
+<em>Jul 11, 24:00</em></p><br>
+<p>Researchers disclosed that suspected Chinese and Indian state-aligned threat actors independently compromised servers belonging to Balochistan Police between February 2024 and April 2026, accessing web applications managing criminal records and citizen data. The overlap of two separate nation-state actors targeting the same law enforcement infrastructure illustrates how contested the South Asian intelligence collection environment has become. Compromised assets included servers handling both police operations and civilian-facing services.</p><br>
+<p><blockquote><em>Simultaneous multi-actor APT compromise of law enforcement data infrastructure is a reminder that sensitive government and public-sector systems are priority targets for multiple competing intelligence services simultaneously.</em></blockquote></p><br>
+<p>Sources: <a href="https://thehackernews.com/2026/07/hackers-weaponize-balochistan-police.html">The Hacker News</a></p><br>
+<p><h2>AI & Machine Learning</h2></p><br>
+<p><h3><a href="https://www.nytimes.com/2026/07/10/technology/apple-openai-lawsuit.html">Apple-OpenAI Trade Secrets Lawsuit Advances — Partnership Sours After 2024 Device Integration Deal</a></h3><br>
+<em>Jul 10, 24:00</em></p><br>
+<p>Apple's lawsuit against OpenAI over alleged trade secret theft by former Apple hardware engineers — including Chief Hardware Officer Tang Tan — is developing further, with the NYT reporting the two companies' 2024 partnership to offer AI services on Apple devices has materially soured. The lawsuit names IO Products (Jony Ive's hardware startup acquired by OpenAI) and accuses senior OpenAI leadership of directing the misconduct. The breakdown in the Apple-OpenAI commercial relationship has direct implications for how Apple Intelligence evolves and which AI providers are featured on iOS.</p><br>
+<p><blockquote><em>A deteriorating Apple-OpenAI commercial relationship — combined with an active trade secrets lawsuit — reshapes the AI integration landscape for the world's largest consumer device platform.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.nytimes.com/2026/07/10/technology/apple-openai-lawsuit.html">NYT Technology</a></p><br>
+<p><h2>Technology</h2></p><br>
+<p><h3><a href="https://www.nytimes.com/2026/07/12/world/asia/russia-spies-japan-war-drones-electronics.html">How Russia Uses a Tokyo High-Rise as a Military Electronics Procurement Hub</a></h3><br>
+<em>Jul 12, 24:00</em></p><br>
+<p>NYT investigation reveals a Russian military intelligence unit operating out of a Tokyo office building has been systematically sourcing high-tech components — including drone electronics and precision manufacturing parts — needed to sustain the war in Ukraine, exploiting Japan's role as a technology trade hub and gaps in export enforcement. The operation demonstrates how sanctions evasion through third-country procurement remains a persistent vulnerability even in allied nations. Japan has faced pressure from the US and EU to tighten controls.</p><br>
+<p><blockquote><em>Active Russian military procurement running through allied nations' commercial infrastructure signals that export control enforcement gaps are being systematically exploited — relevant for any technology company with global distribution.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.nytimes.com/2026/07/12/world/asia/russia-spies-japan-war-drones-electronics.html">NYT</a></p><br>
+<p><h3><a href="https://www.theverge.com/policy/964493/oregons-ag-delay-paramount-warner-bros-merger">Oregon AG Drops Effort to Block Paramount-Warner Bros. Merger After Paramount Refuses Document Disclosure</a></h3><br>
+<em>Jul 11, 24:00</em></p><br>
+<p>Oregon Attorney General Dan Rayfield withdrew his civil investigative demand and request for a 60-day court delay of the Paramount-Warner Bros. Discovery merger after Paramount refused to comply with his document request. The AG's office noted that Paramount's non-compliance effectively ended the state-level challenge, clearing a significant remaining obstacle to one of the largest media consolidations in years. The merger now faces no active state-level legal impediments.</p><br>
+<p><blockquote><em>Paramount-Warner Bros. closing without a state-level disclosure requirement sets a precedent for large media mergers proceeding despite local regulatory objections — a signal about the current enforcement environment for M&A.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.theverge.com/policy/964493/oregons-ag-delay-paramount-warner-bros-merger">The Verge</a></p><br>
+<p><h3><a href="https://techcrunch.com/2026/07/11/smart-glasses-without-a-camera-even-realities-bets-productivity-beats-recording-everyone/">Even Realities Launches Camera-Free Smart Glasses Targeting Meeting-Heavy Professionals</a></h3><br>
+<em>Jul 11, 24:00</em></p><br>
+<p>Even Realities is betting that smart glasses without a camera — focused on real-time meeting support, presentation assistance, and language translation — will attract enterprise and professional users who are uncomfortable with recording-capable wearables. The product targets frequent travelers, multilingual professionals, and conference-heavy workers as a privacy-forward alternative to Meta Ray-Bans and similar camera-equipped devices. The launch tests whether productivity features alone can drive smart glasses adoption without the social friction of ambient recording.</p><br>
+<p><blockquote><em>A camera-free smart glasses product entering the market tests whether privacy-conscious professionals represent a viable market segment distinct from the consumer AR/social use case.</em></blockquote></p><br>
+<p>Sources: <a href="https://techcrunch.com/2026/07/11/smart-glasses-without-a-camera-even-realities-bets-productivity-beats-recording-everyone/">TechCrunch</a></p><br>
+<p><h2>Business & Markets</h2></p><br>
+<p><h3><a href="https://www.politico.com/news/2026/07/10/the-gas-is-cheap-the-trump-administration-isnt-saying-whos-paying-for-it-00992750">Trump's 'Freedom Fuel Network' Sells Gas at 50 Cents Below Market — Administration Won't Say Who's Subsidizing It</a></h3><br>
+<em>Jul 10, 24:00</em></p><br>
+<p>The Trump administration launched the 'Freedom Fuel Network' ahead of Independence Day, offering gasoline at prices up to 50 cents per gallon below market rates, but has declined to disclose the funding source or which companies are participating in the subsidy arrangement. The opacity around a consumer fuel subsidy of this scale is drawing scrutiny from fiscal watchdogs and energy market participants who want to understand whether federal funds, industry agreements, or other mechanisms are financing the discount. The program launches amid an already-volatile energy market driven by Hormuz disruption.</p><br>
+<p><blockquote><em>An undisclosed subsidy mechanism artificially suppressing fuel prices distorts energy market signals at precisely the moment the Hormuz crisis is creating genuine supply risk — any organization modeling energy costs needs to account for this policy variable.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.politico.com/news/2026/07/10/the-gas-is-cheap-the-trump-administration-isnt-saying-whos-paying-for-it-00992750">Politico</a></p><br>
+<p><h3><a href="https://www.politico.com/news/2026/07/11/trump-administration-new-york-times-subpoenas-00994052">Press Freedom Groups and Senate Democrats Condemn NYT Journalist Subpoenas as Administration Escalates Media Pressure</a></h3><br>
+<em>Jul 11, 24:00</em></p><br>
+<p>The Trump DOJ's subpoenas compelling testimony from NYT journalists who covered the new Air Force One are drawing broad condemnation from press freedom organizations and Democratic senators, intensifying an already significant confrontation between the administration and independent media. The criticism adds institutional weight to what the Times called a 'brazen act,' and signals the subpoenas will face sustained legal and political resistance. The story is being covered by multiple outlets as one of the most serious press freedom confrontations of the current administration.</p><br>
+<p><blockquote><em>Sustained bipartisan and institutional pushback on journalist subpoenas elevates this from a single legal action to a defining press freedom test — relevant for any organization that depends on investigative reporting for market and policy intelligence.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.politico.com/news/2026/07/11/trump-administration-new-york-times-subpoenas-00994052">Politico</a><br>
+</p>
+</body>
+</html>
