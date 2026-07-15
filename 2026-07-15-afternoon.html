@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Afternoon — Jul 15, 2026 — PulseBrief</title>
+  <link rel="alternate" type="application/atom+xml" title="PulseBrief Feed" href="feed.xml">
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { font-family: -apple-system, system-ui, sans-serif; max-width: 720px; margin: 0 auto; padding: 24px 16px; color: #1a1a1a; line-height: 1.6; }
+    h1 { font-size: 1.6em; margin-bottom: 4px; }
+    h2 { font-size: 1.2em; margin-top: 32px; margin-bottom: 16px; color: #444; border-bottom: 1px solid #eee; padding-bottom: 8px; }
+    h3 { font-size: 1em; margin-top: 20px; margin-bottom: 4px; }
+    h3 a { color: #1a1a1a; text-decoration: none; border-bottom: 1px solid #ccc; }
+    h3 a:hover { border-color: #333; }
+    p { margin-bottom: 12px; }
+    blockquote { border-left: 3px solid #ddd; padding-left: 12px; color: #555; margin: 8px 0 12px; }
+    em { font-style: italic; }
+    a { color: #0066cc; }
+    hr { border: none; border-top: 1px solid #eee; margin: 32px 0; }
+    .meta { color: #888; font-size: 0.9em; }
+    .sources { font-size: 0.85em; color: #666; }
+    .nav { margin-bottom: 24px; font-size: 0.9em; }
+    .nav a { color: #0066cc; text-decoration: none; }
+    .brief-list { list-style: none; }
+    .brief-list li { padding: 8px 0; border-bottom: 1px solid #f0f0f0; }
+    .brief-list a { text-decoration: none; color: #1a1a1a; }
+    .brief-list .date { color: #888; font-size: 0.85em; }
+  </style>
+</head>
+<body>
+  <div class="nav"><a href="./">← All Briefs</a> · <a href="feed.xml">RSS</a></div>
+  <p><h1>PulseBrief's Afternoon Pulse</h1><br>
+<em>Wed, Jul 15, 05:00 → Wed, Jul 15, 11:00</em></p><br>
+<p><h2>Cyber Security</h2></p><br>
+<p><h3><a href="https://www.bleepingcomputer.com/news/security/cisa-warns-admins-to-patch-actively-exploited-sharepoint-flaws/">CISA Warns of Active Exploitation of Three SharePoint Vulnerabilities — Patch Internet-Exposed Instances Now</a></h3><br>
+<em>Jul 15, 09:44</em></p><br>
+<p>CISA issued an urgent advisory warning that attackers are actively exploiting three vulnerabilities in on-premises SharePoint Server instances exposed to the internet. This follows Microsoft's record July Patch Tuesday which already included SharePoint zero-days, and Progress Software's confirmation of a separate SharePoint-adjacent zero-day behind the ShareFile Storage Zone Controller shutdown. Organizations running on-premises SharePoint face a compounding risk from multiple active exploit chains simultaneously.</p><br>
+<p><blockquote><em>Three actively exploited SharePoint flaws with a CISA advisory means this is a mandatory emergency patching cycle for any organization running on-premises SharePoint — not discretionary.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.bleepingcomputer.com/news/security/cisa-warns-admins-to-patch-actively-exploited-sharepoint-flaws/">BleepingComputer</a> · <a href="https://www.securityweek.com/progress-confirms-zero-day-vulnerability-behind-sharefile-disruption/">SecurityWeek</a></p><br>
+<p><h3><a href="https://thehackernews.com/2026/07/two-sonicwall-sma-1000-zero-days.html">SonicWall SMA1000 Zero-Days: CVE-2026-15409 Scores CVSS 10.0, Enables Unauthenticated Remote Command Execution</a></h3><br>
+<em>Jul 15, 05:19</em></p><br>
+<p>New details on the two actively exploited SonicWall SMA1000 zero-days reveal that CVE-2026-15409 is a server-side request forgery flaw scoring the maximum CVSS 10.0, exploitable remotely without authentication, while CVE-2026-15410 can enable arbitrary admin command execution. SMA1000 appliances are enterprise remote access gateways sitting at the network perimeter, making them a direct path to internal environments. Patches are available and SonicWall has issued an urgent advisory.</p><br>
+<p><blockquote><em>A CVSS 10.0 unauthenticated RCE on perimeter remote access appliances under active exploitation is the highest-urgency patch category that exists — treat this as an incident response situation.</em></blockquote></p><br>
+<p>Sources: <a href="https://thehackernews.com/2026/07/two-sonicwall-sma-1000-zero-days.html">The Hacker News</a> · <a href="https://www.securityweek.com/sonicwall-issues-urgent-sma-patch-warning-for-two-zero-day-exploits/">SecurityWeek</a> · <a href="https://cybersecuritynews.com/sonicwall-firewall-0-day-vulnerabilities-exploited/">Cybersecurity News</a></p><br>
+<p><h3><a href="https://thehackernews.com/2026/07/cursor-flaw-lets-malicious-cloned.html">Cursor IDE Silently Executes Any File Named git.exe in a Cloned Repository's Root — Windows RCE, No User Prompt</a></h3><br>
+<em>Jul 15, 10:55</em></p><br>
+<p>A confirmed vulnerability in the Cursor AI coding IDE on Windows causes it to automatically execute any binary named git.exe found in a project's root directory the moment a repository is opened, with no warning or confirmation dialog, and continues re-executing it for the session's duration. The binary runs with the user's full privileges — including access to source code, SSH keys, and cloud credentials. The flaw was disclosed to Cursor in December 2025 and remains unpatched; a malicious actor only needs to include a poisoned git.exe in any repository a target developer might open.</p><br>
+<p><blockquote><em>An unpatched auto-execution vulnerability in a widely-used AI coding IDE that fires on clone-and-open — the most common developer workflow — is a direct threat to every Cursor user working with external repositories.</em></blockquote></p><br>
+<p>Sources: <a href="https://thehackernews.com/2026/07/cursor-flaw-lets-malicious-cloned.html">The Hacker News</a></p><br>
+<p><h3><a href="https://thehackernews.com/2026/07/compromised-asyncapi-npm-packages.html">AsyncAPI npm Supply Chain Compromise: Multi-Stage Botnet Loader in Packages with Millions of Weekly Downloads</a></h3><br>
+<em>Jul 15, 09:16</em></p><br>
+<p>Four compromised packages in the @asyncapi npm namespace — including the core generator and specs packages — were confirmed by four independent security firms (OX Security, SafeDep, Socket, StepSecurity) to be distributing a multi-stage botnet loader. The Miasma v3 backdoor activates not at install time but when the application or build pipeline actually runs the code, defeating standard install-time scanning. Development workstations, CI/CD servers, and any environment that executed the affected versions should be treated as potentially compromised.</p><br>
+<p><blockquote><em>A multi-firm-confirmed supply chain compromise of a widely-used async API toolchain delivering a persistent botnet backdoor is an immediate dependency audit for any JavaScript/Node.js build pipeline.</em></blockquote></p><br>
+<p>Sources: <a href="https://thehackernews.com/2026/07/compromised-asyncapi-npm-packages.html">The Hacker News</a></p><br>
+<p><h3><a href="https://cybersecuritynews.com/chinese-hackers-ai-attacks/">Chinese State Hackers Embed Claude Code and DeepSeek Directly Into Espionage Campaign Execution Flows</a></h3><br>
+<em>Jul 15, 07:18</em></p><br>
+<p>Hunt researchers uncovered an active China-linked cyber espionage campaign that has integrated Claude Code and DeepSeek-v4-pro as core operational engines — not peripheral research aids — within the intrusion pipeline, pivoting off TencShell C2 infrastructure. The operation targets government entities and represents one of the first documented cases of commercial frontier AI being embedded directly into state-sponsored attack execution rather than used for reconnaissance or social engineering support. The finding follows the jailbroken Gemini C2 server case documented in the previous brief.</p><br>
+<p><blockquote><em>Nation-state actors using commercial AI coding assistants as core attack infrastructure is a direct escalation in the AI-enabled threat landscape — it changes threat modeling assumptions for government and critical infrastructure defenders.</em></blockquote></p><br>
+<p>Sources: <a href="https://cybersecuritynews.com/chinese-hackers-ai-attacks/">Cybersecurity News</a></p><br>
+<p><h3><a href="https://www.bleepingcomputer.com/news/security/us-charges-alleged-russian-bulletproof-hosting-service-operators/">US Charges Three Russian Nationals for Running Bulletproof Hosting That Enabled $62M+ in Ransomware Damage</a></h3><br>
+<em>Jul 15, 07:45</em></p><br>
+<p>Federal prosecutors unsealed charges against three Russian nationals accused of operating a bulletproof hosting service that provided infrastructure to ransomware gangs responsible for more than $62 million in damages to victims worldwide. Bulletproof hosting is the foundational layer enabling ransomware, BEC, and malware-as-a-service operations by providing infrastructure that resists law enforcement takedown requests. The charges follow recent dismantling of a €140M BEC ring by Spanish police.</p><br>
+<p><blockquote><em>Charges against bulletproof hosting operators are a meaningful disruption to ransomware supply chain infrastructure — the downstream effect is reduced operational capacity for multiple ransomware groups simultaneously.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.bleepingcomputer.com/news/security/us-charges-alleged-russian-bulletproof-hosting-service-operators/">BleepingComputer</a></p><br>
+<p><h3><a href="https://www.securityweek.com/white-house-launches-ai-driven-gold-eagle-vulnerability-coordination-initiative/">White House Launches 'Gold Eagle' AI-Driven Vulnerability Coordination Initiative</a></h3><br>
+<em>Jul 15, 10:18</em></p><br>
+<p>The White House announced Gold Eagle, a new AI-driven vulnerability coordination program stemming from an AI-focused Executive Order signed by President Trump on June 2. The initiative is designed to use AI to accelerate the identification, triage, and coordination of vulnerability disclosures across the US government and critical infrastructure. Few technical details have been released, but the program signals the administration's intent to use AI offensively for defensive cyber purposes at a national scale.</p><br>
+<p><blockquote><em>A White House-level AI vulnerability coordination program is a policy signal that will shape federal contractor requirements and CISA priorities — relevant for any organization in the government supply chain.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.securityweek.com/white-house-launches-ai-driven-gold-eagle-vulnerability-coordination-initiative/">SecurityWeek</a></p><br>
+<p><h2>AI & Machine Learning</h2></p><br>
+<p><h3><a href="https://www.ayush.digital/blog/the-memory-heist">Claude Memory Heist: Researcher Tricks Claude Into Leaking Users' Stored Memories — 399 HN Points</a></h3><br>
+<em>Jul 15, 06:28</em></p><br>
+<p>A researcher published 'The Memory Heist,' demonstrating a technique to manipulate Claude into revealing contents of a user's stored memories — personal data Claude accumulates across conversations to personalize responses. The post generated 399 Hacker News points and 190 comments, making it the highest-engagement story in this window. The attack exploits how Claude handles memory recall requests, raising serious questions about the security model of persistent AI memory features now being rolled out broadly across frontier AI products.</p><br>
+<p><blockquote><em>A practical attack that extracts stored personal memories from a widely-used AI assistant is a direct privacy risk for anyone using Claude's memory features — and a preview of the attack surface that persistent AI memory creates.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.ayush.digital/blog/the-memory-heist">Hacker News / The Memory Heist</a></p><br>
+<p><h3><a href="https://www.politico.com/news/2026/07/15/inside-anthropics-state-by-state-plan-to-ratchet-up-ai-rules-00998415">Anthropic Running State-by-State Campaign for Tougher AI Safety Laws — Directly Opposing OpenAI's Federal Preemption Strategy</a></h3><br>
+<em>Jul 15, 08:59</em></p><br>
+<p>Politico reveals that Anthropic is executing a deliberate state-by-state lobbying strategy to advance AI safety regulations, explicitly drawing a contrast with OpenAI's campaign to establish a single federal framework that would preempt state-level rules. Anthropic's approach would result in a patchwork of stricter state AI laws, while OpenAI's preferred outcome would create one national standard. The divergence between the two leading AI safety companies on the fundamental architecture of AI regulation is a significant policy development.</p><br>
+<p><blockquote><em>The two most prominent 'safety-focused' AI labs pursuing directly opposing regulatory strategies will determine whether US AI governance ends up as a federal floor or a state-level patchwork — a foundational question for any organization deploying AI at scale.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.politico.com/news/2026/07/15/inside-anthropics-state-by-state-plan-to-ratchet-up-ai-rules-00998415">Politico</a></p><br>
+<p><h3><a href="https://www.wired.com/story/openai-employees-donations-guardrails-alliance-leading-the-future/">OpenAI Employees Fund Rival Super PAC to Oppose Greg Brockman's Political Group — $215K Raised Against Their Own President</a></h3><br>
+<em>Jul 15, 09:00</em></p><br>
+<p>Wired reports that OpenAI employees have donated more than $215,000 to Guardrails Alliance, a political organization opposing Leading the Future — a super PAC backed by OpenAI president Greg Brockman. The internal opposition reflects deep disagreement within OpenAI about the political direction the company's leadership is pursuing. The split is public, organized, and financially significant — an unusual level of visible internal dissent at a company navigating major regulatory and governance questions.</p><br>
+<p><blockquote><em>Organized employee political opposition to their own company's president is a governance and culture signal that matters for anyone tracking OpenAI's organizational stability and policy direction.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.wired.com/story/openai-employees-donations-guardrails-alliance-leading-the-future/">Wired</a></p><br>
+<p><h3><a href="https://www.theregister.com/personal-tech/2026/07/15/at-last-a-good-reason-to-buy-an-ai-pc-reining-in-runaway-token-bills/5271589">AI PCs as Token Bill Offloaders: Gartner Predicts Hybrid Model Where Enterprises Push Inference to Local Hardware</a></h3><br>
+<em>Jul 15, 06:26</em></p><br>
+<p>Gartner analysis, highlighted by The Register, argues that the emerging business case for AI PCs is not local AI capability per se, but cost control — offloading token-intensive tasks from expensive cloud API calls to local inference hardware to rein in runaway AI spend. The framing connects directly to Meta's Adam Mosseri predicting per-engineer token budgets, and to Bonsai 27B running on mobile hardware. The practical implication is that enterprises may deploy hybrid inference architectures to manage AI operating costs.</p><br>
+<p><blockquote><em>If Gartner's hybrid inference model is correct, AI PC hardware decisions are now an enterprise cost optimization question — relevant for anyone modeling AI operating expenses or planning infrastructure procurement.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.theregister.com/personal-tech/2026/07/15/at-last-a-good-reason-to-buy-an-ai-pc-reining-in-runaway-token-bills/5271589">The Register</a></p><br>
+<p><h3><a href="https://www.nytimes.com/2026/07/15/business/china-chips-cxmt-ipo.html">CXMT IPO: China's Leading Memory Chip Maker Aims to Raise $10B in Shanghai — Key to Homegrown AI Infrastructure</a></h3><br>
+<em>Jul 15, 07:29</em></p><br>
+<p>CXMT (ChangXin Memory Technologies), China's most advanced domestic DRAM manufacturer and a linchpin in China's push for AI hardware self-sufficiency, is targeting a nearly $10 billion IPO on the Shanghai stock exchange. The offering would create a major public market vehicle for China's domestic semiconductor push and signal the maturity of its AI chip supply chain ambitions. CXMT's memory chips are critical for AI training and inference infrastructure that doesn't depend on US-allied suppliers.</p><br>
+<p><blockquote><em>A $10B IPO for China's domestic AI memory champion is a direct data point on China's progress toward AI hardware independence — the single most watched variable in the US-China technology competition.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.nytimes.com/2026/07/15/business/china-chips-cxmt-ipo.html">NYT Business</a></p><br>
+<p><h3><a href="http://www.euronews.com/business/2026/07/15/europes-biggest-company-asml-lifts-forecast-fuelling-fresh-hopes-for-the-ai-boom">ASML Raises Full-Year Revenue Forecast to €43–45B — AI Boom Demand Continues to Accelerate Chip Equipment Orders</a></h3><br>
+<em>Jul 15, 09:32</em></p><br>
+<p>ASML, the sole manufacturer of EUV lithography machines that produce leading-edge chips, raised its 2026 full-year net sales forecast to €43–45 billion, sending shares up more than 5%. The upgrade is a direct reflection of AI-driven semiconductor demand pulling forward chipmaker capital expenditure on leading-edge equipment. As the supplier to TSMC, Samsung, and Intel, ASML's order book is the clearest single leading indicator of where chip production capacity is heading over the next 2–3 years.</p><br>
+<p><blockquote><em>ASML raising guidance is the most reliable forward indicator of AI chip production trajectory — it confirms that the AI infrastructure buildout is not slowing and is pulling significant new semiconductor capacity.</em></blockquote></p><br>
+<p>Sources: <a href="http://www.euronews.com/business/2026/07/15/europes-biggest-company-asml-lifts-forecast-fuelling-fresh-hopes-for-the-ai-boom">Euronews Business</a></p><br>
+<p><h2>Technology</h2></p><br>
+<p><h3><a href="https://techcrunch.com/2026/07/15/backed-by-60m-in-funding-oak-steps-out-of-stealth-to-fix-the-identity-mess-that-ai-agents-are-making-worse/">Oak Emerges from Stealth with $60M to Solve AI Agent Identity — Startup Targets the Non-Human Identity Crisis</a></h3><br>
+<em>Jul 15, 11:00</em></p><br>
+<p>Israeli identity management startup Oak launched publicly with $60 million in seed funding, targeting the rapidly escalating problem of non-human identity management created by AI agents — each of which needs credentials, access scopes, and audit trails that current IAM systems weren't designed to handle. Founded by serial entrepreneur Shai Morag, Oak is entering a market that has no established leader and is growing with every agentic AI deployment. The $60M seed is one of the largest in the identity security category.</p><br>
+<p><blockquote><em>Every organization deploying AI agents is accumulating non-human identities with privileged access and no adequate governance framework — Oak is building directly for this gap, and the $60M seed signals serious investor conviction.</em></blockquote></p><br>
+<p>Sources: <a href="https://techcrunch.com/2026/07/15/backed-by-60m-in-funding-oak-steps-out-of-stealth-to-fix-the-identity-mess-that-ai-agents-are-making-worse/">TechCrunch</a></p><br>
+<p><h3><a href="https://www.theregister.com/software/2026/07/15/eu-competition-decision-hands-sap-customers-more-leverage-in-contract-talks/5271154">EU Competition Ruling Gives SAP Customers Leverage in Contract Negotiations — ECC Holdouts Have a New Bargaining Chip</a></h3><br>
+<em>Jul 15, 10:00</em></p><br>
+<p>A European Commission competition decision involving SAP's maintenance fee practices has created new negotiating leverage for enterprise customers still running SAP ECC (the predecessor to S/4HANA) who are resisting migration pressure. The ruling effectively gives customers a tool to push back on SAP's pricing and migration timelines in contract renewals. The dynamic is particularly relevant as SAP's mainstream maintenance deadline approaches and customers weigh the economics of migration versus third-party support.</p><br>
+<p><blockquote><em>Any organization in SAP ECC contract negotiations now has a regulatory card to play — the EU ruling changes the leverage balance that has historically favored SAP in renewal discussions.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.theregister.com/software/2026/07/15/eu-competition-decision-hands-sap-customers-more-leverage-in-contract-talks/5271154">The Register</a></p><br>
+<p><h3><a href="https://www.eetimes.com/risc-v-is-inevitable-state-of-the-union-keynote-argues/">RISC-V Is Inevitable: State of the Union Keynote Makes the Case — 87 HN Points</a></h3><br>
+<em>Jul 15, 06:02</em></p><br>
+<p>The RISC-V Summit's State of the Union keynote argued that RISC-V adoption across embedded, server, and AI accelerator markets has crossed a threshold where it is no longer a question of if but when and how fast the open ISA displaces proprietary architectures. The talk generated 87 Hacker News points and 79 comments, with debate focused on the timeline and which markets will tip first. RISC-V's relevance to AI hardware is particularly acute as Chinese chip companies, constrained by US export controls, have accelerated RISC-V adoption for AI inference silicon.</p><br>
+<p><blockquote><em>RISC-V momentum in AI hardware — especially among Chinese chipmakers working around export controls — is a structural shift in the processor ecosystem with long-term implications for hardware supply chains and software toolchains.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.eetimes.com/risc-v-is-inevitable-state-of-the-union-keynote-argues/">EE Times / Hacker News</a></p><br>
+<p><h3><a href="https://www.theverge.com/science/965824/starlink-v5-vs-v4-dish-comparison">Starlink V5 Dish Now Available — Smaller, Lighter, More Power-Efficient Than V4</a></h3><br>
+<em>Jul 15, 07:17</em></p><br>
+<p>SpaceX has made the Starlink V5 residential dish available in select areas, with a notably smaller and lighter form factor and improved power efficiency compared to the V4. The V5 is not designed for in-motion use; a revamped Starlink Mini targeting mobility use cases was teased separately. Expanded availability will follow as SpaceX scales production.</p><br>
+<p><blockquote><em>Improved Starlink hardware efficiency and availability matters for any organization or deployment scenario relying on satellite connectivity as a primary or backup link — particularly relevant in conflict zones and remote operations.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.theverge.com/science/965824/starlink-v5-vs-v4-dish-comparison">The Verge</a></p><br>
+<p><h2>Business & Markets</h2></p><br>
+<p><h3><a href="https://www.nytimes.com/2026/07/15/business/oil-prices-stocks-gas.html">US Reinstates Iran Naval Blockade — Hormuz Shipping Slows to Crawl, Oil Prices Move Higher</a></h3><br>
+<em>Jul 15, 10:19</em></p><br>
+<p>The United States reinstated its blockade on Iranian ports in the Strait of Hormuz as US-Iran military conflict resumes, bringing shipping through the world's most critical oil chokepoint to a near-standstill. Oil prices ticked higher on the news, building on Brent's move above $85 in the previous session. The blockade adds a new operational dimension to the conflict beyond airstrikes — physically constraining Iranian oil exports and complicating cargo movement for all vessels transiting the strait.</p><br>
+<p><blockquote><em>A US naval blockade of Hormuz is an escalation from airstrikes to active trade interdiction — energy costs, freight rates, and supply chain routing decisions are repricing in real time for anyone with Middle East exposure.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.nytimes.com/2026/07/15/business/oil-prices-stocks-gas.html">NYT Business</a></p><br>
+<p><h3><a href="https://www.nytimes.com/2026/07/15/magazine/electric-cars-american-evs.html">American EV Industry at Existential Crossroads — Major Automakers Retreating as Global Sales Boom</a></h3><br>
+<em>Jul 15, 09:00</em></p><br>
+<p>NYT Magazine's in-depth investigation finds that the largest US automakers have materially pulled back from EV commitments even as global electric vehicle sales continue to grow rapidly, driven by Chinese and European manufacturers. The retreat risks making traditional US automakers irrelevant in the vehicle category that the global market is moving toward. Lucid's near-bankruptcy scare from the previous brief exemplifies the broader financial distress in the US EV tier below Tesla.</p><br>
+<p><blockquote><em>US automaker EV retreat while global demand accelerates is a structural competitiveness question with downstream implications for the US industrial base, battery supply chains, and energy infrastructure investment.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.nytimes.com/2026/07/15/magazine/electric-cars-american-evs.html">NYT Business</a></p><br>
+<p><h3><a href="https://www.theverge.com/science/965849/spotify-founder-ek-startup-neko-health-scanner-us-push">Neko Health US Expansion: Daniel Ek's Body-Scanning Startup Opens First US Clinic in New York After $700M Raise</a></h3><br>
+<em>Jul 15, 10:13</em></p><br>
+<p>Neko Health, the AI-powered preventive health scanning startup co-founded by Spotify's Daniel Ek, will open its first US clinic in New York this year and expand rapidly across the country, following the close of its $700 million funding round backed by tech investors and longevity figures. The company's full-body scan model uses AI and custom imaging equipment to proactively screen for cancer, heart disease, and diabetes. The US expansion brings a European-born AI diagnostics model into direct competition with US health systems and incumbents.</p><br>
+<p><blockquote><em>A well-capitalized AI preventive health company backed by a high-profile founder entering the US market with rapid expansion plans is a significant signal about where the AI-in-healthcare thesis is materializing commercially.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.theverge.com/science/965849/spotify-founder-ek-startup-neko-health-scanner-us-push">The Verge</a> · <a href="https://www.nytimes.com/2026/07/15/business/dealbook/neko-health-ek-funding.html">NYT Business</a></p><br>
+<p><h3><a href="https://www.politico.eu/article/russia-attacks-odesa-ursula-von-der-leyen-ukraine-trip/">Russia Bombs Odesa Port as von der Leyen Visits Kyiv — Ukrainian Export Infrastructure Under Sustained Attack</a></h3><br>
+<em>Jul 15, 07:59</em></p><br>
+<p>Russia carried out attacks on Odesa's port infrastructure as European Commission President Ursula von der Leyen arrived in Kyiv, with Ukrainian port facilities critical to wartime grain and commodity exports coming under sustained bombardment in recent days. The timing of the attack during a high-profile EU visit signals Russia's intent to demonstrate continued offensive capability regardless of diplomatic activity. Sustained attacks on Ukrainian port infrastructure have direct implications for global grain supply chains.</p><br>
+<p><blockquote><em>Sustained attacks on Ukraine's primary export port affect global grain and commodity supply chains — a macro price input that compounds the energy cost pressure from the US-Iran Hormuz blockade.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.politico.eu/article/russia-attacks-odesa-ursula-von-der-leyen-ukraine-trip/">Politico EU</a><br>
+</p>
+</body>
+</html>
