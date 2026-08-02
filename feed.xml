@@ -5,7 +5,55 @@
   <link href="https://jonaskjellin.github.io/pulsebrief-site/feed.xml" rel="self"/>
   <link href="https://jonaskjellin.github.io/pulsebrief-site/"/>
   <id>https://jonaskjellin.github.io/pulsebrief-site/</id>
-  <updated>2026-08-01T16:46:54.326Z</updated>
+  <updated>2026-08-02T07:26:56.087Z</updated>
+  <entry>
+    <title>Morning — Aug 2, 2026</title>
+    <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-08-02-morning.html"/>
+    <id>https://jonaskjellin.github.io/pulsebrief-site/2026-08-02-morning.html</id>
+    <updated>2026-08-02T07:26:56.087Z</updated>
+    <content type="html">&lt;p&gt;&lt;h1&gt;PulseBrief's Morning Pulse&lt;/h1&gt;&lt;br&gt;
+&lt;em&gt;Sat, Aug 1, 16:00 → Sun, Aug 2, 05:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Cyber Security&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://thehackernews.com/2026/08/coldcard-hardware-wallet-flaw-linked-to.html"&gt;Coldcard Hardware Wallet Firmware Flaw Linked to $70M Bitcoin Theft — 1,082 BTC Drained in 41 Minutes&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Aug 1, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;A March 2021 firmware integration error in Coldcard hardware wallets routed seed generation to a deterministic software PRNG instead of a hardware entropy source, leaving affected wallets cryptographically vulnerable. On July 30, an attacker exploited this to sweep 1,196 Bitcoin addresses in 41 minutes, stealing 1,082.65 BTC worth approximately $70.2 million. Galaxy Research mapped the coordinated sweep and tied it to the firmware flaw in Coldcard devices made by Canadian firm Coinkite. Any Coldcard user who generated a seed on affected firmware may have a compromised wallet.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;A hardware wallet flaw that silently undermined seed entropy for years — and just enabled a $70M theft in under an hour — is an urgent signal for any organization or individual holding Bitcoin on Coldcard hardware.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://thehackernews.com/2026/08/coldcard-hardware-wallet-flaw-linked-to.html"&gt;The Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://cybersecuritynews.com/brinks-home-confirms-data-breach/"&gt;Brinks Home Confirms Data Breach — ShinyHunters Claims 5 Million Records Stolen from Salesforce Environment&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Aug 1, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Brinks Home, one of North America's largest residential security providers, has confirmed attackers breached its IT systems after ShinyHunters listed the company on its leak site, claiming to have stolen nearly five million records tied to the company's Salesforce environment. The breach was confirmed following the extortion group's public claim, a pattern consistent with ShinyHunters' established double-extortion playbook. The combination of a major physical security brand and a large Salesforce data exposure creates both customer trust and regulatory notification obligations.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;A confirmed five-million-record breach at a residential security giant is a direct customer notification and third-party risk signal — any organization sharing data with Brinks Home should assess exposure.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://cybersecuritynews.com/brinks-home-confirms-data-breach/"&gt;Cybersecurity News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;AI &amp; Machine Learning&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/"&gt;Judge Denies xAI's Bid to Block Minnesota 'Nudify' App Ban — State Law Moves Forward Over First Amendment Challenge&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Aug 1, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;A federal judge has denied xAI's emergency request to block Minnesota's new law banning apps that allow users to generate non-consensual AI nude imagery, allowing the state prohibition to take effect while litigation continues. xAI's lawsuit argued the ban violated First Amendment protections, but the court declined to issue a preliminary injunction. The ruling is an early test of how courts will treat state-level AI content legislation and sets precedent for similar laws advancing in other states.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;A court allowing a state AI content ban to proceed over a First Amendment challenge is the clearest early signal that state-level AI regulation can survive tech industry legal challenges — a direct policy and product risk signal for any AI platform with generative image capabilities.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theverge.com/ai-artificial-intelligence/974209/fenix-flexin-billboard-hot-100-rubberz-ai-slop"&gt;AI-Generated Song Reaches Billboard Hot 100 #58 — Authenticity Dispute Signals New Era of Charting Ambiguity&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Aug 1, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Fenix Flexin's track 'Rubberz' has climbed to number 58 on the Billboard Hot 100 amid widespread speculation that it is largely or entirely AI-generated, with the artist denying the claims but offering little to dispel them. The track represents a dramatic stylistic departure for a rapper known for West Coast trap, and the AI-generated cover art is widely acknowledged. The incident arrives just days after major labels proposed barring AI songs from charts — and illustrates exactly why those proposals are gaining momentum.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;An AI-suspected track reaching the Billboard top 100 while authenticity is unresolved validates the urgency of the major labels' chart eligibility proposals and signals how rapidly AI content is entering mainstream commercial channels.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.theverge.com/ai-artificial-intelligence/974209/fenix-flexin-billboard-hot-100-rubberz-ai-slop"&gt;The Verge&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Technology&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theverge.com/tech/974238/pixel-11-specs-and-price-leak"&gt;Pixel 11 Full Specs and Pricing Leaked — $899 Base, RAM Cuts on Pro Models, August 12 Event Confirmed&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Aug 1, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;A detailed leak of the entire Pixel 11 lineup confirms a $100 price increase on the base model to $899 with a doubling of base storage to 256GB, while Pro and Pro XL models rise to $1,099 and $1,299 respectively. The base Pixel 11 loses its telephoto lens, and both Pro models take a controversial RAM cut to 12GB despite price increases. All models will ship with Google's new Tensor G6 and Titan M3 chips, with the official reveal set for August 12.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Full confirmed specs and pricing for Google's flagship Android lineup ahead of the August 12 event is a procurement and competitive positioning signal for anyone managing mobile device fleets or tracking the Android hardware market.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.theverge.com/tech/974238/pixel-11-specs-and-price-leak"&gt;The Verge&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Business &amp; Markets&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theverge.com/entertainment/974199/spider-man-brand-new-day-leak-box-office-records"&gt;Spider-Man: Brand New Day Tracking $875M Global Opening — Bootleg Leaked on X for 7 Hours, 5.9M Accounts Reached&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Aug 1, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Spider-Man: Brand New Day is on pace for one of the largest domestic opening weekends on record, with $72M in preview earnings already surpassing Avengers: Endgame's $60M preview record from 2019. A bootleg upload on X remained live for over seven hours, reaching 5.9 million accounts and accumulating 143,000 likes before takedowns contained the spread. Disney has moved aggressively against reposts, and the leak appears unlikely to dent a box office performance that would represent a major validation of the superhero franchise's continued commercial power.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;A record-breaking theatrical opening alongside a viral X piracy incident is a direct signal for anyone tracking entertainment industry economics, platform content moderation effectiveness, or Disney's IP enforcement posture.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.theverge.com/entertainment/974199/spider-man-brand-new-day-leak-box-office-records"&gt;The Verge&lt;/a&gt; · &lt;a href="https://www.nytimes.com/2026/08/01/business/media/spider-man-box-office-superhero.html"&gt;NYT Business&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.nytimes.com/2026/07/31/business/germany-mercedes-bmw-volkswagen.html"&gt;German Auto Industry in Structural Crisis — Tariffs, EV Transition, and Chinese Competition Squeeze BMW, Mercedes, VW Simultaneously&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Jul 31, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;The NYT profiles the convergence of three simultaneous pressures collapsing Germany's iconic automotive sector: US and EU tariffs disrupting export economics, a slower-than-expected EV transition leaving legacy ICE capacity stranded, and Chinese automakers competing aggressively in both domestic and international markets. Germany's car industry employs roughly 800,000 people directly and is deeply embedded in national identity, making the crisis politically as well as economically significant. The article frames this as a structural rather than cyclical downturn for the world's third-largest economy.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;A structural crisis at Europe's most important industrial sector has direct implications for European economic growth, supply chain exposure, and any organization with significant German or automotive market exposure.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.nytimes.com/2026/07/31/business/germany-mercedes-bmw-volkswagen.html"&gt;NYT Business&lt;/a&gt;&lt;br&gt;
+&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>Evening — Aug 1, 2026</title>
     <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-08-01-evening.html"/>
@@ -2106,54 +2154,6 @@
 &lt;p&gt;Eddie Smith, sole owner of Grady-White Boats, has pledged his company's future profits to charity rather than accepting a $400 million acquisition offer, following the death of his only heir and drawing inspiration from Patagonia's charitable ownership structure. The decision is generating significant attention as a model for mission-aligned business succession that bypasses traditional private equity or strategic sale outcomes. The Patagonia-inspired ownership structure is emerging as a replicable template for founder-owned businesses.&lt;/p&gt;&lt;br&gt;
 &lt;p&gt;&lt;blockquote&gt;&lt;em&gt;A $400M company choosing charitable ownership over acquisition is a meaningful signal in the business succession and impact investing space — the Patagonia model is gaining real traction as an alternative exit path.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
 &lt;p&gt;Sources: &lt;a href="https://www.nytimes.com/2026/07/25/business/grady-white-boats-charity.html"&gt;NYT Business&lt;/a&gt;&lt;br&gt;
-&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>Afternoon — Jul 26, 2026</title>
-    <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-07-26-afternoon.html"/>
-    <id>https://jonaskjellin.github.io/pulsebrief-site/2026-07-26-afternoon.html</id>
-    <updated>2026-07-26T11:56:04.348Z</updated>
-    <content type="html">&lt;p&gt;&lt;h1&gt;PulseBrief's Afternoon Pulse&lt;/h1&gt;&lt;br&gt;
-&lt;em&gt;Sun, Jul 26, 05:00 → Sun, Jul 26, 11:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;Cyber Security&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices"&gt;GrapheneOS Details Protections Against Locked-Device Data Extraction — Forensic Tool Resistance Documented&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Jul 26, 05:57&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;GrapheneOS has published a detailed technical post outlining its layered defenses against data extraction from locked devices, including protections against the forensic tools used by law enforcement and intelligence agencies. The documentation covers exploit mitigations, memory encryption, and attack surface reduction that differentiate GrapheneOS from stock Android. The post is generating significant Hacker News discussion (121 points, 60 comments) as the de facto reference for mobile device security against physical access attacks.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;For anyone responsible for device security policy or handling sensitive data on mobile, this is the clearest current documentation of what locked-device protection actually looks like in practice.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices"&gt;GrapheneOS Forum&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.politico.eu/article/attack-on-berlin-pride-parade-leaves-1-dead-16-injured/"&gt;Berlin Pride Parade Attack Kills 1, Injures 16 — Suspect Linked to Islamist Scene, Manhunt Active&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Jul 26, 07:37&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;A knife attack on Berlin's Christopher Street Day pride parade left one person dead and 16 injured, with police confirming the suspect is considered part of Berlin's Islamist scene and is still at large. The attack occurred in one of Europe's most visible public events, drawing immediate political attention across Germany and the EU. A city-wide manhunt is ongoing as of publication.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;A fatal attack on a major European public event by a suspect with extremist links is a significant security and societal incident — situational awareness item for anyone with operations or travel in Germany.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.politico.eu/article/attack-on-berlin-pride-parade-leaves-1-dead-16-injured/"&gt;Politico EU&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;AI &amp; Machine Learning&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://status.claude.com/incidents/zftg3gqkmv18"&gt;Claude Opus 5 Experiencing Elevated Errors — Anthropic Status Page Confirms Active Incident&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Jul 26, 09:18&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Anthropic's status page is reporting elevated error rates for Claude Opus 5, with the incident drawing immediate Hacker News attention (43 points, 39 comments). The timing is notable given Opus 5's recent launch and the large number of organizations that have begun integrating it into production workflows. No resolution timeline has been disclosed.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Any organization that has deployed Claude Opus 5 in production should check for service degradation affecting their workflows right now.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://status.claude.com/incidents/zftg3gqkmv18"&gt;Anthropic Status&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;Technology&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.politico.eu/article/the-pentagon-wants-to-build-data-centers-congress-would-like-a-word/"&gt;Pentagon Data Center Plans Draw Congressional Scrutiny Over Energy and Water Consumption&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Jul 26, 10:09&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Lawmakers are pushing back on Pentagon proposals to build large-scale data centers on military bases, raising concerns about massive energy and water demands from facilities whose AI and compute workloads would compete directly with base operational needs. The congressional attention signals that military AI infrastructure buildout is no longer being rubber-stamped and may face budget and siting constraints. The debate parallels civilian regulatory pushback on hyperscaler data center expansions in Virginia and elsewhere.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Congressional friction on military data center construction is a policy signal that could reshape how and where defense AI compute capacity gets built — relevant for defense contractors and infrastructure suppliers.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.politico.eu/article/the-pentagon-wants-to-build-data-centers-congress-would-like-a-word/"&gt;Politico&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://astral.sh/blog/ruff-v0.16.0"&gt;Ruff v0.16.0 Ships With 413 Default Lint Rules — Up From 59, Major Expansion for Python Tooling&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Jul 26, 09:01&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Astral has released Ruff v0.16.0, expanding the default rule set from 59 to 413 rules, a seven-fold increase that makes the linter significantly more comprehensive out of the box without additional configuration. The release is drawing strong Hacker News engagement (101 points, 43 comments) from the Python community, which has broadly adopted Ruff as the de facto fast linter. Teams upgrading should expect new lint violations surfacing in previously clean codebases.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Any Python engineering team running Ruff in CI should test this upgrade in a branch first — 413 default rules versus 59 will likely flag new issues across existing codebases.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://astral.sh/blog/ruff-v0.16.0"&gt;Astral Blog&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;Business &amp; Markets&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theregister.com/on-prem/2026/07/26/trump-expands-voluntary-pledge-to-keep-datacenter-costs-off-household-power-bills/5278346"&gt;Trump Expands Voluntary Datacenter Cost Pledge to 200+ Participants — Still No Enforcement Mechanism&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Jul 26, 10:10&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;The Trump administration has expanded its voluntary pledge program — in which data center operators commit to keeping infrastructure costs off household power bills — to over 200 participants, up from the initial cohort. The program remains entirely voluntary with no enforcement, auditing, or penalty mechanism, meaning participation is a reputational commitment only. As AI data centers drive unprecedented load growth on regional grids, the gap between pledged intent and actual rate impact is becoming a live regulatory and political issue.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;A voluntary pledge covering 200+ operators but carrying no enforcement is a preview of the regulatory gap that will eventually produce mandatory frameworks — worth tracking for anyone in energy, utilities, or data center infrastructure.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.theregister.com/on-prem/2026/07/26/trump-expands-voluntary-pledge-to-keep-datacenter-costs-off-household-power-bills/5278346"&gt;The Register&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.politico.com/news/2026/07/25/iran-war-gulf-alliance-01012083"&gt;Gulf States Split on Iran War Endgame — Arab Allies Not Unified on U.S. Mission&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Jul 26, 08:44&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Politico reports that Gulf countries are increasingly divided over how to end the Iran conflict, with some Arab states more aligned with the U.S. military posture than others. A Republican congressional aide confirmed the alliance fragmentation, suggesting the coalition supporting U.S. operations is softer than public statements indicate. The lack of unified Arab backing complicates both escalation management and eventual diplomatic off-ramps.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Gulf alliance fragmentation on the Iran conflict is the key variable for regional stability and energy market risk — a signal for anyone tracking Middle East geopolitical exposure.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.politico.com/news/2026/07/25/iran-war-gulf-alliance-01012083"&gt;Politico&lt;/a&gt;&lt;br&gt;
 &lt;/p&gt;</content>
   </entry>
 </feed>
