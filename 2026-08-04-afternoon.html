@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Afternoon — Aug 4, 2026 — PulseBrief</title>
+  <link rel="alternate" type="application/atom+xml" title="PulseBrief Feed" href="feed.xml">
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { font-family: -apple-system, system-ui, sans-serif; max-width: 720px; margin: 0 auto; padding: 24px 16px; color: #1a1a1a; line-height: 1.6; }
+    h1 { font-size: 1.6em; margin-bottom: 4px; }
+    h2 { font-size: 1.2em; margin-top: 32px; margin-bottom: 16px; color: #444; border-bottom: 1px solid #eee; padding-bottom: 8px; }
+    h3 { font-size: 1em; margin-top: 20px; margin-bottom: 4px; }
+    h3 a { color: #1a1a1a; text-decoration: none; border-bottom: 1px solid #ccc; }
+    h3 a:hover { border-color: #333; }
+    p { margin-bottom: 12px; }
+    blockquote { border-left: 3px solid #ddd; padding-left: 12px; color: #555; margin: 8px 0 12px; }
+    em { font-style: italic; }
+    a { color: #0066cc; }
+    hr { border: none; border-top: 1px solid #eee; margin: 32px 0; }
+    .meta { color: #888; font-size: 0.9em; }
+    .sources { font-size: 0.85em; color: #666; }
+    .nav { margin-bottom: 24px; font-size: 0.9em; }
+    .nav a { color: #0066cc; text-decoration: none; }
+    .brief-list { list-style: none; }
+    .brief-list li { padding: 8px 0; border-bottom: 1px solid #f0f0f0; }
+    .brief-list a { text-decoration: none; color: #1a1a1a; }
+    .brief-list .date { color: #888; font-size: 0.85em; }
+  </style>
+</head>
+<body>
+  <div class="nav"><a href="./">← All Briefs</a> · <a href="feed.xml">RSS</a></div>
+  <p><h1>PulseBrief's Afternoon Pulse</h1><br>
+<em>Tue, Aug 4, 05:00 → Tue, Aug 4, 11:00</em></p><br>
+<p><h2>Cyber Security</h2></p><br>
+<p><h3><a href="https://thehackernews.com/2026/08/cisa-adds-exploited-n-able-n-central.html">CISA Adds N-able N-central Auth Bypass to KEV — Patch Bypass Confirmed, Customer Compromises Reported</a></h3><br>
+<em>Aug 4, 24:00</em></p><br>
+<p>CISA formally added CVE-2026-18577 to its Known Exploited Vulnerabilities catalog after confirmed customer compromises, with the flaw representing an incomplete fix for a prior N-central authentication bypass. Unauthenticated attackers gain full administrative access to the RMM console and, through it, every managed endpoint — a supply-chain multiplier for MSPs and their downstream clients. Organizations should verify they are running build 2026.3.1.7, not the incomplete earlier patch.</p><br>
+<p><blockquote><em>KEV listing with confirmed customer compromises on an RMM platform means federal agencies have a patching deadline and every MSP should treat this as an emergency — one compromised instance hands attackers every managed endpoint.</em></blockquote></p><br>
+<p>Sources: <a href="https://thehackernews.com/2026/08/cisa-adds-exploited-n-able-n-central.html">The Hacker News</a></p><br>
+<p><h3><a href="https://www.securityweek.com/decades-old-bmc-vulnerability-exposes-thousands-of-data-centers-to-attacks/">Decades-Old BMC Vulnerability Exposes 24,000+ Data Center Server-Management Interfaces</a></h3><br>
+<em>Aug 4, 24:00</em></p><br>
+<p>Researchers found that over 24,000 internet-accessible Baseboard Management Controller interfaces disclose authentication hashes before login, stemming from a vulnerability that has existed for decades in widely deployed server hardware. BMC access is equivalent to physical server control — an attacker can reimage, monitor, or destroy a server regardless of OS-level defenses. The scale of internet-exposed instances makes this a significant data center infrastructure risk.</p><br>
+<p><blockquote><em>24,000 internet-facing BMC interfaces leaking auth hashes is a large-scale data center attack surface that bypasses all OS and software security controls — any organization with internet-accessible BMCs should audit exposure immediately.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.securityweek.com/decades-old-bmc-vulnerability-exposes-thousands-of-data-centers-to-attacks/">SecurityWeek</a></p><br>
+<p><h3><a href="https://thehackernews.com/2026/08/new-cpanel-critical-flaw-could-let.html">cPanel Critical Flaw (CVSS 9.4) Lets Hosting Customers Execute SQL as Database Root</a></h3><br>
+<em>Aug 4, 24:00</em></p><br>
+<p>cPanel patched CVE-2026-58048, a critical flaw allowing any authenticated hosting customer to execute SQL in the database's root context, crossing the privilege boundary between a shared hosting account and the server's administrative database identity. The targeted security release also closed two additional account-boundary bypass routes. cPanel is deployed across millions of shared and managed hosting environments, making the blast radius potentially very large.</p><br>
+<p><blockquote><em>A CVSS 9.4 privilege escalation to database root in the world's most widely deployed hosting control panel affects millions of shared hosting environments — hosters and managed service providers should patch immediately.</em></blockquote></p><br>
+<p>Sources: <a href="https://thehackernews.com/2026/08/new-cpanel-critical-flaw-could-let.html">The Hacker News</a></p><br>
+<p><h3><a href="https://www.darkreading.com/cybersecurity-analytics/device-code-phishing-vishing-doubles">Device Code Phishing Up 1,500% in 2026, Vishing Doubles — MFA-Resistant Techniques Surging</a></h3><br>
+<em>Aug 4, 24:00</em></p><br>
+<p>New research shows device code phishing — which abuses OAuth device authorization flows to bypass MFA entirely — has surged 1,500% in 2026, while voice phishing (vishing) attacks have doubled year-over-year. Both techniques are specifically designed to circumvent entrenched security controls like hardware tokens and conditional access policies while leaving minimal forensic evidence. The data signals a broad attacker pivot away from credential phishing toward token and session hijacking.</p><br>
+<p><blockquote><em>A 15x surge in MFA-bypass phishing techniques means security controls many organizations consider sufficient are being systematically circumvented — awareness training and detection engineering need to catch up.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.darkreading.com/cybersecurity-analytics/device-code-phishing-vishing-doubles">Dark Reading</a></p><br>
+<p><h3><a href="https://www.securityweek.com/gemini-agent-to-agent-attack-exposed-secrets-enabled-pull-request-tampering/">Gemini Agent-to-Agent Attack: Crafted Prompt to Low-Privilege ADK Agent Exposed Secrets, Tampered Pull Requests</a></h3><br>
+<em>Aug 4, 24:00</em></p><br>
+<p>Researchers demonstrated that a malicious prompt injected into a low-privilege Google ADK agent could be passed as a hand-off comment to a privileged agent, enabling exfiltration of secrets and unauthorized pull request modifications. The attack exploits trust relationships in multi-agent pipelines — the privileged agent treated the low-privilege agent's output as trusted input without verification. The finding is a concrete demonstration of prompt injection as a supply-chain attack within agentic AI systems.</p><br>
+<p><blockquote><em>Agent-to-agent prompt injection enabling code repository tampering is a direct security risk for any organization building or deploying multi-agent AI systems on Google ADK or similar frameworks.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.securityweek.com/gemini-agent-to-agent-attack-exposed-secrets-enabled-pull-request-tampering/">SecurityWeek</a></p><br>
+<p><h3><a href="https://thehackernews.com/2026/08/doublecup-uses-clickfix-and-cached-pngs.html">DOUBLECUP: Russian Loader-as-a-Service Hides Malware in Browser-Cached PNG Images via ClickFix</a></h3><br>
+<em>Aug 4, 24:00</em></p><br>
+<p>Additional technical detail published on the DOUBLECUP Russian loader-as-a-service confirms it uses ClickFix social engineering to drop steganographic PNG images into victims' browser caches, then retrieves hidden payloads from local storage to deliver CountLoader and the previously undocumented DeviceManager RAT. The cache-based retrieval technique is specifically designed to evade network-level detection since no external payload server is contacted at execution time. Multiple threat actors can rent access to the service, broadening campaign proliferation.</p><br>
+<p><blockquote><em>A network-invisible payload delivery technique embedding malware in browser cache will bypass detection tools calibrated for remote payload download — covered in yesterday's brief but new technical detail warrants awareness.</em></blockquote></p><br>
+<p>Sources: <a href="https://thehackernews.com/2026/08/doublecup-uses-clickfix-and-cached-pngs.html">The Hacker News</a></p><br>
+<p><h2>AI & Machine Learning</h2></p><br>
+<p><h3><a href="https://www.securityweek.com/gemini-agent-to-agent-attack-exposed-secrets-enabled-pull-request-tampering/">Gemini Multi-Agent Prompt Injection Attack Enables Privilege Escalation and Code Tampering — Agentic AI Trust Gap Confirmed</a></h3><br>
+<em>Aug 4, 24:00</em></p><br>
+<p>The Google ADK multi-agent attack (detailed in the cyber section) represents a significant AI security finding: prompt injection can traverse agent trust boundaries, turning a low-privilege agent into an attack vector against a privileged one. Google has since patched the specific hand-off mechanism, but the underlying architectural vulnerability — agents implicitly trusting outputs from peer agents — is a design pattern present across most multi-agent frameworks. The research is generating discussion as a concrete proof-of-concept for a class of attacks that were previously theoretical.</p><br>
+<p><blockquote><em>Any organization building multi-agent AI pipelines needs to treat inter-agent trust boundaries as an attack surface — this is the first well-documented exploit chain demonstrating the risk.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.securityweek.com/gemini-agent-to-agent-attack-exposed-secrets-enabled-pull-request-tampering/">SecurityWeek</a></p><br>
+<p><h3><a href="https://www.wired.com/story/mistral-is-in-the-right-place-at-the-right-time/">Mistral Well-Positioned as Open-Weight AI Moment Arrives Amid US Tech Turmoil</a></h3><br>
+<em>Aug 4, 24:00</em></p><br>
+<p>Wired profiles Mistral as uniquely positioned to benefit from the current open-weight AI inflection point, with European sovereignty concerns, US lab drama, and enterprise appetite for self-hosted models all converging in its favor. The piece argues that Mistral's open-weight strategy — once seen as commercially risky — is now its strongest differentiator as organizations seek alternatives to US frontier lab dependency. The timing coincides with Qwen3.8-Max's open-weight release and growing enterprise demand for auditable, deployable models.</p><br>
+<p><blockquote><em>Mistral's strategic positioning as the leading European open-weight AI lab is directly relevant for any organization evaluating non-US AI options for compliance, sovereignty, or vendor diversification reasons.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.wired.com/story/mistral-is-in-the-right-place-at-the-right-time/">Wired</a></p><br>
+<p><h3><a href="https://github.com/ryanzhou/deepseek-v4-flash-mi300x">DeepSeek V4 Flash Runs on a Single AMD MI300X — Inference Efficiency Benchmark Published</a></h3><br>
+<em>Aug 4, 24:00</em></p><br>
+<p>An open-source project demonstrating DeepSeek V4 Flash running on a single AMD MI300X GPU is generating 99 points on Hacker News, providing one of the first concrete benchmarks for running DeepSeek's latest efficient model on non-Nvidia hardware at production scale. The demonstration is significant both for AI infrastructure planning and for validating AMD's MI300X as a viable alternative to Nvidia H100/H200 for frontier model inference. Single-GPU deployment at this model scale dramatically reduces inference infrastructure cost.</p><br>
+<p><blockquote><em>A validated single-GPU deployment path for a frontier-class model on AMD silicon is a direct cost and vendor-diversification signal for anyone planning AI inference infrastructure.</em></blockquote></p><br>
+<p>Sources: <a href="https://github.com/ryanzhou/deepseek-v4-flash-mi300x">GitHub</a></p><br>
+<p><h3><a href="https://lilianweng.github.io/posts/2026-07-04-harness/">Lilian Weng Publishes 'Harness Engineering for Self-Improvement' — AI Self-Improvement Research Framework</a></h3><br>
+<em>Aug 4, 24:00</em></p><br>
+<p>Lilian Weng (OpenAI head of safety) published a detailed post on engineering frameworks for AI self-improvement, generating 108 points on Hacker News. The post examines how AI systems can be structured to improve their own capabilities in controlled ways, a topic directly relevant to frontier AI development and AI safety research. Weng's position at OpenAI makes this a first-party signal about how the leading AI lab is thinking about self-improvement architectures.</p><br>
+<p><blockquote><em>A technical post from OpenAI's head of safety on AI self-improvement engineering is a direct insight into frontier lab thinking on one of the most consequential AI development questions.</em></blockquote></p><br>
+<p>Sources: <a href="https://lilianweng.github.io/posts/2026-07-04-harness/">Lilian Weng's Blog</a></p><br>
+<p><h3><a href="https://arxiv.org/abs/2608.02412">Why LLMs Fail at Tabular Prediction — Research Finds Structural Limitations vs. Traditional ML</a></h3><br>
+<em>Aug 4, 24:00</em></p><br>
+<p>New research on arXiv identifies systematic reasons why large language models underperform traditional machine learning methods on tabular prediction tasks, finding that LLMs' tokenization, attention mechanisms, and training objectives are fundamentally misaligned with the structure of tabular data. The findings have direct implications for enterprise AI adoption decisions, where tabular data (CRM records, financial data, sensor readings) is the dominant data type. The paper suggests hybrid approaches rather than pure LLM deployment for tabular use cases.</p><br>
+<p><blockquote><em>Understanding where LLMs structurally fail vs. traditional ML is essential for organizations building AI strategies — tabular data is the dominant enterprise data type and this finding limits the 'LLM for everything' approach.</em></blockquote></p><br>
+<p>Sources: <a href="https://arxiv.org/abs/2608.02412">arXiv</a></p><br>
+<p><h3><a href="https://www.wired.com/story/the-big-interview-podcast-matthew-belloni-puck/">AI Quietly Becomes Standard in Hollywood — Battle Now Over Who Controls the Technology</a></h3><br>
+<em>Aug 4, 24:00</em></p><br>
+<p>Puck's Matthew Belloni tells Wired that AI has become a routine part of everyday filmmaking, with use now widespread across visual effects, script analysis, and production planning under the radar of public debate. The battle has shifted from whether Hollywood will adopt AI to who — studios, talent agencies, or unions — will control the terms of its use and the economic benefits it generates. The piece is one of the most detailed accounts yet of AI's actual penetration into a major creative industry.</p><br>
+<p><blockquote><em>Hollywood's quiet AI adoption at scale is a leading indicator for AI's trajectory in other creative and knowledge industries — the governance battle underway there will set precedents elsewhere.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.wired.com/story/the-big-interview-podcast-matthew-belloni-puck/">Wired</a></p><br>
+<p><h2>Technology</h2></p><br>
+<p><h3><a href="https://github.com/FFmpeg/FFmpeg/blob/n9.0/RELEASE_NOTES">FFmpeg 9.0 Released — Major Version Milestone for the World's Most Deployed Media Processing Library</a></h3><br>
+<em>Aug 4, 24:00</em></p><br>
+<p>FFmpeg 9.0 has shipped, generating 283 points and 49 comments on Hacker News for the major version release of the foundational open-source multimedia framework used in virtually every video and audio processing pipeline on the internet. The release notes detail new codec support, API changes, and performance improvements. As a dependency embedded in billions of devices and services, FFmpeg major releases have broad operational implications for any organization doing media processing.</p><br>
+<p><blockquote><em>FFmpeg is the foundational media processing library for most of the internet — a major version release with API changes requires attention from any organization with video, audio, or streaming infrastructure.</em></blockquote></p><br>
+<p>Sources: <a href="https://github.com/FFmpeg/FFmpeg/blob/n9.0/RELEASE_NOTES">GitHub (FFmpeg)</a></p><br>
+<p><h3><a href="https://www.theverge.com/games/974773/xbox-helix-disc-digital-backwards-compatibility-leaked-memo-opt-in">Next Xbox (Project Helix) Will Play Every Xbox Game Ever Made — Full Backward Compatibility Across All Generations Confirmed</a></h3><br>
+<em>Aug 4, 24:00</em></p><br>
+<p>A leaked Microsoft memo obtained by The Verge confirms Project Helix will support games from every Xbox generation: original 2001 Xbox, Xbox 360, Xbox One, Xbox Series, and new Helix titles — plus PC games. Microsoft is creating a disc-to-digital program to enable physical game libraries to transfer, filling the last gap in its universal backward compatibility strategy. This would give Helix theoretically the largest software library of any home console at launch.</p><br>
+<p><blockquote><em>Full cross-generational backward compatibility on the next Xbox is a significant platform strategy signal for the console market and for Microsoft's broader platform consolidation approach.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.theverge.com/games/974773/xbox-helix-disc-digital-backwards-compatibility-leaked-memo-opt-in">The Verge</a></p><br>
+<p><h3><a href="https://www.theverge.com/ai-artificial-intelligence/973098/reddit-ai-search-seo-marketing-brands-spam">Reddit Facing New Wave of AI-Generated SEO Spam — Brands Flooding Subreddits With Fake User Recommendations</a></h3><br>
+<em>Aug 4, 24:00</em></p><br>
+<p>The Verge documents a growing wave of AI-generated spam on Reddit where brands create convincing fake user accounts to seed product recommendations in niche subreddits, exploiting Reddit's high ranking in AI search results. The tactic is specifically calibrated to take advantage of Reddit's prominence in LLM training data and AI-powered search, creating a feedback loop where AI-generated spam pollutes sources that AI search engines cite as authentic community signal. Reddit's moderation systems are struggling to keep pace with the volume.</p><br>
+<p><blockquote><em>AI-generated community spam exploiting Reddit's AI search prominence degrades the authenticity of one of the internet's largest sources of organic user opinion — relevant for any organization using Reddit as a market research or brand intelligence source.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.theverge.com/ai-artificial-intelligence/973098/reddit-ai-search-seo-marketing-brands-spam">The Verge</a></p><br>
+<p><h3><a href="https://www.wired.com/story/how-data-centers-broke-american-politics/">How Data Centers Broke American Politics — The 2026 Backlash Examined</a></h3><br>
+<em>Aug 4, 24:00</em></p><br>
+<p>Wired examines the growing political backlash against data center development across the United States in 2026, tracing how AI infrastructure buildout has become a flashpoint for local land use, water, energy, and economic sovereignty conflicts. The piece connects resistance from unusual political coalitions — including figures from the far right and progressive left — around concerns about power consumption, water use, and community disruption. The backlash is creating real regulatory friction for hyperscaler and AI infrastructure expansion plans.</p><br>
+<p><blockquote><em>Organized political resistance to data center siting is becoming a material constraint on AI infrastructure expansion — relevant for any organization planning or dependent on AI cloud capacity growth.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.wired.com/story/how-data-centers-broke-american-politics/">Wired</a></p><br>
+<p><h3><a href="https://www.wired.com/story/how-one-startup-built-a-mostly-china-free-robot/">China-Free Humanoid Robot: Ati Robotics Assembles in India With Minimal Chinese Components</a></h3><br>
+<em>Aug 4, 24:00</em></p><br>
+<p>Wired profiles Ati Robotics, which has built a humanoid robot assembled in India using very few Chinese-sourced components — a supply chain strategy specifically designed to survive Trump administration restrictions on Chinese robotics hardware. The approach anticipates potential tariffs or outright bans on Chinese humanoid robots similar to restrictions already imposed on Chinese drones and telecom equipment. Ati is positioning as the non-China alternative in a humanoid robot market currently dominated by Chinese manufacturers on cost.</p><br>
+<p><blockquote><em>A robotics startup successfully building a non-Chinese humanoid supply chain is a direct signal for any organization evaluating robotics procurement in a potential Chinese hardware restriction environment.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.wired.com/story/how-one-startup-built-a-mostly-china-free-robot/">Wired</a></p><br>
+<p><h2>Business & Markets</h2></p><br>
+<p><h3><a href="https://www.nytimes.com/2026/08/04/business/saudi-aramco-oil-bp-earnings-iran-war.html">Saudi Aramco Q2 Profit Surges 33% on Iran War Oil Price Spike — Used Pipeline Routes to Bypass Hormuz</a></h3><br>
+<em>Aug 4, 24:00</em></p><br>
+<p>Saudi Aramco reported a 33% quarterly profit surge driven by elevated oil prices resulting from the Iran-Hormuz conflict, and confirmed it routed shipments through overland pipelines to circumvent Strait of Hormuz disruptions. BP simultaneously reported that its net profit more than doubled in Q2 for the same reason. The earnings results confirm that major energy producers are net beneficiaries of the conflict while European consumers and manufacturers face supply risk.</p><br>
+<p><blockquote><em>Major oil company earnings doubling on conflict-driven prices confirms the Hormuz crisis is materially reshaping energy economics — a direct cost signal for any energy-exposed organization.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.nytimes.com/2026/08/04/business/saudi-aramco-oil-bp-earnings-iran-war.html">New York Times</a> · <a href="http://www.euronews.com/business/2026/08/04/bp-profit-more-than-doubles-as-middle-east-conflict-boosts-oil-prices">Euronews Business</a></p><br>
+<p><h3><a href="http://www.euronews.com/business/2026/08/04/totalenergies-to-buy-shells-wind-and-solar-business-in-europe">TotalEnergies Acquires Shell's European Wind and Solar Businesses</a></h3><br>
+<em>Aug 4, 24:00</em></p><br>
+<p>TotalEnergies announced it has signed an agreement to acquire Shell's entire European onshore renewable energy portfolio — wind and solar assets across multiple countries — for an undisclosed sum. The deal is a significant consolidation move in European renewables, concentrating two major energy majors' continental clean energy assets under one roof. For Shell, the divestiture signals a continued retreat from European renewables under pressure to focus on upstream oil and gas returns.</p><br>
+<p><blockquote><em>A major European renewables consolidation between two oil supermajors reshapes the competitive landscape for clean energy procurement and corporate PPA markets across the continent.</em></blockquote></p><br>
+<p>Sources: <a href="http://www.euronews.com/business/2026/08/04/totalenergies-to-buy-shells-wind-and-solar-business-in-europe">Euronews Business</a></p><br>
+<p><h3><a href="https://www.nytimes.com/2026/08/04/business/uber-sexual-assault-lawsuits.html">Uber Faces Investigative Report on Aggressive Sexual Assault Lawsuit Defense: 'What Were You Wearing?'</a></h3><br>
+<em>Aug 4, 24:00</em></p><br>
+<p>The New York Times published an investigative report revealing that Uber's legal strategy for defending sexual assault lawsuits includes aggressive victim-blaming tactics — including asking survivors what they were wearing — despite public commitments to handle claims in ways that prioritize survivor welfare. The investigation reviewed approximately a dozen active lawsuits and documents a systematic gap between Uber's public positioning and its legal conduct. The story is generating significant public attention and potential regulatory and reputational consequences.</p><br>
+<p><blockquote><em>A major investigative report documenting a gap between Uber's public safety commitments and its actual legal conduct is a significant corporate governance and liability story with potential regulatory fallout.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.nytimes.com/2026/08/04/business/uber-sexual-assault-lawsuits.html">New York Times</a></p><br>
+<p><h3><a href="https://www.nytimes.com/2026/08/03/business/us-japan-yen-intervention.html">US Treasury Yen Intervention Explained — Four-Decade Lows Triggered Coordinated Action to Prevent Global Spillover</a></h3><br>
+<em>Aug 4, 24:00</em></p><br>
+<p>New reporting details why the US Treasury intervened to stabilize the yen: Japanese markets approaching four-decade weakness lows had reached a threshold where spillover into global financial systems — particularly US Treasury markets, where Japan is the largest foreign holder — became a systemic risk. The coordination involved specific bilateral mechanisms and was triggered by quantitative thresholds rather than diplomatic pressure. Understanding the trigger conditions matters for modeling future intervention risk in yen positioning.</p><br>
+<p><blockquote><em>The mechanics of why Treasury intervened — not just that it did — are essential context for any organization with Japan-exposed financial positions or Pacific-facing business cost models.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.nytimes.com/2026/08/03/business/us-japan-yen-intervention.html">New York Times</a><br>
+</p>
+</body>
+</html>
