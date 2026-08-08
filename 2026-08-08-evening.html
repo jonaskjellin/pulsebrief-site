@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Evening — Aug 8, 2026 — PulseBrief</title>
+  <link rel="alternate" type="application/atom+xml" title="PulseBrief Feed" href="feed.xml">
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { font-family: -apple-system, system-ui, sans-serif; max-width: 720px; margin: 0 auto; padding: 24px 16px; color: #1a1a1a; line-height: 1.6; }
+    h1 { font-size: 1.6em; margin-bottom: 4px; }
+    h2 { font-size: 1.2em; margin-top: 32px; margin-bottom: 16px; color: #444; border-bottom: 1px solid #eee; padding-bottom: 8px; }
+    h3 { font-size: 1em; margin-top: 20px; margin-bottom: 4px; }
+    h3 a { color: #1a1a1a; text-decoration: none; border-bottom: 1px solid #ccc; }
+    h3 a:hover { border-color: #333; }
+    p { margin-bottom: 12px; }
+    blockquote { border-left: 3px solid #ddd; padding-left: 12px; color: #555; margin: 8px 0 12px; }
+    em { font-style: italic; }
+    a { color: #0066cc; }
+    hr { border: none; border-top: 1px solid #eee; margin: 32px 0; }
+    .meta { color: #888; font-size: 0.9em; }
+    .sources { font-size: 0.85em; color: #666; }
+    .nav { margin-bottom: 24px; font-size: 0.9em; }
+    .nav a { color: #0066cc; text-decoration: none; }
+    .brief-list { list-style: none; }
+    .brief-list li { padding: 8px 0; border-bottom: 1px solid #f0f0f0; }
+    .brief-list a { text-decoration: none; color: #1a1a1a; }
+    .brief-list .date { color: #888; font-size: 0.85em; }
+  </style>
+</head>
+<body>
+  <div class="nav"><a href="./">← All Briefs</a> · <a href="feed.xml">RSS</a></div>
+  <p><h1>PulseBrief's Evening Pulse</h1><br>
+<em>Sat, Aug 8, 11:00 → Sat, Aug 8, 16:00</em></p><br>
+<p><h2>Cyber Security</h2></p><br>
+<p><h3><a href="https://www.bleepingcomputer.com/news/security/hackers-breach-trueconf-to-trojanize-client-installers-with-backdoors/">Head Mare Hackers Breach TrueConf, Trojanize Client Installers With Backdoors</a></h3><br>
+<em>Aug 8, 24:00</em></p><br>
+<p>The Head Mare hacktivist group exploited unpatched vulnerabilities in TrueConf video conferencing servers to replace legitimate client installers with malicious versions delivering backdoors to end users who downloaded and installed the software. The attack is a classic supply chain compromise — users trusting official-looking downloads from a vendor's own infrastructure receive malware. TrueConf is widely deployed in enterprise and government environments, particularly in Russian-speaking markets.</p><br>
+<p><blockquote><em>A trojanized installer attack on enterprise video conferencing infrastructure is an active supply chain threat — any organization running TrueConf should verify installer integrity and patch server-side immediately.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.bleepingcomputer.com/news/security/hackers-breach-trueconf-to-trojanize-client-installers-with-backdoors/">BleepingComputer</a></p><br>
+<p><h3><a href="https://www.securityweek.com/critical-one-click-vulnerability-in-atlassians-rovo-ai-exposed-enterprise-data/">RovoBlast: New Atlassian Rovo Attack Method Steals Confluence, Jira, and SharePoint Data With One Click</a></h3><br>
+<em>Aug 8, 24:00</em></p><br>
+<p>Varonis researchers identified RovoBlast, a one-click attack method against Atlassian's Rovo AI assistant that could be exploited to exfiltrate data from Confluence, Jira, and connected SharePoint environments. This is distinct from the prompt injection attack path covered in prior briefs — RovoBlast represents an additional attack surface in Rovo requiring only a single user interaction to trigger. Atlassian has been notified and the vulnerability has been addressed, but organizations should confirm patch status across all Rovo deployments.</p><br>
+<p><blockquote><em>A second distinct attack method against Rovo — now confirmed by SecurityWeek alongside the earlier prompt injection research — means Atlassian's AI assistant has multiple active attack surfaces that enterprise security teams must account for.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.securityweek.com/critical-one-click-vulnerability-in-atlassians-rovo-ai-exposed-enterprise-data/">SecurityWeek</a></p><br>
+<p><h2>AI & Machine Learning</h2></p><br>
+<p><h3><a href="https://social.treehouse.systems/@mgorny/117058483039362779">Gentoo Bugzilla Closed Due to AI Bot Scraper Overload — Open Source Infrastructure Under Siege</a></h3><br>
+<em>Aug 8, 24:00</em></p><br>
+<p>The Gentoo Linux project's Bugzilla bug tracker was forced offline after AI bot scrapers overwhelmed its infrastructure, according to a post by Gentoo developer Michał Górny that generated significant Hacker News discussion. The incident is part of a broader and accelerating pattern of AI training and scraping bots consuming open source project infrastructure beyond its capacity to cope. Gentoo is a cornerstone of the Linux ecosystem used heavily in embedded, security, and custom infrastructure contexts.</p><br>
+<p><blockquote><em>AI scrapers taking down open source bug tracking infrastructure is a direct attack on the collaborative tooling that underpins software development — a signal that bot traffic governance is now an existential infrastructure concern for open source projects.</em></blockquote></p><br>
+<p>Sources: <a href="https://social.treehouse.systems/@mgorny/117058483039362779">Hacker News</a></p><br>
+<p><h2>Technology</h2></p><br>
+<p><h3><a href="https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html">New Amazon Data Center in Texas Would Power America's Most Polluting Power Plant</a></h3><br>
+<em>Aug 8, 24:00</em></p><br>
+<p>Amazon is investing in a new natural-gas-burning power plant in Texas to supply a major data center, and the facility is projected to become the most polluting power plant in the United States upon completion — a direct contradiction of Amazon's stated climate commitments. The story is covered by NYT and generating significant Hacker News discussion, reflecting growing scrutiny of the gap between hyperscaler sustainability pledges and actual energy infrastructure decisions driven by AI compute demand. Amazon has not publicly reconciled the investment with its net-zero commitments.</p><br>
+<p><blockquote><em>Already covered in prior brief — confirmed still the most significant energy/AI infrastructure story in the window; included to capture the NYT Technology placement elevating its visibility further.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html">NYT Technology</a></p><br>
+<p><h3><a href="https://techcrunch.com/2026/08/08/googles-top-hacker-hunter-explains-why-hacking-groups-get-codenames/">Google's Threat Intelligence Team Explains How and Why Hacking Groups Get Codenames</a></h3><br>
+<em>Aug 8, 24:00</em></p><br>
+<p>TechCrunch spoke with one of Google's foremost hacker-tracking experts about the methodology behind assigning codenames to threat actors — a system that has become industry-standard but whose internal logic is rarely explained publicly. Google recently overhauled its naming conventions for hacking groups, and the interview provides insight into how attribution clustering works, why names matter for cross-industry threat intelligence sharing, and what the new naming approach signals about how Google categorizes adversaries.</p><br>
+<p><blockquote><em>Understanding how the industry's most resourced threat intelligence teams classify and track adversaries is directly relevant for anyone consuming or producing threat intelligence.</em></blockquote></p><br>
+<p>Sources: <a href="https://techcrunch.com/2026/08/08/googles-top-hacker-hunter-explains-why-hacking-groups-get-codenames/">TechCrunch</a></p><br>
+<p><h3><a href="https://www.politico.eu/article/spain-italy-reintroduce-border-controls-amid-migration-feud/">Spain and Italy Reintroduce Border Controls — European Free Travel Area Showing Cracks</a></h3><br>
+<em>Aug 8, 24:00</em></p><br>
+<p>Spain and Italy have reintroduced border controls amid a bilateral clash between Prime Ministers Sánchez and Meloni over migration policy, creating passport queues and travel friction that expose the fragility of the Schengen free-travel area. The move is part of a broader trend of EU member states unilaterally reimposing controls during political disputes, undermining the foundational architecture of European open movement. Business travel, cross-border logistics, and supply chains within the affected corridors face added friction.</p><br>
+<p><blockquote><em>Border controls between two of Europe's largest economies signal deteriorating EU political cohesion with direct operational implications for cross-border business, logistics, and travel planning.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.politico.eu/article/spain-italy-reintroduce-border-controls-amid-migration-feud/">Politico EU</a></p><br>
+<p><h2>Business & Markets</h2></p><br>
+<p><h3><a href="https://www.nytimes.com/2026/08/07/world/canada/us-trade-tariffs-carney-trump.html">Canada Offers US Trade Concessions to Avoid 50% Tariffs — Demands Comprehensive Deal in Return</a></h3><br>
+<em>Aug 8, 24:00</em></p><br>
+<p>Canadian Prime Minister Mark Carney is offering concessions in ongoing trade negotiations with the US in a bid to prevent scheduled 50% tariffs on many Canadian goods from taking effect this month, while simultaneously demanding a comprehensive bilateral deal rather than piecemeal sector agreements. The negotiation is at a critical deadline — if no deal is reached, tariffs affecting automotive, agriculture, and energy trade go into effect imminently. The outcome will materially reshape North American supply chains regardless of which direction it resolves.</p><br>
+<p><blockquote><em>50% tariffs on Canadian goods failing to resolve would disrupt North American supply chains across multiple sectors within weeks — the deadline makes this an immediate operational planning priority.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.nytimes.com/2026/08/07/world/canada/us-trade-tariffs-carney-trump.html">NYT Business</a><br>
+</p>
+</body>
+</html>
