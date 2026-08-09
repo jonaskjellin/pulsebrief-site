@@ -5,7 +5,50 @@
   <link href="https://jonaskjellin.github.io/pulsebrief-site/feed.xml" rel="self"/>
   <link href="https://jonaskjellin.github.io/pulsebrief-site/"/>
   <id>https://jonaskjellin.github.io/pulsebrief-site/</id>
-  <updated>2026-08-09T05:40:17.971Z</updated>
+  <updated>2026-08-09T11:21:28.012Z</updated>
+  <entry>
+    <title>Afternoon — Aug 9, 2026</title>
+    <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-08-09-afternoon.html"/>
+    <id>https://jonaskjellin.github.io/pulsebrief-site/2026-08-09-afternoon.html</id>
+    <updated>2026-08-09T11:21:28.012Z</updated>
+    <content type="html">&lt;p&gt;&lt;h1&gt;PulseBrief's Afternoon Pulse&lt;/h1&gt;&lt;br&gt;
+&lt;em&gt;Sun, Aug 9, 05:00 → Sun, Aug 9, 11:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Cyber Security&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.politico.eu/article/germany-battling-daily-hybrid-warfare-attacks-minister-warns/"&gt;Germany Facing 'Daily' Hybrid Warfare Attacks — Minister Issues Public Warning After Leipzig Drone Incident&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Aug 9, 09:16&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Germany's interior minister publicly warned that the country is under daily hybrid warfare attacks, with last week's drone incident over Leipzig cited as the latest example in an accelerating pattern. Hybrid warfare campaigns — combining cyberattacks, sabotage, disinformation, and physical incidents — have intensified across Europe throughout 2026, with Germany a primary target given its role as Ukraine's largest European military and financial backer. The public ministerial warning signals German intelligence assesses the threat has crossed a threshold requiring public acknowledgment.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Nation-state hybrid warfare campaigns targeting Europe's largest economy are a direct threat landscape signal for any organization with German operations, supply chain exposure, or critical infrastructure dependencies.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.politico.eu/article/germany-battling-daily-hybrid-warfare-attacks-minister-warns/"&gt;Politico EU&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://portswigger.net/research/css-the-bomb-inside-your-inbox"&gt;CSS Attack Research Gets Full PortSwigger Write-Up — 'CSS: The Bomb Inside Your Inbox'&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Aug 9, 10:17&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;PortSwigger's Gareth Heyes published the full technical write-up of the CSS webmail boundary-breaking attacks covered in prior briefs, now available directly from the researcher at portswigger.net. The complete paper details how CSS within email content escapes message sandboxes to attack the surrounding webmail interface across Gmail, Outlook, Proton Mail, Yahoo, and AOL — enabling password capture, token theft, UI hijacking, and interference with AI email tools. The publication of the full technical methodology will accelerate exploitation attempts and should prompt immediate review of webmail security controls.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;The full technical paper is now public, meaning exploit development against every major webmail provider will accelerate — security teams need to act on mitigations before this transitions from research to widespread exploitation.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://portswigger.net/research/css-the-bomb-inside-your-inbox"&gt;PortSwigger Research&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;AI &amp; Machine Learning&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost/"&gt;SAP Freezes Most Hiring and Travel to Fund Soaring AI Costs — Internal Budget Reallocation Confirmed&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Aug 9, 08:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;SAP has halted most travel and paused the majority of new hiring as the company redirects budget to cover rapidly escalating AI infrastructure and development costs, according to 404 Media reporting confirmed on Hacker News. The move by one of the world's largest enterprise software companies signals that AI investment is now large enough to visibly constrain other operational spending even at scale. SAP's situation is likely not unique — the pattern of AI costs crowding out traditional operating budgets is a sector-wide dynamic that CFOs and boards are beginning to confront.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;A Fortune 500 enterprise software giant freezing hiring and travel to pay for AI is a concrete signal of how AI cost pressure is reshaping corporate operating budgets — directly relevant for anyone planning technology spend or evaluating AI ROI.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost/"&gt;404 Media&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.wired.com/story/ai-billionaires-are-pledging-their-wealth-good-or-bad/"&gt;AI Billionaires Launch Major Philanthropic Pledges — Wired Examines What Multi-Billion-Dollar Giving Means&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Aug 9, 09:30&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;A cohort of newly minted AI billionaires — enriched by the current wave of AI investment — are publicly committing to give away large portions of their wealth, with Wired examining whether these pledges represent meaningful accountability or a concentration of agenda-setting power in the hands of those who built the technology. The piece follows similar scrutiny of Effective Altruism-aligned giving tied to AI company founders and asks whether philanthropic commitments by AI barons create conflicts of interest in AI governance and safety research funding. The trend is accelerating as AI wealth creation outpaces earlier tech cycles.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Who funds AI safety research, policy advocacy, and social programs shapes the regulatory and governance environment — understanding the motivations and influence of AI philanthropists is relevant for anyone tracking AI policy direction.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.wired.com/story/ai-billionaires-are-pledging-their-wealth-good-or-bad/"&gt;Wired&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Technology&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://github.com/jmarshall23/msword"&gt;Microsoft Word 1.1a for Windows Gets Native x64 Port — Open Source Reverse Engineering Project&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Aug 9, 05:23&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;A developer published a native x64 port of Microsoft Word for Windows version 1.1a (circa 1991) on GitHub, reverse-engineered and rebuilt to run on modern 64-bit systems, generating 85 Hacker News upvotes and active discussion. The project is a technical curiosity demonstrating how much complexity has been added to word processing software over 35 years while the core task — editing text documents — remains unchanged. Beyond nostalgia, it illustrates the growing capability of reverse engineering tools and community-driven software archaeology.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;A working x64 port of 1991-era Word is a minor story but reflects broader developer interest in software minimalism and reverse engineering capability — useful context for anyone tracking open source tooling trends.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://github.com/jmarshall23/msword"&gt;GitHub (Hacker News)&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Business &amp; Markets&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.nytimes.com/2026/08/09/business/kalshi-tarek-mansour-prediction-markets.html"&gt;Kalshi CEO Tarek Mansour Profiled by NYT — Prediction Markets Company Growing Fast Amid Regulatory Wins&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Aug 9, 09:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;The New York Times profiled Kalshi co-founder and CEO Tarek Mansour as the prediction markets company continues its post-regulatory-win growth trajectory following court victories that allowed event contract trading in the US. Kalshi has positioned itself as the infrastructure layer for 'mathematical, objective' probability markets across politics, economics, and events — a market that has attracted significant attention and trading volume around US elections and policy decisions. The profile signals Kalshi is now mainstream enough to warrant major business press attention.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Prediction markets are increasingly being used as real-time signals for policy, election, and economic outcomes — Kalshi's growth trajectory is relevant for anyone tracking alternative data sources or the regulatory future of event contracts.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.nytimes.com/2026/08/09/business/kalshi-tarek-mansour-prediction-markets.html"&gt;NYT Business&lt;/a&gt;&lt;br&gt;
+&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>Morning — Aug 9, 2026</title>
     <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-08-09-morning.html"/>
@@ -2056,59 +2099,6 @@
 &lt;p&gt;The New York Times reports that Nanit, Owlet, and similar baby-tracking startups are developing roadmaps to collect longitudinal child health and behavioral data well beyond the infant monitoring use case, positioning toward broader pediatric health data platforms. The expansion raises significant children's data privacy concerns given the sensitivity of biometric and developmental data and the regulatory constraints of COPPA and emerging state children's privacy laws. The business model shift from hardware to recurring data-driven services mirrors patterns seen across consumer IoT.&lt;/p&gt;&lt;br&gt;
 &lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Children's biometric data collection at scale is an emerging regulatory and reputational risk area — a direct signal for any organization in the parenting tech, health data, or consumer IoT space.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
 &lt;p&gt;Sources: &lt;a href="https://www.nytimes.com/2026/08/02/business/smart-baby-monitors-nanit-owlet.html"&gt;New York Times&lt;/a&gt;&lt;br&gt;
-&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>Afternoon — Aug 2, 2026</title>
-    <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-08-02-afternoon.html"/>
-    <id>https://jonaskjellin.github.io/pulsebrief-site/2026-08-02-afternoon.html</id>
-    <updated>2026-08-02T11:56:03.077Z</updated>
-    <content type="html">&lt;p&gt;&lt;h1&gt;PulseBrief's Afternoon Pulse&lt;/h1&gt;&lt;br&gt;
-&lt;em&gt;Sun, Aug 2, 05:00 → Sun, Aug 2, 11:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;Cyber Security&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://cybersecuritynews.com/splitvpn-data-breach/"&gt;SplitVPN Data Breach Exposes 865K Users — 'No-Logs' Promise Contradicted by Leaked Data&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Aug 2, 05:44&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;SplitVPN, a Russian VPN provider formerly known as NotVPN, suffered a data breach in July 2026 exposing the personal records of approximately 865,000 unique users. The breach is particularly damaging because the exposed data reveals the service retained far more user information than its privacy policy disclosed, directly undermining its 'no-logs' marketing claims. The incident adds to a pattern of VPN providers — especially those with opaque ownership and jurisdiction — failing to deliver the privacy they promise.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Any organization or individual using SplitVPN for privacy should treat their browsing history and personal data as compromised; more broadly, this is a reminder to audit VPN provider claims against actual data retention practices.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://cybersecuritynews.com/splitvpn-data-breach/"&gt;Cybersecurity News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;AI &amp; Machine Learning&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.wired.com/story/europeans-are-about-to-find-out-how-entrenched-ai-is-in-their-daily-lives/"&gt;EU AI Disclosure Rules Take Effect — Europeans Will Be Notified When Interacting With AI Content&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Aug 2, 10:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;New EU regulations now require that people be explicitly informed when they are interacting with AI systems or viewing AI-generated or AI-edited content. The rules affect a vast swath of digital services, from chatbots to social media feeds, and are expected to trigger widespread 'disclosure fatigue' as notifications proliferate across everyday digital touchpoints. Organizations operating in the EU face immediate compliance obligations to audit where AI is deployed in customer-facing workflows and add appropriate disclosures.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;EU AI disclosure requirements are now live and affect any organization serving European users with AI-powered features — non-compliance creates immediate regulatory exposure.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.wired.com/story/europeans-are-about-to-find-out-how-entrenched-ai-is-in-their-daily-lives/"&gt;Wired&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;Technology&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://en.andros.dev/blog/af3ee191/why-i-dont-recommend-tailwind-css/"&gt;High-Engagement Tailwind CSS Backlash — 102 Points, 107 Comments Signals Developer Fatigue With Utility-First CSS&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Aug 2, 07:09&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;A practitioner post arguing against Tailwind CSS is generating 102 points and 107 comments on Hacker News, making it the highest-engagement tech discussion in the current window. The author argues Tailwind leads to unmaintainable markup, breaks separation of concerns, and creates vendor lock-in to a framework that abstracts away understanding of CSS fundamentals. The engagement level signals significant practitioner ambivalence about utility-first CSS's dominance in the front-end ecosystem.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;High-engagement pushback on the dominant front-end CSS framework is a calibration signal for any team standardizing on Tailwind or evaluating front-end tooling choices.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://en.andros.dev/blog/af3ee191/why-i-dont-recommend-tailwind-css/"&gt;Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://mastodon.online/@mwichary/117023736804129342"&gt;Google Search Time Filter Broken for Several Days — Basic Infrastructure Reliability Concern&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Aug 2, 08:48&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;A Mastodon post flagging that Google Search's time filter — a core tool for surfacing recent results — has been broken for several days is generating 30 points and 16 comments on Hacker News. The filter is widely used by researchers, journalists, and developers to find current information, making a multi-day outage of this feature a meaningful reliability issue. No official acknowledgment or fix timeline from Google has been reported.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;A broken time filter in Google Search degrades the quality of research and monitoring workflows that depend on retrieving current information — worth knowing if you've noticed stale results.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://mastodon.online/@mwichary/117023736804129342"&gt;Mastodon / Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;Business &amp; Markets&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.politico.eu/article/donald-trump-says-he-is-cancelling-strikes-on-iran-pending-a-deal/"&gt;Trump Cancels Iran Strikes, Claims Deal Imminent — Tehran Has Not Confirmed&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Aug 2, 09:10&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;President Trump announced he is canceling planned military strikes on Iran, stating a deal to end the Middle East conflict is imminent. Tehran has not responded to the announcement or confirmed any agreement is in place, leaving the situation highly uncertain. The unilateral announcement without Iranian confirmation leaves markets and geopolitical analysts in limbo over whether a genuine diplomatic breakthrough is occurring or the situation could rapidly reverse.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;A potential US-Iran deal — confirmed or not — is the biggest geopolitical story of the day with immediate implications for oil markets, regional stability, and the ongoing water infrastructure attack campaign attributed to Iranian actors.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.politico.eu/article/donald-trump-says-he-is-cancelling-strikes-on-iran-pending-a-deal/"&gt;Politico EU&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.nytimes.com/2026/08/02/us/politics/paul-weiss-trump.html"&gt;NYT Investigation: How Paul Weiss Went From Leading Trump Resistance to Capitulating — Big Law Reckoning&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Aug 2, 09:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;A New York Times investigation details how Paul Weiss, one of the most prominent progressive law firms and a leader of legal resistance against Trump in his first term, abruptly surrendered to White House pressure and triggered a wave of capitulation across Big Law. The investigation examines the internal dynamics, financial pressures, and political calculations that drove the reversal, which the Times frames as a turning point for the legal industry's relationship with executive power. The story has five-takeaway companion coverage and represents one of the most significant accountability journalism pieces of the current window.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;The capitulation of elite law firms to executive pressure has direct implications for the legal ecosystem that organizations depend on for regulatory defense, compliance counsel, and litigation — a signal worth understanding.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.nytimes.com/2026/08/02/us/politics/paul-weiss-trump.html"&gt;New York Times&lt;/a&gt; · &lt;a href="https://www.nytimes.com/2026/08/02/us/politics/trump-paul-weiss-takeaways.html"&gt;New York Times&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.nytimes.com/2026/08/02/business/family-offices-miami.html"&gt;Ultra-Wealthy Migration to Miami Reshapes Family Office Geography — Wealth Management Firms Follow&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Aug 2, 09:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;The NYT reports that tax incentives and lifestyle factors have accelerated ultra-high-net-worth migration to Miami, pulling family offices and wealth management operations along with their clients. The trend is reshaping where elite financial infrastructure is located, with implications for New York and other traditional wealth management hubs. The piece documents a structural geographic shift in how the wealthiest Americans organize their financial lives.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;The migration of family offices to Miami signals a rebalancing of financial services geography that affects hiring, real estate, and service provider positioning in the wealth management sector.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.nytimes.com/2026/08/02/business/family-offices-miami.html"&gt;New York Times&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.nytimes.com/2026/08/02/business/college-graduates-living-at-home.html"&gt;More Young College Graduates Living at Home — Weak Job Market Driving Structural Shift&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Aug 2, 09:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;The NYT reports a measurable increase in young college graduates returning to or remaining in parental households, framing it as evidence of a weakening entry-level job market rather than purely a cultural shift. The trend complicates narratives about a tight labor market and suggests the gains of recent years have not reached new graduates evenly. The piece also notes declining stigma around the arrangement, which may make the trend more durable than previous cycles.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Structural weakness in the entry-level graduate job market is a leading indicator for hiring pipelines, consumer spending patterns, and the broader economic position of younger cohorts.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.nytimes.com/2026/08/02/business/college-graduates-living-at-home.html"&gt;New York Times&lt;/a&gt;&lt;br&gt;
 &lt;/p&gt;</content>
   </entry>
 </feed>
