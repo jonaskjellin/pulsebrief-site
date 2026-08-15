@@ -5,7 +5,55 @@
   <link href="https://jonaskjellin.github.io/pulsebrief-site/feed.xml" rel="self"/>
   <link href="https://jonaskjellin.github.io/pulsebrief-site/"/>
   <id>https://jonaskjellin.github.io/pulsebrief-site/</id>
-  <updated>2026-08-15T05:16:51.122Z</updated>
+  <updated>2026-08-15T11:11:59.382Z</updated>
+  <entry>
+    <title>Afternoon — Aug 15, 2026</title>
+    <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-08-15-afternoon.html"/>
+    <id>https://jonaskjellin.github.io/pulsebrief-site/2026-08-15-afternoon.html</id>
+    <updated>2026-08-15T11:11:59.382Z</updated>
+    <content type="html">&lt;p&gt;&lt;h1&gt;PulseBrief's Afternoon Pulse&lt;/h1&gt;&lt;br&gt;
+&lt;em&gt;Sat, Aug 15, 05:00 → Sat, Aug 15, 11:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Cyber Security&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theregister.com/security/2026/08/15/chaindrop-worm-crawls-into-npm-supply-chain-evades-standard-defenses/5287958"&gt;ChainDrop Worm Hits npm Supply Chain — 444 Packages Poisoned, Evades Standard Defenses&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Aug 15, 10:31&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;A new supply chain worm dubbed ChainDrop has infected 444 npm packages, spreading via tarballs and developer tool hooks while evading standard detection mechanisms. The worm is described as a variant of the Shai-Hulud family, capable of propagating through the npm ecosystem without typical indicators that security tooling watches for. npm supply chain attacks have a history of broad blast radius — any organization with Node.js dependencies pulled in the affected window should audit their build environments.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;A self-propagating npm worm evading standard defenses is a supply chain incident affecting potentially millions of downstream projects — immediate dependency audit required.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.theregister.com/security/2026/08/15/chaindrop-worm-crawls-into-npm-supply-chain-evades-standard-defenses/5287958"&gt;The Register&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;AI &amp; Machine Learning&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/"&gt;Man Injected Prompt Attacks Into Court Filings Suspecting Judge Was Using AI to Review Documents&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Aug 15, 07:31&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Ars Technica reports that a litigant, suspecting the court was using AI to process case filings, embedded adversarial prompt injections into his own legal documents in an attempt to manipulate the AI's output in his favor. The case is among the first documented examples of a party attempting to exploit AI-assisted court processes through prompt injection — a technique previously confined to security research and chatbot exploitation. The incident highlights the real-world vulnerability of AI-assisted legal and institutional workflows to adversarial manipulation.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;The first documented attempt to weaponize prompt injection against AI-assisted court systems is a direct signal for any organization deploying AI in document review, legal, or compliance workflows.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/"&gt;Ars Technica&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Technology&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.wired.com/story/amazon-uses-your-twitch-content-to-train-its-ai-how-to-opt-out/"&gt;Amazon Using Twitch Streamer Content to Train AI — Opt-Out Only, Thousands Object&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Aug 15, 09:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Amazon has updated Twitch's policies to allow the platform's content to be used for AI model training, placing the burden on creators to opt out rather than requiring affirmative consent. The announcement generated significant backlash from streamers questioning why their content was being used without explicit permission. The opt-out-only structure follows a broader industry pattern where platforms are retroactively claiming AI training rights over user-generated content.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Amazon's opt-out-only AI training policy on Twitch content sets a precedent for how major platforms will extract value from creator content — directly relevant for anyone with a content, licensing, or creator economy stake.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.wired.com/story/amazon-uses-your-twitch-content-to-train-its-ai-how-to-opt-out/"&gt;Wired&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Business &amp; Markets&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.politico.com/news/2026/08/14/trump-world-liberty-bank-charter-crypto-01038464"&gt;Trump-Appointed Regulator Approves Banking Charter for Trump-Linked Crypto Firm World Liberty Bank&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Aug 15, 09:52&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;A federal banking regulator appointed by President Trump has approved a banking charter for World Liberty Bank, a crypto-linked venture in which the Trump family retains a substantial financial interest. The decision grants the firm new federal powers and regulatory credibility, raising significant conflict-of-interest concerns given the president's ongoing financial stake. The move accelerates the integration of Trump-affiliated crypto operations into the regulated banking system.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;A federally chartered bank with direct presidential family financial ties is a major regulatory and governance story with implications for crypto regulation and financial industry oversight.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.politico.com/news/2026/08/14/trump-world-liberty-bank-charter-crypto-01038464"&gt;Politico&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.nytimes.com/2026/08/15/business/inflation-worker-pay.html"&gt;Worker Real Wages Falling Behind Inflation Again — Pattern From 2021–22 Repeating&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Aug 15, 09:02&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;New research confirms that worker pay is once again failing to keep pace with inflation, mirroring the dynamic from 2021–22 when prices spiked and real wages eroded for a majority of workers. The finding arrives alongside this week's retail sales data showing the largest monthly consumer spending drop in over a year, reinforcing the picture of household financial strain. The dual signal — falling real wages and declining discretionary spending — is a meaningful macro deterioration indicator.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Confirmed real wage erosion repeating at scale is a leading indicator for consumer demand, enterprise revenue forecasting, and labor market dynamics.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.nytimes.com/2026/08/15/business/inflation-worker-pay.html"&gt;NYT Business&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.nytimes.com/2026/08/15/business/sports-team-values-billionaires.html"&gt;Los Angeles Lakers Valued at Record $12.5B in Sale — Sports Team Prices Keep Hitting New Highs&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Aug 15, 09:02&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;The Los Angeles Lakers changed hands in a deal valuing the franchise at a record $12.5 billion, continuing an accelerating trend of sports team sale prices reaching new highs with each major transaction. The deal follows Jeff Bezos's minority stake in Liverpool FC reported in the prior brief, underscoring the sustained institutional and ultra-high-net-worth capital flow into sports assets. Valuations across the four major US sports leagues have roughly doubled in the past five years.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;The Lakers deal is a benchmark transaction — the $12.5B valuation will serve as a floor for every future major US sports franchise sale and signals continued sports asset inflation.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.nytimes.com/2026/08/15/business/sports-team-values-billionaires.html"&gt;NYT Business&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.nytimes.com/2026/08/15/health/cyclospora-invesigation-fda.html"&gt;Cyclospora Outbreak Sickens Thousands — Trump Administration Delayed Key Food Safety Rule That Could Have Contained It&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Aug 15, 09:01&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;A Cyclospora parasite outbreak that has sickened thousands across the US was slowed by the Trump administration's decision last year to delay a food safety rule that would have accelerated source identification. Critics argue the delay reflects broader erosion of FDA food safety oversight capacity that has made contamination incidents harder to contain. The outbreak follows this week's Class I egg recall reclassification, adding to a pattern of concurrent major food safety events.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;A regulatory-delay-linked foodborne illness outbreak affecting thousands is a material food safety and supply chain risk signal — directly relevant for food service operators and supply chain risk managers.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.nytimes.com/2026/08/15/health/cyclospora-invesigation-fda.html"&gt;NYT Health&lt;/a&gt;&lt;br&gt;
+&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>Morning — Aug 15, 2026</title>
     <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-08-15-morning.html"/>
@@ -2061,54 +2109,6 @@
 &lt;p&gt;X is shutting down its existing creator revenue-sharing program on September 8th and replacing it with 'Original Content Rewards,' which requires at least 500 verified followers and 500,000 Home Timeline impressions from verified users in the prior 90 days — a threshold that excludes the majority of current earners. Payouts will be based on 'qualified impressions' from Premium subscribers, not overall reach. The shift, covered by both The Verge and TechCrunch, is the latest in a series of monetization overhauls since Musk's acquisition and further centralizes value around X Premium subscriptions.&lt;/p&gt;&lt;br&gt;
 &lt;p&gt;&lt;blockquote&gt;&lt;em&gt;X's monetization restructuring materially changes the economics for content creators and any brand or media organization treating X as a distribution and revenue platform.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
 &lt;p&gt;Sources: &lt;a href="https://www.theverge.com/tech/977143/x-revenue-sharing-original-content-rewards"&gt;The Verge&lt;/a&gt; · &lt;a href="https://techcrunch.com/2026/08/08/x-replaces-misaligned-revenue-sharing-program-with-original-content-rewards/"&gt;TechCrunch&lt;/a&gt;&lt;br&gt;
-&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>Evening — Aug 8, 2026</title>
-    <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-08-08-evening.html"/>
-    <id>https://jonaskjellin.github.io/pulsebrief-site/2026-08-08-evening.html</id>
-    <updated>2026-08-08T16:19:06.337Z</updated>
-    <content type="html">&lt;p&gt;&lt;h1&gt;PulseBrief's Evening Pulse&lt;/h1&gt;&lt;br&gt;
-&lt;em&gt;Sat, Aug 8, 11:00 → Sat, Aug 8, 16:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;Cyber Security&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.bleepingcomputer.com/news/security/hackers-breach-trueconf-to-trojanize-client-installers-with-backdoors/"&gt;Head Mare Hackers Breach TrueConf, Trojanize Client Installers With Backdoors&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Aug 8, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;The Head Mare hacktivist group exploited unpatched vulnerabilities in TrueConf video conferencing servers to replace legitimate client installers with malicious versions delivering backdoors to end users who downloaded and installed the software. The attack is a classic supply chain compromise — users trusting official-looking downloads from a vendor's own infrastructure receive malware. TrueConf is widely deployed in enterprise and government environments, particularly in Russian-speaking markets.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;A trojanized installer attack on enterprise video conferencing infrastructure is an active supply chain threat — any organization running TrueConf should verify installer integrity and patch server-side immediately.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.bleepingcomputer.com/news/security/hackers-breach-trueconf-to-trojanize-client-installers-with-backdoors/"&gt;BleepingComputer&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.securityweek.com/critical-one-click-vulnerability-in-atlassians-rovo-ai-exposed-enterprise-data/"&gt;RovoBlast: New Atlassian Rovo Attack Method Steals Confluence, Jira, and SharePoint Data With One Click&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Aug 8, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Varonis researchers identified RovoBlast, a one-click attack method against Atlassian's Rovo AI assistant that could be exploited to exfiltrate data from Confluence, Jira, and connected SharePoint environments. This is distinct from the prompt injection attack path covered in prior briefs — RovoBlast represents an additional attack surface in Rovo requiring only a single user interaction to trigger. Atlassian has been notified and the vulnerability has been addressed, but organizations should confirm patch status across all Rovo deployments.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;A second distinct attack method against Rovo — now confirmed by SecurityWeek alongside the earlier prompt injection research — means Atlassian's AI assistant has multiple active attack surfaces that enterprise security teams must account for.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.securityweek.com/critical-one-click-vulnerability-in-atlassians-rovo-ai-exposed-enterprise-data/"&gt;SecurityWeek&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;AI &amp; Machine Learning&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://social.treehouse.systems/@mgorny/117058483039362779"&gt;Gentoo Bugzilla Closed Due to AI Bot Scraper Overload — Open Source Infrastructure Under Siege&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Aug 8, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;The Gentoo Linux project's Bugzilla bug tracker was forced offline after AI bot scrapers overwhelmed its infrastructure, according to a post by Gentoo developer Michał Górny that generated significant Hacker News discussion. The incident is part of a broader and accelerating pattern of AI training and scraping bots consuming open source project infrastructure beyond its capacity to cope. Gentoo is a cornerstone of the Linux ecosystem used heavily in embedded, security, and custom infrastructure contexts.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;AI scrapers taking down open source bug tracking infrastructure is a direct attack on the collaborative tooling that underpins software development — a signal that bot traffic governance is now an existential infrastructure concern for open source projects.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://social.treehouse.systems/@mgorny/117058483039362779"&gt;Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;Technology&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html"&gt;New Amazon Data Center in Texas Would Power America's Most Polluting Power Plant&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Aug 8, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Amazon is investing in a new natural-gas-burning power plant in Texas to supply a major data center, and the facility is projected to become the most polluting power plant in the United States upon completion — a direct contradiction of Amazon's stated climate commitments. The story is covered by NYT and generating significant Hacker News discussion, reflecting growing scrutiny of the gap between hyperscaler sustainability pledges and actual energy infrastructure decisions driven by AI compute demand. Amazon has not publicly reconciled the investment with its net-zero commitments.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Already covered in prior brief — confirmed still the most significant energy/AI infrastructure story in the window; included to capture the NYT Technology placement elevating its visibility further.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html"&gt;NYT Technology&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/08/08/googles-top-hacker-hunter-explains-why-hacking-groups-get-codenames/"&gt;Google's Threat Intelligence Team Explains How and Why Hacking Groups Get Codenames&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Aug 8, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;TechCrunch spoke with one of Google's foremost hacker-tracking experts about the methodology behind assigning codenames to threat actors — a system that has become industry-standard but whose internal logic is rarely explained publicly. Google recently overhauled its naming conventions for hacking groups, and the interview provides insight into how attribution clustering works, why names matter for cross-industry threat intelligence sharing, and what the new naming approach signals about how Google categorizes adversaries.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Understanding how the industry's most resourced threat intelligence teams classify and track adversaries is directly relevant for anyone consuming or producing threat intelligence.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/08/08/googles-top-hacker-hunter-explains-why-hacking-groups-get-codenames/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.politico.eu/article/spain-italy-reintroduce-border-controls-amid-migration-feud/"&gt;Spain and Italy Reintroduce Border Controls — European Free Travel Area Showing Cracks&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Aug 8, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Spain and Italy have reintroduced border controls amid a bilateral clash between Prime Ministers Sánchez and Meloni over migration policy, creating passport queues and travel friction that expose the fragility of the Schengen free-travel area. The move is part of a broader trend of EU member states unilaterally reimposing controls during political disputes, undermining the foundational architecture of European open movement. Business travel, cross-border logistics, and supply chains within the affected corridors face added friction.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Border controls between two of Europe's largest economies signal deteriorating EU political cohesion with direct operational implications for cross-border business, logistics, and travel planning.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.politico.eu/article/spain-italy-reintroduce-border-controls-amid-migration-feud/"&gt;Politico EU&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;Business &amp; Markets&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.nytimes.com/2026/08/07/world/canada/us-trade-tariffs-carney-trump.html"&gt;Canada Offers US Trade Concessions to Avoid 50% Tariffs — Demands Comprehensive Deal in Return&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Aug 8, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Canadian Prime Minister Mark Carney is offering concessions in ongoing trade negotiations with the US in a bid to prevent scheduled 50% tariffs on many Canadian goods from taking effect this month, while simultaneously demanding a comprehensive bilateral deal rather than piecemeal sector agreements. The negotiation is at a critical deadline — if no deal is reached, tariffs affecting automotive, agriculture, and energy trade go into effect imminently. The outcome will materially reshape North American supply chains regardless of which direction it resolves.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;50% tariffs on Canadian goods failing to resolve would disrupt North American supply chains across multiple sectors within weeks — the deadline makes this an immediate operational planning priority.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.nytimes.com/2026/08/07/world/canada/us-trade-tariffs-carney-trump.html"&gt;NYT Business&lt;/a&gt;&lt;br&gt;
 &lt;/p&gt;</content>
   </entry>
 </feed>
