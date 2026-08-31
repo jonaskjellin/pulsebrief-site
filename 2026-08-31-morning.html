@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Morning — Aug 31, 2026 — PulseBrief</title>
+  <link rel="alternate" type="application/atom+xml" title="PulseBrief Feed" href="feed.xml">
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { font-family: -apple-system, system-ui, sans-serif; max-width: 720px; margin: 0 auto; padding: 24px 16px; color: #1a1a1a; line-height: 1.6; }
+    h1 { font-size: 1.6em; margin-bottom: 4px; }
+    h2 { font-size: 1.2em; margin-top: 32px; margin-bottom: 16px; color: #444; border-bottom: 1px solid #eee; padding-bottom: 8px; }
+    h3 { font-size: 1em; margin-top: 20px; margin-bottom: 4px; }
+    h3 a { color: #1a1a1a; text-decoration: none; border-bottom: 1px solid #ccc; }
+    h3 a:hover { border-color: #333; }
+    p { margin-bottom: 12px; }
+    blockquote { border-left: 3px solid #ddd; padding-left: 12px; color: #555; margin: 8px 0 12px; }
+    em { font-style: italic; }
+    a { color: #0066cc; }
+    hr { border: none; border-top: 1px solid #eee; margin: 32px 0; }
+    .meta { color: #888; font-size: 0.9em; }
+    .sources { font-size: 0.85em; color: #666; }
+    .nav { margin-bottom: 24px; font-size: 0.9em; }
+    .nav a { color: #0066cc; text-decoration: none; }
+    .brief-list { list-style: none; }
+    .brief-list li { padding: 8px 0; border-bottom: 1px solid #f0f0f0; }
+    .brief-list a { text-decoration: none; color: #1a1a1a; }
+    .brief-list .date { color: #888; font-size: 0.85em; }
+  </style>
+</head>
+<body>
+  <div class="nav"><a href="./">← All Briefs</a> · <a href="feed.xml">RSS</a></div>
+  <p><h1>PulseBrief's Morning Pulse</h1><br>
+<em>Sun, Aug 30, 16:00 → Mon, Aug 31, 05:00</em></p><br>
+<p><h2>Cyber Security</h2></p><br>
+<p><h3><a href="https://cybersecuritynews.com/hackers-steal-claude-login-sessions/">Claude Account Hijacking Escalates — Infostealer Campaign Survives Cleanup, Reinfects Devices</a></h3><br>
+<em>Aug 31, 24:00</em></p><br>
+<p>Anthropic has confirmed two distinct attack chains are actively compromising Claude accounts: infostealers stealing session tokens to hijack paid usage, and a secondary reinfection mechanism that persists even after victims believe their machines are clean. Anthropic is now proactively signing out compromised accounts, removing saved payment methods, and issuing refunds as the campaign scales. The reinfection capability significantly raises the severity — standard malware removal is insufficient, and any organization whose employees use Claude for work faces ongoing credential exposure risk.</p><br>
+<p><blockquote><em>A self-replicating infostealer campaign specifically targeting AI assistant accounts — with confirmed reinfection after cleanup — is an active operational security threat for any team using Claude.</em></blockquote></p><br>
+<p>Sources: <a href="https://cybersecuritynews.com/hackers-steal-claude-login-sessions/">Cybersecurity News</a></p><br>
+<p><h2>AI & Machine Learning</h2></p><br>
+<p><h3><a href="https://www.theregister.com/ai-and-ml/2026/08/30/debian-votes-to-let-contributors-code-with-ai/5293421">Debian Votes to Allow AI-Assisted Contributions — Disclosure Optional, Quality Mandatory</a></h3><br>
+<em>Aug 30, 24:00</em></p><br>
+<p>The Debian project has formally voted to permit contributors to use AI tools in their work, making it one of the largest and most influential open source projects to codify a permissive AI contribution policy. The policy does not require disclosure of AI tool use but holds contributors to the same quality and accuracy standards as human-written contributions. The decision sets a precedent that other major open source projects are likely to reference as they navigate their own AI policy debates.</p><br>
+<p><blockquote><em>Debian's formal AI contribution policy is a landmark decision for the open source ecosystem — it will shape norms across hundreds of downstream distributions and projects that look to Debian for governance precedent.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.theregister.com/ai-and-ml/2026/08/30/debian-votes-to-let-contributors-code-with-ai/5293421">The Register</a></p><br>
+<p><h3><a href="https://venturebeat.com/security/ai-agents-need-their-own-identity-before-they-need-a-gateway">AI Agents That Clear Authentication Can Still Drift, Expose Data, or Be Memory-Poisoned — Runtime Trust Is the Missing Layer</a></h3><br>
+<em>Aug 30, 24:00</em></p><br>
+<p>Two detailed VentureBeat analyses argue that enterprise AI agent security is being misconfigured in a systematic way: organizations are deploying gateway controls before establishing agent identity and attribution infrastructure, leaving the gateway unable to distinguish legitimate from anomalous actions even when they are technically authorized. The pieces point to a real-world CISA KEV entry for a LiteLLM gateway flaw exploited in the wild — seven CVEs in a single AI gateway product in one month — as evidence that gateway-first security is actively failing. The correct sequencing, the authors argue, is identity and attribution first, with gateway enforcement as a later layer.</p><br>
+<p><blockquote><em>The runtime trust gap in agentic AI systems is the next major enterprise security frontier — any organization deploying AI agents in production workflows needs this framing now.</em></blockquote></p><br>
+<p>Sources: <a href="https://venturebeat.com/security/ai-agents-need-their-own-identity-before-they-need-a-gateway">VentureBeat</a> · <a href="https://venturebeat.com/security/ai-agents-that-pass-authentication-can-still-drift-expose-data-or-get-memory-poisoned">VentureBeat</a></p><br>
+<p><h3><a href="https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/">Simon Willison's 'Understanding ChatGPT Work' Draws 201 Hacker News Points — Key Technical Explainer</a></h3><br>
+<em>Aug 30, 24:00</em></p><br>
+<p>Simon Willison has published a detailed technical breakdown of how ChatGPT's work features function, drawing 201 Hacker News upvotes and 103 comments — one of the more widely read technical explainers in the AI community this week. Willison's writing has a strong track record of surfacing non-obvious implementation details that matter for practitioners deploying or building on top of AI systems. The piece is being widely circulated among developers evaluating OpenAI's enterprise features.</p><br>
+<p><blockquote><em>A high-signal technical explainer of ChatGPT's work capabilities from one of the AI community's most reliable interpreters is directly useful for any practitioner evaluating or deploying OpenAI enterprise tools.</em></blockquote></p><br>
+<p>Sources: <a href="https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/">Simon Willison</a></p><br>
+<p><h2>Technology</h2></p><br>
+<p><h3><a href="http://www.euronews.com/next/2026/08/31/who-is-the-man-set-to-lead-apple-into-the-world-of-artificial-intelligence">John Ternus Takes Over as Apple CEO Tuesday — Inheriting an AI Gap to Close</a></h3><br>
+<em>Aug 31, 24:00</em></p><br>
+<p>John Ternus becomes Apple's chief executive on Tuesday, succeeding Tim Cook and inheriting a company that dominates the smartphone market but has fallen behind rivals in artificial intelligence. Ternus, previously Apple's SVP of Hardware Engineering, is credited with overseeing Apple Silicon but faces immediate pressure to accelerate Apple Intelligence and close the gap with Google, Microsoft, and OpenAI. His first major test will be whether Apple can credibly compete in the AI era or remains a premium hardware company increasingly dependent on third-party AI integrations.</p><br>
+<p><blockquote><em>A CEO transition at the world's most valuable company — with AI strategy as the defining challenge — is a top-tier business and technology story that affects every company in the Apple ecosystem.</em></blockquote></p><br>
+<p>Sources: <a href="http://www.euronews.com/next/2026/08/31/who-is-the-man-set-to-lead-apple-into-the-world-of-artificial-intelligence">Euronews Business</a></p><br>
+<p><h3><a href="https://www.theverge.com/games/986552/12tb-steam-leak-half-life-2-episode-3">12TB Steam Data Leak Surfaces Abandoned Half-Life 2: Episode 3 Assets and Decade of Game Builds</a></h3><br>
+<em>Aug 30, 24:00</em></p><br>
+<p>Over 12 terabytes of data containing internal builds of every Steam game uploaded between 2003 and 2013 has been leaked publicly, including assets from the long-canceled Half-Life 2: Episode 3, cut Portal 2 content, a prototype Portal-universe game called F-Stop built around camera mechanics, and early builds of major third-party titles including Call of Duty, Resident Evil, Mirror's Edge, Batman: Arkham Asylum, and Dragon Age: Origins. The leak's scale makes full cataloguing an ongoing process. Beyond the gaming industry interest, the incident raises questions about Valve's internal build security and the long-term exposure risk of large archival systems.</p><br>
+<p><blockquote><em>A decade-spanning internal game build leak at Steam's scale has IP, legal, and platform security implications well beyond gaming nostalgia — it's a major data breach of a dominant digital distribution platform.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.theverge.com/games/986552/12tb-steam-leak-half-life-2-episode-3">The Verge</a></p><br>
+<p><h3><a href="https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/">US Tightening Drone and Robot Import Barriers — But China's Manufacturing Scale May Route Around Them</a></h3><br>
+<em>Aug 31, 24:00</em></p><br>
+<p>TechCrunch reports that the US is expanding trade and regulatory barriers against foreign-made drones and robots — primarily targeting Chinese manufacturers — but analysts warn that China's production scale and supply chain depth allow it to shift manufacturing to third countries and continue competing globally. The restrictions are accelerating the bifurcation of the drone and robotics market into US-aligned and China-aligned supply chains. The policy pressure is intensifying precisely as humanoid robotics competition between the two countries is at its most visible, following China's national robot games and Meta's data center robot pilots.</p><br>
+<p><blockquote><em>Drone and robot import barriers are a direct supply chain and procurement risk for any organization deploying autonomous systems — and the China workaround dynamic means restrictions may not achieve their intended effect.</em></blockquote></p><br>
+<p>Sources: <a href="https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/">TechCrunch</a></p><br>
+<p><h3><a href="https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/">SpaceX Building Secretive Turbine Blade Foundry — Musk Claims 18-Month Gas Power Acceleration With Pollution Tradeoffs</a></h3><br>
+<em>Aug 30, 24:00</em></p><br>
+<p>Elon Musk has disclosed that SpaceX is operating a covert foundry to cast its own gas turbine blades, which he claims will allow SpaceX to bring gas turbine power generation online 18 months faster than competitors. The initiative is part of SpaceX's push into energy infrastructure, but TechCrunch reports it is already triggering lawsuits and health studies in communities near existing turbine deployments. The combination of vertical integration in turbine manufacturing and aggressive deployment timelines puts SpaceX in direct competition with established power generation players.</p><br>
+<p><blockquote><em>SpaceX vertically integrating into gas turbine manufacturing at speed is a significant infrastructure and energy market move — and the pollution and legal complications signal the political friction that will accompany it.</em></blockquote></p><br>
+<p>Sources: <a href="https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/">TechCrunch</a></p><br>
+<p><h3><a href="https://www.theverge.com/science/986544/nancy-grace-roman-space-telescope-launch">Nancy Grace Roman Space Telescope Successfully Launched — 100x Hubble's Field of View for Dark Matter Survey</a></h3><br>
+<em>Aug 30, 24:00</em></p><br>
+<p>NASA's Nancy Grace Roman Space Telescope launched successfully and is now on a three-month journey to the L2 Lagrange point beyond the Moon. Roman's 300-megapixel infrared camera has a field of view 100 times larger than Hubble's and can survey the sky 1,000 times faster, designed for an unprecedented map of dark matter, dark energy, and exoplanets. The launch follows years of funding struggles and a politically driven name change, making its successful liftoff a significant milestone for US space science.</p><br>
+<p><blockquote><em>Roman is the most capable space survey telescope ever launched — its dark matter and exoplanet mapping capability will generate major scientific results across the next decade.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.theverge.com/science/986544/nancy-grace-roman-space-telescope-launch">The Verge</a></p><br>
+<p><h2>Business & Markets</h2></p><br>
+<p><h3><a href="http://www.euronews.com/business/2026/08/31/what-we-know-about-trumps-deal-giving-the-us-access-to-venezuelas-oil">Trump's Venezuela Oil Deal Details Remain Opaque — White House Says Little Beyond Trump's Social Post</a></h3><br>
+<em>Aug 31, 24:00</em></p><br>
+<p>Beyond Trump's social media declaration of 'the biggest oil deal in world history,' the White House has released minimal details about the arrangement granting the US access to Venezuela's oil reserves. Prior reporting established that the deal flows through a private Venezuelan company with Maduro government ties, raising sanctions and compliance questions, but official terms remain unpublished. The opacity is notable given the deal's stated scale — over 65 billion barrels of reserves — and its role as a strategic response to historic global oil storage depletion driven by the Iran conflict.</p><br>
+<p><blockquote><em>A major US-Venezuela energy deal with undisclosed terms, a politically connected private intermediary, and potential sanctions exposure is a live compliance and market risk for anyone in energy, finance, or Venezuela-adjacent operations.</em></blockquote></p><br>
+<p>Sources: <a href="http://www.euronews.com/business/2026/08/31/what-we-know-about-trumps-deal-giving-the-us-access-to-venezuelas-oil">Euronews Business</a></p><br>
+<p><h3><a href="https://www.politico.eu/podcast/berlin-playbook-podcast/zeitenwende-2-0-wie-merz-russland-zahlen-lassen-will/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication">Germany Preparing Unprecedented Sanctions Package Against Russia After Leipzig Airport Drone Attack</a></h3><br>
+<em>Aug 31, 24:00</em></p><br>
+<p>Chancellor Friedrich Merz is preparing what German media describe as an exceptionally severe response to the failed Russian drone strike on Leipzig/Halle airport, framed internally as a potential second 'Zeitenwende' — a structural shift in Germany's Russia posture. The package reportedly includes new massive EU sanctions and targeted action against Russia's shadow oil fleet. The move comes as Merz enters the final stretch of an election campaign, making the response simultaneously a geopolitical and domestic political calculation.</p><br>
+<p><blockquote><em>Germany driving a new round of EU Russia sanctions — specifically targeting the shadow fleet that has been blunting existing oil embargo pressure — would materially affect energy markets and European business operating environments.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.politico.eu/podcast/berlin-playbook-podcast/zeitenwende-2-0-wie-merz-russland-zahlen-lassen-will/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication">Politico EU</a></p><br>
+<p><h3><a href="https://www.politico.eu/article/andy-burnham-donald-trump-shaped-problems-awaiting-ranked/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication">Andy Burnham Becomes UK PM — Immediately Facing Trump-Shaped Foreign Policy Problems</a></h3><br>
+<em>Aug 31, 24:00</em></p><br>
+<p>Andy Burnham has completed his first 42 days as UK Prime Minister focused on domestic priorities, but is now turning to a foreign policy environment dominated by the US-Iran conflict, the Ukraine war, and a challenging relationship with President Trump. Politico's analysis ranks the Trump-related challenges Burnham faces in order of severity, highlighting trade policy, intelligence sharing, and NATO burden-sharing as the most acute near-term pressure points. The transition from domestic to foreign policy is the defining test of any new UK government.</p><br>
+<p><blockquote><em>The UK's foreign policy posture under a new PM — particularly its relationship with the US — directly affects transatlantic trade, security cooperation, and European geopolitical dynamics.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.politico.eu/article/andy-burnham-donald-trump-shaped-problems-awaiting-ranked/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication">Politico EU</a></p><br>
+<p><h3><a href="https://www.politico.eu/podcast/brussels-playbook-podcast/what-icelands-no-means-for-the-eu/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication">Iceland 'No' Vote: What It Means for EU Enlargement Ambitions</a></h3><br>
+<em>Aug 31, 24:00</em></p><br>
+<p>Following Sunday's referendum rejection of EU accession talks, analysis from Politico EU examines the broader implications for the EU's enlargement agenda at a moment when the bloc is managing accession processes for Ukraine, Moldova, and Western Balkans states simultaneously. Iceland's 'no' — driven decisively by fishing quota concerns — removes what could have been a clean accession success story and signals that even EEA members with strong institutional alignment can be blocked by single-issue domestic politics. The result leaves Iceland in its existing EEA arrangement indefinitely.</p><br>
+<p><blockquote><em>Iceland's rejection is a meaningful data point on the political limits of EU expansion — relevant for anyone tracking European integration dynamics and the geopolitical weight of enlargement as a foreign policy tool.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.politico.eu/podcast/brussels-playbook-podcast/what-icelands-no-means-for-the-eu/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication">Politico EU</a><br>
+</p>
+</body>
+</html>
