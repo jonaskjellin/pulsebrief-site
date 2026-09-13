@@ -5,7 +5,60 @@
   <link href="https://jonaskjellin.github.io/pulsebrief-site/feed.xml" rel="self"/>
   <link href="https://jonaskjellin.github.io/pulsebrief-site/"/>
   <id>https://jonaskjellin.github.io/pulsebrief-site/</id>
-  <updated>2026-09-13T09:52:46.642Z</updated>
+  <updated>2026-09-13T14:45:21.135Z</updated>
+  <entry>
+    <title>Afternoon — Sep 13, 2026</title>
+    <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-09-13-afternoon.html"/>
+    <id>https://jonaskjellin.github.io/pulsebrief-site/2026-09-13-afternoon.html</id>
+    <updated>2026-09-13T14:45:21.135Z</updated>
+    <content type="html">&lt;p&gt;&lt;h1&gt;PulseBrief's Afternoon Pulse&lt;/h1&gt;&lt;br&gt;
+&lt;em&gt;Sun, Sep 13, 05:00 → Sun, Sep 13, 11:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Cyber Security&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://thehackernews.com/2026/09/attackers-use-passkey-phishing-to.html"&gt;Attackers Use Passkey Phishing to Hijack Microsoft Cloud Accounts — Over 1 Million Scam Emails Sent&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Sep 13, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Microsoft has disclosed two active campaigns in which threat actors abuse third-party email infrastructure for financial fraud and use passkey-themed social engineering to breach cloud environments. The first campaign sent over one million scam emails between August 3–5, impersonating CEOs; the second uses passkey phishing to compromise Microsoft cloud accounts and exfiltrate data. Passkeys were widely marketed as phishing-resistant — this campaign demonstrates that social engineering around the passkey enrollment flow remains an effective attack vector.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Passkey phishing defeating a credential type marketed as phishing-resistant is a significant threat model update for any organization that has deployed or is evaluating passkeys as a Microsoft cloud security control.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://thehackernews.com/2026/09/attackers-use-passkey-phishing-to.html"&gt;The Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/"&gt;Revolut Customer Data Breach via Fake Government Requests Gains Traction — 100 HN Points, Confirmed by Company&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Sep 12, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Revolut has confirmed that customer data was exfiltrated by attackers who submitted fraudulent government data requests, exploiting legal compliance processes rather than technical vulnerabilities. The same social engineering technique was used in prior high-profile breaches against Apple and Meta, and is now an established playbook for financially motivated actors targeting fintechs. Revolut has notified affected customers and alerted law enforcement and financial regulators.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;This story is gaining renewed community attention — fake government data request abuse is now a confirmed, repeatable attack pattern against fintech customer data that compliance and legal teams need to specifically defend against.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/"&gt;TechCrunch&lt;/a&gt; · &lt;a href="https://news.ycombinator.com/item?id=49682087"&gt;Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;AI &amp; Machine Learning&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.wired.com/story/ai-agents-are-thirsty-for-power/"&gt;AI Agents Are Driving the Next Wave of Data Center Buildout — Wired Documents Resource Intensity of Agentic AI&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Sep 13, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Wired reports that Silicon Valley's shift from chatbot queries to persistent agentic AI workflows is dramatically increasing compute and energy demands, directly driving the accelerating data center construction boom. Unlike one-shot queries, agents run continuously, call external tools, and chain multi-step tasks — compounding resource consumption in ways that existing infrastructure cost models underestimate. This structural demand shift is the underlying driver behind the EPA deregulation for data centers reported in prior cycles.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;If your organization is deploying or budgeting for agentic AI at scale, the infrastructure and energy cost assumptions from chatbot-era AI are materially wrong — this reframing is essential for planning.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.wired.com/story/ai-agents-are-thirsty-for-power/"&gt;Wired&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.nytimes.com/2026/09/13/business/employee-ai-use.html"&gt;'Every Word My Employee Writes Reeks of AI' — NYT Documents Workplace Friction Over Undisclosed AI Use&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Sep 13, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;The New York Times addresses the growing workplace tension around employees using AI to produce work product without disclosure, with managers struggling to establish norms and employees unclear on what constitutes acceptable use. The piece reflects a broader organizational reality: AI writing is now pervasive enough that it's visible to colleagues and managers, but policies governing it remain underdeveloped at most companies. This is the clearest mainstream signal yet that AI use policy is no longer an abstract HR question — it's an active employee relations issue.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;The absence of clear organizational AI use policies is creating real management and trust problems — this story signals the window for getting ahead of it with explicit policy is closing.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.nytimes.com/2026/09/13/business/employee-ai-use.html"&gt;NYT Business&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Technology&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://brew.sh/2026/09/13/homebrew-7.0.0/"&gt;Homebrew 7.0.0 Released — Major Version Bump for the Dominant macOS/Linux Package Manager&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Sep 13, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Homebrew 7.0.0 has launched, earning 264 HN points and 114 comments — a major version release for the package manager used by tens of millions of macOS and Linux developers. Major version bumps in Homebrew historically include breaking changes to formulae, tap behavior, or system compatibility that require developer attention. Full release notes at brew.sh detail the changes.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Homebrew is foundational developer tooling — a major version release with potential breaking changes requires attention from any engineering team running macOS or Linux development environments.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://brew.sh/2026/09/13/homebrew-7.0.0/"&gt;Homebrew Blog&lt;/a&gt; · &lt;a href="https://news.ycombinator.com/item?id=49681545"&gt;Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://jetkvm.com/blog/introducing-jetkvm-mini"&gt;JetKVM Mini Launches — Compact Open-Source KVM Over IP Device Gets 297 HN Points&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Sep 13, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;JetKVM has introduced the Mini, a smaller version of its open-source KVM-over-IP device that allows full hardware-level remote access to servers and workstations regardless of OS state. The original JetKVM gained significant traction as an affordable alternative to enterprise remote management infrastructure; the Mini variant extends accessibility further. With 297 HN points and 116 comments, this is the most-upvoted tech hardware launch in the current cycle.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Affordable open-source KVM-over-IP hardware directly addresses remote infrastructure management for teams running on-premise servers or home labs without enterprise IPMI/iDRAC infrastructure.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://jetkvm.com/blog/introducing-jetkvm-mini"&gt;JetKVM Blog&lt;/a&gt; · &lt;a href="https://news.ycombinator.com/item?id=49681152"&gt;Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Business &amp; Markets&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.politico.eu/article/russia-attacks-gas-station-passenger-train-near-ukraine-poland-border/"&gt;Russian Drone Strikes Kyiv–Warsaw Passenger Train Near Ukraine-Poland Border — NATO Threshold Concern Rises&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Sep 13, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;A Russian drone has struck a passenger train traveling from Kyiv to Warsaw near the Ukraine-Poland border, with Ukrainian Foreign Minister Andrii Sybiha stating Russia is 'knocking directly on the doors of the EU and NATO.' The strike on a civilian rail corridor connecting Ukraine to a NATO member state is a significant escalation in target selection. The incident will accelerate pressure on NATO member governments to respond and raises the possibility of Article 5 invocation debates.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;A Russian strike on a rail corridor between Ukraine and Poland directly tests NATO's deterrence threshold — the geopolitical and supply chain implications for European operations could escalate rapidly.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.politico.eu/article/russia-attacks-gas-station-passenger-train-near-ukraine-poland-border/"&gt;Politico EU&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.nytimes.com/2026/09/13/business/guidepost-montessori-higher-ground-education-ray-girn.html"&gt;$440 Million Guidepost Montessori Collapse — NYT Documents How a PE-Backed Childcare Rollup Imploded&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Sep 13, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;The New York Times reports on the $440 million collapse of Guidepost Montessori and its parent Higher Ground Education, detailing how a vision to scale premium early childhood education through private equity backing became a major financial fiasco. The collapse left families scrambling for alternative care and investors with heavy losses, and is drawing scrutiny to the PE rollup model applied to essential services like childcare. The story arrives as the broader debate over private equity in healthcare and social services intensifies.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;A $440M PE-backed childcare collapse illustrates the systemic risks of applying aggressive rollup strategies to essential services — relevant for investors, policymakers, and anyone tracking PE accountability in regulated sectors.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.nytimes.com/2026/09/13/business/guidepost-montessori-higher-ground-education-ray-girn.html"&gt;NYT Business&lt;/a&gt;&lt;br&gt;
+&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>Morning — Sep 13, 2026</title>
     <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-09-13-morning.html"/>
@@ -2080,59 +2133,6 @@
 &lt;p&gt;Travis Kalanick has signaled that his new venture Atoms may move into the robotaxi space, framing it as completing the vision he was unable to execute at Uber before his ouster. Kalanick's re-entry into autonomous mobility — the market he helped define — would add another well-resourced competitor to a robotaxi sector already seeing Tesla Cybercab launch and Waymo expanding. No funding or deployment details were disclosed.&lt;/p&gt;&lt;br&gt;
 &lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Kalanick re-entering the robotaxi market with a new entity intensifies competition in a sector already undergoing rapid consolidation and commercialization.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
 &lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/"&gt;TechCrunch&lt;/a&gt;&lt;br&gt;
-&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>Evening — Sep 6, 2026</title>
-    <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-09-06-evening.html"/>
-    <id>https://jonaskjellin.github.io/pulsebrief-site/2026-09-06-evening.html</id>
-    <updated>2026-09-06T17:51:37.296Z</updated>
-    <content type="html">&lt;p&gt;&lt;h1&gt;PulseBrief's Evening Pulse&lt;/h1&gt;&lt;br&gt;
-&lt;em&gt;Sun, Sep 6, 11:00 → Sun, Sep 6, 16:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;Cyber Security&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.bleepingcomputer.com/news/security/attackers-conceal-phishing-lures-using-invisible-unicode-characters/"&gt;Attackers Use Invisible Unicode Characters to Smuggle Phishing Lures Past Email Security Filters&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Sep 6, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Threat actors are actively using ASCII smuggling — embedding invisible Unicode characters in phishing emails — to hide malicious content from email security scanners while rendering normally in mail clients. The technique exploits the gap between what security tools parse and what email clients display, allowing payloads and lures to pass inspection undetected. BleepingComputer reports the technique is now in active use in phishing campaigns, not just proof-of-concept research.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;An evasion technique that defeats email security filters without requiring any vulnerability is an immediate detection gap for any organization relying on email gateway scanning as a primary phishing defense.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.bleepingcomputer.com/news/security/attackers-conceal-phishing-lures-using-invisible-unicode-characters/"&gt;BleepingComputer&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://cybersecuritynews.com/crowdstrike-launches-safemind/"&gt;CrowdStrike Launches SafeMind — First Purpose-Built Agentic Security AI for Cyber Defenders&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Sep 6, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;CrowdStrike announced SafeMind at Fal.Con 2026, a family of security-specific AI models and agentic harnesses built natively for defensive cyber operations rather than adapted from general-purpose frontier models. The launch represents a strategic bet that purpose-built security AI will outperform generic LLMs applied to security tasks — a direct challenge to vendors layering AI onto existing platforms. SafeMind positions CrowdStrike to compete with both traditional SIEM/SOAR vendors adding AI and pure-play AI security startups.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;The first major purpose-built agentic AI platform from a Tier 1 security vendor sets a competitive benchmark and signals where the security automation market is heading.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://cybersecuritynews.com/crowdstrike-launches-safemind/"&gt;Cybersecurity News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;AI &amp; Machine Learning&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://news.ycombinator.com/item?id=49586898"&gt;A/I Shuts Down — 'Stay Human' Message Draws 303-Point HN Discussion on AI Toll&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Sep 6, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;A/I, an AI-focused platform or service, has announced its shutdown with a parting message urging users to 'Stay human,' drawing 303 Hacker News points and 193 comments — one of the most engaged shutdown announcements in recent memory. The level of engagement suggests the closure resonated beyond a routine product discontinuation, touching on broader anxieties about AI's displacement of human-centered alternatives. The 'Stay human' framing and the volume of discussion make this a cultural marker moment in the current AI cycle.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;An AI-space shutdown that generates nearly 200 comments under a 'Stay human' banner is a sentiment signal worth tracking for anyone monitoring public attitudes toward AI products and their human alternatives.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://news.ycombinator.com/item?id=49586898"&gt;Hacker News&lt;/a&gt; · &lt;a href="https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/"&gt;Keep It Free AI&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://kuber.studio/blog/Reflections/Recreating-Minecraft-is-Not-a-Benchmark"&gt;'Recreating Minecraft Is Not a Benchmark' — Developer Essay Challenges AI Capability Claims&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Sep 6, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;A developer essay argues that AI demos recreating Minecraft or similar visually impressive tasks are being misrepresented as capability benchmarks when they demonstrate neither generalization nor meaningful reasoning ability. The piece challenges the tendency of AI labs and media to treat visually impressive one-off generations as evidence of broader capability, a critique relevant as AI benchmark gaming becomes a recurring concern. The argument lands as several labs are actively using Minecraft-style demos in their model promotion.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;A clear-headed framework for distinguishing AI demo spectacle from genuine capability measurement is a useful reference for anyone evaluating AI model claims or vendor benchmarks.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://kuber.studio/blog/Reflections/Recreating-Minecraft-is-Not-a-Benchmark"&gt;Kuber Studio&lt;/a&gt; · &lt;a href="https://news.ycombinator.com/item?id=49587040"&gt;Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;Technology&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://news.ycombinator.com/item?id=49586171"&gt;qBittorrent Escapes Sandbox to Make Unauthorized Network Connections — 757-Point HN Story&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Sep 6, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;A widely-shared post reveals that qBittorrent, one of the most popular open-source torrent clients, breaks out of its sandbox environment to establish unauthorized connections — behavior the post characterizes as 'committing crimes' outside its permitted scope. The thread drew 757 Hacker News points and 132 comments, making it the highest-engagement tech story in this cycle. The finding is significant for any organization or individual that assumed sandboxing qBittorrent contained its network activity.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;A popular open-source application actively circumventing its own sandbox is a trust and security signal for anyone using or permitting qBittorrent in managed environments.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://news.ycombinator.com/item?id=49586171"&gt;Hacker News&lt;/a&gt; · &lt;a href="https://beige.party/@intransitivelie/117057396732763183"&gt;Original Post&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.phoronix.com/news/Asahi-Linux-Official-M3"&gt;Asahi Linux Officially Supports Apple M3 Macs — With Caveats&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Sep 6, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;The Asahi Linux project has announced official support for Apple M3 Macs, bringing Linux to Apple's latest silicon generation, though with noted limitations on certain hardware features. The milestone drew 156 Hacker News points and 91 comments, reflecting strong interest from developers wanting native Linux on Apple hardware. M3 support extends Asahi's coverage across Apple's current Mac lineup and advances the project's broader goal of a fully functional Linux environment on Apple Silicon.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Official M3 support means developers and organizations evaluating Apple Silicon for Linux workloads now have a supported path — relevant for anyone tracking open-source ARM computing or Apple hardware adoption in non-macOS environments.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.phoronix.com/news/Asahi-Linux-Official-M3"&gt;Phoronix&lt;/a&gt; · &lt;a href="https://news.ycombinator.com/item?id=49586698"&gt;Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theverge.com/column/990183/diy-plug-in-solar-us"&gt;DIY Plug-In Solar Gains Momentum in the US — Balcony Solar Model Crossing the Atlantic&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Sep 6, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;The Verge reports that plug-in solar kits — already widely adopted in Europe as 'balcony solar' — are gaining traction in the US, allowing homeowners to plug solar panels directly into wall outlets for immediate bill reduction without professional installation. Products from EcoFlow and others are driving the trend, with high-capacity weatherproof kits with integrated batteries now available to US consumers. The model bypasses traditional solar installation barriers (permits, contractors, upfront cost) that have limited US residential solar adoption.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;A low-friction residential energy model crossing into the US market at scale has implications for utility load profiles, energy tech investment, and the broader consumer clean energy transition.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.theverge.com/column/990183/diy-plug-in-solar-us"&gt;The Verge&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;Business &amp; Markets&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.nytimes.com/2026/09/06/business/iran-us-strait-of-hormuz-shipping.html"&gt;Iran Attacks Keep Strait of Hormuz in Lethal Stalemate — US Military Escorts Oil Tankers as Operators Flee&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Sep 6, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;The NYT reports that Iran is continuing to attack oil tankers in the Strait of Hormuz, forcing the US military into an active escort role to keep Persian Gulf oil flowing while shipping operators are being scared away from the route entirely. The stalemate represents a sustained threat to approximately 20% of global oil throughput, with no resolution mechanism currently in sight. The ongoing attacks are raising insurance premiums, reducing available shipping capacity, and creating structural upward pressure on oil prices.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;A lethal, unresolved stalemate in the world's most critical oil chokepoint is a direct energy price and supply chain risk for any organization with exposure to oil markets or global shipping costs.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.nytimes.com/2026/09/06/business/iran-us-strait-of-hormuz-shipping.html"&gt;New York Times&lt;/a&gt;&lt;br&gt;
 &lt;/p&gt;</content>
   </entry>
 </feed>
