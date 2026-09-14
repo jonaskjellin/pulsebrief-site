@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Afternoon — Sep 14, 2026 — PulseBrief</title>
+  <link rel="alternate" type="application/atom+xml" title="PulseBrief Feed" href="feed.xml">
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { font-family: -apple-system, system-ui, sans-serif; max-width: 720px; margin: 0 auto; padding: 24px 16px; color: #1a1a1a; line-height: 1.6; }
+    h1 { font-size: 1.6em; margin-bottom: 4px; }
+    h2 { font-size: 1.2em; margin-top: 32px; margin-bottom: 16px; color: #444; border-bottom: 1px solid #eee; padding-bottom: 8px; }
+    h3 { font-size: 1em; margin-top: 20px; margin-bottom: 4px; }
+    h3 a { color: #1a1a1a; text-decoration: none; border-bottom: 1px solid #ccc; }
+    h3 a:hover { border-color: #333; }
+    p { margin-bottom: 12px; }
+    blockquote { border-left: 3px solid #ddd; padding-left: 12px; color: #555; margin: 8px 0 12px; }
+    em { font-style: italic; }
+    a { color: #0066cc; }
+    hr { border: none; border-top: 1px solid #eee; margin: 32px 0; }
+    .meta { color: #888; font-size: 0.9em; }
+    .sources { font-size: 0.85em; color: #666; }
+    .nav { margin-bottom: 24px; font-size: 0.9em; }
+    .nav a { color: #0066cc; text-decoration: none; }
+    .brief-list { list-style: none; }
+    .brief-list li { padding: 8px 0; border-bottom: 1px solid #f0f0f0; }
+    .brief-list a { text-decoration: none; color: #1a1a1a; }
+    .brief-list .date { color: #888; font-size: 0.85em; }
+  </style>
+</head>
+<body>
+  <div class="nav"><a href="./">← All Briefs</a> · <a href="feed.xml">RSS</a></div>
+  <p><h1>PulseBrief's Afternoon Pulse</h1><br>
+<em>Mon, Sep 14, 05:00 → Mon, Sep 14, 11:00</em></p><br>
+<p><h2>Cyber Security</h2></p><br>
+<p><h3><a href="https://www.bleepingcomputer.com/news/security/cisa-hackers-now-exploit-max-severity-gitlab-flaw-in-attacks/">CISA Warns Max-Severity GitLab Flaw Now Actively Exploited in Attacks</a></h3><br>
+<em>Sep 14, 07:06</em></p><br>
+<p>CISA has added a maximum-severity GitLab vulnerability to its Known Exploited Vulnerabilities catalog, confirming active exploitation in the wild. The flaw allows attackers to compromise GitLab instances, potentially exposing source code, CI/CD pipelines, secrets, and downstream supply chain targets. Any organization running self-managed GitLab should treat this as an emergency patching priority.</p><br>
+<p><blockquote><em>An actively exploited max-severity GitLab flaw puts source code and CI/CD infrastructure directly at risk — supply chain exposure is immediate.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.bleepingcomputer.com/news/security/cisa-hackers-now-exploit-max-severity-gitlab-flaw-in-attacks/">BleepingComputer</a></p><br>
+<p><h3><a href="https://www.securityweek.com/connectwise-patches-screenconnect-vulnerability-exploited-in-worm-like-attacks/">ConnectWise Patches ScreenConnect Flaw Exploited in Worm-Like Attacks</a></h3><br>
+<em>Sep 14, 08:25</em></p><br>
+<p>ConnectWise has patched a ScreenConnect vulnerability that allows attackers to send and execute files without authorization through active remote sessions, with exploitation already occurring in worm-like propagation patterns. ScreenConnect is widely deployed as enterprise remote access infrastructure, making lateral movement via this flaw a serious concern. The worm-like spread pattern suggests automated exploitation is already underway.</p><br>
+<p><blockquote><em>Worm-propagating exploitation of a remote access tool used across enterprise environments means patch lag directly translates to lateral movement risk.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.securityweek.com/connectwise-patches-screenconnect-vulnerability-exploited-in-worm-like-attacks/">SecurityWeek</a></p><br>
+<p><h3><a href="https://www.securityweek.com/three-jfrog-artifactory-flaws-exploited-for-backdoor-deployment/">Three JFrog Artifactory Flaws Actively Exploited for Backdoor Deployment</a></h3><br>
+<em>Sep 14, 09:27</em></p><br>
+<p>Attackers are exploiting three vulnerabilities in JFrog Artifactory that allow authentication bypass and privilege escalation to administrator, with confirmed backdoor deployment in compromised instances. Artifactory is a central artifact repository used across software supply chains, meaning compromise gives attackers the ability to poison build artifacts at scale. Active exploitation of a software supply chain hub is a high-severity supply chain risk.</p><br>
+<p><blockquote><em>Backdoors planted in a compromised Artifactory instance can propagate malicious artifacts to every downstream build — supply chain blast radius is significant.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.securityweek.com/three-jfrog-artifactory-flaws-exploited-for-backdoor-deployment/">SecurityWeek</a></p><br>
+<p><h3><a href="https://www.bleepingcomputer.com/news/security/revolut-discloses-data-breach-exposing-financial-info-passports/">Revolut Confirms Breach via Fake Government Data Request — Financial Info and Passports Exposed</a></h3><br>
+<em>Sep 14, 08:48</em></p><br>
+<p>Revolut has confirmed a data breach in which a threat actor impersonating a government agency successfully obtained customer financial information and passport data through the company's legal compliance process. The fake government data request attack vector — previously used against Apple and Meta — is now confirmed against a major fintech with millions of users. This is a continuation and expansion of a prior cycle story, now with full confirmation of passport-level identity data exposure.</p><br>
+<p><blockquote><em>Passport and financial data exposure at a major fintech via social engineering of legal processes is a direct identity theft and fraud risk for affected customers.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.bleepingcomputer.com/news/security/revolut-discloses-data-breach-exposing-financial-info-passports/">BleepingComputer</a></p><br>
+<p><h3><a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-september-updates-cause-rds-failures-on-windows-server/">Microsoft September Patch Tuesday Breaks RDS and USB Audio Across Windows Server</a></h3><br>
+<em>Sep 14, 09:50</em></p><br>
+<p>Microsoft has confirmed that September 2026 security updates are causing Remote Desktop Services failures on Windows Server and breaking USB audio devices on some Windows PCs via KB5124008 and KB5124012. The dual breakage affects both enterprise server infrastructure (RDS) and end-user hardware simultaneously, forcing IT teams to choose between applying critical security patches and maintaining operational stability. Microsoft is investigating but workarounds are limited.</p><br>
+<p><blockquote><em>September Patch Tuesday breaking RDS on Windows Server is an operational incident for any organization running remote desktop infrastructure — requires immediate assessment.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-september-updates-cause-rds-failures-on-windows-server/">BleepingComputer (RDS)</a> · <a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-september-updates-break-audio-on-some-windows-pcs/">BleepingComputer (Audio)</a></p><br>
+<p><h3><a href="https://thehackernews.com/2026/09/malicious-twitch-browser-extension.html">Malicious Twitch Browser Extension Leaks OAuth Tokens From 31,000 Users to Russian Bot Service</a></h3><br>
+<em>Sep 14, 07:24</em></p><br>
+<p>A malicious browser extension called 'Twitch Enhanced Viewer | JeetBot' available on both Chrome Web Store and Firefox Add-Ons has exfiltrated OAuth tokens from nearly 31,000 users to proxy servers run by a Russian commercial bot service. The cross-store presence means users on both major browsers were affected, and OAuth token theft enables account takeover without requiring credentials. The incident highlights ongoing failures in browser extension marketplace vetting.</p><br>
+<p><blockquote><em>Cross-store malicious extensions stealing OAuth tokens demonstrate that browser extension security remains an unresolved endpoint risk vector for any organization with BYOD or unmanaged browser policies.</em></blockquote></p><br>
+<p>Sources: <a href="https://thehackernews.com/2026/09/malicious-twitch-browser-extension.html">The Hacker News</a></p><br>
+<p><h3><a href="https://www.wired.com/story/sexually-explicit-deepfake-sites-target-100-plus-politicians-in-europe/">Deepfake Sites Target 100+ European Politicians — Nearly All Women</a></h3><br>
+<em>Sep 14, 11:00</em></p><br>
+<p>An analysis of 160 deepfake websites found sexually explicit content targeting more than 100 politicians across 22 European countries, with nearly all targets being women. The scale and geographic breadth of coordinated deepfake targeting of elected officials represents a new threshold in AI-enabled political harassment and disinformation. The findings arrive as EU AI Act deepfake provisions are still being implemented and enforcement infrastructure remains immature.</p><br>
+<p><blockquote><em>Systematic deepfake targeting of politicians at this scale signals the weaponization of generative AI against democratic institutions is operationally active, not theoretical.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.wired.com/story/sexually-explicit-deepfake-sites-target-100-plus-politicians-in-europe/">Wired</a></p><br>
+<p><h2>AI & Machine Learning</h2></p><br>
+<p><h3><a href="https://www.euronews.com/business/2026/09/14/softbank-shares-plunge-as-calls-grow-to-slow-ai-development">AI Slowdown Calls Roil Tech Markets — SoftBank Shares Plunge as Altman and Musk Back Amodei</a></h3><br>
+<em>Sep 14, 10:55</em></p><br>
+<p>SoftBank shares fell sharply as the AI slowdown debate triggered broader technology sector selling, with Sam Altman and Elon Musk both backing Dario Amodei's weekend call for a development pause — a notable alignment of typically competing CEOs. The White House signaled it sees the slowdown call as the industry's problem to solve, not the government's, maintaining its pro-acceleration stance. The convergence of Altman and Musk support for Amodei's position is unprecedented and significantly raises the political weight of the safety argument.</p><br>
+<p><blockquote><em>Markets moving on AI slowdown rhetoric — and Altman/Musk/Amodei alignment — signals this is now a systemic market event, not just a policy debate.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.euronews.com/business/2026/09/14/softbank-shares-plunge-as-calls-grow-to-slow-ai-development">Euronews Business</a> · <a href="https://www.wired.com/story/ai-leaders-are-calling-for-a-slowdown-trumps-team-says-its-on-them/">Wired</a></p><br>
+<p><h3><a href="https://www.theregister.com/ai-and-ml/2026/09/14/ai-and-its-main-promoters-are-not-enterprise-ready-says-gartner/5296074">Gartner: AI and Its Main Promoters Are Not Enterprise-Ready — Model Makers Move Too Fast, Break Things</a></h3><br>
+<em>Sep 14, 05:11</em></p><br>
+<p>Gartner has published a report concluding that AI systems and their primary vendors are not enterprise-ready, citing rapid capability releases that introduce instability, inadequate support structures, and vendors who deprioritize enterprise reliability in favor of capability velocity. The assessment directly challenges the current enterprise AI adoption narrative and gives CIOs institutional cover to slow deployment timelines. Gartner's enterprise-readiness verdicts carry significant weight in large-organization procurement and strategy cycles.</p><br>
+<p><blockquote><em>A Gartner 'not enterprise-ready' verdict on AI and major AI vendors is a procurement and strategy signal that will slow enterprise AI budget approvals — significant for any organization mid-deployment.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.theregister.com/ai-and-ml/2026/09/14/ai-and-its-main-promoters-are-not-enterprise-ready-says-gartner/5296074">The Register</a></p><br>
+<p><h3><a href="https://www.securityweek.com/cisos-race-to-control-ai-agents-without-destroying-their-value/">CISOs Struggle to Govern AI Agents Without Destroying Their Utility</a></h3><br>
+<em>Sep 14, 10:30</em></p><br>
+<p>SecurityWeek documents that security leaders are facing a structural tension: AI agents require broad permissions to be useful, but over-privileged agents create unintended harm and security exposure that existing cyber hygiene frameworks weren't designed to address. The challenge is compounded by the pace of agentic AI deployment outrunning policy development, with most organizations lacking the governance frameworks to safely constrain agents without eliminating their value. This reflects the operational reality behind Amodei's capability warnings — agents are already in production before controls exist.</p><br>
+<p><blockquote><em>If your organization is deploying AI agents, the absence of agentic-specific governance frameworks is an active security gap — not a future planning item.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.securityweek.com/cisos-race-to-control-ai-agents-without-destroying-their-value/">SecurityWeek</a></p><br>
+<p><h3><a href="https://www.theregister.com/ai-and-ml/2026/09/14/the-myth-of-killer-ai-is-a-self-serving-attempt-at-regulatory-capture/5295978">The Register: 'Killer AI' Slowdown Narrative Is Regulatory Capture by Incumbents</a></h3><br>
+<em>Sep 14, 10:00</em></p><br>
+<p>The Register publishes a direct counterargument to the Amodei/Altman slowdown push, framing existential AI risk warnings as a self-serving attempt by frontier lab incumbents to lock in their market position through regulation that disadvantages new entrants. The piece argues that labs calling for oversight are the same entities that would be grandfathered under any resulting regulatory framework. This counter-framing is gaining traction as a skeptical lens on the week's dominant AI policy story.</p><br>
+<p><blockquote><em>Understanding both the safety argument and the regulatory capture critique is essential for forming an accurate view of where AI policy is actually heading.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.theregister.com/ai-and-ml/2026/09/14/the-myth-of-killer-ai-is-a-self-serving-attempt-at-regulatory-capture/5295978">The Register</a></p><br>
+<p><h2>Technology</h2></p><br>
+<p><h3><a href="https://www.theregister.com/security/2026/09/14/ukgov-begins-killing-off-passwords-for-23-million-users/5296088">UK Government Rolls Out Passkeys to 23 Million Users — Killing Passwords Across GOV.UK</a></h3><br>
+<em>Sep 14, 09:16</em></p><br>
+<p>The UK government has begun migrating 23 million GOV.UK users from passwords to passkeys, in one of the largest government-led passkey deployments globally. The move is expected to save £600 per day in SMS verification costs and significantly reduce phishing-related account compromises across government services. The deployment arrives in the same cycle as passkey phishing attacks targeting Microsoft cloud accounts, illustrating both the push toward passkeys and the social engineering risks around enrollment flows.</p><br>
+<p><blockquote><em>A 23-million-user government passkey rollout is the most significant real-world passkey deployment to date — a meaningful data point for any organization evaluating passwordless authentication at scale.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.theregister.com/security/2026/09/14/ukgov-begins-killing-off-passwords-for-23-million-users/5296088">The Register</a></p><br>
+<p><h3><a href="https://www.theverge.com/policy/994414/cities-ditching-flock-cameras-controversy">Cities Ditching Flock AI License Plate Cameras — But Collected Data Isn't Going Away</a></h3><br>
+<em>Sep 14, 11:00</em></p><br>
+<p>Local governments across the US from Florida to Washington state are canceling contracts with Flock Safety over its AI-enabled license plate readers following public outcry, but The Verge documents that ending contracts does not require immediate camera removal or data deletion. Contract terms vary widely, with many allowing Flock to retain historical data long after the relationship ends. The story illustrates the asymmetry between adopting surveillance infrastructure and meaningfully reversing it.</p><br>
+<p><blockquote><em>The data retention problem after contract termination is a critical governance gap — relevant for any organization or municipality that has deployed or is evaluating mass-surveillance infrastructure.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.theverge.com/policy/994414/cities-ditching-flock-cameras-controversy">The Verge</a></p><br>
+<p><h3><a href="https://www.theregister.com/devops/2026/09/14/cpython-eases-rust-requirements-as-assimilation-continues/5296010">CPython Eases Rust Requirements — Making Rust Opt-In to Avoid Linux Kernel-Style Backlash</a></h3><br>
+<em>Sep 14, 10:45</em></p><br>
+<p>The CPython project has softened its Rust integration requirements, making Rust opt-in rather than mandatory in order to avoid the contributor backlash that roiled the Linux kernel's Rust adoption. The move reflects a deliberate strategy to capture Rust's memory safety benefits without fracturing the Python contributor community. CPython's approach will likely become the reference model for other large C-based open source projects navigating the Rust transition.</p><br>
+<p><blockquote><em>CPython's Rust strategy sets a template for how critical open source infrastructure handles the memory-safety language transition — relevant for teams contributing to or depending on CPython internals.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.theregister.com/devops/2026/09/14/cpython-eases-rust-requirements-as-assimilation-continues/5296010">The Register</a></p><br>
+<p><h3><a href="https://www.securityweek.com/telus-warns-customers-of-account-breaches/">Telus Warns Customers of Multi-Month Account Breach Campaign Using Stolen Credentials</a></h3><br>
+<em>Sep 14, 09:56</em></p><br>
+<p>Canadian telecom Telus has notified customers that stolen credentials were used in a sustained multi-month campaign to access subscriber personal data and billing records. The extended dwell time before detection suggests the attack was low-and-slow credential stuffing rather than a high-volume breach, making it harder to detect through volume-based alerting. Billing record access enables SIM-swap and account takeover follow-on attacks at scale.</p><br>
+<p><blockquote><em>A multi-month undetected credential campaign at a major telecom signals that standard detection thresholds are insufficient against patient credential-stuffing attackers.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.securityweek.com/telus-warns-customers-of-account-breaches/">SecurityWeek</a></p><br>
+<p><h2>Business & Markets</h2></p><br>
+<p><h3><a href="https://www.euronews.com/business/2026/09/14/softbank-shares-plunge-as-calls-grow-to-slow-ai-development">SoftBank Shares Plunge as AI Slowdown Debate Hits Tech Valuations</a></h3><br>
+<em>Sep 14, 10:55</em></p><br>
+<p>SoftBank — one of the most AI-concentrated investment vehicles globally — saw its shares fall sharply as the Amodei-led AI slowdown narrative triggered technology sector selling. The market reaction illustrates how directly AI development pace is now priced into major investment vehicles, with policy-driven uncertainty translating immediately to valuation pressure. The broader tech sell-off reflects that AI slowdown is no longer just a policy debate but a market risk factor.</p><br>
+<p><blockquote><em>AI development pace is now a priced market variable — slowdown rhetoric from credible sources moves major indices and AI-adjacent portfolios in real time.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.euronews.com/business/2026/09/14/softbank-shares-plunge-as-calls-grow-to-slow-ai-development">Euronews Business</a></p><br>
+<p><h3><a href="https://www.nytimes.com/2026/09/14/business/defense-hiring-european-car-industry.html">Volkswagen Factory to Convert From 'Family Vans to Tanks' as Defense Hiring Enters European Auto Crisis</a></h3><br>
+<em>Sep 14, 09:02</em></p><br>
+<p>An agreement to repurpose an ailing Volkswagen factory for defense manufacturing offers a jobs lifeline for Germany's struggling auto sector, but analysts caution the transition from civilian vehicle production to military hardware is technically and culturally complex. The deal reflects a broader structural shift as European defense spending surges while EV demand and Chinese competition gut traditional automotive margins. Defense conversion is emerging as a partial, imperfect answer to the European auto industry's existential pressures.</p><br>
+<p><blockquote><em>The Volkswagen-to-defense conversion signals how deep the European auto crisis has become and how defense spending is reshaping industrial policy across the continent.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.nytimes.com/2026/09/14/business/defense-hiring-european-car-industry.html">NYT Business</a></p><br>
+<p><h3><a href="https://www.euronews.com/my-europe/2026/09/14/french-blockade-looms-over-commissions-plan-to-fast-track-trade-deals-in-english">France Threatens to Block EU Plan to Fast-Track Trade Deals in English Only</a></h3><br>
+<em>Sep 14, 09:46</em></p><br>
+<p>The European Commission is planning to accelerate trade deal ratification by circulating only English-language versions to EU governments and Parliament, but France is preparing to block the move over language sovereignty concerns. The dispute risks slowing EU trade deal ratification at a moment when the bloc is under pressure to open new markets amid US tariffs and China competition. French obstruction over the English-only proposal could become a flashpoint in broader EU institutional reform debates.</p><br>
+<p><blockquote><em>A French blockade on EU trade deal fast-tracking has direct implications for the pace of new market access for European businesses — relevant for any organization tracking EU trade policy timelines.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.euronews.com/my-europe/2026/09/14/french-blockade-looms-over-commissions-plan-to-fast-track-trade-deals-in-english">Euronews Business</a><br>
+</p>
+</body>
+</html>
