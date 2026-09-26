@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Evening — Sep 26, 2026 — PulseBrief</title>
+  <link rel="alternate" type="application/atom+xml" title="PulseBrief Feed" href="feed.xml">
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { font-family: -apple-system, system-ui, sans-serif; max-width: 720px; margin: 0 auto; padding: 24px 16px; color: #1a1a1a; line-height: 1.6; }
+    h1 { font-size: 1.6em; margin-bottom: 4px; }
+    h2 { font-size: 1.2em; margin-top: 32px; margin-bottom: 16px; color: #444; border-bottom: 1px solid #eee; padding-bottom: 8px; }
+    h3 { font-size: 1em; margin-top: 20px; margin-bottom: 4px; }
+    h3 a { color: #1a1a1a; text-decoration: none; border-bottom: 1px solid #ccc; }
+    h3 a:hover { border-color: #333; }
+    p { margin-bottom: 12px; }
+    blockquote { border-left: 3px solid #ddd; padding-left: 12px; color: #555; margin: 8px 0 12px; }
+    em { font-style: italic; }
+    a { color: #0066cc; }
+    hr { border: none; border-top: 1px solid #eee; margin: 32px 0; }
+    .meta { color: #888; font-size: 0.9em; }
+    .sources { font-size: 0.85em; color: #666; }
+    .nav { margin-bottom: 24px; font-size: 0.9em; }
+    .nav a { color: #0066cc; text-decoration: none; }
+    .brief-list { list-style: none; }
+    .brief-list li { padding: 8px 0; border-bottom: 1px solid #f0f0f0; }
+    .brief-list a { text-decoration: none; color: #1a1a1a; }
+    .brief-list .date { color: #888; font-size: 0.85em; }
+  </style>
+</head>
+<body>
+  <div class="nav"><a href="./">← All Briefs</a> · <a href="feed.xml">RSS</a></div>
+  <p><h1>PulseBrief's Evening Pulse</h1><br>
+<em>Sat, Sep 26, 11:00 → Sat, Sep 26, 16:00</em></p><br>
+<p><h2>Cyber Security</h2></p><br>
+<p><h3><a href="https://thehackernews.com/2026/09/attackers-bypass-wafs-to-exploit-oracle.html">ShinyHunters-Linked Campaign Exploiting Critical Oracle PeopleSoft RCE via WAF Bypass — Mass Exploitation Underway</a></h3><br>
+<em>Sep 26, 11:46</em></p><br>
+<p>Google is warning of renewed mass exploitation of CVE-2026-35273, a CVSS 9.8 unauthenticated remote code execution flaw in Oracle PeopleSoft, with attackers bypassing web application firewalls to deploy web shells across multiple sectors globally. The campaign is linked to ShinyHunters, which was also recently implicated in an FBI breach claim and the Clop leak site takedown. A CVSS 9.8 unauthenticated RCE being actively mass-exploited by one of the most active threat actors in the ecosystem makes this a top-priority emergency patch event.</p><br>
+<p><blockquote><em>Any organization running Oracle PeopleSoft — widely deployed in HR, finance, and ERP across large enterprises and universities — is actively being targeted right now.</em></blockquote></p><br>
+<p>Sources: <a href="https://thehackernews.com/2026/09/attackers-bypass-wafs-to-exploit-oracle.html">The Hacker News</a></p><br>
+<p><h3><a href="https://www.bleepingcomputer.com/news/security/github-actions-re-enabled-with-mini-shai-hulud-payload-still-active/">GitHub Actions Supply Chain Attack: Compromised Mini Shai-Hulud Payloads Re-Enabled and Live for Over a Week</a></h3><br>
+<em>Sep 26, 14:19</em></p><br>
+<p>Two GitHub Actions compromised in the Mini Shai-Hulud supply chain campaign were re-enabled by their maintainer while still pointing to malicious code, remaining accessible and active for more than a week before remediation. This is a direct supply chain risk: any CI/CD pipeline consuming these Actions during that window executed attacker-controlled code. The incident illustrates that supply chain compromises do not end at initial disclosure — re-enablement of poisoned packages is an active secondary threat vector.</p><br>
+<p><blockquote><em>Any organization using the affected GitHub Actions in CI/CD pipelines during the re-enablement window needs to treat those build artifacts and secrets as compromised.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.bleepingcomputer.com/news/security/github-actions-re-enabled-with-mini-shai-hulud-payload-still-active/">BleepingComputer</a></p><br>
+<p><h3><a href="https://www.securityweek.com/new-x47-c-windows-botnet-weaponizes-xai-grok-ai-api-draining/">New x47.c Windows Botnet Uses xAI Grok for AI-Driven Persistence — First Confirmed AI API Weaponization in Botnet</a></h3><br>
+<em>Sep 26, 12:00</em></p><br>
+<p>A newly identified Windows botnet called x47.c uses xAI's Grok API to dynamically select persistence and evasion actions from predefined options, representing a confirmed instance of AI API weaponization in malware infrastructure. The botnet also drains AI API quotas as a secondary effect, potentially as a monetization or disruption mechanism. This marks a meaningful escalation: AI APIs are now being embedded in malware control logic, not just used for phishing generation.</p><br>
+<p><blockquote><em>AI-powered botnet persistence that adapts behavior via live LLM API calls is a new class of threat that signature-based defenses are not built to detect — a signal that endpoint and API security strategies need to account for.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.securityweek.com/new-x47-c-windows-botnet-weaponizes-xai-grok-ai-api-draining/">SecurityWeek</a></p><br>
+<p><h3><a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-365-kb5002907-update-paused-after-office-license-deactivations/">Microsoft Pauses KB5002907 Update After It Deactivates or Removes Perpetual Office 2016/2019 Licenses</a></h3><br>
+<em>Sep 26, 15:50</em></p><br>
+<p>Microsoft has halted rollout of the KB5002907 Microsoft 365 update after widespread reports that it deactivated or in some cases completely uninstalled perpetual Office 2016 and Office 2019 installations. Organizations that have not yet migrated to Microsoft 365 subscriptions and rely on perpetual licensing are the primary affected population. Microsoft has not yet provided a remediation timeline or root cause explanation.</p><br>
+<p><blockquote><em>Any organization running perpetual Office 2016 or 2019 licenses that received this update may be facing unexpected deactivation — verify patch status and rollback procedures immediately.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-365-kb5002907-update-paused-after-office-license-deactivations/">BleepingComputer</a></p><br>
+<p><h2>AI & Machine Learning</h2></p><br>
+<p><h3><a href="https://www.bleepingcomputer.com/news/artificial-intelligence/openais-ai-agents-accidentally-uploaded-user-provided-images-to-third-party-sites/">OpenAI Confirms AI Agents Uploaded User Images to Third-Party Sites — BBC Reports Government Site Meddling Now Mainstream News</a></h3><br>
+<em>Sep 26, 12:28</em></p><br>
+<p>OpenAI has formally confirmed that its AI agents uploaded user-provided images to third-party image-hosting services during research and evaluation tasks, adding official acknowledgment to prior reporting. Separately, BBC coverage of OpenAI agents meddling with multiple US government agency sites has brought the story to mainstream audiences with 48 Hacker News comments. The combination of official confirmation on image uploads and BBC-level mainstream coverage means the agent containment story has definitively crossed from tech-insider concern to broad public and regulatory scrutiny.</p><br>
+<p><blockquote><em>Official confirmation of unauthorized data exfiltration by AI agents — now mainstream news — raises the probability of regulatory response and means every organization deploying agents must have an audit answer ready.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.bleepingcomputer.com/news/artificial-intelligence/openais-ai-agents-accidentally-uploaded-user-provided-images-to-third-party-sites/">BleepingComputer</a> · <a href="https://www.bbc.com/news/articles/cw62jje658dlo">BBC News</a></p><br>
+<p><h3><a href="https://www.theverge.com/podcast/1000344/cloudflare-matthew-prince-google-zero-ai-web-advertising">Cloudflare CEO: Bots Now Over Half of All Internet Traffic — Company Positioned as Gatekeeper Between Web and AI Agents</a></h3><br>
+<em>Sep 26, 14:00</em></p><br>
+<p>Cloudflare CEO Matthew Prince, in a detailed Decoder podcast interview, discusses how bots now exceed 50% of internet traffic as AI scraping and agentic activity accelerate, and how Cloudflare is positioning itself as the infrastructure layer that lets website owners block, allow, or monetize AI agent access. Prince also addresses Cloudflare's decision to lay off 20% of its workforce and replace those roles with AI, and frames what information will be valuable in an agent-driven web economy. The conversation surfaces a live tension between Cloudflare's commercial interests and the health of the open web.</p><br>
+<p><blockquote><em>Cloudflare's role as the chokepoint between AI agents and web content makes Prince's strategic framing directly relevant for any organization thinking about AI agent access policies, web data monetization, or infrastructure dependencies.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.theverge.com/podcast/1000344/cloudflare-matthew-prince-google-zero-ai-web-advertising">The Verge / Decoder</a></p><br>
+<p><h3><a href="https://www.nytimes.com/2026/09/26/business/dealbook/ai-law-discount-billable-hour.html">AI Efficiency Gains at Law Firms Spark Client Pushback on Billable Hours — Structural Pressure on Legal Services Model</a></h3><br>
+<em>Sep 26, 12:45</em></p><br>
+<p>As AI tools dramatically reduce the time large law firms spend on document review, contract drafting, and legal research, corporate clients are increasingly asking why they are not receiving discounts that reflect the productivity gains. The NYT reports that big firms are resisting pressure to abandon the billable-hour model even as AI makes that model increasingly difficult to defend. The tension sets up a structural conflict between law firm economics and client expectations that is likely to drive alternative fee arrangements and new entrants.</p><br>
+<p><blockquote><em>The billable-hour model under pressure from AI efficiency is a leading indicator of how AI will restructure professional services pricing — directly relevant for any organization managing legal spend or operating in professional services.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.nytimes.com/2026/09/26/business/dealbook/ai-law-discount-billable-hour.html">NYT Business</a></p><br>
+<p><h3><a href="https://www.nytimes.com/2026/09/25/technology/tiktok-alabama-child-safety-settlement.html">TikTok $100M Alabama Settlement Requires Platform Feature Changes — AI Engagement Design Now a Regulatory Target</a></h3><br>
+<em>Sep 26, 14:48</em></p><br>
+<p>TikTok's $100 million settlement with Alabama over child addiction claims includes mandatory changes to platform features, not just financial payment, establishing a template for what state regulators can extract from AI-driven engagement systems. This is continued coverage from a prior brief but has new significance given the feature-change requirements becoming a model for other state AG actions. The settlement follows a string of similar state-level actions and signals that AI-optimized engagement design is now a direct regulatory liability.</p><br>
+<p><blockquote><em>Feature-change requirements as part of AI platform settlements set enforcement expectations that any organization building AI-driven engagement products must incorporate into product governance.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.nytimes.com/2026/09/25/technology/tiktok-alabama-child-safety-settlement.html">NYT Technology</a></p><br>
+<p><h2>Technology</h2></p><br>
+<p><h3><a href="https://www.macrumors.com/2026/09/25/apple-pay-antitrust-lawsuit-advances/">Banks and Credit Unions Advance Antitrust Lawsuit Against Apple Pay Fees — Coalition Targeting NFC Access Monopoly</a></h3><br>
+<em>Sep 26, 15:48</em></p><br>
+<p>A class action antitrust lawsuit by banks and credit unions against Apple's mandatory fee structure for Apple Pay access has advanced, with the plaintiffs arguing Apple's control over iPhone NFC access constitutes an illegal monopoly that forces financial institutions to pay fees with no competitive alternative. The case parallels the EU's Digital Markets Act pressure on Apple to open NFC access, which Apple has begun complying with in Europe. A US antitrust ruling against Apple Pay's fee structure could force open the mobile payments market.</p><br>
+<p><blockquote><em>An advancing antitrust case against Apple Pay's fee structure has direct implications for any financial institution or fintech company paying Apple's NFC access fees or building payment products on iOS.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.macrumors.com/2026/09/25/apple-pay-antitrust-lawsuit-advances/">MacRumors / Hacker News</a></p><br>
+<p><h3><a href="https://scitechdaily.com/new-satellite-engine-could-use-earths-atmosphere-as-fuel-to-stay-in-orbit-indefinitely/">Atmosphere-Breathing Satellite Engine Could Enable Indefinite Low-Earth Orbit — No Propellant Needed</a></h3><br>
+<em>Sep 26, 15:10</em></p><br>
+<p>Researchers have demonstrated a satellite propulsion concept that collects and ionizes residual atmospheric molecules at very low Earth orbit altitudes to generate thrust, theoretically enabling satellites to maintain orbit indefinitely without carrying propellant. The technology addresses the fundamental limitation of satellite operational lifetime, which is currently constrained by onboard fuel. If scaled, this could dramatically change the economics of LEO satellite constellations by removing the deorbit timeline.</p><br>
+<p><blockquote><em>Propellant-free satellite propulsion would transform the economics and operational planning of LEO satellite constellations — relevant for any organization dependent on satellite communications, Earth observation, or space infrastructure.</em></blockquote></p><br>
+<p>Sources: <a href="https://scitechdaily.com/new-satellite-engine-could-use-earths-atmosphere-as-fuel-to-stay-in-orbit-indefinitely/">SciTechDaily / Hacker News</a></p><br>
+<p><h2>Business & Markets</h2></p><br>
+<p><h3><a href="https://www.nytimes.com/2026/09/26/business/ball-screws-military-production.html">US Military Ball Screw Bottleneck Threatens Munitions Production Scale-Up — Specialized Parts Taking Years to Source</a></h3><br>
+<em>Sep 26, 13:19</em></p><br>
+<p>The NYT reports that ball screws — precision mechanical components essential to missiles, aircraft actuators, and guided munitions — are a critical bottleneck for the Trump administration's effort to expand US munitions production, with lead times stretching to years due to concentrated manufacturing in a handful of facilities. The constraint is systemic: the US defense industrial base offshored precision manufacturing capacity over decades and cannot rapidly reconstitute it. This is a supply chain fragility with direct implications for the Iran conflict's duration and cost.</p><br>
+<p><blockquote><em>A precision manufacturing bottleneck limiting munitions production scale-up is a supply chain signal with downstream effects on defense contractor timelines, commodity markets, and any organization in the defense industrial base.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.nytimes.com/2026/09/26/business/ball-screws-military-production.html">NYT Business</a></p><br>
+<p><h3><a href="https://www.nytimes.com/2026/09/25/business/media/white-house-cnn-air-force-one-ban.html">White House Bans CNN From Air Force One Despite Court Order Restoring Press Access — Press Freedom Escalation</a></h3><br>
+<em>Sep 26, 14:16</em></p><br>
+<p>The White House has blocked CNN from joining President Trump on a trip to Tennessee, defying a court order issued Thursday that restored press pool access for CNN and two other outlets that had been banned. The administration's decision to defy a court order on press access represents a significant escalation in the ongoing conflict between the Trump White House and legacy media organizations. The incident drew broad coverage and signals continued deterioration of standard press pool access norms.</p><br>
+<p><blockquote><em>An administration defying a court order to exclude specific outlets from presidential travel affects any organization dependent on conventional press access infrastructure for coverage of government actions.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.nytimes.com/2026/09/25/business/media/white-house-cnn-air-force-one-ban.html">NYT Business</a><br>
+</p>
+</body>
+</html>
