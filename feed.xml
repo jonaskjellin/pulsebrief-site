@@ -5,7 +5,70 @@
   <link href="https://jonaskjellin.github.io/pulsebrief-site/feed.xml" rel="self"/>
   <link href="https://jonaskjellin.github.io/pulsebrief-site/"/>
   <id>https://jonaskjellin.github.io/pulsebrief-site/</id>
-  <updated>2026-09-27T10:17:02.101Z</updated>
+  <updated>2026-09-27T15:28:44.874Z</updated>
+  <entry>
+    <title>Afternoon — Sep 27, 2026</title>
+    <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-09-27-afternoon.html"/>
+    <id>https://jonaskjellin.github.io/pulsebrief-site/2026-09-27-afternoon.html</id>
+    <updated>2026-09-27T15:28:44.874Z</updated>
+    <content type="html">&lt;p&gt;&lt;h1&gt;PulseBrief's Afternoon Pulse&lt;/h1&gt;&lt;br&gt;
+&lt;em&gt;Sun, Sep 27, 05:00 → Sun, Sep 27, 11:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Cyber Security&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://thehackernews.com/2026/09/warning-two-unpatched-citrix-netscaler.html"&gt;Two Unpatched Citrix NetScaler Zero-Days Under Active Exploitation — No Fix Available&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Sep 27, 07:47&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Security firm watchTowr disclosed two unpatched RCE zero-days in Citrix NetScaler ADC and NetScaler Gateway on September 26, both confirmed under active exploitation with no patch from Citrix. Administrators are already taking appliances offline rather than wait for a fix, a sign of how serious the risk is considered. Citrix NetScaler is a critical load balancing and application delivery component in thousands of enterprise and government networks.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Unpatched, actively exploited RCE in NetScaler with no vendor fix is an emergency — any organization running NetScaler ADC or Gateway must make an offline-vs-exposure decision now.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://thehackernews.com/2026/09/warning-two-unpatched-citrix-netscaler.html"&gt;The Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.securityweek.com/microsoft-sharepoint-flaw-cve-2026-65660-now-exploited-in-attacks/"&gt;Microsoft SharePoint CVE-2026-65660 Now Actively Exploited — Federal Deadline of September 28&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Sep 27, 09:23&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;CISA has added CVE-2026-65660, a code injection RCE flaw in Microsoft SharePoint, to its Known Exploited Vulnerabilities catalog with a federal agency patch deadline of September 28. Active exploitation is confirmed, making this an immediate patching priority for any organization with SharePoint in its environment. This follows the flaw's KEV addition reported in the prior brief — the September 28 deadline and confirmed exploitation escalate urgency further.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;A federal patch deadline of September 28 with confirmed active exploitation leaves no runway — SharePoint administrators need to verify patch status today.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.securityweek.com/microsoft-sharepoint-flaw-cve-2026-65660-now-exploited-in-attacks/"&gt;SecurityWeek&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.politico.eu/article/major-incident-uk-air-base-us-forces-raf-fairford/"&gt;Five Men Arrested Near UK Airbase Used for US Strikes on Iran on Terrorism Charges&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Sep 27, 08:45&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;British police arrested five men on terrorism offenses near RAF Fairford, the UK base the US used for 'defensive' strikes on Iran earlier this year. The arrests signal a credible threat to Western military infrastructure linked to the Iran conflict, with counterterrorism implications extending beyond the immediate incident. The targeting of a base directly associated with Iran strikes suggests retaliatory intent and a broadening of the conflict's threat surface to UK soil.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Terrorism arrests near a US-used UK strike base tied to Iran operations signal that the conflict's threat surface is expanding to Western domestic infrastructure — a security and geopolitical escalation.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.politico.eu/article/major-incident-uk-air-base-us-forces-raf-fairford/"&gt;Politico EU&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;AI &amp; Machine Learning&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/"&gt;Unsealed Briefs Reveal OpenAI Executives Knew Mass Book Piracy Was Illegal — Authors Guild Case&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Sep 27, 06:19&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Newly unsealed documents in the Authors Guild v. Microsoft/OpenAI case show that top executives at OpenAI were aware that mass ingestion of copyrighted books for training data was illegal, according to the Authors Guild. The filing drew 523 Hacker News points and 430 comments, making it one of the most significant community-level responses to AI copyright litigation to date. Internal knowledge of illegality, if proven, would dramatically strengthen plaintiffs' position and could affect damages calculations across multiple pending AI training lawsuits.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Evidence that OpenAI leadership knew training on pirated books was illegal reshapes the legal exposure for every AI company using web-scraped or unlicensed training data.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/"&gt;Authors Guild&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theregister.com/columnists/2026/09/27/big-ais-content-problem-take-the-work-keep-the-money/5299007"&gt;Big AI's Content Problem: Growing Scrutiny of Training Data Practices and Revenue Sharing&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Sep 27, 09:35&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;The Register's analysis examines the deepening tension between AI companies profiting from content they did not pay for and the creators, publishers, and news organizations whose work underpins those models. The piece synthesizes multiple recent disclosures — including the Authors Guild case and ongoing licensing disputes — into a broader indictment of how the AI industry has structured its relationship with content. The framing is gaining traction as licensing negotiations and litigation simultaneously intensify.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;The convergence of litigation, unsealed documents, and regulatory attention on AI training data is rapidly changing what 'acceptable' data practices look like — any organization training or fine-tuning models needs a defensible data provenance position.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.theregister.com/columnists/2026/09/27/big-ais-content-problem-take-the-work-keep-the-money/5299007"&gt;The Register&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://arxiv.org/abs/2609.25021"&gt;Research: Chat Templates Can Shift How LLMs Refer to Themselves — 'As a Language Model' Self-Reference Study&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Sep 27, 10:26&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;An arXiv paper drawing 80 Hacker News points and 83 comments shows that chat template formatting choices — specifically how prompts frame the model's identity — measurably alter LLM self-referential voice and behavior, including the prevalence of 'as a language model' disclaimers. The finding has practical implications for prompt engineering, model evaluation, and detecting whether outputs reflect genuine model behavior or template-induced artifacts. It also surfaces a subtle but significant variable that benchmark designers and safety evaluators may not be controlling for.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Template-induced behavior changes in LLMs mean evaluations and benchmarks that don't control for chat template formatting may be measuring the template as much as the model — directly relevant for anyone running model evaluations or red-teaming.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://arxiv.org/abs/2609.25021"&gt;arXiv&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Technology&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theregister.com/os-platforms/2026/09/27/apple-buried-copland-30-years-ago-now-the-failed-os-boots-in-a-browser/5299201"&gt;Apple's Failed Copland OS Boots in a Browser — 30 Years After Being Cancelled&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Sep 27, 10:30&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Developers have successfully emulated Apple's abandoned Copland operating system — cancelled in 1996 — running the final developer build in a browser, offering a rare working view of the OS Apple killed when it acquired NeXT instead. Copland's failure and the subsequent NeXT acquisition is widely credited as the decision that saved Apple and ultimately led to macOS. The emulation milestone is a significant retrocomputing achievement and a reminder of the contingency behind modern Apple's architecture.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;A working browser-based emulation of Copland is a notable retrocomputing milestone with historical significance for anyone tracking the architectural decisions that shaped modern computing.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.theregister.com/os-platforms/2026/09/27/apple-buried-copland-30-years-ago-now-the-failed-os-boots-in-a-browser/5299201"&gt;The Register&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Business &amp; Markets&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.reddit.com/r/worldnews/comments/1wr3id3/meta_blocks_president_lulas_facebook_page_and/"&gt;Meta Blocks Brazilian President Lula's Facebook Page and Campaign Ads Two Weeks Before Election&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Sep 27, 08:44&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Meta blocked the Facebook page and campaign advertising of sitting Brazilian President Lula da Silva approximately two weeks before a national election, drawing 339 Hacker News points and 243 comments and triggering immediate international attention. The block — on a sitting head of state's official campaign presence — represents an extraordinary level of platform intervention in democratic elections. No clear policy rationale has been publicly confirmed, and the incident is drawing comparisons to previous concerns about platform power over electoral outcomes.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;A platform blocking a sitting president's campaign presence weeks before an election is a major political and regulatory flashpoint that will accelerate scrutiny of platform content moderation power globally.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.reddit.com/r/worldnews/comments/1wr3id3/meta_blocks_president_lulas_facebook_page_and/"&gt;Reddit / Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.euronews.com/2026/09/27/azerbaijan-agrees-multi-billion-dollar-deals-with-investment-giants"&gt;Azerbaijan Closes ~$11 Billion in Deals at International Investment Forum&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Sep 27, 08:38&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Azerbaijan's International Investment Forum produced nearly $11 billion in contracts with major global investment managers, spanning infrastructure, technology, energy, and transport. The scale of the deals positions Azerbaijan as an increasingly significant destination for capital amid ongoing realignment of energy supply chains away from Russia. The involvement of major investment houses signals institutional confidence in the country's stability and its role as an energy corridor.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;An $11 billion investment haul in energy and infrastructure at a single forum signals Azerbaijan's growing strategic importance as a non-Russian energy corridor — relevant for any organization tracking energy supply diversification or emerging market capital flows.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.euronews.com/2026/09/27/azerbaijan-agrees-multi-billion-dollar-deals-with-investment-giants"&gt;Euronews Business&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.nytimes.com/2026/09/27/business/members-of-technical-staff-artificial-intelligence.html"&gt;AI Companies Abandoning Job Titles — 'Member of the Technical Staff' Up 50% at Anthropic, OpenAI&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Sep 27, 09:01&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Use of the generic title 'Member of the Technical Staff' (MTS) has risen 50% in the past year among employees at Anthropic, OpenAI, and other AI-focused companies, per NYT analysis of hiring and LinkedIn data. The trend reflects AI companies flattening traditional engineering hierarchies — a structural shift that affects compensation benchmarking, career progression norms, and how talent markets price AI expertise. The MTS title originated at Bell Labs and was long associated with elite research environments.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;A 50% rise in flat, generic titles at leading AI labs signals structural changes in how AI talent is organized and compensated — relevant for any organization competing for the same talent pool.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.nytimes.com/2026/09/27/business/members-of-technical-staff-artificial-intelligence.html"&gt;NYT Business&lt;/a&gt;&lt;br&gt;
+&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>Morning — Sep 27, 2026</title>
     <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-09-27-morning.html"/>
@@ -2060,48 +2123,6 @@
 &lt;p&gt;TechCrunch profiles a growing cohort of founders — including Brynn Putnam (Mirror, sold to Lululemon for $500M) and Tristan Walker — betting that bringing people together in physical spaces is a durable and underserved market. The trend is framed as a reaction to digital saturation and loneliness, with founders who have already achieved successful exits choosing offline community as their next bet. The pattern signals venture interest shifting toward physical-social hybrid models.&lt;/p&gt;&lt;br&gt;
 &lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Experienced founders with proven exits betting on offline social as a growth market is a meaningful signal for anyone tracking consumer behavior, venture investment themes, or real estate and event infrastructure.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
 &lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/09/20/a-small-but-growing-number-of-founders-are-betting-that-bringing-people-together-is-its-own-industry/"&gt;TechCrunch&lt;/a&gt;&lt;br&gt;
-&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>Afternoon — Sep 20, 2026</title>
-    <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-09-20-afternoon.html"/>
-    <id>https://jonaskjellin.github.io/pulsebrief-site/2026-09-20-afternoon.html</id>
-    <updated>2026-09-20T14:24:06.107Z</updated>
-    <content type="html">&lt;p&gt;&lt;h1&gt;PulseBrief's Afternoon Pulse&lt;/h1&gt;&lt;br&gt;
-&lt;em&gt;Sun, Sep 20, 05:00 → Sun, Sep 20, 11:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;AI &amp; Machine Learning&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.wired.com/story/metas-muse-is-better-at-surveilling-than-helping-me/"&gt;Meta's Muse Surveils More Than It Helps — Nudges Users to Share Bank, Email, and Passport Data&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Sep 20, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Wired's hands-on review of Meta's Muse finds the app continues Meta's pattern of defaulting users into AI training data collection, and actively nudges users to connect their bank accounts, email, and passport information. This is additional critical coverage of the Muse privacy story following last brief's report on Muse reading private Messages without explicit permission. The combination — background data harvesting plus aggressive personal data solicitation — positions Muse as a surveillance product first and an assistant second.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Any organization evaluating Meta's AI tools for employees now has two separate documented privacy failure modes in Muse within 24 hours — this is a pattern, not an incident.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.wired.com/story/metas-muse-is-better-at-surveilling-than-helping-me/"&gt;Wired&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.wired.com/story/donald-trump-versus-maga-on-data-centers/"&gt;Trump vs. MAGA on Data Centers — President All-In on AI Infrastructure as Base Revolts&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Sep 20, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Wired reports a growing split between Trump's aggressive pro-AI data center push and his own political base, which is increasingly hostile to data centers due to energy consumption, land use, water use, and local community impacts. Trump has doubled down on data centers as a national priority while MAGA constituencies in rural and exurban areas — where most new data centers are sited — are organizing against them. The fracture creates political uncertainty around permitting, utility access, and federal support for AI infrastructure buildout.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;A political split within the ruling coalition over data center siting and energy directly affects permitting timelines, utility negotiations, and federal incentive stability for AI infrastructure investment.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.wired.com/story/donald-trump-versus-maga-on-data-centers/"&gt;Wired&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;Technology&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theregister.com/os-platforms/2026/09/20/how-windows-turned-months-of-inactivity-into-a-7-hour-update-hostage-situation/5297478"&gt;Windows Update Held Machine Hostage for 7 Hours After Months of Inactivity — Systematic Design Failure Documented&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Sep 20, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;The Register documents a case where a Windows machine unused for several months was subjected to a 7-hour forced update sequence with no meaningful user control over timing or interruption, effectively making the device unusable for a working day. The incident illustrates a systemic design problem in Windows update mechanics where deferred updates accumulate into marathon mandatory sessions triggered without warning. The story is gaining traction as a proxy for broader frustration with forced OS update models.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Windows update behavior that locks out machines for hours is an operational reliability issue for any organization with Windows endpoints that may experience periods of inactivity.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.theregister.com/os-platforms/2026/09/20/how-windows-turned-months-of-inactivity-into-a-7-hour-update-hostage-situation/5297478"&gt;The Register&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;Business &amp; Markets&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.politico.eu/article/ukraine-drone-attack-moscow-elections/"&gt;Massive Ukrainian Drone Strike Hits Moscow on Final Day of Russian Elections&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Sep 20, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Ukraine launched an unprecedented drone attack on Moscow timed to the last day of Russian federal elections, with Moscow Mayor Sergei Sobyanin stating the strike was 'clearly planned to disrupt the elections.' The attack represents a significant escalation in Ukraine's ability and willingness to strike deep into Russian territory. The timing — during active voting — adds a political dimension beyond military targeting and is drawing international attention.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;A drone strike on Moscow during Russian elections is a major geopolitical escalation with immediate implications for the conflict's trajectory and European security posture.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.politico.eu/article/ukraine-drone-attack-moscow-elections/"&gt;Politico EU&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.nytimes.com/2026/09/20/business/china-ai-economy.html"&gt;Xi Jinping Arrives in US for State Visit as China's AI Advances — But Economy Is in Worst Shape in Decades&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Sep 20, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Xi Jinping is in the United States for a state visit, with China's AI progress expected to dominate bilateral discussions. Less visible but equally significant: China's economy is in its worst condition in decades, creating an unusual dynamic where AI capability is advancing rapidly while the broader economic foundation is deteriorating. The visit sets the stage for negotiations on trade, tariffs, and technology competition at a moment of maximum tension.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;A US-China summit during peak AI competition and Chinese economic stress will shape technology export controls, tariff policy, and the competitive landscape for organizations operating across both markets.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.nytimes.com/2026/09/20/business/china-ai-economy.html"&gt;NYT Business&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.nytimes.com/2026/09/20/business/rivian-rj-scaringe.html"&gt;Rivian CEO: Robots, Tariffs, and Diplomacy Required to Sustain US Auto Manufacturing&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Sep 20, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Rivian CEO RJ Scaringe outlined his thesis for maintaining a US manufacturing base in a NYT interview, arguing the combination of robotics, tariff protection, and active diplomatic engagement is necessary — not just any one lever. The interview comes as Rivian is scaling its Normal, Illinois plant and navigating the same tariff environment affecting all US automakers. Scaringe's framing positions tariffs as a tool rather than a solution, signaling that manufacturers expect a complex multi-factor policy environment to persist.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;A major EV CEO's public framework for US manufacturing viability signals how the industry expects to operate under sustained tariffs — relevant for any organization with US manufacturing or supply chain exposure.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.nytimes.com/2026/09/20/business/rivian-rj-scaringe.html"&gt;NYT Business&lt;/a&gt;&lt;br&gt;
 &lt;/p&gt;</content>
   </entry>
 </feed>
