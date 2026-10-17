@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Afternoon — Oct 17, 2026 — PulseBrief</title>
+  <link rel="alternate" type="application/atom+xml" title="PulseBrief Feed" href="feed.xml">
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { font-family: -apple-system, system-ui, sans-serif; max-width: 720px; margin: 0 auto; padding: 24px 16px; color: #1a1a1a; line-height: 1.6; }
+    h1 { font-size: 1.6em; margin-bottom: 4px; }
+    h2 { font-size: 1.2em; margin-top: 32px; margin-bottom: 16px; color: #444; border-bottom: 1px solid #eee; padding-bottom: 8px; }
+    h3 { font-size: 1em; margin-top: 20px; margin-bottom: 4px; }
+    h3 a { color: #1a1a1a; text-decoration: none; border-bottom: 1px solid #ccc; }
+    h3 a:hover { border-color: #333; }
+    p { margin-bottom: 12px; }
+    blockquote { border-left: 3px solid #ddd; padding-left: 12px; color: #555; margin: 8px 0 12px; }
+    em { font-style: italic; }
+    a { color: #0066cc; }
+    hr { border: none; border-top: 1px solid #eee; margin: 32px 0; }
+    .meta { color: #888; font-size: 0.9em; }
+    .sources { font-size: 0.85em; color: #666; }
+    .nav { margin-bottom: 24px; font-size: 0.9em; }
+    .nav a { color: #0066cc; text-decoration: none; }
+    .brief-list { list-style: none; }
+    .brief-list li { padding: 8px 0; border-bottom: 1px solid #f0f0f0; }
+    .brief-list a { text-decoration: none; color: #1a1a1a; }
+    .brief-list .date { color: #888; font-size: 0.85em; }
+  </style>
+</head>
+<body>
+  <div class="nav"><a href="./">← All Briefs</a> · <a href="feed.xml">RSS</a></div>
+  <p><h1>PulseBrief's Afternoon Pulse</h1><br>
+<em>Sat, Oct 17, 05:00 → Sat, Oct 17, 11:00</em></p><br>
+<p><h2>Cyber Security</h2></p><br>
+<p><h3><a href="https://thehackernews.com/2026/10/hackers-use-compromised-connectwise.html">Compromised ConnectWise Credential Used to Breach 173 Microsoft 365 Tenants</a></h3><br>
+<em>Oct 17, 06:16</em></p><br>
+<p>Unknown threat actors used a stolen Microsoft 365 credential belonging to ConnectWise Cloud Backup (formerly SkyKick) to sign into 173 M365 partner and customer tenants, exploiting the trusted backup application's pre-granted wide permissions across customer environments. The attack demonstrates how a single compromised MSP vendor credential can cascade into a mass breach of downstream customers without any additional exploitation. ConnectWise Cloud Backup is specifically designed for managed service providers, meaning the 173 affected tenants are likely SMB and mid-market organizations relying on MSPs for IT services.</p><br>
+<p><blockquote><em>A single vendor credential compromise unlocking 173 customer M365 environments is the supply chain attack pattern MSPs and their customers need to treat as an active threat — any organization using ConnectWise Cloud Backup should audit recent access logs immediately.</em></blockquote></p><br>
+<p>Sources: <a href="https://thehackernews.com/2026/10/hackers-use-compromised-connectwise.html">The Hacker News</a> · <a href="https://cybersecuritynews.com/connectwise-credentials-microsoft-365-accounts/">Cybersecurity News</a></p><br>
+<p><h3><a href="https://www.securityweek.com/israeli-ad-firm-doubled-as-candirus-zero-click-spyware-delivery-channel/">Israeli Ad Firm Discover-Tech Named as Candiru Zero-Click Spyware Delivery Infrastructure</a></h3><br>
+<em>Oct 17, 11:00</em></p><br>
+<p>SecurityWeek reports that Israeli advertising company Discover-Tech functioned as the delivery mechanism for Candiru's zero-click spyware, providing the device fingerprinting and tracking infrastructure that allowed threat actors to identify, select, and infect specific targets through ordinary online ads. This is the named-entity follow-up to the AdFection story in the prior brief, providing the corporate identity behind the ad ecosystem exploitation. Discover-Tech's ad network allowed precise target selection at scale before delivering the exploit, meaning the spyware was not indiscriminate — targets were deliberately chosen.</p><br>
+<p><blockquote><em>Naming the ad infrastructure company behind zero-click spyware delivery completes the attack chain picture and confirms this was a deliberate surveillance operation, not a mass exploitation campaign — directly relevant for threat modeling against high-value or at-risk personnel.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.securityweek.com/israeli-ad-firm-doubled-as-candirus-zero-click-spyware-delivery-channel/">SecurityWeek</a></p><br>
+<p><h3><a href="https://cybersecuritynews.com/hackers-exploit-critical-collabora-online-flaw/">Hackers Actively Exploiting Critical Collabora Online RCE to Backdoor Nextcloud Servers</a></h3><br>
+<em>Oct 17, 05:24</em></p><br>
+<p>Attackers are actively exploiting CVE-2026-110447, a critical unauthenticated remote code execution flaw (CVSS v4: maximum severity) in the Collabora Online Built-in CODE Server app for Nextcloud, with users already reporting web shells on compromised servers. The vulnerability allows any unauthenticated remote attacker to execute operating system commands, giving full server control. Nextcloud is widely used for self-hosted file sharing and collaboration across enterprises and organizations that have moved away from cloud providers for privacy or compliance reasons.</p><br>
+<p><blockquote><em>Active exploitation with confirmed web shells on a widely deployed self-hosted collaboration platform means any organization running Nextcloud with the richdocumentscode app before version 26.4.303 should treat this as an emergency patch.</em></blockquote></p><br>
+<p>Sources: <a href="https://cybersecuritynews.com/hackers-exploit-critical-collabora-online-flaw/">Cybersecurity News</a></p><br>
+<p><h3><a href="https://cybersecuritynews.com/google-fixes-10-chrome-vulnerabilities/">Claude AI Helps Anthropic Researcher Find High-Severity Chrome Memory Corruption Flaw</a></h3><br>
+<em>Oct 17, 05:29</em></p><br>
+<p>Google's latest Chrome stable update patches 10 vulnerabilities including a high-severity DOM memory corruption flaw discovered by Xinyang Ge of Anthropic using Claude AI as part of the research process. The update also addresses one critical and five additional high-severity vulnerabilities. The disclosure is notable as a first-party confirmation that AI-assisted vulnerability research is producing real, patched results in browser security — the most widely deployed attack surface in enterprise environments.</p><br>
+<p><blockquote><em>AI-assisted browser vulnerability discovery yielding a patched high-severity Chrome flaw is a concrete proof point for AI security research — and a reminder to prioritize this Chrome update given the vulnerability density.</em></blockquote></p><br>
+<p>Sources: <a href="https://cybersecuritynews.com/google-fixes-10-chrome-vulnerabilities/">Cybersecurity News</a></p><br>
+<p><h2>AI & Machine Learning</h2></p><br>
+<p><h3><a href="https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017">DeepSeek Releases V4.1 Flash 1017 — 353 HN Points Within Hours of Launch</a></h3><br>
+<em>Oct 17, 08:21</em></p><br>
+<p>DeepSeek has released DeepSeek-V4.1-Flash-1017, a new flash-tier model update available via OpenRouter and Hugging Face, generating 353 Hacker News points and 141 comments — with a parallel HN thread accumulating 272 points and 106 comments simultaneously. The dual high-engagement threads indicate the release is being widely tested and discussed by the developer community within hours of availability. Flash-tier models from DeepSeek have previously set cost and speed benchmarks that forced pricing responses from OpenAI and Anthropic.</p><br>
+<p><blockquote><em>A high-velocity DeepSeek flash model release with immediate developer traction warrants evaluation for anyone using fast inference models — DeepSeek has repeatedly reset the cost-performance baseline for this model tier.</em></blockquote></p><br>
+<p>Sources: <a href="https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017">Hugging Face (via Hacker News)</a> · <a href="https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017">OpenRouter (via Hacker News)</a></p><br>
+<p><h3><a href="https://www.nytimes.com/2026/10/17/business/weak-links-start-to-show-in-ai-borrowing.html">AI Data Center Debt Trouble Emerging at CoreWeave, Oracle, and SoftBank — Build-Out Stress Signals</a></h3><br>
+<em>Oct 17, 09:00</em></p><br>
+<p>The New York Times reports that debt financing for AI data center infrastructure is showing early stress signals at CoreWeave, Oracle, and SoftBank, raising questions about whether the pace of GPU cluster build-out is outrunning the revenue needed to service the debt load. The pattern — aggressive borrowing against projected AI demand that has not yet fully materialized — echoes earlier infrastructure financing cycles that preceded corrections. The three entities named are among the largest borrowers financing the AI infrastructure wave.</p><br>
+<p><blockquote><em>Debt stress at the companies financing AI infrastructure build-out is a leading indicator of whether the current investment pace is sustainable — directly relevant for anyone making AI infrastructure procurement or investment decisions.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.nytimes.com/2026/10/17/business/weak-links-start-to-show-in-ai-borrowing.html">NYT Business</a></p><br>
+<p><h3><a href="https://www.theregister.com/personal-tech/2026/10/17/amazon-wants-you-to-bee-lieve-wearable-ai-can-recall-it-all-for-you/5303569">Amazon Launches 'Bee' Wearable AI with Total Recall Capability — Continuous Conversation Logging for Personalized Recommendations</a></h3><br>
+<em>Oct 17, 09:00</em></p><br>
+<p>Amazon has announced Bee, a wearable AI device designed to continuously listen to and log conversations, then surface personalized recommendations — including shopping suggestions — based on what the user has discussed. The Register's framing highlights the tension between the recall capability and Amazon's commercial incentive to monetize conversation data for product recommendations. The device enters a nascent wearable AI category alongside Limitless Pendant and other continuous-listening devices.</p><br>
+<p><blockquote><em>A major platform company launching always-on conversation logging wearables tied to its commerce engine sets a significant privacy and data collection precedent — relevant for anyone tracking ambient AI deployment and data governance.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.theregister.com/personal-tech/2026/10/17/amazon-wants-you-to-bee-lieve-wearable-ai-can-recall-it-all-for-you/5303569">The Register</a></p><br>
+<p><h3><a href="https://www.wired.com/story/why-ai-isnt-ready-to-tackle-our-convoluted-genomes/">Why AI Still Can't Decode the Human Genome — Data Gaps and Biological Complexity Limit Current Models</a></h3><br>
+<em>Oct 17, 09:00</em></p><br>
+<p>Wired reports that despite significant AI progress in biology, current models lack the training data and architectural capacity to properly interpret the dynamic, three-dimensional complexity of human genomes — DNA that functions through spatial folding, epigenetic modification, and context-dependent expression rather than static sequence. The article draws on genomics researchers who argue the genome decoding problem is fundamentally harder than protein folding, which AlphaFold addressed. The limitation matters because genomic AI is widely cited as a near-term AI impact area in healthcare.</p><br>
+<p><blockquote><em>Understanding where AI genomics capability actually is versus where it's projected to be matters for anyone evaluating AI-driven drug discovery timelines or healthcare AI investment.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.wired.com/story/why-ai-isnt-ready-to-tackle-our-convoluted-genomes/">Wired</a></p><br>
+<p><h2>Business & Markets</h2></p><br>
+<p><h3><a href="https://www.nytimes.com/2026/10/17/business/trump-corporate-tax-revenue.html">Corporate Tax Revenue Falls $70B Despite Soaring Profits — AI Investment Write-Offs Under Trump Tax Cuts Blamed</a></h3><br>
+<em>Oct 17, 09:02</em></p><br>
+<p>Corporate tax revenue declined approximately $70 billion year-over-year despite record corporate profits, as companies wrote off billions in AI infrastructure investments using accelerated depreciation provisions in Trump's tax legislation. The dynamic means AI capital expenditure is simultaneously driving record profits and reducing the tax base — concentrating the fiscal benefit of AI investment in corporate balance sheets while adding to the federal deficit approaching $2 trillion. The write-off mechanism makes AI infrastructure investment even more attractive on an after-tax basis for large technology companies.</p><br>
+<p><blockquote><em>AI investment tax write-offs creating a $70B corporate tax revenue gap directly affects the fiscal environment for public AI research funding, regulatory capacity, and interest rate policy — and gives large tech companies a structural financial advantage in AI infrastructure accumulation.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.nytimes.com/2026/10/17/business/trump-corporate-tax-revenue.html">NYT Business</a><br>
+</p>
+</body>
+</html>
