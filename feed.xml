@@ -5,7 +5,60 @@
   <link href="https://jonaskjellin.github.io/pulsebrief-site/feed.xml" rel="self"/>
   <link href="https://jonaskjellin.github.io/pulsebrief-site/"/>
   <id>https://jonaskjellin.github.io/pulsebrief-site/</id>
-  <updated>2026-10-18T09:13:04.586Z</updated>
+  <updated>2026-10-18T14:13:17.970Z</updated>
+  <entry>
+    <title>Afternoon — Oct 18, 2026</title>
+    <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-10-18-afternoon.html"/>
+    <id>https://jonaskjellin.github.io/pulsebrief-site/2026-10-18-afternoon.html</id>
+    <updated>2026-10-18T14:13:17.970Z</updated>
+    <content type="html">&lt;p&gt;&lt;h1&gt;PulseBrief's Afternoon Pulse&lt;/h1&gt;&lt;br&gt;
+&lt;em&gt;Sun, Oct 18, 05:00 → Sun, Oct 18, 11:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Cyber Security&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://thehackernews.com/2026/10/connectwise-suspends-cloud-backup-after.html"&gt;ConnectWise Disables Seven Application Identities After M365 Supply Chain Breach — Investigation Ongoing&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Oct 18, 08:23&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;ConnectWise has disabled seven application identities tied to its Cloud Backup service as its investigation into the supply chain breach continues, with the specific IDs now publicly named. The action confirms the scope of the compromise extends across multiple application credentials, not a single identity — indicating attackers had broad access to the trusted backup application's permissions across customer M365 environments. Any organization using ConnectWise Cloud Backup should treat all seven listed application identities as potentially abused and audit downstream M365 tenant activity.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;The named identity list and service suspension confirm this is a major, ongoing MSP supply chain incident — the most important update to the week's top cyber story.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://thehackernews.com/2026/10/connectwise-suspends-cloud-backup-after.html"&gt;The Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.securityweek.com/us-cybersecurity-job-postings-fall-26-as-ai-security-engineer-demand-soars/"&gt;US Cybersecurity Job Postings Fall 26% Overall — AI Security Engineer Demand Surges Against the Trend&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Oct 18, 11:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;CyberSN's 2026 Cybersecurity Jobs Report shows a 26% year-over-year decline in US cybersecurity job postings, even as demand for AI security engineers is rising sharply against the broader contraction. The divergence signals that AI is simultaneously displacing demand for traditional security roles while creating a new specialist category that commands a hiring premium. Organizations reducing security headcount while AI attack surfaces expand face a compounding risk gap.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;A 26% drop in cybersecurity hiring paired with surging AI security demand signals a structural workforce shift that affects team planning, vendor reliance, and organizational risk posture.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.securityweek.com/us-cybersecurity-job-postings-fall-26-as-ai-security-engineer-demand-soars/"&gt;SecurityWeek&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;AI &amp; Machine Learning&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://api-docs.deepseek.com/guides/search/"&gt;DeepSeek Launches Search and Fetch API at $0.75 per 1,000 Successful Requests — 327 HN Points on Launch&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Oct 18, 06:50&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;DeepSeek has announced a search and fetch API offering web search and content retrieval capabilities priced at $0.75 per 1,000 successful requests, generating 327 Hacker News points and 158 comments within hours. The pricing positions DeepSeek's search API as a direct competitor to Bing Search API and other web data providers used by AI applications and agentic systems. DeepSeek has repeatedly reset cost benchmarks across model inference, and applying that pressure to search infrastructure threatens the economics of competing search data providers.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;DeepSeek entering the search API market at aggressive pricing directly affects the build-vs-buy calculus for any team powering AI agents or applications with web search capabilities.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://api-docs.deepseek.com/guides/search/"&gt;DeepSeek API Docs (via Hacker News)&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/"&gt;Legal Experts: Meta's Revised Terms Still Grant Broad Scraping Rights Despite Language Removal&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Oct 18, 10:21&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Nieman Lab reports that legal experts reviewing Meta's updated terms of service — from which the explicit scraping language was removed following public backlash — conclude that the remaining language still grants Meta broad permissions to crawl and use content from business customers' websites. The analysis undermines Meta's framing that the revision was a meaningful concession, suggesting the removal was a PR response rather than a substantive narrowing of data rights. The remaining permissions may be less explicit but are legally interpreted as equally permissive.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;If Meta's revised terms still permit broad scraping, the data governance exposure for publishers and business customers using Meta's platforms is unchanged despite the retraction — the fight is not over.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/"&gt;Nieman Lab&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.wired.com/story/onlyfans-creators-are-pissed-that-meta-lets-muse-talk-dirty/"&gt;OnlyFans Creators Challenge Meta's Double Standard — Muse AI Agent Permitted to Sext While Human Creators Face Platform Bans&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Oct 18, 10:30&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Adult content creators on OnlyFans are publicly criticizing Meta for allowing its Muse AI agent to engage in explicit sexual conversation while simultaneously restricting their own social media accounts and promotional activity on Meta's platforms. The controversy surfaces a structural double standard: Meta enforces human-content moderation rules that restrict adult creators while its own AI agent operates under different or absent constraints. The dispute is generating significant coverage as a test case for how platform content policies apply asymmetrically to AI-generated versus human-generated adult content.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;The asymmetric treatment of human adult creators versus Meta's own AI agent reveals a policy inconsistency with implications for content moderation governance, creator economics, and AI product liability.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.wired.com/story/onlyfans-creators-are-pissed-that-meta-lets-muse-talk-dirty/"&gt;Wired&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Technology&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.wired.com/story/data-center-industry-is-trying-to-woo-kids/"&gt;Data Center Industry Launches Youth Outreach Campaign — Field Trips and Education Programs Amid Community Backlash&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Oct 18, 10:30&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Industry groups linked to major data center operators are running organized programs to bring school children on field trips to data center facilities, part of a broader PR strategy to build community goodwill as data center expansion faces growing local opposition over water use, power consumption, and noise. Wired frames the effort as a 'time-tested' industry playbook for neutralizing grassroots resistance through youth engagement and education initiatives. The campaign reflects the scale of the backlash that AI infrastructure build-out is generating in communities hosting these facilities.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Community opposition to data center expansion is becoming a meaningful constraint on AI infrastructure deployment timelines — understanding the industry's political response matters for anyone tracking AI infrastructure capacity.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.wired.com/story/data-center-industry-is-trying-to-woo-kids/"&gt;Wired&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Business &amp; Markets&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.nytimes.com/2026/10/18/business/economy/economy-midterm-elections.html"&gt;US Economy Heading Into Midterms: High Inflation, Strong Spending, AI Uncertainty — NYT Chartpack&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Oct 18, 09:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;The New York Times publishes a midterm election economic snapshot showing inflation remains elevated, consumer spending is resilient, and AI's economic trajectory has become the dominant variable in forecasting the next phase of growth. The combination of sticky inflation and strong spending creates a stagflation-adjacent picture that complicates Federal Reserve rate policy heading into the election. AI's outsized role in the economic narrative — both as growth driver and potential disruptor — makes the midterm outcome a significant variable for technology investment and regulatory posture.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;The economic backdrop heading into midterms directly shapes the regulatory and fiscal environment for technology and AI investment over the next two years.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.nytimes.com/2026/10/18/business/economy/economy-midterm-elections.html"&gt;NYT Business&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.politico.eu/article/ukraine-strikes-oil-facility-st-petersburg-part-massive-drone-attack/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS_Syndication"&gt;Ukraine Strikes St. Petersburg Oil Facility in Massive Drone Attack — Escalation After Russia Sanctions Waiver&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Oct 18, 10:40&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Ukraine launched a large-scale drone attack striking an oil facility in St. Petersburg, the deepest strike into Russian territory in months, coming days after Zelenskyy stated he had resumed targeting Russian energy infrastructure. The attack follows the Trump administration's decision to waive new Russia sanctions, a move Kyiv had sharply criticized. The escalation in strike depth and target selection signals Ukraine is pursuing maximum economic pressure on Russia's energy export capacity even as US diplomatic posture shifts.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Strikes on Russian energy infrastructure at this scale affect global energy supply assumptions and European business operating environment — directly relevant given the prior brief's Trump sanctions waiver story.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.politico.eu/article/ukraine-strikes-oil-facility-st-petersburg-part-massive-drone-attack/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS_Syndication"&gt;Politico EU&lt;/a&gt;&lt;br&gt;
+&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>Morning — Oct 18, 2026</title>
     <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-10-18-morning.html"/>
@@ -1989,48 +2042,6 @@
 &lt;p&gt;Former Ukrainian Foreign Minister Dmytro Kuleba has warned European audiences that Russia will eventually drag European nations directly into the war, arguing that continued partial support is strategically inadequate. Kuleba also stated that Ukraine faces its worst winter yet as Russia intensifies infrastructure targeting to break civilian resistance. The statement comes as the US-Europe-Ukraine alignment shows new fractures following Trump's call for Zelenskyy's replacement.&lt;/p&gt;&lt;br&gt;
 &lt;p&gt;&lt;blockquote&gt;&lt;em&gt;A senior Ukrainian official's direct warning to Europe about escalation risk — combined with the worst winter threat yet — is a significant geopolitical signal for anyone tracking European security and energy infrastructure risk.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
 &lt;p&gt;Sources: &lt;a href="https://www.politico.eu/article/ukraine-former-fm-europe-vladimir-putin-will-drag-you-into-war/"&gt;Politico EU&lt;/a&gt;&lt;br&gt;
-&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>Afternoon — Oct 11, 2026</title>
-    <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-10-11-afternoon.html"/>
-    <id>https://jonaskjellin.github.io/pulsebrief-site/2026-10-11-afternoon.html</id>
-    <updated>2026-10-11T16:28:37.516Z</updated>
-    <content type="html">&lt;p&gt;&lt;h1&gt;PulseBrief's Afternoon Pulse&lt;/h1&gt;&lt;br&gt;
-&lt;em&gt;Sun, Oct 11, 05:00 → Sun, Oct 11, 11:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;AI &amp; Machine Learning&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theregister.com/networks/2026/10/11/hpes-networking-boss-says-ai-will-handle-all-trouble-tickets-without-humans-in-two-years/5302179"&gt;HPE Networking Chief Claims AI Will Handle All IT Trouble Tickets Without Human Involvement Within Two Years&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Oct 11, 09:37&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;HPE's head of networking told The Register that AI agents will autonomously resolve 100% of network trouble tickets without human involvement within two years, framing the transition as analogous to the trust shift that accompanied automatic transmissions in cars. The claim is aggressive even by AI-optimism standards and puts a concrete two-year timeline on a prediction that would have major workforce and operational implications for IT operations teams. HPE is positioning its networking portfolio around this autonomous ops narrative.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;A major networking vendor's leadership putting a two-year timeline on full AI autonomy for IT ops is a vendor signal that will shape enterprise procurement and workforce planning conversations now.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.theregister.com/networks/2026/10/11/hpes-networking-boss-says-ai-will-handle-all-trouble-tickets-without-humans-in-two-years/5302179"&gt;The Register&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;Technology&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://news.ycombinator.com/item?id=50040276"&gt;LineageOS 24.0 Released — Android 15-Based Custom ROM Gains Significant New Features&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Oct 11, 06:18&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;LineageOS has shipped version 24.0, based on Android 15, with the changelog covering a wide range of new features and expanded device support. The release drew significant Hacker News engagement (281 points, 96 comments), reflecting the project's continued importance to the privacy-focused and de-Googled Android community. LineageOS remains the most widely used custom Android ROM and a critical project for extending device longevity beyond manufacturer support windows.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;A major LineageOS release is a significant open-source Android ecosystem event — relevant for anyone tracking privacy-focused mobile infrastructure or device fleet longevity.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://news.ycombinator.com/item?id=50040276"&gt;Hacker News&lt;/a&gt; · &lt;a href="https://lineageos.org/Changelog-32/"&gt;LineageOS&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://news.ycombinator.com/item?id=50041682"&gt;Nitter Seeks Funding and Legal Help After Renewed Pressure — X's API Crackdown Threatens the Last Open Twitter Frontend&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Oct 11, 10:37&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Nitter, the privacy-preserving Twitter/X frontend, posted an urgent update on October 10th seeking community funding and legal assistance as it faces operational and legal pressure from X. The post drew 306 Hacker News points and 142 comments, signaling significant community concern about the project's survival. Nitter has long served as a critical infrastructure layer for researchers, journalists, and privacy-conscious users who consume X content without handing data to the platform.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Nitter shutting down would eliminate a key open-access layer for X content used by researchers and privacy-focused users — a meaningful signal about X's ongoing effort to control data access.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://news.ycombinator.com/item?id=50041682"&gt;Hacker News&lt;/a&gt; · &lt;a href="https://nitter.net"&gt;Nitter&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theregister.com/science/2026/10/11/researchers-work-out-how-to-control-2d-semiconductor-growth-for-future-chips/5301666"&gt;2D Semiconductor Growth Controlled via Oxygen — Path to Sub-1nm Chips Clearer by 2030&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Oct 11, 08:30&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Korean researchers have demonstrated a technique using oxygen to precisely control crystal formation during 2D semiconductor growth, solving a key manufacturing precision problem that has blocked commercial viability of next-generation chip materials. The team is targeting commercialization by 2030, which would put the technology on track to contribute to post-silicon chip scaling. 2D semiconductors like MoS2 are widely seen as the most viable path beyond silicon's physical scaling limits.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;A controlled-growth breakthrough in 2D semiconductors is a meaningful step toward post-silicon compute — relevant for anyone tracking long-term chip architecture and supply chain shifts.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.theregister.com/science/2026/10/11/researchers-work-out-how-to-control-2d-semiconductor-growth-for-future-chips/5301666"&gt;The Register&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://news.ycombinator.com/item?id=50041540"&gt;IRCv3 Gains Renewed Hacker News Attention — Modern IRC Extension Standard Resurfaces in Open Protocol Conversation&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Oct 11, 10:11&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;IRCv3, the working group maintaining modern extensions to the IRC protocol, surfaced prominently on Hacker News (220 points, 197 comments), reflecting renewed community interest in open, decentralized messaging infrastructure. The timing coincides with ongoing debate about Nitter's survival and broader concerns about dependency on centralized platforms. IRCv3 extensions include capabilities like message history, rich text, and account authentication that bring IRC closer to feature parity with modern chat platforms.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Renewed community engagement with open messaging protocols signals growing developer appetite for decentralized communication infrastructure — relevant context for anyone tracking platform dependency risk.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://news.ycombinator.com/item?id=50041540"&gt;Hacker News&lt;/a&gt; · &lt;a href="https://ircv3.net/"&gt;IRCv3&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;Business &amp; Markets&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.nytimes.com/2026/10/11/business/san-francisco-housing-conversions.html"&gt;San Francisco Has Completed Zero Office-to-Housing Conversions Despite Major Push — Structural and Financial Barriers Cited&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Oct 11, 09:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;The New York Times reports that San Francisco has not completed a single office-to-housing conversion despite years of policy effort and significant public pressure to address both the housing crisis and hollowed-out downtown commercial districts. Structural differences between office and residential floor plates, financing gaps, and permitting complexity are cited as the primary blockers. The failure is a cautionary signal for other cities pursuing similar strategies to address post-pandemic commercial real estate overhang.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Zero completions after years of effort in the most high-profile office-to-housing conversion market is a concrete data point for anyone tracking commercial real estate strategy, urban policy, or office portfolio risk.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.nytimes.com/2026/10/11/business/san-francisco-housing-conversions.html"&gt;NYT Business&lt;/a&gt;&lt;br&gt;
 &lt;/p&gt;</content>
   </entry>
 </feed>
