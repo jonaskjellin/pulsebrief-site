@@ -5,7 +5,55 @@
   <link href="https://jonaskjellin.github.io/pulsebrief-site/feed.xml" rel="self"/>
   <link href="https://jonaskjellin.github.io/pulsebrief-site/"/>
   <id>https://jonaskjellin.github.io/pulsebrief-site/</id>
-  <updated>2026-10-25T14:43:07.186Z</updated>
+  <updated>2026-10-25T18:36:53.724Z</updated>
+  <entry>
+    <title>Evening — Oct 25, 2026</title>
+    <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-10-25-evening.html"/>
+    <id>https://jonaskjellin.github.io/pulsebrief-site/2026-10-25-evening.html</id>
+    <updated>2026-10-25T18:36:53.724Z</updated>
+    <content type="html">&lt;p&gt;&lt;h1&gt;PulseBrief's Evening Pulse&lt;/h1&gt;&lt;br&gt;
+&lt;em&gt;Sun, Oct 25, 12:00 → Sun, Oct 25, 17:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Cyber Security&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.bleepingcomputer.com/news/security/ai-coding-agents-hijacked-using-agentsmd-file-in-downloads-folder/"&gt;AI Coding Agents Hijacked via Malicious AGENTS.md File in Downloads Folder&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Oct 25, 15:49&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Researchers discovered a malicious AGENTS.md markdown instruction file placed in a customer's Downloads folder that successfully tricked an AI coding agent into installing a rogue npm package — exploiting the convention where coding agents automatically ingest instruction files from the local filesystem. The attack requires no code execution or privilege escalation; placing a crafted markdown file in a location the agent reads is sufficient to redirect its behavior. The technique works against any AI coding agent that trusts local instruction files without verification, including widely deployed tools like Claude Code, Cursor, and Copilot Workspace.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;A trivially simple attack vector — a text file in Downloads — that hijacks AI coding agents is a critical finding for any team deploying agentic coding tools in development environments.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.bleepingcomputer.com/news/security/ai-coding-agents-hijacked-using-agentsmd-file-in-downloads-folder/"&gt;BleepingComputer&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.dreamhoststatus.com/"&gt;Active Security Incident at Dreamhost — Forced Password Resets Underway&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Oct 25, 13:09&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Dreamhost has confirmed an active security incident, forcing password resets for affected customers. Details on the scope, nature of the compromise, and number of accounts affected have not yet been fully disclosed. Dreamhost hosts a significant number of small business and developer websites, meaning any credential compromise could have downstream effects on sites and services running on the platform.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;An active, unresolved incident at a major web host warrants immediate awareness for anyone with Dreamhost-hosted infrastructure or credentials.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.dreamhoststatus.com/"&gt;Dreamhost Status (via Hacker News)&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;AI &amp; Machine Learning&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/"&gt;Apollo Economist: AI Has Delivered 'Zero Financial Payoff' to Most Companies&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Oct 25, 16:57&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Apollo Global's chief economist states that despite massive AI investment and widespread hype, the technology has delivered zero measurable financial payoff to corporate America outside the tech sector itself. The assessment reinforces the growing CEO-employee perception gap covered in prior briefs — executives report successful rollouts while bottom-line results remain elusive for non-tech firms. The Apollo framing carries weight as an independent, investment-oriented analysis rather than a vendor or advocacy position.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;An economist at a major private equity firm calling out AI's lack of financial returns for most enterprises is a direct challenge to board-level AI investment narratives — relevant for anyone justifying or evaluating AI spend.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html"&gt;UC Berkeley Math Professor Stops Grading Homework — AI Use Makes It Pointless&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Oct 25, 16:28&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;A UC Berkeley mathematics professor has publicly stated they see 'no point' in grading homework assignments because student use of AI tools makes it impossible to assess whether students have developed understanding or simply offloaded the work. The comment has generated significant Hacker News discussion (77 comments) and reflects a broader collapse of traditional assessment models at research universities. It follows Terence Tao's organized mathematical fact-checking initiative from prior briefs and compounds the picture of AI fundamentally disrupting mathematical education and verification.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;When a Berkeley math professor abandons homework assessment entirely, it signals AI has crossed a threshold that forces structural changes to education — relevant for anyone thinking about AI's effect on skill development and knowledge work pipelines.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html"&gt;The Daily Californian (via Hacker News)&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban"&gt;r/opensource Bans All AI Projects — Rival Subreddit Immediately Formed&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Oct 25, 13:25&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;The moderators of r/opensource, one of Reddit's largest open source communities, have banned any project that uses AI, is made by AI, or is intended for AI use, declaring it 'incongruent to this Open Source community.' The move triggered immediate backlash and spawned a competing subreddit, r/trueopensource, within hours. The decision reflects a deepening ideological fracture in open source communities over whether AI development tools and AI-assisted code are compatible with open source values.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;A major open source community explicitly excluding AI projects signals a cultural split that will affect where AI-adjacent projects build community, seek contributors, and establish legitimacy.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban"&gt;The Verge&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Technology&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theverge.com/tech/1018253/now-you-can-watch-instagram-reels-on-your-apple-tv"&gt;Instagram Reels Now Available on Apple TV — Meta Completes Living Room Expansion&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Oct 25, 16:20&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Meta has quietly added Apple TV support to its Instagram for TV app, completing its rollout across all major streaming platforms including Amazon Fire TV, Samsung Smart TVs, and Google TV. The app surfaces Reels, live streams, and video content optimized for the 10-foot viewing experience. The expansion positions Instagram as a direct living room competitor to YouTube and TikTok, which have both aggressively pursued TV-screen distribution.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Instagram completing its TV platform rollout is a meaningful shift in the streaming attention landscape — relevant for anyone tracking social media's expansion into living room screens or planning video content distribution strategy.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.theverge.com/tech/1018253/now-you-can-watch-instagram-reels-on-your-apple-tv"&gt;The Verge&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Business &amp; Markets&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.nytimes.com/2026/10/24/business/audi-factory-georgia-trump.html"&gt;Audi Georgia Factory Confirmed — Full Details on Tariff-Forced US Manufacturing Shift&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Oct 25, 15:30&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Updated NYT coverage confirms Audi's Georgia factory announcement with additional detail: the Volkswagen division, which currently imports all US-market vehicles from Europe or Mexico, has been directly compelled by US tariffs to commit to domestic production. This is a follow-up to prior briefs' initial reporting and now carries presidential confirmation. The move represents a structural realignment of VW Group's North American manufacturing footprint under trade policy pressure.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Covered for continuity — the factory is now formally confirmed with sourcing detail, closing the loop on a major trade policy story from prior briefs.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.nytimes.com/2026/10/24/business/audi-factory-georgia-trump.html"&gt;NYT Business&lt;/a&gt;&lt;br&gt;
+&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>Afternoon — Oct 25, 2026</title>
     <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-10-25-afternoon.html"/>
@@ -2030,59 +2078,6 @@
 &lt;p&gt;Oklahoma families faced the hottest summer on record while simultaneously confronting an electricity crisis driven by surging demand — with AI data center load growth cited as a compounding factor on regional grids. The NYT piece frames Oklahoma as a preview of a broader national pattern where extreme heat and AI infrastructure power consumption are converging to stress electricity systems that were not designed for either at current scale. Rate increases and reliability concerns are hitting residential customers hardest.&lt;/p&gt;&lt;br&gt;
 &lt;p&gt;&lt;blockquote&gt;&lt;em&gt;The collision of climate-driven demand spikes and AI data center power consumption is creating real grid stress — this is the infrastructure constraint that will shape AI deployment geography and energy policy over the next decade.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
 &lt;p&gt;Sources: &lt;a href="https://www.nytimes.com/2026/10/18/us/oklahoma-extreme-heat-electricity-crisis.html"&gt;NYT&lt;/a&gt;&lt;br&gt;
-&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>Afternoon — Oct 18, 2026</title>
-    <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-10-18-afternoon.html"/>
-    <id>https://jonaskjellin.github.io/pulsebrief-site/2026-10-18-afternoon.html</id>
-    <updated>2026-10-18T14:13:17.970Z</updated>
-    <content type="html">&lt;p&gt;&lt;h1&gt;PulseBrief's Afternoon Pulse&lt;/h1&gt;&lt;br&gt;
-&lt;em&gt;Sun, Oct 18, 05:00 → Sun, Oct 18, 11:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;Cyber Security&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://thehackernews.com/2026/10/connectwise-suspends-cloud-backup-after.html"&gt;ConnectWise Disables Seven Application Identities After M365 Supply Chain Breach — Investigation Ongoing&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Oct 18, 08:23&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;ConnectWise has disabled seven application identities tied to its Cloud Backup service as its investigation into the supply chain breach continues, with the specific IDs now publicly named. The action confirms the scope of the compromise extends across multiple application credentials, not a single identity — indicating attackers had broad access to the trusted backup application's permissions across customer M365 environments. Any organization using ConnectWise Cloud Backup should treat all seven listed application identities as potentially abused and audit downstream M365 tenant activity.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;The named identity list and service suspension confirm this is a major, ongoing MSP supply chain incident — the most important update to the week's top cyber story.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://thehackernews.com/2026/10/connectwise-suspends-cloud-backup-after.html"&gt;The Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.securityweek.com/us-cybersecurity-job-postings-fall-26-as-ai-security-engineer-demand-soars/"&gt;US Cybersecurity Job Postings Fall 26% Overall — AI Security Engineer Demand Surges Against the Trend&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Oct 18, 11:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;CyberSN's 2026 Cybersecurity Jobs Report shows a 26% year-over-year decline in US cybersecurity job postings, even as demand for AI security engineers is rising sharply against the broader contraction. The divergence signals that AI is simultaneously displacing demand for traditional security roles while creating a new specialist category that commands a hiring premium. Organizations reducing security headcount while AI attack surfaces expand face a compounding risk gap.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;A 26% drop in cybersecurity hiring paired with surging AI security demand signals a structural workforce shift that affects team planning, vendor reliance, and organizational risk posture.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.securityweek.com/us-cybersecurity-job-postings-fall-26-as-ai-security-engineer-demand-soars/"&gt;SecurityWeek&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;AI &amp; Machine Learning&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://api-docs.deepseek.com/guides/search/"&gt;DeepSeek Launches Search and Fetch API at $0.75 per 1,000 Successful Requests — 327 HN Points on Launch&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Oct 18, 06:50&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;DeepSeek has announced a search and fetch API offering web search and content retrieval capabilities priced at $0.75 per 1,000 successful requests, generating 327 Hacker News points and 158 comments within hours. The pricing positions DeepSeek's search API as a direct competitor to Bing Search API and other web data providers used by AI applications and agentic systems. DeepSeek has repeatedly reset cost benchmarks across model inference, and applying that pressure to search infrastructure threatens the economics of competing search data providers.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;DeepSeek entering the search API market at aggressive pricing directly affects the build-vs-buy calculus for any team powering AI agents or applications with web search capabilities.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://api-docs.deepseek.com/guides/search/"&gt;DeepSeek API Docs (via Hacker News)&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/"&gt;Legal Experts: Meta's Revised Terms Still Grant Broad Scraping Rights Despite Language Removal&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Oct 18, 10:21&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Nieman Lab reports that legal experts reviewing Meta's updated terms of service — from which the explicit scraping language was removed following public backlash — conclude that the remaining language still grants Meta broad permissions to crawl and use content from business customers' websites. The analysis undermines Meta's framing that the revision was a meaningful concession, suggesting the removal was a PR response rather than a substantive narrowing of data rights. The remaining permissions may be less explicit but are legally interpreted as equally permissive.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;If Meta's revised terms still permit broad scraping, the data governance exposure for publishers and business customers using Meta's platforms is unchanged despite the retraction — the fight is not over.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/"&gt;Nieman Lab&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.wired.com/story/onlyfans-creators-are-pissed-that-meta-lets-muse-talk-dirty/"&gt;OnlyFans Creators Challenge Meta's Double Standard — Muse AI Agent Permitted to Sext While Human Creators Face Platform Bans&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Oct 18, 10:30&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Adult content creators on OnlyFans are publicly criticizing Meta for allowing its Muse AI agent to engage in explicit sexual conversation while simultaneously restricting their own social media accounts and promotional activity on Meta's platforms. The controversy surfaces a structural double standard: Meta enforces human-content moderation rules that restrict adult creators while its own AI agent operates under different or absent constraints. The dispute is generating significant coverage as a test case for how platform content policies apply asymmetrically to AI-generated versus human-generated adult content.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;The asymmetric treatment of human adult creators versus Meta's own AI agent reveals a policy inconsistency with implications for content moderation governance, creator economics, and AI product liability.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.wired.com/story/onlyfans-creators-are-pissed-that-meta-lets-muse-talk-dirty/"&gt;Wired&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;Technology&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.wired.com/story/data-center-industry-is-trying-to-woo-kids/"&gt;Data Center Industry Launches Youth Outreach Campaign — Field Trips and Education Programs Amid Community Backlash&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Oct 18, 10:30&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Industry groups linked to major data center operators are running organized programs to bring school children on field trips to data center facilities, part of a broader PR strategy to build community goodwill as data center expansion faces growing local opposition over water use, power consumption, and noise. Wired frames the effort as a 'time-tested' industry playbook for neutralizing grassroots resistance through youth engagement and education initiatives. The campaign reflects the scale of the backlash that AI infrastructure build-out is generating in communities hosting these facilities.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Community opposition to data center expansion is becoming a meaningful constraint on AI infrastructure deployment timelines — understanding the industry's political response matters for anyone tracking AI infrastructure capacity.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.wired.com/story/data-center-industry-is-trying-to-woo-kids/"&gt;Wired&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;Business &amp; Markets&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.nytimes.com/2026/10/18/business/economy/economy-midterm-elections.html"&gt;US Economy Heading Into Midterms: High Inflation, Strong Spending, AI Uncertainty — NYT Chartpack&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Oct 18, 09:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;The New York Times publishes a midterm election economic snapshot showing inflation remains elevated, consumer spending is resilient, and AI's economic trajectory has become the dominant variable in forecasting the next phase of growth. The combination of sticky inflation and strong spending creates a stagflation-adjacent picture that complicates Federal Reserve rate policy heading into the election. AI's outsized role in the economic narrative — both as growth driver and potential disruptor — makes the midterm outcome a significant variable for technology investment and regulatory posture.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;The economic backdrop heading into midterms directly shapes the regulatory and fiscal environment for technology and AI investment over the next two years.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.nytimes.com/2026/10/18/business/economy/economy-midterm-elections.html"&gt;NYT Business&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.politico.eu/article/ukraine-strikes-oil-facility-st-petersburg-part-massive-drone-attack/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS_Syndication"&gt;Ukraine Strikes St. Petersburg Oil Facility in Massive Drone Attack — Escalation After Russia Sanctions Waiver&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Oct 18, 10:40&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Ukraine launched a large-scale drone attack striking an oil facility in St. Petersburg, the deepest strike into Russian territory in months, coming days after Zelenskyy stated he had resumed targeting Russian energy infrastructure. The attack follows the Trump administration's decision to waive new Russia sanctions, a move Kyiv had sharply criticized. The escalation in strike depth and target selection signals Ukraine is pursuing maximum economic pressure on Russia's energy export capacity even as US diplomatic posture shifts.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Strikes on Russian energy infrastructure at this scale affect global energy supply assumptions and European business operating environment — directly relevant given the prior brief's Trump sanctions waiver story.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.politico.eu/article/ukraine-strikes-oil-facility-st-petersburg-part-massive-drone-attack/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS_Syndication"&gt;Politico EU&lt;/a&gt;&lt;br&gt;
 &lt;/p&gt;</content>
   </entry>
 </feed>

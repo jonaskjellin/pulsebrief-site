@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Evening — Oct 25, 2026 — PulseBrief</title>
+  <link rel="alternate" type="application/atom+xml" title="PulseBrief Feed" href="feed.xml">
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { font-family: -apple-system, system-ui, sans-serif; max-width: 720px; margin: 0 auto; padding: 24px 16px; color: #1a1a1a; line-height: 1.6; }
+    h1 { font-size: 1.6em; margin-bottom: 4px; }
+    h2 { font-size: 1.2em; margin-top: 32px; margin-bottom: 16px; color: #444; border-bottom: 1px solid #eee; padding-bottom: 8px; }
+    h3 { font-size: 1em; margin-top: 20px; margin-bottom: 4px; }
+    h3 a { color: #1a1a1a; text-decoration: none; border-bottom: 1px solid #ccc; }
+    h3 a:hover { border-color: #333; }
+    p { margin-bottom: 12px; }
+    blockquote { border-left: 3px solid #ddd; padding-left: 12px; color: #555; margin: 8px 0 12px; }
+    em { font-style: italic; }
+    a { color: #0066cc; }
+    hr { border: none; border-top: 1px solid #eee; margin: 32px 0; }
+    .meta { color: #888; font-size: 0.9em; }
+    .sources { font-size: 0.85em; color: #666; }
+    .nav { margin-bottom: 24px; font-size: 0.9em; }
+    .nav a { color: #0066cc; text-decoration: none; }
+    .brief-list { list-style: none; }
+    .brief-list li { padding: 8px 0; border-bottom: 1px solid #f0f0f0; }
+    .brief-list a { text-decoration: none; color: #1a1a1a; }
+    .brief-list .date { color: #888; font-size: 0.85em; }
+  </style>
+</head>
+<body>
+  <div class="nav"><a href="./">← All Briefs</a> · <a href="feed.xml">RSS</a></div>
+  <p><h1>PulseBrief's Evening Pulse</h1><br>
+<em>Sun, Oct 25, 12:00 → Sun, Oct 25, 17:00</em></p><br>
+<p><h2>Cyber Security</h2></p><br>
+<p><h3><a href="https://www.bleepingcomputer.com/news/security/ai-coding-agents-hijacked-using-agentsmd-file-in-downloads-folder/">AI Coding Agents Hijacked via Malicious AGENTS.md File in Downloads Folder</a></h3><br>
+<em>Oct 25, 15:49</em></p><br>
+<p>Researchers discovered a malicious AGENTS.md markdown instruction file placed in a customer's Downloads folder that successfully tricked an AI coding agent into installing a rogue npm package — exploiting the convention where coding agents automatically ingest instruction files from the local filesystem. The attack requires no code execution or privilege escalation; placing a crafted markdown file in a location the agent reads is sufficient to redirect its behavior. The technique works against any AI coding agent that trusts local instruction files without verification, including widely deployed tools like Claude Code, Cursor, and Copilot Workspace.</p><br>
+<p><blockquote><em>A trivially simple attack vector — a text file in Downloads — that hijacks AI coding agents is a critical finding for any team deploying agentic coding tools in development environments.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.bleepingcomputer.com/news/security/ai-coding-agents-hijacked-using-agentsmd-file-in-downloads-folder/">BleepingComputer</a></p><br>
+<p><h3><a href="https://www.dreamhoststatus.com/">Active Security Incident at Dreamhost — Forced Password Resets Underway</a></h3><br>
+<em>Oct 25, 13:09</em></p><br>
+<p>Dreamhost has confirmed an active security incident, forcing password resets for affected customers. Details on the scope, nature of the compromise, and number of accounts affected have not yet been fully disclosed. Dreamhost hosts a significant number of small business and developer websites, meaning any credential compromise could have downstream effects on sites and services running on the platform.</p><br>
+<p><blockquote><em>An active, unresolved incident at a major web host warrants immediate awareness for anyone with Dreamhost-hosted infrastructure or credentials.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.dreamhoststatus.com/">Dreamhost Status (via Hacker News)</a></p><br>
+<p><h2>AI & Machine Learning</h2></p><br>
+<p><h3><a href="https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/">Apollo Economist: AI Has Delivered 'Zero Financial Payoff' to Most Companies</a></h3><br>
+<em>Oct 25, 16:57</em></p><br>
+<p>Apollo Global's chief economist states that despite massive AI investment and widespread hype, the technology has delivered zero measurable financial payoff to corporate America outside the tech sector itself. The assessment reinforces the growing CEO-employee perception gap covered in prior briefs — executives report successful rollouts while bottom-line results remain elusive for non-tech firms. The Apollo framing carries weight as an independent, investment-oriented analysis rather than a vendor or advocacy position.</p><br>
+<p><blockquote><em>An economist at a major private equity firm calling out AI's lack of financial returns for most enterprises is a direct challenge to board-level AI investment narratives — relevant for anyone justifying or evaluating AI spend.</em></blockquote></p><br>
+<p>Sources: <a href="https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/">TechCrunch</a></p><br>
+<p><h3><a href="https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html">UC Berkeley Math Professor Stops Grading Homework — AI Use Makes It Pointless</a></h3><br>
+<em>Oct 25, 16:28</em></p><br>
+<p>A UC Berkeley mathematics professor has publicly stated they see 'no point' in grading homework assignments because student use of AI tools makes it impossible to assess whether students have developed understanding or simply offloaded the work. The comment has generated significant Hacker News discussion (77 comments) and reflects a broader collapse of traditional assessment models at research universities. It follows Terence Tao's organized mathematical fact-checking initiative from prior briefs and compounds the picture of AI fundamentally disrupting mathematical education and verification.</p><br>
+<p><blockquote><em>When a Berkeley math professor abandons homework assessment entirely, it signals AI has crossed a threshold that forces structural changes to education — relevant for anyone thinking about AI's effect on skill development and knowledge work pipelines.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html">The Daily Californian (via Hacker News)</a></p><br>
+<p><h3><a href="https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban">r/opensource Bans All AI Projects — Rival Subreddit Immediately Formed</a></h3><br>
+<em>Oct 25, 13:25</em></p><br>
+<p>The moderators of r/opensource, one of Reddit's largest open source communities, have banned any project that uses AI, is made by AI, or is intended for AI use, declaring it 'incongruent to this Open Source community.' The move triggered immediate backlash and spawned a competing subreddit, r/trueopensource, within hours. The decision reflects a deepening ideological fracture in open source communities over whether AI development tools and AI-assisted code are compatible with open source values.</p><br>
+<p><blockquote><em>A major open source community explicitly excluding AI projects signals a cultural split that will affect where AI-adjacent projects build community, seek contributors, and establish legitimacy.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban">The Verge</a></p><br>
+<p><h2>Technology</h2></p><br>
+<p><h3><a href="https://www.theverge.com/tech/1018253/now-you-can-watch-instagram-reels-on-your-apple-tv">Instagram Reels Now Available on Apple TV — Meta Completes Living Room Expansion</a></h3><br>
+<em>Oct 25, 16:20</em></p><br>
+<p>Meta has quietly added Apple TV support to its Instagram for TV app, completing its rollout across all major streaming platforms including Amazon Fire TV, Samsung Smart TVs, and Google TV. The app surfaces Reels, live streams, and video content optimized for the 10-foot viewing experience. The expansion positions Instagram as a direct living room competitor to YouTube and TikTok, which have both aggressively pursued TV-screen distribution.</p><br>
+<p><blockquote><em>Instagram completing its TV platform rollout is a meaningful shift in the streaming attention landscape — relevant for anyone tracking social media's expansion into living room screens or planning video content distribution strategy.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.theverge.com/tech/1018253/now-you-can-watch-instagram-reels-on-your-apple-tv">The Verge</a></p><br>
+<p><h2>Business & Markets</h2></p><br>
+<p><h3><a href="https://www.nytimes.com/2026/10/24/business/audi-factory-georgia-trump.html">Audi Georgia Factory Confirmed — Full Details on Tariff-Forced US Manufacturing Shift</a></h3><br>
+<em>Oct 25, 15:30</em></p><br>
+<p>Updated NYT coverage confirms Audi's Georgia factory announcement with additional detail: the Volkswagen division, which currently imports all US-market vehicles from Europe or Mexico, has been directly compelled by US tariffs to commit to domestic production. This is a follow-up to prior briefs' initial reporting and now carries presidential confirmation. The move represents a structural realignment of VW Group's North American manufacturing footprint under trade policy pressure.</p><br>
+<p><blockquote><em>Covered for continuity — the factory is now formally confirmed with sourcing detail, closing the loop on a major trade policy story from prior briefs.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.nytimes.com/2026/10/24/business/audi-factory-georgia-trump.html">NYT Business</a><br>
+</p>
+</body>
+</html>
