@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Morning — Oct 26, 2026 — PulseBrief</title>
+  <link rel="alternate" type="application/atom+xml" title="PulseBrief Feed" href="feed.xml">
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { font-family: -apple-system, system-ui, sans-serif; max-width: 720px; margin: 0 auto; padding: 24px 16px; color: #1a1a1a; line-height: 1.6; }
+    h1 { font-size: 1.6em; margin-bottom: 4px; }
+    h2 { font-size: 1.2em; margin-top: 32px; margin-bottom: 16px; color: #444; border-bottom: 1px solid #eee; padding-bottom: 8px; }
+    h3 { font-size: 1em; margin-top: 20px; margin-bottom: 4px; }
+    h3 a { color: #1a1a1a; text-decoration: none; border-bottom: 1px solid #ccc; }
+    h3 a:hover { border-color: #333; }
+    p { margin-bottom: 12px; }
+    blockquote { border-left: 3px solid #ddd; padding-left: 12px; color: #555; margin: 8px 0 12px; }
+    em { font-style: italic; }
+    a { color: #0066cc; }
+    hr { border: none; border-top: 1px solid #eee; margin: 32px 0; }
+    .meta { color: #888; font-size: 0.9em; }
+    .sources { font-size: 0.85em; color: #666; }
+    .nav { margin-bottom: 24px; font-size: 0.9em; }
+    .nav a { color: #0066cc; text-decoration: none; }
+    .brief-list { list-style: none; }
+    .brief-list li { padding: 8px 0; border-bottom: 1px solid #f0f0f0; }
+    .brief-list a { text-decoration: none; color: #1a1a1a; }
+    .brief-list .date { color: #888; font-size: 0.85em; }
+  </style>
+</head>
+<body>
+  <div class="nav"><a href="./">← All Briefs</a> · <a href="feed.xml">RSS</a></div>
+  <p><h1>PulseBrief's Morning Pulse</h1><br>
+<em>Sun, Oct 25, 17:00 → Mon, Oct 26, 06:00</em></p><br>
+<p><h2>Cyber Security</h2></p><br>
+<p><h3><a href="https://thehackernews.com/2026/10/unpatched-tailscale-ssh-flaws-could-let.html">Tailscale SSH Flaw Lets a Compromised Device Reach Root on Other Servers</a></h3><br>
+<em>Oct 25, 17:44</em></p><br>
+<p>A security researcher has disclosed that a single hacked device on a Tailscale network can be used to gain root access on other servers it can reach, provided Tailscale SSH is configured to allow port forwarding. The attack requires an attacker who already controls one permitted device — a realistic post-compromise scenario in many enterprise environments. The vulnerability remains unpatched, making it immediately relevant for any organization using Tailscale SSH for internal access.</p><br>
+<p><blockquote><em>Tailscale is widely deployed as a zero-trust overlay network; an unpatched lateral movement path from any compromised node to root on other servers is a critical architectural risk.</em></blockquote></p><br>
+<p>Sources: <a href="https://thehackernews.com/2026/10/unpatched-tailscale-ssh-flaws-could-let.html">The Hacker News</a></p><br>
+<p><h3><a href="https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html">PHP2Shell: North Korea-Linked Scanning Continues as Unit 42 Retracts Government Agency Attribution</a></h3><br>
+<em>Oct 25, 17:19</em></p><br>
+<p>Palo Alto Networks Unit 42 has retracted its earlier assessment that a European government agency was compromised via PHP2Shell exploitation, clarifying the post-compromise activity occurred in the context of a vulnerable PHP application — not necessarily via the PHP2Shell flaws specifically. Separately, suspected North Korean actors continue global scanning activity targeting PHP2Shell vulnerabilities. The retraction complicates the threat picture but does not reduce urgency: active scanning by a nation-state actor is confirmed.</p><br>
+<p><blockquote><em>Nation-state scanning for PHP2Shell continues even as attribution is revised — organizations running vulnerable PHP applications remain in active crosshairs.</em></blockquote></p><br>
+<p>Sources: <a href="https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html">The Hacker News</a></p><br>
+<p><h3><a href="https://github.com/KillaBoi/StealMyBitcoin-PoC">PHP2Shell Exploit PoC Published — 'Steal My Bitcoin' Challenge Has a Public Answer</a></h3><br>
+<em>Oct 26, 24:15</em></p><br>
+<p>A public proof-of-concept for the PHP2Shell RCE vulnerability has been published on GitHub, directly responding to the live Bitcoin bounty challenge covered in the prior brief. The PoC generated 119 Hacker News points within hours of posting, confirming that the exploit is now in the public domain. Any organization that has not yet patched or mitigated PHP2Shell should treat this as a zero-day-equivalent situation.</p><br>
+<p><blockquote><em>A working public PoC for an actively scanned vulnerability eliminates the window between disclosure and exploitation — remediation is now urgent.</em></blockquote></p><br>
+<p>Sources: <a href="https://github.com/KillaBoi/StealMyBitcoin-PoC">GitHub (via Hacker News)</a></p><br>
+<p><h3><a href="https://www.theregister.com/networks/2026/10/26/work-to-protect-dns-from-quantum-decryption-attacks-is-speeding-up/5305274">DNS Post-Quantum Hardening Accelerates as Harvest-Now-Decrypt-Later Threat Grows</a></h3><br>
+<em>Oct 26, 04:08</em></p><br>
+<p>Work to protect DNS infrastructure from future quantum decryption attacks is accelerating across standards bodies and major operators, with new post-quantum cryptography integrations moving from experimental to production timelines. The urgency is driven by harvest-now-decrypt-later attack models, where adversaries capture encrypted DNS traffic today for future decryption once quantum computers become capable. DNS is a foundational internet protocol and a successful decryption capability would expose vast amounts of historical query data.</p><br>
+<p><blockquote><em>Post-quantum DNS hardening is moving from theoretical to operational — organizations with long-lived sensitive DNS traffic should be tracking migration timelines.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.theregister.com/networks/2026/10/26/work-to-protect-dns-from-quantum-decryption-attacks-is-speeding-up/5305274">The Register</a></p><br>
+<p><h2>AI & Machine Learning</h2></p><br>
+<p><h3><a href="https://minimaxir.com/2026/10/cheap-llms/">LLM Pricing Collapses: OpenAI and Anthropic Cut Prices Up to 80% in Months — Analysis</a></h3><br>
+<em>Oct 25, 21:11</em></p><br>
+<p>A detailed analysis generating 321 Hacker News points and 313 comments examines why OpenAI and Anthropic slashed LLM API prices by up to 80% within a few months — the highest-engagement story of the current period. The piece attributes the collapse to a combination of hardware efficiency gains, aggressive competition from open-weight models, and the strategic need to drive adoption at scale before the market consolidates. The pricing compression is reshaping build-vs-buy calculations for every team using frontier LLMs.</p><br>
+<p><blockquote><em>80% price cuts at the frontier model level change the unit economics of every AI product and internal tool built on API access — directly relevant for infrastructure and budget planning.</em></blockquote></p><br>
+<p>Sources: <a href="https://minimaxir.com/2026/10/cheap-llms/">Max Woolf (via Hacker News)</a></p><br>
+<p><h3><a href="https://lynchlab.net/llm-skin-cancer">10-Year-Old CNN Outperforms Frontier LLMs on Skin Cancer Diagnosis</a></h3><br>
+<em>Oct 25, 17:15</em></p><br>
+<p>A study by Lynch Lab found that a decade-old convolutional neural network trained specifically for dermatology outperforms current frontier LLMs including GPT-4 class models on skin cancer diagnosis benchmarks, generating 566 Hacker News points and 241 comments — the highest engagement of the current window. The finding is a significant counterpoint to the assumption that scale and generality in frontier models supersedes purpose-built, domain-specific architectures. It has direct implications for how AI is deployed in high-stakes medical contexts.</p><br>
+<p><blockquote><em>Documented evidence that a narrow 10-year-old model beats frontier LLMs in a consequential medical task challenges the 'bigger is always better' premise driving current AI investment.</em></blockquote></p><br>
+<p>Sources: <a href="https://lynchlab.net/llm-skin-cancer">Lynch Lab (via Hacker News)</a></p><br>
+<p><h3><a href="https://www.theregister.com/ai-and-ml/2026/10/26/after-threatening-ai-export-bans-china-allows-deepseek-to-keep-selling/5305267">China Allows DeepSeek to Keep Selling Internationally After Export Ban Threats</a></h3><br>
+<em>Oct 26, 24:39</em></p><br>
+<p>China has stepped back from threats to restrict DeepSeek's international sales, allowing the AI company to continue operating globally. The reversal follows significant diplomatic and commercial pressure, as DeepSeek has become one of China's most visible AI exports. The episode highlights the ongoing tension in Beijing between AI nationalism and the commercial and soft-power value of Chinese AI models operating in Western markets.</p><br>
+<p><blockquote><em>DeepSeek's continued global availability is a live signal in the US-China AI competition — relevant for anyone evaluating open-weight model sourcing or geopolitical AI supply chain risk.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.theregister.com/ai-and-ml/2026/10/26/after-threatening-ai-export-bans-china-allows-deepseek-to-keep-selling/5305267">The Register</a></p><br>
+<p><h3><a href="https://shattered.io/microsoft-decision-1-qwen3-5-9b-model-2026/">Microsoft Decision-1: A 9B Qwen-Based Model for Enterprise Decision-Making</a></h3><br>
+<em>Oct 26, 03:12</em></p><br>
+<p>Microsoft has launched Decision-1, a 9-billion parameter model built on the Qwen3.5 architecture, targeting enterprise decision-making and reasoning workflows. The model is positioned as a compact, deployable alternative to frontier-scale models for structured business logic tasks. The release reflects Microsoft's strategy of fine-tuning capable open-weight base models for specific enterprise use cases rather than competing purely on parameter count.</p><br>
+<p><blockquote><em>A Microsoft-branded compact reasoning model signals where enterprise AI deployment is heading — purpose-fit, cost-efficient models rather than frontier general-purpose ones.</em></blockquote></p><br>
+<p>Sources: <a href="https://shattered.io/microsoft-decision-1-qwen3-5-9b-model-2026/">Shattered.io (via Hacker News)</a></p><br>
+<p><h3><a href="https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/">Grok Releases First Seven Minutes of AI-Generated 'Odyssey' Film</a></h3><br>
+<em>Oct 25, 21:31</em></p><br>
+<p>xAI's Grok has released the opening seven minutes of 'Odyssey,' its AI-generated feature film project, marking one of the first long-form AI cinematic releases from a frontier lab. TechCrunch's assessment is blunt: the footage is technically adequate but lacks artistry, inspiration, or human interest. The release is nonetheless a milestone in AI video generation capability and a direct signal of xAI's ambitions beyond chatbots.</p><br>
+<p><blockquote><em>A frontier AI lab releasing minutes of generated feature film — however imperfect — marks a capability threshold that matters for anyone tracking AI's encroachment on creative industries.</em></blockquote></p><br>
+<p>Sources: <a href="https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/">TechCrunch</a></p><br>
+<p><h3><a href="https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html">The State of Context Engineering: How Teams Are Structuring LLM Inputs at Scale</a></h3><br>
+<em>Oct 25, 20:32</em></p><br>
+<p>A widely-shared analysis (188 HN points, 43 comments) surveys how engineering teams are approaching context engineering — the practice of deliberately structuring what information gets passed to LLMs to improve output quality and consistency. The piece identifies emerging patterns around retrieval strategies, prompt architecture, and context window management that are becoming standard practice in production AI systems. It reflects the maturation of LLM deployment from prototype to engineered systems.</p><br>
+<p><blockquote><em>Context engineering is becoming a core discipline for any team running LLMs in production — this is a useful state-of-the-art snapshot for practitioners.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html">dbreunig.com (via Hacker News)</a></p><br>
+<p><h2>Technology</h2></p><br>
+<p><h3><a href="https://www.theregister.com/virtualization/2026/10/26/tesco-replacing-vmware-with-proxmox-in-its-stores-and-on-the-edge/5305281">Tesco Replacing VMware with Proxmox Across All Stores and Edge Infrastructure</a></h3><br>
+<em>Oct 26, 05:24</em></p><br>
+<p>UK retail giant Tesco is migrating its in-store and edge virtualization infrastructure from VMware to Proxmox, advertising for engineers to 'own cost-effective alternative virtualisation platform.' The move is one of the largest disclosed VMware-to-Proxmox migrations at retail scale and signals that Broadcom's post-acquisition VMware pricing is driving enterprise defection even in operationally conservative sectors. Tesco operates thousands of stores, making this a meaningful data point on VMware's enterprise retention.</p><br>
+<p><blockquote><em>A FTSE 100 retailer publicly migrating away from VMware at scale is the clearest signal yet that Broadcom's pricing strategy is producing real enterprise churn — relevant for anyone still on VMware licensing negotiations.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.theregister.com/virtualization/2026/10/26/tesco-replacing-vmware-with-proxmox-in-its-stores-and-on-the-edge/5305281">The Register</a></p><br>
+<p><h3><a href="https://www.theverge.com/tech/1018233/ifixit-iphone-duo-teardown-repairability-hinge">iPhone Duo 'Crackgate': iFixit Teardown and YouTuber Dissection Point to Hinge Design Flaw</a></h3><br>
+<em>Oct 25, 20:16</em></p><br>
+<p>Both iFixit's formal teardown and an independent YouTuber's dissection have converged on the iPhone Duo's complex multi-hinge mechanism as the likely cause of widespread cracked screen reports, with failures consistently occurring at the same location. iFixit gave the Duo a 5/10 repairability score — the best ever for a foldable — while noting the hinge assembly's complexity. The reproducible failure pattern suggests a systemic engineering issue rather than isolated user error.</p><br>
+<p><blockquote><em>A reproducible hinge failure mode on Apple's first foldable — now backed by teardown evidence — is a significant product quality story with implications for enterprise device procurement decisions.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.theverge.com/tech/1018233/ifixit-iphone-duo-teardown-repairability-hinge">The Verge (iFixit teardown)</a> · <a href="https://www.theverge.com/tech/1018290/dissected-iphone-duo-crackgate-hinge-screen">The Verge (YouTuber dissection)</a></p><br>
+<p><h3><a href="https://talkweb.eu/openweb/4558/">Internet Censorship Resistance Goes Mainstream: FOSDEM 2027 Call Draws 476 HN Points</a></h3><br>
+<em>Oct 25, 17:30</em></p><br>
+<p>A call to action for developers and technologists to join an open web track at FOSDEM 2027 — framed around refusing to accept a censored internet — generated 476 Hacker News points and 231 comments, one of the highest-engagement posts of the current period. The response reflects significant grassroots technical community concern about internet censorship trends across both authoritarian and democratic governments. The FOSDEM platform will give the movement significant visibility in the European open source community.</p><br>
+<p><blockquote><em>The scale of community response to an anti-censorship call-to-action signals that internet freedom is becoming a mobilizing issue for the developer community — relevant for anyone building infrastructure or policy in this space.</em></blockquote></p><br>
+<p>Sources: <a href="https://talkweb.eu/openweb/4558/">TalkWeb (via Hacker News)</a></p><br>
+<p><h3><a href="https://www.theverge.com/tech/1018275/zen-browser-arc-replacement">Arc Browser Officially Dead — Zen Browser Emerges as the Leading Replacement</a></h3><br>
+<em>Oct 25, 19:24</em></p><br>
+<p>The Verge confirms Arc browser is officially being discontinued following Atlassian's acquisition of The Browser Company and its pivot to the AI-focused Dia browser. Zen Browser, a Firefox-based alternative that replicates Arc's key design innovations including launcher-like pinned tabs and pop-over glance view, is being recommended as the strongest replacement for the significant Arc user base. The Arc ecosystem's collapse is a notable case of a venture-backed product discontinuation affecting a loyal developer and power-user community.</p><br>
+<p><blockquote><em>Arc's shutdown affects a significant segment of technical and power users who built workflows around it — Zen is the actionable replacement to evaluate now.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.theverge.com/tech/1018275/zen-browser-arc-replacement">The Verge</a></p><br>
+<p><h2>Business & Markets</h2></p><br>
+<p><h3><a href="https://www.politico.eu/article/serbia-aleksandar-vucic-concedes-defeat-after-tense-parliamentary-elections/">Serbia's Vučić Loses Parliamentary Election in Landslide to Student Protest Movement</a></h3><br>
+<em>Oct 25, 21:18</em></p><br>
+<p>Serbian President Aleksandar Vučić has conceded defeat following parliamentary elections won in a landslide by a protest-backed student movement, marking one of the most significant democratic upsets in the Western Balkans in years. The movement emerged from months of student-led street protests against corruption and state capture. The outcome is a major shift in a country that has been a key EU accession candidate and a point of Russian and Chinese influence competition.</p><br>
+<p><blockquote><em>A democratic upset ending Vučić's political dominance in Serbia reshapes Balkans geopolitics and EU accession dynamics — significant for anyone tracking European political risk.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.politico.eu/article/serbia-aleksandar-vucic-concedes-defeat-after-tense-parliamentary-elections/">Politico EU</a></p><br>
+<p><h3><a href="https://www.nytimes.com/2026/10/24/business/airlines-ticket-prices.html">Airline Fares May Be Permanently Higher — Iran War Fuel Spike Has Structural Aftereffects</a></h3><br>
+<em>Oct 25, 22:13</em></p><br>
+<p>The New York Times reports that airlines are signaling airfare will remain elevated even after an end to the conflict with Iran, as the fuel cost spike has prompted hedging strategy changes, capacity reductions, and demand-side repricing that airlines say will not simply reverse when supply normalizes. Carriers are explicitly telling investors not to expect a return to pre-war fare levels. The structural framing distinguishes this from a typical cyclical cost pass-through.</p><br>
+<p><blockquote><em>Permanently elevated business travel costs are a direct operating expense impact for any organization with significant travel budgets — worth flagging for finance and operations teams.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.nytimes.com/2026/10/24/business/airlines-ticket-prices.html">NYT Business</a></p><br>
+<p><h3><a href="https://www.politico.eu/article/french-presidential-candidate-edouard-philippe-slipping-in-new-poll/">France's Édouard Philippe Slips in Presidential Polls as Le Pen Rises Amid Protests</a></h3><br>
+<em>Oct 26, 03:00</em></p><br>
+<p>A new Cluster 17 x Politico poll shows former PM Édouard Philippe losing three points in French presidential polling, falling behind Mélenchon, while Marine Le Pen gains ground — a shift that compounds the political instability picture from protests covered in the prior brief. The polling movement reflects the volatile political environment created by ongoing street unrest and economic anxiety. With the 2027 election approaching, the French political landscape is becoming increasingly unpredictable.</p><br>
+<p><blockquote><em>Le Pen's polling gains amid French political instability elevate the probability of a far-right French presidency — a material scenario for European institutional and market stability.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.politico.eu/article/french-presidential-candidate-edouard-philippe-slipping-in-new-poll/">Politico EU</a><br>
+</p>
+</body>
+</html>
