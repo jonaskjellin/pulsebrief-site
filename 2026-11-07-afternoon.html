@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Afternoon — Nov 7, 2026 — PulseBrief</title>
+  <link rel="alternate" type="application/atom+xml" title="PulseBrief Feed" href="feed.xml">
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { font-family: -apple-system, system-ui, sans-serif; max-width: 720px; margin: 0 auto; padding: 24px 16px; color: #1a1a1a; line-height: 1.6; }
+    h1 { font-size: 1.6em; margin-bottom: 4px; }
+    h2 { font-size: 1.2em; margin-top: 32px; margin-bottom: 16px; color: #444; border-bottom: 1px solid #eee; padding-bottom: 8px; }
+    h3 { font-size: 1em; margin-top: 20px; margin-bottom: 4px; }
+    h3 a { color: #1a1a1a; text-decoration: none; border-bottom: 1px solid #ccc; }
+    h3 a:hover { border-color: #333; }
+    p { margin-bottom: 12px; }
+    blockquote { border-left: 3px solid #ddd; padding-left: 12px; color: #555; margin: 8px 0 12px; }
+    em { font-style: italic; }
+    a { color: #0066cc; }
+    hr { border: none; border-top: 1px solid #eee; margin: 32px 0; }
+    .meta { color: #888; font-size: 0.9em; }
+    .sources { font-size: 0.85em; color: #666; }
+    .nav { margin-bottom: 24px; font-size: 0.9em; }
+    .nav a { color: #0066cc; text-decoration: none; }
+    .brief-list { list-style: none; }
+    .brief-list li { padding: 8px 0; border-bottom: 1px solid #f0f0f0; }
+    .brief-list a { text-decoration: none; color: #1a1a1a; }
+    .brief-list .date { color: #888; font-size: 0.85em; }
+  </style>
+</head>
+<body>
+  <div class="nav"><a href="./">← All Briefs</a> · <a href="feed.xml">RSS</a></div>
+  <p><h1>PulseBrief's Afternoon Pulse</h1><br>
+<em>Sat, Nov 7, 06:00 → Sat, Nov 7, 12:00</em></p><br>
+<p><h2>Cyber Security</h2></p><br>
+<p><h3><a href="https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html">Claude Code's 'Don't Ask Again' Feature Leaks 2,539 Secrets Across 1,994 Public GitHub Repos</a></h3><br>
+<em>Nov 7, 06:44</em></p><br>
+<p>When developers select 'Yes, and don't ask again' in Claude Code, the tool saves the approved command verbatim — including any passwords or API keys embedded in it — to a project settings file that often ends up committed to public GitHub repositories. Apiiro researchers found 2,539 distinct secrets across 1,994 public repositories, affecting 63 organizations, mostly software companies. Any developer who has used this workflow and pushed their project to a public repo should audit their settings files and rotate exposed credentials immediately.</p><br>
+<p><blockquote><em>A widely-used AI coding assistant is silently exfiltrating secrets to public GitHub through a routine UX interaction — this is an active, ongoing credential exposure affecting thousands of repositories right now.</em></blockquote></p><br>
+<p>Sources: <a href="https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html">The Hacker News</a> · <a href="https://cybersecuritynews.com/claude-codes-yes-and-dont-ask-again/">Cybersecurity News</a></p><br>
+<p><h3><a href="https://www.securityweek.com/sonicwall-patches-exploited-sonicos-bug-that-weakens-vpn-logins/">SonicWall Patches Actively Exploited SonicOS Bug That Bypasses SAML MFA on VPNs</a></h3><br>
+<em>Nov 7, 10:16</em></p><br>
+<p>CVE-2026-19868 allows attackers holding credentials for any alternative login method to bypass SAML authentication checks on SonicWall SSL-VPN — including SAML-enforced MFA — and is already being exploited in the wild. This is an update to the SonicWall emergency patch story from yesterday's brief; the specific mechanism is now confirmed as a SAML bypass rather than a generic authentication weakness. Any organization running SonicWall SSL-VPN with SAML MFA should treat this as a perimeter failure until patched.</p><br>
+<p><blockquote><em>Active exploitation of an MFA bypass on a widely deployed enterprise VPN — with the specific SAML bypass mechanism now confirmed — means the patch window is closing fast.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.securityweek.com/sonicwall-patches-exploited-sonicos-bug-that-weakens-vpn-logins/">SecurityWeek</a></p><br>
+<p><h3><a href="https://www.theregister.com/security/2026/11/07/nhs-breach-helpline-left-staff-carrying-a-significant-emotional-burden/5308201">NHS Breach Helpline Stretched 11 Months, Left Staff With 'Significant Emotional Burden' — Governance Failure Detailed</a></h3><br>
+<em>Nov 7, 10:30</em></p><br>
+<p>A post-incident review of the NHS breach helpline operation reveals staff were given a single day's notice before facing distressed callers and high-stakes safeguarding decisions, with a project initially scoped for two weeks running for eleven months. The report documents a significant organizational failure in breach response planning at one of the world's largest health systems. The findings are relevant for any large organization building or reviewing its own breach notification and victim support capabilities.</p><br>
+<p><blockquote><em>The NHS case is a detailed, real-world data point on how breach response operations fail at scale — directly applicable to incident response planning for any large organization handling sensitive personal data.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.theregister.com/security/2026/11/07/nhs-breach-helpline-left-staff-carrying-a-significant-emotional-burden/5308201">The Register</a></p><br>
+<p><h2>AI & Machine Learning</h2></p><br>
+<p><h3><a href="https://www.anthropic.com/research/components-of-agent-memory">Anthropic Publishes Research on Components of Agent Memory — First-Party Signal on Agentic Architecture</a></h3><br>
+<em>Nov 7, 06:39</em></p><br>
+<p>Anthropic has published a research piece mapping the components of memory in AI agents — covering in-context, external, and parametric memory types and how they interact in agentic systems. The piece drew 103 Hacker News points and 60 comments, indicating meaningful practitioner engagement. As a first-party Anthropic publication, it signals where the company is focusing architectural research as agent deployments scale.</p><br>
+<p><blockquote><em>Direct Anthropic research on agent memory architecture is a first-party signal about the building blocks of the agentic systems that are simultaneously being identified as a major security risk — understanding the architecture is prerequisite to securing it.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.anthropic.com/research/components-of-agent-memory">Anthropic</a></p><br>
+<p><h3><a href="https://8rank.ai/game/apple-intelligence-personal-knowledge-graph">Every Mac Contains an Undocumented Apple Intelligence Family Member Classifier — Personal Knowledge Graph Exposed</a></h3><br>
+<em>Nov 7, 09:46</em></p><br>
+<p>Researchers have found that Apple Intelligence ships with an undocumented on-device classifier that attempts to identify which contacts in a user's address book are family members, as part of a broader personal knowledge graph. The finding drew 379 Hacker News points and 215 comments, reflecting significant community concern about undisclosed on-device inference about personal relationships. The classifier runs locally without user awareness or documented disclosure in Apple's privacy documentation.</p><br>
+<p><blockquote><em>An undocumented on-device relationship classifier in a product used by hundreds of millions of people is a privacy disclosure and trust issue that Apple has not addressed — worth tracking as regulatory scrutiny of AI features intensifies.</em></blockquote></p><br>
+<p>Sources: <a href="https://8rank.ai/game/apple-intelligence-personal-knowledge-graph">Hacker News</a></p><br>
+<p><h2>Business & Markets</h2></p><br>
+<p><h3><a href="https://www.nytimes.com/2026/11/07/business/economy/nvidia-chips-chinese-firms.html">Commerce Department Approved Dozens of Chinese Firms With Sanctions Ties to Receive Nvidia H200 Chips</a></h3><br>
+<em>Nov 7, 10:00</em></p><br>
+<p>The New York Times reports that the Commerce Department cleared dozens of Chinese companies to handle Nvidia's most advanced export-controlled H200 chips, including some with ties to sanctioned entities and firms operating from offices that appear empty or non-functional. The approvals represent a significant breakdown in export control enforcement at precisely the moment Congress and the White House are attempting to restrict China's access to frontier AI hardware. The findings follow the confirmed Chinese intelligence operation targeting Nvidia CEO Jensen Huang reported yesterday.</p><br>
+<p><blockquote><em>Export control enforcement failures allowing sanctioned-linked Chinese firms to legally receive frontier AI chips directly undercuts the US semiconductor restriction strategy — a material policy and competitive intelligence finding.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.nytimes.com/2026/11/07/business/economy/nvidia-chips-chinese-firms.html">New York Times</a><br>
+</p>
+</body>
+</html>
