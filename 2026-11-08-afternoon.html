@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Afternoon — Nov 8, 2026 — PulseBrief</title>
+  <link rel="alternate" type="application/atom+xml" title="PulseBrief Feed" href="feed.xml">
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { font-family: -apple-system, system-ui, sans-serif; max-width: 720px; margin: 0 auto; padding: 24px 16px; color: #1a1a1a; line-height: 1.6; }
+    h1 { font-size: 1.6em; margin-bottom: 4px; }
+    h2 { font-size: 1.2em; margin-top: 32px; margin-bottom: 16px; color: #444; border-bottom: 1px solid #eee; padding-bottom: 8px; }
+    h3 { font-size: 1em; margin-top: 20px; margin-bottom: 4px; }
+    h3 a { color: #1a1a1a; text-decoration: none; border-bottom: 1px solid #ccc; }
+    h3 a:hover { border-color: #333; }
+    p { margin-bottom: 12px; }
+    blockquote { border-left: 3px solid #ddd; padding-left: 12px; color: #555; margin: 8px 0 12px; }
+    em { font-style: italic; }
+    a { color: #0066cc; }
+    hr { border: none; border-top: 1px solid #eee; margin: 32px 0; }
+    .meta { color: #888; font-size: 0.9em; }
+    .sources { font-size: 0.85em; color: #666; }
+    .nav { margin-bottom: 24px; font-size: 0.9em; }
+    .nav a { color: #0066cc; text-decoration: none; }
+    .brief-list { list-style: none; }
+    .brief-list li { padding: 8px 0; border-bottom: 1px solid #f0f0f0; }
+    .brief-list a { text-decoration: none; color: #1a1a1a; }
+    .brief-list .date { color: #888; font-size: 0.85em; }
+  </style>
+</head>
+<body>
+  <div class="nav"><a href="./">← All Briefs</a> · <a href="feed.xml">RSS</a></div>
+  <p><h1>PulseBrief's Afternoon Pulse</h1><br>
+<em>Sun, Nov 8, 06:00 → Sun, Nov 8, 12:00</em></p><br>
+<p><h2>AI & Machine Learning</h2></p><br>
+<p><h3><a href="https://github.com/synchopate/llama-modchip">Llama-Modchip Runs 284B DeepSeek on 64GB RAM With No GPU — 161 HN Points</a></h3><br>
+<em>Nov 8, 10:22</em></p><br>
+<p>A new open-source project called llama-modchip enables running DeepSeek's 284 billion parameter model on commodity hardware with 64GB of RAM and no discrete GPU, drawing 161 Hacker News points and 53 comments. The approach uses aggressive quantization and CPU offloading to bring frontier-class inference within reach of developers who cannot access GPU clusters. If the technique generalizes, it significantly lowers the hardware bar for running large models locally — accelerating the shift away from hosted inference that has been a recurring HN theme.</p><br>
+<p><blockquote><em>Running a 284B model on consumer RAM without a GPU is a meaningful capability threshold — it accelerates local inference as a viable alternative to cloud AI for cost- and privacy-sensitive workloads.</em></blockquote></p><br>
+<p>Sources: <a href="https://github.com/synchopate/llama-modchip">GitHub (synchopate)</a></p><br>
+<p><h3><a href="https://www.lorekit.io/blog/open-agent-memory-format">Agent Memory Needs an OpenTelemetry Moment — 118 HN Points, 87 Comments</a></h3><br>
+<em>Nov 8, 08:40</em></p><br>
+<p>A widely-discussed post argues that agentic AI systems lack a shared, interoperable memory format — the equivalent of what OpenTelemetry did for observability — leaving every agent framework with incompatible memory representations that prevent portability, debugging, and auditing. The 118-point HN discussion with 87 comments reflects genuine practitioner frustration with the current fragmentation. As Anthropic published its own agent memory architecture research earlier this window, the timing suggests the memory standardization problem is becoming acute across the industry.</p><br>
+<p><blockquote><em>Memory interoperability is a foundational gap in agentic AI infrastructure — this is the kind of coordination problem that either gets solved by an emerging standard or becomes a long-term ecosystem bottleneck.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.lorekit.io/blog/open-agent-memory-format">Lorekit</a></p><br>
+<p><h3><a href="https://www.wired.com/story/world-models-will-soon-be-inescapable-what-you-need-to-know/">World Models Explained: The Next Layer of AI Moving From Text to Physics-Aware 3D Simulation</a></h3><br>
+<em>Nov 8, 10:00</em></p><br>
+<p>Wired provides a primer on world models — AI systems that simulate real-world physics and spatial relationships rather than processing text — and argues they are becoming the foundational layer for robotics and autonomous vehicles. Unlike language models, world models must maintain coherent representations of objects, causality, and time, making them significantly harder to build but potentially more capable for physical tasks. The piece frames world models as the missing link between current AI capabilities and embodied agents that can reliably operate in the real world.</p><br>
+<p><blockquote><em>World models are the architectural bet underlying most serious robotics and autonomous vehicle programs — understanding the concept is prerequisite to tracking where physical AI is heading.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.wired.com/story/world-models-will-soon-be-inescapable-what-you-need-to-know/">Wired</a></p><br>
+<p><h3><a href="https://www.wired.com/story/nyt-cooking-new-ai-powered-recipe-modifier-is-pretty-good/">NYT Cooking Launches AI Recipe Modifier in Beta — Ingredient Swaps and Dietary Adjustments That Mostly Work</a></h3><br>
+<em>Nov 8, 12:00</em></p><br>
+<p>The New York Times has shipped a beta AI feature inside its Cooking app that lets users modify recipes — swapping ingredients, adjusting for dietary restrictions, or scaling quantities — with Wired's reviewer finding it performs reasonably well on common substitutions. The feature represents one of the cleaner consumer AI integrations of the current cycle, embedded directly into a task-focused product rather than bolted on as a generic chatbot. It is a useful data point on how legacy media subscription products are adding AI value.</p><br>
+<p><blockquote><em>NYT Cooking is a mass-market consumer app — a working AI modifier here is a concrete example of AI feature integration done well enough to earn positive press coverage.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.wired.com/story/nyt-cooking-new-ai-powered-recipe-modifier-is-pretty-good/">Wired</a></p><br>
+<p><h2>Technology</h2></p><br>
+<p><h3><a href="https://www.theregister.com/networks/2026/11/08/internet-governance-about-to-get-its-quadrennial-stress-test-at-itu-meeting/5308031">ITU Meeting Opens With 278 Proposals That Could Shift Internet Governance to Governments</a></h3><br>
+<em>Nov 8, 09:33</em></p><br>
+<p>The International Telecommunication Union's quadrennial meeting is underway with 278 proposals on the table, some of which would significantly expand government authority over internet infrastructure and routing decisions. Critics warn certain proposals could fragment the open internet by giving state actors more direct control over traffic flows and naming systems. The meeting occurs every four years and represents one of the few venues where national governments can formally reshape the rules of global internet governance.</p><br>
+<p><blockquote><em>ITU governance shifts can redefine how the internet operates at infrastructure level — the proposals on the table this cycle are worth watching closely.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.theregister.com/networks/2026/11/08/internet-governance-about-to-get-its-quadrennial-stress-test-at-itu-meeting/5308031">The Register</a></p><br>
+<p><h3><a href="https://www.politico.eu/article/russian-strikes-leave-600000-in-the-dark-in-eastern-ukraine-dnipropetrovsk/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication">Russian Strikes Knock Out Power for 600,000 in Eastern Ukraine — Zelenskyy Calls for Expanded Sanctions</a></h3><br>
+<em>Nov 8, 11:09</em></p><br>
+<p>Russian missile and drone strikes on energy infrastructure in Ukraine's Dnipropetrovsk region have left approximately 600,000 residents without electricity. Ukrainian President Zelenskyy used the strikes to press allies for further economic sanctions on Russia ahead of scheduled talks in Abu Dhabi. The attack is part of Russia's sustained campaign targeting Ukrainian power grid infrastructure heading into winter.</p><br>
+<p><blockquote><em>Large-scale infrastructure attacks with direct civilian impact are a significant geopolitical and energy security signal — especially as winter approaches.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.politico.eu/article/russian-strikes-leave-600000-in-the-dark-in-eastern-ukraine-dnipropetrovsk/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication">Politico EU</a></p><br>
+<p><h3><a href="https://www.politico.eu/podcast/berlin-playbook-podcast/security-sunday-die-neue-front-der-bundeswehr-in-litauen-mit-robertas-kaunas/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication">Bundeswehr Builds Permanent 5,000-Troop Brigade in Lithuania — Germany's Largest Overseas Deployment Since WWII</a></h3><br>
+<em>Nov 8, 09:30</em></p><br>
+<p>Germany is deploying nearly 5,000 soldiers permanently to Lithuania by 2027 as part of Panzerbrigade 45, positioned in the Suwalki Gap — the narrow corridor between Kaliningrad and Belarus considered NATO's most vulnerable land point. The deployment is Germany's largest permanent overseas military presence since World War II and a concrete expression of the Zeitenwende defense policy shift. Politico reports that the threat environment is no longer theoretical: drone incursions, disinformation operations, and infrastructure sabotage are already active in the region.</p><br>
+<p><blockquote><em>A permanent 5,000-troop NATO deployment to Europe's most strategically exposed point — with active hybrid warfare already underway — is a significant European security posture shift.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.politico.eu/podcast/berlin-playbook-podcast/security-sunday-die-neue-front-der-bundeswehr-in-litauen-mit-robertas-kaunas/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication">Politico EU</a></p><br>
+<p><h2>Business & Markets</h2></p><br>
+<p><h3><a href="https://www.nytimes.com/2026/11/08/business/anime-japan-sony-demonslayer.html">Sony Building an Anime Empire — Global Fandom and AI Competition Define the Stakes for Japan's Biggest Cultural Export</a></h3><br>
+<em>Nov 8, 10:00</em></p><br>
+<p>The New York Times profiles Sony's aggressive consolidation of the global anime supply chain — from studios to streaming rights to merchandise — as it bets that international fandom for properties like Demon Slayer can sustain long-term revenue growth. The piece frames the competition as two-sided: foreign streaming platforms competing for rights, and AI-generated animation threatening to commoditize production. Japan's anime industry has become a rare cultural export with genuine global pricing power, and Sony is positioning to capture more of the value chain.</p><br>
+<p><blockquote><em>Sony's anime consolidation strategy is a concrete example of how legacy media companies are repositioning around IP and fandom as AI threatens to collapse production costs.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.nytimes.com/2026/11/08/business/anime-japan-sony-demonslayer.html">New York Times</a><br>
+</p>
+</body>
+</html>
