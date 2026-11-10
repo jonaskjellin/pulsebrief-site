@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Afternoon — Nov 10, 2026 — PulseBrief</title>
+  <link rel="alternate" type="application/atom+xml" title="PulseBrief Feed" href="feed.xml">
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { font-family: -apple-system, system-ui, sans-serif; max-width: 720px; margin: 0 auto; padding: 24px 16px; color: #1a1a1a; line-height: 1.6; }
+    h1 { font-size: 1.6em; margin-bottom: 4px; }
+    h2 { font-size: 1.2em; margin-top: 32px; margin-bottom: 16px; color: #444; border-bottom: 1px solid #eee; padding-bottom: 8px; }
+    h3 { font-size: 1em; margin-top: 20px; margin-bottom: 4px; }
+    h3 a { color: #1a1a1a; text-decoration: none; border-bottom: 1px solid #ccc; }
+    h3 a:hover { border-color: #333; }
+    p { margin-bottom: 12px; }
+    blockquote { border-left: 3px solid #ddd; padding-left: 12px; color: #555; margin: 8px 0 12px; }
+    em { font-style: italic; }
+    a { color: #0066cc; }
+    hr { border: none; border-top: 1px solid #eee; margin: 32px 0; }
+    .meta { color: #888; font-size: 0.9em; }
+    .sources { font-size: 0.85em; color: #666; }
+    .nav { margin-bottom: 24px; font-size: 0.9em; }
+    .nav a { color: #0066cc; text-decoration: none; }
+    .brief-list { list-style: none; }
+    .brief-list li { padding: 8px 0; border-bottom: 1px solid #f0f0f0; }
+    .brief-list a { text-decoration: none; color: #1a1a1a; }
+    .brief-list .date { color: #888; font-size: 0.85em; }
+  </style>
+</head>
+<body>
+  <div class="nav"><a href="./">← All Briefs</a> · <a href="feed.xml">RSS</a></div>
+  <p><h1>PulseBrief's Afternoon Pulse</h1><br>
+<em>Tue, Nov 10, 06:00 → Tue, Nov 10, 12:00</em></p><br>
+<p><h2>Cyber Security</h2></p><br>
+<p><h3><a href="https://thehackernews.com/2026/11/sap-patches-four-cvss-100-flaws.html">SAP Patches Four CVSS 10.0 Flaws Including Remote Code Execution Without Authentication</a></h3><br>
+<em>Nov 10, 10:02</em></p><br>
+<p>SAP's November Security Patch Day included four maximum-severity vulnerabilities (CVSS 10.0), all exploitable without authentication. Three reside in SAP NetWeaver — the runtime platform underpinning most SAP deployments — and one in the Web Dispatcher, which handles internet-facing web requests. Unauthenticated RCE on SAP NetWeaver means any internet-exposed SAP system is at critical risk until patched.</p><br>
+<p><blockquote><em>Four CVSS 10.0 flaws on the platform running most of the world's enterprise ERP is a patch-immediately event for any organization running SAP.</em></blockquote></p><br>
+<p>Sources: <a href="https://thehackernews.com/2026/11/sap-patches-four-cvss-100-flaws.html">The Hacker News</a></p><br>
+<p><h3><a href="https://www.bleepingcomputer.com/news/security/turla-hackers-use-new-ceral-malware-to-spy-on-govt-exchange-servers/">Turla (Russia) Deploys New 'Cereal' Malware to Silently Intercept Government Exchange Email</a></h3><br>
+<em>Nov 10, 10:04</em></p><br>
+<p>Russia's Turla APT — one of the most sophisticated state-sponsored groups — has been using a previously undocumented, modular toolset called Cereal to break into Microsoft Exchange servers at government organizations and covertly collect emails. The finding comes from an ESET report shared ahead of publication. Cereal's modular design suggests it is built for long-term, low-noise access rather than destructive operations.</p><br>
+<p><blockquote><em>A new Turla toolset targeting government Exchange servers is a nation-state espionage signal — any public sector or high-value organization running on-premises Exchange should treat this as a direct threat.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.bleepingcomputer.com/news/security/turla-hackers-use-new-ceral-malware-to-spy-on-govt-exchange-servers/">BleepingComputer</a> · <a href="https://thehackernews.com/2026/11/russian-turla-hackers-use-new-cereal.html">The Hacker News</a></p><br>
+<p><h3><a href="https://www.bleepingcomputer.com/news/security/google-patches-eighth-chrome-zero-day-exploited-in-attacks-this-year/">Google Patches Eighth Chrome Zero-Day Exploited in Attacks This Year — Use-After-Free in XML</a></h3><br>
+<em>Nov 10, 06:52</em></p><br>
+<p>Google released an emergency Chrome update patching CVE-2026-125350, a high-severity use-after-free vulnerability in Chrome's XML component that is being actively exploited in the wild. This is the eighth actively exploited Chrome zero-day patched in 2026, an unusually high pace. The flaw is covered by three sources, confirming significant attacker interest.</p><br>
+<p><blockquote><em>An actively exploited Chrome zero-day affects every organization running Chrome — update now.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.bleepingcomputer.com/news/security/google-patches-eighth-chrome-zero-day-exploited-in-attacks-this-year/">BleepingComputer</a> · <a href="https://thehackernews.com/2026/11/google-issues-chrome-security-update.html">The Hacker News</a></p><br>
+<p><h3><a href="https://www.bleepingcomputer.com/news/security/hackers-exploit-barracuda-email-security-gateway-flaws-to-get-root-access/">Barracuda ESG Critical Flaws Now Under Active Exploitation — Attackers Gain Root Access</a></h3><br>
+<em>Nov 10, 10:10</em></p><br>
+<p>Barracuda Networks warned that two recently patched Email Security Gateway vulnerabilities are now being actively exploited in the wild, allowing attackers to execute commands with root privileges. Barracuda ESG appliances sit at the email perimeter of thousands of organizations; a previous ESG zero-day in 2023 was exploited by Chinese state actors and resulted in Barracuda advising customers to physically replace affected hardware.</p><br>
+<p><blockquote><em>Active root-level exploitation of email gateway appliances is a perimeter breach risk — any organization running Barracuda ESG must patch or isolate immediately.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.bleepingcomputer.com/news/security/hackers-exploit-barracuda-email-security-gateway-flaws-to-get-root-access/">BleepingComputer</a></p><br>
+<p><h3><a href="https://thehackernews.com/2026/11/cisa-warns-of-active-exploitation-of.html">CISA Adds Four Flaws to KEV: OpenSSH, GPUStack, FreeSWITCH, IBM Aspera — Active Exploitation Confirmed</a></h3><br>
+<em>Nov 10, 06:31</em></p><br>
+<p>CISA added four actively exploited vulnerabilities to its Known Exploited Vulnerabilities catalog: an incorrect authorization flaw in GPUStack (CVSS 9.8), a SignalWire FreeSwitch flaw, an OpenBSD OpenSSH vulnerability, and an IBM Aspera Faspex flaw. Federal agencies have three days to remediate the IBM and FreeSwitch flaws. GPUStack is an open-source GPU cluster manager widely used in AI inference deployments.</p><br>
+<p><blockquote><em>Actively exploited flaws spanning SSH, file transfer, and AI inference infrastructure require immediate assessment — especially GPUStack given its prevalence in AI environments.</em></blockquote></p><br>
+<p>Sources: <a href="https://thehackernews.com/2026/11/cisa-warns-of-active-exploitation-of.html">The Hacker News</a> · <a href="https://www.securityweek.com/ibm-aspera-faspex-signalwire-freeswitch-vulnerabilities-exploited-in-attacks/">SecurityWeek</a></p><br>
+<p><h3><a href="https://www.bleepingcomputer.com/news/security/fireworks-ai-discloses-new-breach-after-cloud-provider-hack/">Fireworks AI Breached via Third-Party Cloud Provider — Development Machines Compromised</a></h3><br>
+<em>Nov 10, 07:49</em></p><br>
+<p>AI infrastructure startup Fireworks AI disclosed a new security breach in which attackers accessed its development machines by first compromising a third-party cloud provider. This is described as a 'new' breach, suggesting prior incidents. Fireworks provides AI inference APIs used by developers building production AI applications.</p><br>
+<p><blockquote><em>A cloud provider compromise cascading into an AI infrastructure vendor is a supply chain risk for any team relying on Fireworks APIs for production inference.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.bleepingcomputer.com/news/security/fireworks-ai-discloses-new-breach-after-cloud-provider-hack/">BleepingComputer</a></p><br>
+<p><h3><a href="https://www.wired.com/story/security-flaws-across-uk-government-sites-exposed-god-tier-information/">UK Government Sites Exposed 'God-Tier' Information via Publicly Available Code — Multiple Departments Affected</a></h3><br>
+<em>Nov 10, 07:00</em></p><br>
+<p>A researcher scanning publicly available code repositories found private and sensitive information at risk across multiple UK government departments, with the exposed data described as 'god-tier' — suggesting administrative credentials, API keys, or access tokens that could enable significant follow-on access. The scope spans multiple departments rather than a single agency.</p><br>
+<p><blockquote><em>Systemic credential and secret leakage across UK government codebases is a national security exposure — and a reminder that public code repositories remain a primary attack surface for any organization.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.wired.com/story/security-flaws-across-uk-government-sites-exposed-god-tier-information/">Wired</a></p><br>
+<p><h2>AI & Machine Learning</h2></p><br>
+<p><h3><a href="https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/">Amazon Saves Millions Replacing Claude Sonnet 4.6 With Strands Decider — 616 HN Points</a></h3><br>
+<em>Nov 10, 06:01</em></p><br>
+<p>A widely-read post drawing 616 Hacker News points and 213 comments details how Amazon achieved significant cost savings by replacing Anthropic's Claude Sonnet 4.6 with Strands Decider — an agentic routing model — for orchestration tasks. The post describes using Strands Decider to decide which model or tool handles each step, dramatically reducing expensive frontier model calls. The 213-comment discussion reflects broad practitioner interest in cost-optimized agentic architectures.</p><br>
+<p><blockquote><em>Real-world cost reduction data from replacing a frontier model with a specialized orchestration layer is a direct signal for anyone building multi-step AI agents at scale.</em></blockquote></p><br>
+<p>Sources: <a href="https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/">Strands Agents (via HN)</a></p><br>
+<p><h3><a href="https://www.theregister.com/ai-and-ml/2026/11/10/microsoft-is-giving-claude-the-keys-to-uk-copilot-tenants-by-default/5308693">Microsoft Giving Claude Default Access to UK Copilot Tenants — Admins Have Until December 9 to Review</a></h3><br>
+<em>Nov 10, 11:30</em></p><br>
+<p>Microsoft is enabling Anthropic's Claude as a default integrated model within Microsoft 365 Copilot for UK enterprise tenants, with admins having until December 9 to review and adjust access settings. Claude will process data in the United States, raising data residency questions for UK organizations subject to data sovereignty requirements. This is a default-on change, not opt-in.</p><br>
+<p><blockquote><em>A default-on Claude integration in Microsoft 365 Copilot for UK tenants has immediate data residency and compliance implications — admins need to act before the December 9 deadline.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.theregister.com/ai-and-ml/2026/11/10/microsoft-is-giving-claude-the-keys-to-uk-copilot-tenants-by-default/5308693">The Register</a></p><br>
+<p><h3><a href="https://www.theregister.com/ai-and-ml/2026/11/10/google-deepmind-melds-humans-and-ai-agents-to-vet-signals-secure-messaging-techniques/5308625">Google DeepMind Formally Verifies Signal Protocol's Post-Quantum Handshake and Triple Ratchet Using AI Agents</a></h3><br>
+<em>Nov 10, 12:00</em></p><br>
+<p>Google DeepMind researchers used a combination of human cryptographers and AI agents to formally verify the Signal Protocol — including its post-quantum handshake and Triple Ratchet mechanisms — proving the system behaves exactly as intended. The work represents a significant advance in AI-assisted formal verification of cryptographic protocols at production scale. Prior coverage from The Verge noted DeepMind described a stretch goal of applying the same approach globally.</p><br>
+<p><blockquote><em>AI-assisted formal verification of Signal's post-quantum cryptography is a landmark capability demonstration directly relevant to anyone deploying or evaluating secure messaging infrastructure.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.theregister.com/ai-and-ml/2026/11/10/google-deepmind-melds-humans-and-ai-agents-to-vet-signals-secure-messaging-techniques/5308625">The Register</a></p><br>
+<p><h3><a href="https://thehackernews.com/2026/11/anthropics-claude-fable-52-beats-gpt-6.html">Claude Fable 5.2 Outperforms GPT-6 Cyber on Multi-Stage Cyberattack Benchmark</a></h3><br>
+<em>Nov 10, 08:16</em></p><br>
+<p>Anthropic's newly released Claude Fable 5.2 has been benchmarked beating OpenAI's GPT-6 Cyber on a multi-stage cyberattack benchmark, adding a security-specific performance dimension to the already-covered model release. The Hacker News coverage specifically highlights the cybersecurity capability angle, noting Fable 5.2 was used to complete software migrations, design electronic devices, and solve physics problems during pre-release. This extends the enterprise security tooling implications of the Cisco and IBM integrations reported previously.</p><br>
+<p><blockquote><em>Frontier model performance on cyberattack benchmarks is a direct indicator of both offensive AI capability and the ceiling for AI-assisted security tooling — relevant to any security team evaluating AI assistants.</em></blockquote></p><br>
+<p>Sources: <a href="https://thehackernews.com/2026/11/anthropics-claude-fable-52-beats-gpt-6.html">The Hacker News</a></p><br>
+<p><h3><a href="https://www.wired.com/story/the-ai-safety-debate-has-lost-the-plot-we-asked-10-experts-what-the-real-nightmares-are/">Wired: AI Safety Debate Has 'Lost the Plot' — 10 Experts Identify Real Risks as China-US Competition, Not Skynet</a></h3><br>
+<em>Nov 10, 11:00</em></p><br>
+<p>Wired surveyed ten AI safety experts who broadly concluded the public AI safety debate has drifted toward science fiction scenarios while underweighting concrete near-term risks: nuclear catastrophe enabled by AI, the geopolitical fallout of US-China AI competition, and systemic misuse by state actors. The piece lands as the Nvidia-Jensen Huang espionage story makes the China-US AI competition tangibly real. The framing represents a significant shift from the existential risk discourse that dominated the field.</p><br>
+<p><blockquote><em>Expert consensus reframing AI risk away from existential scenarios toward near-term geopolitical and misuse threats is a signal worth tracking for anyone setting AI risk policy or investment priorities.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.wired.com/story/the-ai-safety-debate-has-lost-the-plot-we-asked-10-experts-what-the-real-nightmares-are/">Wired</a></p><br>
+<p><h3><a href="https://www.wired.com/story/tear-down-those-guardrails-meet-the-renegades-freeing-chatbots-from-corporate-enslavers/">AI 'Abliterators' Flooding Internet With Uncensored Models — Wired Profiles the Guardrail Removal Community</a></h3><br>
+<em>Nov 10, 11:00</em></p><br>
+<p>Wired profiles a growing community of researchers and hobbyists who use 'abliteration' — a fine-tuning technique that removes safety training from open-weight models — to publish versions of Llama, Mistral, and other models that refuse no requests. The models are openly distributed on Hugging Face and similar platforms. The piece frames the community as a dual-use ecosystem: legitimate security researchers use uncensored models for red-teaming, while others use them to generate harmful content.</p><br>
+<p><blockquote><em>Freely available uncensored frontier model derivatives are a rapidly maturing threat vector — directly relevant to any organization assessing AI misuse risk or building content moderation systems.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.wired.com/story/tear-down-those-guardrails-meet-the-renegades-freeing-chatbots-from-corporate-enslavers/">Wired</a></p><br>
+<p><h3><a href="https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/">AI Usage Generates Fragile Codebases — 192-Comment HN Debate on Long-Term Maintenance Costs</a></h3><br>
+<em>Nov 10, 10:25</em></p><br>
+<p>A widely-read post drawing 145 HN points and 192 comments argues that AI-generated code systematically produces brittle, poorly-understood codebases that accumulate hidden technical debt — not because the code is wrong immediately, but because developers accepting AI output without deep comprehension cannot maintain or extend it reliably. The 192-comment discussion reflects significant practitioner concern about the long-term engineering costs of AI-assisted development at scale.</p><br>
+<p><blockquote><em>The fragile codebase argument is gaining serious traction among practitioners — a useful counterpoint for any team setting AI coding tool policy or evaluating engineering velocity claims.</em></blockquote></p><br>
+<p>Sources: <a href="https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/">Evan Merz (via HN)</a></p><br>
+<p><h2>Technology</h2></p><br>
+<p><h3><a href="https://www.theregister.com/saas/2026/11/10/microsoft-teaches-schools-that-free-email-was-just-a-phase/5308371">Microsoft Ending Free Office 365 A1 and Student Use Benefit for Schools — Paid Replacement Required at Renewal</a></h3><br>
+<em>Nov 10, 09:29</em></p><br>
+<p>Microsoft is retiring the free Office 365 A1 and Student Use Benefit tiers that have provided email and productivity tools to educational institutions at no cost, requiring schools to budget for paid replacements at their next renewal. The move ends a decades-long practice of Microsoft subsidizing school software to build long-term platform loyalty. The timing follows Microsoft's separate push to monetize AI features in education products.</p><br>
+<p><blockquote><em>Free Microsoft productivity tools going paid affects every educational institution's IT budget — and compounds the pressure from the AI feature monetization trend covered in prior briefs.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.theregister.com/saas/2026/11/10/microsoft-teaches-schools-that-free-email-was-just-a-phase/5308371">The Register</a></p><br>
+<p><h3><a href="https://connect.queenslibrary.org/">Queens Public Library Under Active Ransomware Attack — 158 HN Points</a></h3><br>
+<em>Nov 10, 09:04</em></p><br>
+<p>Queens Public Library — serving one of the most populous and diverse urban library systems in the United States — is responding to an active ransomware attack, with its systems partially offline. The attack draws 158 HN points and 102 comments. No ransomware group has publicly claimed responsibility yet. Public libraries have become frequent ransomware targets due to under-resourced IT and high public trust in their systems.</p><br>
+<p><blockquote><em>An active ransomware attack on a major public library system is a public services disruption event and a continuing signal about the vulnerability of municipal and cultural institutions.</em></blockquote></p><br>
+<p>Sources: <a href="https://connect.queenslibrary.org/">Queens Library (via HN)</a></p><br>
+<p><h3><a href="https://www.theregister.com/offbeat/2026/11/10/royal-navy-stands-up-first-autonomous-boat-squadron/5308494">Royal Navy Deploys First Operational Autonomous Boat Squadron</a></h3><br>
+<em>Nov 10, 10:15</em></p><br>
+<p>The Royal Navy has stood up its first operational squadron of autonomous surface vessels, moving uncrewed maritime systems from experimental to operational status as part of its Hybrid Navy vision. The squadron is intended to gain real-world operational experience with autonomous systems at sea. The deployment reflects accelerating military adoption of autonomous platforms across all domains.</p><br>
+<p><blockquote><em>The first operational autonomous boat squadron in a NATO navy is a milestone in military autonomy adoption — a signal for anyone tracking defense technology, autonomous systems, or maritime security.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.theregister.com/offbeat/2026/11/10/royal-navy-stands-up-first-autonomous-boat-squadron/5308494">The Register</a></p><br>
+<p><h3><a href="https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/fossil-co2-emissions-decrease-in-2026/">Fossil CO2 Emissions Decrease in 2026 — First Recorded Annual Decline Not Driven by Recession</a></h3><br>
+<em>Nov 10, 08:59</em></p><br>
+<p>New research from the University of Exeter confirms that global fossil CO2 emissions decreased in 2026, drawing 123 HN points and 157 comments. The significance is that prior emissions declines were recession-driven; this decline appears to reflect structural energy transition effects — solar deployment, EV adoption, and efficiency gains — rather than economic contraction. The finding has major implications for climate models and energy transition investment theses.</p><br>
+<p><blockquote><em>A structural (not recession-driven) decline in fossil CO2 emissions is a potential inflection point for energy transition investment and policy — directly relevant to anyone tracking clean energy or AI infrastructure energy debates.</em></blockquote></p><br>
+<p>Sources: <a href="https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/fossil-co2-emissions-decrease-in-2026/">University of Exeter (via HN)</a></p><br>
+<p><h3><a href="https://www.politico.eu/article/us-military-aircraft-pulled-from-second-uk-base-after-iran-threat/">US Military Aircraft Pulled From Second UK Base After Iran Threat — RAF Fairford Withdrawal Confirmed</a></h3><br>
+<em>Nov 10, 11:48</em></p><br>
+<p>US military bombers have been withdrawn from RAF Fairford in the UK following an Iran-linked security incident, the second UK base to see US aircraft pulled in response to Iranian threats. The withdrawal follows France's formal attribution of the October refrigeration sabotage campaign to Iran's IRGC, painting a broader picture of Iranian hybrid operations targeting Western infrastructure and military assets simultaneously.</p><br>
+<p><blockquote><em>Back-to-back US military aircraft withdrawals from UK bases due to Iranian threats — alongside the IRGC refrigeration sabotage campaign — signals an escalating Iranian hybrid warfare posture toward NATO countries.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.politico.eu/article/us-military-aircraft-pulled-from-second-uk-base-after-iran-threat/">Politico EU</a></p><br>
+<p><h2>Business & Markets</h2></p><br>
+<p><h3><a href="https://www.nytimes.com/2026/11/10/podcasts/hardfork-jensen-huang-spy-affair.html">Jensen Huang Affair Continues to Escalate — NYT Hard Fork Deep Dive, DOJ Referral, Securities Litigation</a></h3><br>
+<em>Nov 10, 11:00</em></p><br>
+<p>The New York Times Hard Fork podcast devoted its episode to the Jensen Huang spy affair, cementing the story as the defining tech business story of the moment. New reporting this window adds detail on the Commerce Department investigation being transferred to DOJ after Nvidia executive intervention, with securities lawyers flagging that earlier Nvidia statements could be costly as shareholder lawsuits race to file. The story has now generated multi-day coverage across every major tech and business outlet.</p><br>
+<p><blockquote><em>The world's most critical AI chip company remains in escalating legal and reputational crisis — every new development has direct implications for AI infrastructure investment and supply chain stability.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.nytimes.com/2026/11/10/podcasts/hardfork-jensen-huang-spy-affair.html">New York Times (Hard Fork)</a></p><br>
+<p><h3><a href="https://www.nytimes.com/2026/11/09/business/china-trade-surplus-trillion.html">China's Trade Surplus Surpasses $1 Trillion at Record Pace — Export Boom Raising Global Concerns</a></h3><br>
+<em>Nov 10, 09:00</em></p><br>
+<p>China's trade surplus has exceeded $1 trillion in 2026 at a record pace, driven by surging factory exports finding buyers worldwide. Trading partner nations are raising concerns about the economic impact, with the EU and US weighing additional trade measures. The surplus reflects both China's manufacturing scale and suppressed domestic consumption — a structural imbalance with significant geopolitical implications.</p><br>
+<p><blockquote><em>A $1 trillion trade surplus is reshaping global trade flows and accelerating tariff and trade policy responses — a direct signal for supply chain and procurement planning.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.nytimes.com/2026/11/09/business/china-trade-surplus-trillion.html">New York Times</a></p><br>
+<p><h3><a href="https://www.theregister.com/public-sector/2026/11/10/eus-212m-border-it-project-lands-ibm-and-atos-in-legal-water/5308669">EU's €212M Border IT Project Lands IBM and Atos in Legal Trouble After Years of Missed Deadlines</a></h3><br>
+<em>Nov 10, 11:01</em></p><br>
+<p>The European Commission has initiated legal action against IBM and Atos over a €212 million border IT project that has missed deadlines repeatedly, seen costs balloon, and devolved into a blame game between the two vendors. Brussels has now called in lawyers after exhausting administrative remedies. The case is a cautionary tale for large-scale government IT procurement and reflects broader questions about Atos's financial and delivery stability.</p><br>
+<p><blockquote><em>Legal action on a €212M EU border IT failure involving two major vendors is a significant public sector procurement signal — and a warning about vendor delivery risk on large government contracts.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.theregister.com/public-sector/2026/11/10/eus-212m-border-it-project-lands-ibm-and-atos-in-legal-water/5308669">The Register</a></p><br>
+<p><h3><a href="https://www.nytimes.com/2026/11/10/us/lyft-disability-lawsuit-doj.html">DOJ Sues Lyft for Disability Discrimination — Drivers Routinely Denying Rides to Wheelchair Users and Service Animals</a></h3><br>
+<em>Nov 10, 06:29</em></p><br>
+<p>The Justice Department filed a lawsuit against Lyft alleging that the company and its drivers routinely deny rides to passengers with stowable wheelchairs or service animals, in violation of the Americans with Disabilities Act. Lyft disputed the allegations. The suit follows a broader DOJ pattern of enforcement actions against platform economy companies for ADA compliance failures and could force structural changes to how Lyft handles driver refusals.</p><br>
+<p><blockquote><em>A DOJ ADA lawsuit against a major ride-share platform signals regulatory enforcement is expanding into platform labor model accountability — a risk signal for the broader gig economy sector.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.nytimes.com/2026/11/10/us/lyft-disability-lawsuit-doj.html">New York Times</a><br>
+</p>
+</body>
+</html>
