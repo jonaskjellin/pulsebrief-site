@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Afternoon — Nov 12, 2026 — PulseBrief</title>
+  <link rel="alternate" type="application/atom+xml" title="PulseBrief Feed" href="feed.xml">
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { font-family: -apple-system, system-ui, sans-serif; max-width: 720px; margin: 0 auto; padding: 24px 16px; color: #1a1a1a; line-height: 1.6; }
+    h1 { font-size: 1.6em; margin-bottom: 4px; }
+    h2 { font-size: 1.2em; margin-top: 32px; margin-bottom: 16px; color: #444; border-bottom: 1px solid #eee; padding-bottom: 8px; }
+    h3 { font-size: 1em; margin-top: 20px; margin-bottom: 4px; }
+    h3 a { color: #1a1a1a; text-decoration: none; border-bottom: 1px solid #ccc; }
+    h3 a:hover { border-color: #333; }
+    p { margin-bottom: 12px; }
+    blockquote { border-left: 3px solid #ddd; padding-left: 12px; color: #555; margin: 8px 0 12px; }
+    em { font-style: italic; }
+    a { color: #0066cc; }
+    hr { border: none; border-top: 1px solid #eee; margin: 32px 0; }
+    .meta { color: #888; font-size: 0.9em; }
+    .sources { font-size: 0.85em; color: #666; }
+    .nav { margin-bottom: 24px; font-size: 0.9em; }
+    .nav a { color: #0066cc; text-decoration: none; }
+    .brief-list { list-style: none; }
+    .brief-list li { padding: 8px 0; border-bottom: 1px solid #f0f0f0; }
+    .brief-list a { text-decoration: none; color: #1a1a1a; }
+    .brief-list .date { color: #888; font-size: 0.85em; }
+  </style>
+</head>
+<body>
+  <div class="nav"><a href="./">← All Briefs</a> · <a href="feed.xml">RSS</a></div>
+  <p><h1>PulseBrief's Afternoon Pulse</h1><br>
+<em>Thu, Nov 12, 06:00 → Thu, Nov 12, 12:00</em></p><br>
+<p><h2>Cyber Security</h2></p><br>
+<p><h3><a href="https://thehackernews.com/2026/11/4837-hijacked-github-accounts-ran-ci.html">4,837 Hijacked GitHub Accounts Used to Plant CI Secret Stealer Across 1,800+ Repositories</a></h3><br>
+<em>Nov 12, 06:42</em></p><br>
+<p>An attacker used stolen credentials for 4,837 GitHub accounts to inject a secret-stealing payload into repositories those accounts had write access to, running malicious CI workflows in at least 1,806 repositories. The stealer is designed to harvest secrets and cloud credentials that CI pipelines can reach — tokens, API keys, and cloud provider credentials. The attack is a live, large-scale GitHub supply chain compromise affecting any organization whose repositories were accessible to compromised accounts.</p><br>
+<p><blockquote><em>A coordinated CI credential-theft campaign hitting nearly 2,000 repositories is an active supply chain threat — any team with open-source contributors or shared GitHub org access needs to audit recent workflow runs and rotate secrets immediately.</em></blockquote></p><br>
+<p>Sources: <a href="https://thehackernews.com/2026/11/4837-hijacked-github-accounts-ran-ci.html">The Hacker News</a></p><br>
+<p><h3><a href="https://thehackernews.com/2026/11/new-n-central-exploits-work-against.html">New N-central Exploits Bypass Hotfix 2 — Root RCE and Windows SYSTEM Access Still Possible</a></h3><br>
+<em>Nov 12, 09:39</em></p><br>
+<p>Researchers disclosed additional N-central vulnerabilities that work against servers running the just-released Hotfix 2, with exploits enabling root-level remote code execution and Windows SYSTEM access. N-able says the new server-side issue requires a non-default configuration with the Legacy API exposed to the internet, but the client-side exploit has no such prerequisite. Active exploitation began almost immediately after the original 33 zero-days dropped, and the patch cycle is still incomplete.</p><br>
+<p><blockquote><em>An RMM platform where the patch doesn't fully close the door is a live supply chain risk — MSPs running N-central need to verify Legacy API exposure and treat downstream customer environments as potentially compromised.</em></blockquote></p><br>
+<p>Sources: <a href="https://thehackernews.com/2026/11/new-n-central-exploits-work-against.html">The Hacker News</a> · <a href="https://www.securityweek.com/hackers-target-n-central-zero-days-as-n-able-rushes-patches/">SecurityWeek</a></p><br>
+<p><h3><a href="https://thehackernews.com/2026/11/calendar-invites-and-live-proxies.html">Google Session Hijacking Campaign Active Since August — Live Proxy Bypasses All Standard Link Defenses</a></h3><br>
+<em>Nov 12, 11:51</em></p><br>
+<p>A phishing operation dubbed Operation CloudFire has been stealing live Google sessions from corporate users since mid-August 2026 using calendar invites and real-time reverse proxies that make attacker links appear legitimate to every standard detection check. Material Security's threat research team has taken down hundreds of attacker domains, but the campaign continues. The live-proxy technique captures session tokens in real time, bypassing MFA and making stolen sessions immediately usable.</p><br>
+<p><blockquote><em>A campaign that defeats standard phishing link detection and bypasses MFA by stealing live sessions is an active threat to any organization running Google Workspace — detection must shift to session anomaly monitoring, not link scanning.</em></blockquote></p><br>
+<p>Sources: <a href="https://thehackernews.com/2026/11/calendar-invites-and-live-proxies.html">The Hacker News</a></p><br>
+<p><h3><a href="https://www.securityweek.com/notion-customer-data-compromised-in-fireworks-ai-hack/">Notion Customer Data Exposed in Fireworks AI Breach — Chat Transcripts Accessed Across Workspaces</a></h3><br>
+<em>Nov 12, 11:08</em></p><br>
+<p>Attackers who breached AI infrastructure provider Fireworks AI accessed chat transcripts for fewer than 1% of Notion workspaces, with Notion confirming the compromise stems from a third-party vendor incident rather than a direct breach of its own systems. Most transcripts could not be attributed to specific users. The incident is another example of AI platform vendors becoming a data exposure vector for their enterprise customers.</p><br>
+<p><blockquote><em>A breach at an AI vendor exposing enterprise workspace chat data is a third-party risk signal for any organization using AI-powered features built on shared infrastructure — vendor AI supply chains need the same scrutiny as traditional SaaS.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.securityweek.com/notion-customer-data-compromised-in-fireworks-ai-hack/">SecurityWeek</a></p><br>
+<p><h3><a href="https://thehackernews.com/2026/11/ptc-patches-critical-windchill-and.html">PTC Patches CVSS 9.2 RCE Flaw in Windchill and FlexPLM — Deserialization Bug Requires No Authentication</a></h3><br>
+<em>Nov 12, 11:33</em></p><br>
+<p>PTC has patched CVE-2026-126325, a critical improper input validation and deserialization flaw in its Windchill PLM and FlexPLM platforms scoring 9.2 on CVSSv4, which could allow remote code execution without authentication. Windchill is widely deployed in manufacturing, aerospace, and defense supply chains for product lifecycle management. No active exploitation has been confirmed, but the CVSS score and attack complexity make this a high-priority patch.</p><br>
+<p><blockquote><em>A near-perfect CVSS score RCE in a PLM platform used across manufacturing and defense supply chains is an immediate patching priority for any organization running Windchill or FlexPLM.</em></blockquote></p><br>
+<p>Sources: <a href="https://thehackernews.com/2026/11/ptc-patches-critical-windchill-and.html">The Hacker News</a></p><br>
+<p><h3><a href="https://www.bleepingcomputer.com/news/security/hackers-plant-gsocket-on-linux-servers-for-persistent-access/">GSocket Abused by Multiple Threat Actors for Persistent Linux Server Access After Patching</a></h3><br>
+<em>Nov 12, 09:38</em></p><br>
+<p>Multiple threat actor groups are deploying GSocket, a legitimate open-source tool that tunnels traffic through Google's infrastructure, to maintain persistent backdoor access to compromised Linux servers even after the initial vulnerability is patched. Because GSocket is a legitimate tool and uses Google's network, it blends with normal traffic and evades many detection controls. The multi-actor adoption suggests GSocket has become an established persistence technique in the threat actor community.</p><br>
+<p><blockquote><em>A persistence technique that survives patching and hides inside legitimate Google infrastructure traffic is a detection gap for any organization running Linux servers — threat hunting should include GSocket process and network indicators.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.bleepingcomputer.com/news/security/hackers-plant-gsocket-on-linux-servers-for-persistent-access/">BleepingComputer</a></p><br>
+<p><h3><a href="https://www.darkreading.com/cyberattacks-data-breaches/inside-ai-attack-us-retailer">AI-Generated Scripts Enabled Lateral Movement in Minutes During US Retailer Breach</a></h3><br>
+<em>Nov 12, 11:00</em></p><br>
+<p>Dark Reading details a breach of a US retailer where the attacker initially failed using hand-typed commands, then pivoted to AI-generated attack scripts that achieved lateral movement within minutes. The case study illustrates how AI is lowering the skill floor for post-exploitation activity, compressing the attacker's time-to-pivot dramatically. The retailer's defenses were calibrated for human-speed attack progression and were not designed to detect AI-accelerated lateral movement.</p><br>
+<p><blockquote><em>AI-assisted lateral movement that defeats defenses tuned for human attack speeds is a direct signal to revisit detection logic and response time assumptions for any organization with a retail or e-commerce attack surface.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.darkreading.com/cyberattacks-data-breaches/inside-ai-attack-us-retailer">Dark Reading</a></p><br>
+<p><h3><a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-kb5132061-installation-issues-0x80070306-0x800f0989-0x800f0993-errors/">Microsoft Confirms November Patch Tuesday Update Failing to Install — Exploited Outlook Flaw Remains Unpatched on Affected Systems</a></h3><br>
+<em>Nov 12, 10:24</em></p><br>
+<p>Microsoft has officially confirmed that KB5132061 fails to install on Windows 11 systems that received the October preview update, throwing error codes 0x80070306, 0x800f0989, and 0x800f0993. The broken update includes the patch for an actively exploited Outlook vulnerability that leaks NTLMv2 credential hashes. Microsoft has not yet issued a workaround, leaving affected systems exposed to an in-the-wild credential-theft exploit with no available remediation.</p><br>
+<p><blockquote><em>Systems that cannot install the update remain actively exposed to an exploited NTLMv2 hash-leaking Outlook flaw — IT teams need to identify affected systems and monitor for workaround guidance from Microsoft.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-kb5132061-installation-issues-0x80070306-0x800f0989-0x800f0993-errors/">BleepingComputer</a></p><br>
+<p><h2>AI & Machine Learning</h2></p><br>
+<p><h3><a href="https://ipo.anthropic.com/us/">Anthropic IPO Goes Live — S-1 Portal Active, 641 HN Points Signal Intense Market Interest</a></h3><br>
+<em>Nov 12, 11:46</em></p><br>
+<p>Anthropic's IPO registration portal is now publicly accessible, with Hacker News discussion accumulating 641 points and 650 comments — among the highest engagement of any recent tech IPO. The listing follows reporting that set the price range at $70–$78/share implying a valuation approaching $1.4 trillion, and analysis raising governance concerns about investor-partner overlaps with Amazon and Google. The IPO represents the first public market test for a frontier AI safety lab.</p><br>
+<p><blockquote><em>Anthropic going public is the defining AI market event of 2026 — the valuation, governance structure, and investor reception will set pricing and governance benchmarks for the entire frontier AI sector.</em></blockquote></p><br>
+<p>Sources: <a href="https://ipo.anthropic.com/us/">Anthropic IPO Portal</a> · <a href="https://news.ycombinator.com/item?id=50465829">Hacker News</a></p><br>
+<p><h3><a href="https://www.securityweek.com/hackers-deploy-malware-in-fresh-screenconnect-campaign/">ScreenConnect Campaign Update: Vulnerability in Legitimate Extension Bypassed Authentication — Not Credential Compromise</a></h3><br>
+<em>Nov 12, 10:39</em></p><br>
+<p>SecurityWeek reports that the active ScreenConnect campaign exploited a vulnerability in a legitimate third-party extension to bypass authentication, clarifying earlier reporting that had pointed to compromised partner credentials. The distinction matters: an exploitable extension vulnerability means any ScreenConnect deployment running the affected extension was potentially reachable, not just those with weak credentials. ConnectWise has disabled five third-party extensions across partner environments.</p><br>
+<p><blockquote><em>An authentication bypass via a legitimate extension changes the exposure model for the ScreenConnect campaign — MSPs need to audit which extensions are installed, not just review credential hygiene.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.securityweek.com/hackers-deploy-malware-in-fresh-screenconnect-campaign/">SecurityWeek</a></p><br>
+<p><h3><a href="https://www.euronews.com/2026/11/12/nvidia-board-weighs-jensen-huangs-future-as-reports-emerge-of-second-affair">Nvidia Board Weighing Jensen Huang's Future as Second Affair Report Surfaces</a></h3><br>
+<em>Nov 12, 07:03</em></p><br>
+<p>Nvidia's board is actively evaluating Jensen Huang's position following reports of a second alleged affair — this one with Nvidia VP of Healthcare Kimberly Powell, a direct report — compounding the earlier admitted relationship with Alice Huang, identified by US intelligence as a Chinese spy. Nvidia stock dropped more than 8% in after-hours trading. The board's decision, expected imminently, will determine leadership continuity at the company controlling the dominant AI chip supply.</p><br>
+<p><blockquote><em>The potential removal of Nvidia's founder-CEO is the most consequential corporate event in AI infrastructure right now — any organization dependent on Nvidia GPU supply or pricing needs to monitor this closely.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.euronews.com/2026/11/12/nvidia-board-weighs-jensen-huangs-future-as-reports-emerge-of-second-affair">Euronews Business</a></p><br>
+<p><h3><a href="https://www.theregister.com/security/2026/11/12/european-tech-buyers-add-digital-sovereignty-to-cyber-shopping-list/5309216">European Tech Buyers Adding Digital Sovereignty to Security Procurement — EU-Headquartered Vendor Sales Surge</a></h3><br>
+<em>Nov 12, 11:31</em></p><br>
+<p>A Register analysis finds European enterprise technology buyers are now explicitly adding digital sovereignty requirements to security procurement decisions, driving a significant increase in sales for EU-headquartered vendors over the past two years. The trend is attributed to a combination of the Trump administration's posture toward European allies, and mandatory compliance with NIS2 and DORA regulations that heighten scrutiny of non-EU vendor data handling. US vendors are increasingly being asked to demonstrate data residency and access controls that meet EU sovereignty standards.</p><br>
+<p><blockquote><em>Digital sovereignty is shifting from a compliance checkbox to an active procurement filter in European markets — a direct signal for any vendor selling into Europe or any organization building a European vendor strategy.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.theregister.com/security/2026/11/12/european-tech-buyers-add-digital-sovereignty-to-cyber-shopping-list/5309216">The Register</a></p><br>
+<p><h3><a href="https://thehackernews.com/2026/11/nodejs-fixes-16-flaws-including-http2.html">Node.js Patches Unauthenticated HTTP/2 Server Crash and Cross-Connection Memory Leak</a></h3><br>
+<em>Nov 12, 08:20</em></p><br>
+<p>Node.js released fixes for 16 vulnerabilities including two critical HTTP/2 flaws: one allowing unauthenticated clients to crash servers on the 24.x and 26.x lines, and a second that causes servers to send memory contents — including other clients' response data — to requesting clients. Fixed versions are 22.23.5, 24.22.3, and 26.13.1. HTTP/2 is enabled by default in many Node.js server configurations, making the crash and data-leak flaws broadly applicable.</p><br>
+<p><blockquote><em>An unauthenticated server crash combined with a cross-connection memory leak in Node.js HTTP/2 is an immediate patching priority for any organization running Node.js web services or APIs.</em></blockquote></p><br>
+<p>Sources: <a href="https://thehackernews.com/2026/11/nodejs-fixes-16-flaws-including-http2.html">The Hacker News</a></p><br>
+<p><h2>Technology</h2></p><br>
+<p><h3><a href="https://www.securityweek.com/critical-red-hat-quay-vulnerability-could-expose-private-container-images/">Critical Red Hat Quay Flaw Could Expose Private Container Images and Allow Repository Takeover</a></h3><br>
+<em>Nov 12, 09:23</em></p><br>
+<p>A critical vulnerability in Red Hat Quay, the enterprise container registry, could allow attackers to access private container images, overwrite repositories, and establish persistent access to the registry. The flaw affects organizations running Quay as their internal container image store, which often contains production application code and configuration. Red Hat has released a patch.</p><br>
+<p><blockquote><em>Private container registries hold production application artifacts — a flaw enabling image theft and repository overwrite is a direct software supply chain risk for any organization using Red Hat Quay.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.securityweek.com/critical-red-hat-quay-vulnerability-could-expose-private-container-images/">SecurityWeek</a></p><br>
+<p><h3><a href="https://thehackernews.com/2026/11/critical-pre-auth-mongodb-flaw-cve-2026.html">Pre-Auth MongoDB Crash Flaw (CVE-2026-118383) Triggers on Failover — Replica Set Members at Risk</a></h3><br>
+<em>Nov 12, 09:25</em></p><br>
+<p>A critical unauthenticated vulnerability in MongoDB Server allows an attacker to send two crafted requests that crash a replica set member; the crash is triggered specifically when that member is elected as primary during a failover, creating a targeted availability attack. MongoDB has released fixed versions. The exploit path — crashing a server that then becomes primary — could be used to repeatedly destabilize replica sets during high-availability failover events.</p><br>
+<p><blockquote><em>A pre-auth crash exploit that activates on MongoDB failover is a targeted availability threat for any production database cluster — patch immediately and review replica set monitoring for anomalous failover patterns.</em></blockquote></p><br>
+<p>Sources: <a href="https://thehackernews.com/2026/11/critical-pre-auth-mongodb-flaw-cve-2026.html">The Hacker News</a></p><br>
+<p><h3><a href="https://www.theregister.com/software/2026/11/12/rockstar-workers-vote-on-union-recognition-as-gta-vi-launch-looms/5309319">Rockstar Games UK Workers Vote on Union Recognition Ahead of GTA VI Launch</a></h3><br>
+<em>Nov 12, 11:01</em></p><br>
+<p>UK staff at Rockstar Games are voting on formal union recognition, with the outcome expected before the high-stakes GTA VI launch. A separate union-busting dispute is proceeding toward resolution concurrently. The vote at one of the world's most commercially significant game studios — GTA VI is expected to be the highest-grossing entertainment launch in history — adds labor relations risk to an already complex release window.</p><br>
+<p><blockquote><em>Labor action at Rockstar ahead of GTA VI is a material risk signal for the gaming industry's largest anticipated release — a signal for anyone tracking games sector workforce dynamics or entertainment supply chain risk.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.theregister.com/software/2026/11/12/rockstar-workers-vote-on-union-recognition-as-gta-vi-launch-looms/5309319">The Register</a></p><br>
+<p><h2>Business & Markets</h2></p><br>
+<p><h3><a href="https://www.wired.com/story/google-wanted-spirit-airlines-data-flight-attendants-found-a-way-to-opt-out/">Spirit Airlines Flight Attendants Union Negotiated Data Scrubbing From $10M Google Data Sale</a></h3><br>
+<em>Nov 12, 10:15</em></p><br>
+<p>The union representing Spirit Airlines flight attendants successfully negotiated with Google to have sensitive employee records removed from a $10 million data sale before the transaction closed, after learning Google had sought access to Spirit's data assets during the airline's bankruptcy proceedings. The case illustrates how labor organizations can intervene in corporate data transactions to protect member privacy — a tactic likely to be replicated as AI training data demand drives acquisitions of bankrupt companies' data estates.</p><br>
+<p><blockquote><em>A union successfully blocking employee data from an AI training data sale sets a precedent for workforce data rights in corporate distress scenarios — a signal for HR, legal, and privacy teams at any organization with unionized staff.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.wired.com/story/google-wanted-spirit-airlines-data-flight-attendants-found-a-way-to-opt-out/">Wired</a></p><br>
+<p><h3><a href="https://www.politico.eu/article/eu-court-rejects-poland-bid-overturn-7-climate-laws/">EU Court Rejects Poland's Challenge to Seven Major Climate Laws — Green Transition Legal Framework Upheld</a></h3><br>
+<em>Nov 12, 11:25</em></p><br>
+<p>The European Court of Justice has dismissed Poland's legal challenges to seven significant EU climate laws, cases originally launched by the previous nationalist government and kept alive under the current pro-EU administration. The ruling reinforces the legal durability of the EU's green transition regulatory framework against member state resistance. Organizations operating in the EU can now plan against these climate laws with greater certainty that they will not be overturned through legal challenge.</p><br>
+<p><blockquote><em>Court confirmation that seven EU climate laws are legally sound removes a key uncertainty for any organization with EU sustainability compliance obligations or clean energy investment in Europe.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.politico.eu/article/eu-court-rejects-poland-bid-overturn-7-climate-laws/">Politico EU</a><br>
+</p>
+</body>
+</html>
