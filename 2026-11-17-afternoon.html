@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Afternoon — Nov 17, 2026 — PulseBrief</title>
+  <link rel="alternate" type="application/atom+xml" title="PulseBrief Feed" href="feed.xml">
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { font-family: -apple-system, system-ui, sans-serif; max-width: 720px; margin: 0 auto; padding: 24px 16px; color: #1a1a1a; line-height: 1.6; }
+    h1 { font-size: 1.6em; margin-bottom: 4px; }
+    h2 { font-size: 1.2em; margin-top: 32px; margin-bottom: 16px; color: #444; border-bottom: 1px solid #eee; padding-bottom: 8px; }
+    h3 { font-size: 1em; margin-top: 20px; margin-bottom: 4px; }
+    h3 a { color: #1a1a1a; text-decoration: none; border-bottom: 1px solid #ccc; }
+    h3 a:hover { border-color: #333; }
+    p { margin-bottom: 12px; }
+    blockquote { border-left: 3px solid #ddd; padding-left: 12px; color: #555; margin: 8px 0 12px; }
+    em { font-style: italic; }
+    a { color: #0066cc; }
+    hr { border: none; border-top: 1px solid #eee; margin: 32px 0; }
+    .meta { color: #888; font-size: 0.9em; }
+    .sources { font-size: 0.85em; color: #666; }
+    .nav { margin-bottom: 24px; font-size: 0.9em; }
+    .nav a { color: #0066cc; text-decoration: none; }
+    .brief-list { list-style: none; }
+    .brief-list li { padding: 8px 0; border-bottom: 1px solid #f0f0f0; }
+    .brief-list a { text-decoration: none; color: #1a1a1a; }
+    .brief-list .date { color: #888; font-size: 0.85em; }
+  </style>
+</head>
+<body>
+  <div class="nav"><a href="./">← All Briefs</a> · <a href="feed.xml">RSS</a></div>
+  <p><h1>PulseBrief's Afternoon Pulse</h1><br>
+<em>Tue, Nov 17, 06:00 → Tue, Nov 17, 12:00</em></p><br>
+<p><h2>Cyber Security</h2></p><br>
+<p><h3><a href="https://thehackernews.com/2026/11/hijacked-optimizely-scripts-served-card.html">Optimizely Supply Chain Attack Confirmed: 178 Organizations Affected Including BBC, CNN, Equifax, HSBC, IKEA</a></h3><br>
+<em>Nov 17, 07:12</em></p><br>
+<p>New reporting confirms the Optimizely Web Experimentation supply chain attack was broader than initially reported — 178 organizations were affected, with malicious scripts serving card skimmers and iOS exploit kits to visitors of sites run by CNN, BBC, Zoom, GitLab, Salesforce, Equifax, HSBC, and IKEA. Optimizely has acknowledged the flaw and the injected code. This is now one of the largest web supply chain compromises on record by number of brand-name properties affected.</p><br>
+<p><blockquote><em>If your organization uses Optimizely or visited any affected site during the exposure window, treat browser session credentials and payment data as potentially compromised — this is an active, confirmed incident.</em></blockquote></p><br>
+<p>Sources: <a href="https://thehackernews.com/2026/11/hijacked-optimizely-scripts-served-card.html">The Hacker News</a> · <a href="https://www.securityweek.com/optimizely-vulnerability-exploited-to-serve-malware-on-major-websites/">SecurityWeek</a></p><br>
+<p><h3><a href="https://thehackernews.com/2026/11/new-gitdoor-and-graphdoor-backdoors.html">Operation ShadowCloud: New GitDoor and GraphDoor Backdoors Use GitHub and SharePoint as Covert C2 Channels</a></h3><br>
+<em>Nov 17, 11:20</em></p><br>
+<p>Kaspersky identified an active intrusion campaign targeting government sectors in Asia and Africa deploying two previously undocumented backdoors — GitDoor and GraphDoor — that use Microsoft SharePoint and GitHub as command-and-control channels, blending malicious traffic with legitimate enterprise services. The campaign, dubbed Operation ShadowCloud, has been active since early 2026. Using trusted SaaS platforms as C2 is a well-established technique for evading network-based detection, and government sector targeting signals nation-state or advanced threat actor involvement.</p><br>
+<p><blockquote><em>Backdoors using GitHub and SharePoint for C2 will bypass most network detection tools — any organization in government-adjacent sectors should review anomalous SharePoint and GitHub API traffic patterns.</em></blockquote></p><br>
+<p>Sources: <a href="https://thehackernews.com/2026/11/new-gitdoor-and-graphdoor-backdoors.html">The Hacker News</a></p><br>
+<p><h3><a href="https://thehackernews.com/2026/11/connectwise-warns-screenconnect-attacks.html">ConnectWise ScreenConnect Attacks Continue — SCKit Actively Targeting Unpatched On-Premises Environments</a></h3><br>
+<em>Nov 17, 06:29</em></p><br>
+<p>ConnectWise confirmed it has completed its investigation into the ScreenConnect partner environment breach but warns that attacks against unpatched on-premises installations are ongoing, with SCKit specifically targeting systems with vulnerable third-party extensions still enabled. Organizations running ScreenConnect must be on version 26.6.5 or later. This continues the ARTEX/ConnectWise supply chain thread from prior briefs — the attack surface remains active.</p><br>
+<p><blockquote><em>Active exploitation of unpatched ScreenConnect is ongoing right now — any organization running on-premises ScreenConnect below 26.6.5 should treat this as an emergency patch.</em></blockquote></p><br>
+<p>Sources: <a href="https://thehackernews.com/2026/11/connectwise-warns-screenconnect-attacks.html">The Hacker News</a></p><br>
+<p><h3><a href="https://www.bleepingcomputer.com/news/security/uber-notifies-drivers-of-data-breach-affecting-nearly-150-000-people/">Uber Breach Update: Fireworks AI Infrastructure Provider Was the Entry Point for 150,000 Driver Record Theft</a></h3><br>
+<em>Nov 17, 08:35</em></p><br>
+<p>Uber has begun notifying nearly 150,000 drivers that their personal data was stolen via a breach of AI infrastructure provider Fireworks AI in early October — clarifying the attack vector from earlier reporting. Stolen data includes names, addresses, and driver's license numbers. The confirmed Fireworks AI vector means this is a supply chain incident affecting any organization using Fireworks AI, not just Uber.</p><br>
+<p><blockquote><em>The Fireworks AI breach vector means other Fireworks AI customers may have been exposed — any organization using Fireworks AI should verify whether their data or integrations were affected.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.bleepingcomputer.com/news/security/uber-notifies-drivers-of-data-breach-affecting-nearly-150-000-people/">BleepingComputer</a></p><br>
+<p><h3><a href="https://www.theregister.com/security/2026/11/17/opinion-pollster-ipsos-fesses-up-to-cybersecurity-incident/5310405">Ipsos Confirms Cybersecurity Incident — Major Opinion Research Firm Brings in External Specialists</a></h3><br>
+<em>Nov 17, 11:44</em></p><br>
+<p>Ipsos, one of the world's largest market research and opinion polling firms, has disclosed a cybersecurity incident and brought in external specialists to determine the cause and scope. No further technical detail has been released. Ipsos handles sensitive client research data, election polling, and commercial survey data for governments and major corporations globally.</p><br>
+<p><blockquote><em>A breach at a firm handling sensitive government and commercial research data is a developing story with potential data exposure implications for Ipsos clients — monitor for escalation.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.theregister.com/security/2026/11/17/opinion-pollster-ipsos-fesses-up-to-cybersecurity-incident/5310405">The Register</a></p><br>
+<p><h3><a href="https://www.bleepingcomputer.com/news/security/alleged-inc-lynx-ransomware-affiliate-extradited-to-us-faces-27-years-in-prison/">INC/Lynx Ransomware Affiliate Extradited to US — Targeted Schools, Hospitals, and Healthcare Entities</a></h3><br>
+<em>Nov 17, 07:25</em></p><br>
+<p>A Kazakh national has been extradited from Italy to the US to face charges related to ransomware attacks on American schools, hospitals, and healthcare organizations as an affiliate of the INC and Lynx ransomware operations. He faces up to 27 years in prison. The extradition is a significant law enforcement action against ransomware-as-a-service affiliate networks that have specifically targeted critical infrastructure.</p><br>
+<p><blockquote><em>An extradition and prosecution of a ransomware affiliate targeting healthcare and education is a meaningful deterrence signal and confirms continued aggressive US law enforcement posture against RaaS networks.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.bleepingcomputer.com/news/security/alleged-inc-lynx-ransomware-affiliate-extradited-to-us-faces-27-years-in-prison/">BleepingComputer</a></p><br>
+<p><h2>AI & Machine Learning</h2></p><br>
+<p><h3><a href="https://www.securityweek.com/california-sues-openai-seeking-court-ordered-changes-after-the-hugging-face-hack/">California Sues OpenAI — SecurityWeek Adds New Detail on Court-Ordered Remedies Sought After Hugging Face Hack</a></h3><br>
+<em>Nov 17, 11:00</em></p><br>
+<p>SecurityWeek's coverage of the California AG lawsuit adds detail on the specific court-ordered changes being sought: structural reforms to OpenAI's safety practices and ongoing oversight mechanisms, not just financial penalties. The suit centers on OpenAI knowingly developing advanced models without adequate safeguards, citing the Hugging Face hack as a concrete harm. Hugging Face CEO Clément Delangue responded publicly in Wired, saying the attack proved AI cannot be controlled by the few.</p><br>
+<p><blockquote><em>The specific remedies California is seeking — structural court-ordered changes to AI safety practices — will shape how every AI lab structures development governance if the suit succeeds.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.securityweek.com/california-sues-openai-seeking-court-ordered-changes-after-the-hugging-face-hack/">SecurityWeek</a> · <a href="https://www.wired.com/story/wired-yearbook-2026-clement-delangue/">Wired</a></p><br>
+<p><h3><a href="https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/">Anthropic Claude Code Team Publishes Verification Framework — 197 HN Points Signal Significant Developer Interest</a></h3><br>
+<em>Nov 17, 10:20</em></p><br>
+<p>Anthropic's Claude Code team published a detailed post explaining how they think about verification of AI-generated code — covering how the system validates its own outputs, handles uncertainty, and flags when human review is warranted. The post drew 197 HN points and 158 comments, indicating strong practitioner interest. It represents a rare direct look at how a frontier AI lab operationalizes safety in an agentic coding context.</p><br>
+<p><blockquote><em>Direct Anthropic thinking on how Claude Code handles verification is immediately relevant for anyone building on or evaluating AI coding assistants — this is first-party signal on a capability gap that matters for production use.</em></blockquote></p><br>
+<p>Sources: <a href="https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/">Claude.dev Blog</a> · <a href="https://news.ycombinator.com/item?id=50529612">Hacker News</a></p><br>
+<p><h3><a href="https://www.wired.com/story/ai-told-these-ex-google-guys-how-to-build-a-billion-dollar-weapons-business/">Ex-Google Executives Using AI to Build Billion-Dollar Weapons Business — Wired Profiles AI-Directed Defense Manufacturing</a></h3><br>
+<em>Nov 17, 10:47</em></p><br>
+<p>Wired profiles Chad Steelberg and Andy Baynes — Google and Apple alumni — who are applying software company methodology and AI guidance to manufacturing lethal munitions, building what Wired describes as a billion-dollar weapons business. The story is a concrete example of AI being used to accelerate defense manufacturing and lower the expertise barrier for weapons development. It arrives as OpenAI announced its NATO cyber defense partnership and defense AI investment continues to accelerate.</p><br>
+<p><blockquote><em>AI being used to design and scale weapons manufacturing by software-native founders is a concrete illustration of the dual-use AI in defense trend that is reshaping the defense industrial base.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.wired.com/story/ai-told-these-ex-google-guys-how-to-build-a-billion-dollar-weapons-business/">Wired</a></p><br>
+<p><h3><a href="https://www.theregister.com/public-sector/2026/11/17/mps-ask-what-the-break-clause-was-for-as-palantir-wins-two-more-years-in-the-nhs/5310348">Palantir Wins NHS Contract Extension Over Parliamentary Objections — Two More Years as Fresh Procurement Promised</a></h3><br>
+<em>Nov 17, 10:15</em></p><br>
+<p>Despite MPs pressing the government on why break clauses were not exercised, Palantir has been awarded a two-year extension on its NHS data analytics contract. Ministers promised a fresh procurement process but critics warn the extension gives the US data firm more time to embed itself in NHS infrastructure before any competitive process occurs. The NHS-Palantir relationship has been contentious over data sovereignty, pricing, and dependency concerns.</p><br>
+<p><blockquote><em>Palantir extending its NHS footprint over parliamentary objections is a significant public sector AI and data governance story — relevant for anyone tracking government AI procurement or health data policy.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.theregister.com/public-sector/2026/11/17/mps-ask-what-the-break-clause-was-for-as-palantir-wins-two-more-years-in-the-nhs/5310348">The Register</a></p><br>
+<p><h2>Technology</h2></p><br>
+<p><h3><a href="https://thehackernews.com/2026/11/apple-tightens-macos-app-permissions-to.html">Apple macOS 27.3 Beta 2: Granular AI Agent Permission Controls Now Being Tested — Device Control and Full Disk Access APIs Affected</a></h3><br>
+<em>Nov 17, 11:07</em></p><br>
+<p>Apple released macOS 27.3 beta 2 with new granular permission controls for apps using its Device Control and Data Access APIs and Full Disk Access — directly targeting the security risk posed by AI agents requesting broad system permissions. Users will see increased transparency and more options before granting sweeping access. The Hacker News provides more technical API-level detail than earlier coverage, confirming the changes are live for developers to test now.</p><br>
+<p><blockquote><em>Anyone building or deploying AI agents on macOS needs to review these new permission requirements now — beta 2 means this is close to shipping and app behavior will need to change.</em></blockquote></p><br>
+<p>Sources: <a href="https://thehackernews.com/2026/11/apple-tightens-macos-app-permissions-to.html">The Hacker News</a></p><br>
+<p><h3><a href="https://www.theregister.com/software/2026/11/17/up-to-99-of-uk-civil-servants-rely-on-microsoft-for-comms-minister-admits/5310385">99% of UK Civil Servants Rely on Microsoft for Communications — Government Admits After 18-Hour Outage</a></h3><br>
+<em>Nov 17, 11:09</em></p><br>
+<p>A UK minister admitted in Parliament that up to 99% of UK civil servants depend on Microsoft for communications infrastructure, following the 18-hour Microsoft email outage that disrupted government operations. The government talked up supplier diversification plans but offered no timeline. The admission crystallizes the systemic single-vendor risk across a G7 government and arrives as Microsoft has also acknowledged causing Windows activation failures through its own patch cycle.</p><br>
+<p><blockquote><em>A government admitting near-total dependence on a single vendor after a major outage is a public sector resilience signal relevant for anyone advising on enterprise or government infrastructure strategy.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.theregister.com/software/2026/11/17/up-to-99-of-uk-civil-servants-rely-on-microsoft-for-comms-minister-admits/5310385">The Register</a></p><br>
+<p><h3><a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-remote-lock-for-lost-or-stolen-windows-devices/">Microsoft Testing Remote Lock for Windows Devices — Enterprise IT Can Lock Without Wiping</a></h3><br>
+<em>Nov 17, 11:19</em></p><br>
+<p>Microsoft is testing a new Remote Lock feature for Windows that allows enterprise IT administrators to remotely lock lost or stolen devices without performing a full wipe, preserving data while securing the endpoint. This fills a gap between 'do nothing' and 'full wipe' in enterprise device management workflows. The feature is in testing and targets corporate device fleets where full remote wipe may be operationally undesirable.</p><br>
+<p><blockquote><em>Remote Lock without wipe is a practical enterprise endpoint management improvement that IT and security teams managing Windows device fleets should track for deployment planning.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-remote-lock-for-lost-or-stolen-windows-devices/">BleepingComputer</a></p><br>
+<p><h3><a href="https://www.theregister.com/databases/2026/11/17/postgresql-patches-52-security-holes-sends-version-14-into-retirement/5310108">PostgreSQL Patches 52 Security Holes, Retires Version 14 — Next Major Release Due November 19</a></h3><br>
+<em>Nov 17, 09:30</em></p><br>
+<p>The PostgreSQL Global Development Group released security updates patching 52 vulnerabilities across supported versions, while simultaneously ending support for PostgreSQL 14. Some fixes require steps beyond installation. The timing is notable — the next major PostgreSQL release is scheduled for November 19, two days away, meaning organizations are managing an end-of-life version, a large patch batch, and a new major release in the same week.</p><br>
+<p><blockquote><em>52 security fixes plus a version EOL plus a new major release in the same week is an unusual operational event for any team running PostgreSQL infrastructure — prioritize patch and upgrade planning now.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.theregister.com/databases/2026/11/17/postgresql-patches-52-security-holes-sends-version-14-into-retirement/5310108">The Register</a></p><br>
+<p><h3><a href="https://www.euronews.com/2026/11/17/what-to-watch-in-nvidias-first-earnings-since-huang-resigned">Nvidia Q3 Earnings Tuesday — First Report Since Jensen Huang's Resignation, Under Interim CEO Colette Kress</a></h3><br>
+<em>Nov 17, 10:28</em></p><br>
+<p>Nvidia reports Q3 2026 earnings Tuesday in its first earnings call since co-founder Jensen Huang resigned amid the Megaspeed spy scandal. Interim CEO Colette Kress will face investor questions about leadership succession, the federal investigation into Megaspeed, the Commerce Department's criminal probe, expanded chip export restrictions, and whether major AI customers are maintaining their spending commitments. Euronews previews the event as one of the most scrutinized earnings calls in Nvidia's history.</p><br>
+<p><blockquote><em>Nvidia's earnings call will set the narrative on AI hardware spending, leadership continuity, and China export risk in one event — the most market-moving tech announcement of the week.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.euronews.com/2026/11/17/what-to-watch-in-nvidias-first-earnings-since-huang-resigned">Euronews Business</a></p><br>
+<p><h2>Business & Markets</h2></p><br>
+<p><h3><a href="https://www.nytimes.com/2026/11/17/business/trump-xi-meeting-tensions.html">Trump-Xi Meeting Underway — Public Friendship Masks Accelerating Trade and Investment Restrictions</a></h3><br>
+<em>Nov 17, 10:03</em></p><br>
+<p>Presidents Trump and Xi are meeting amid public displays of diplomatic warmth that contrast sharply with simultaneous escalating actions: new US AI chip export restrictions targeting third-country data centers, the Commerce Department criminal investigation into Megaspeed, and China's accelerating domestic chip substitution programs. NYT frames this as the defining tension of the meeting — the two governments are arming up economically and technologically while their leaders mingle. Treasury Secretary Bessent's hawkish pivot on tech exports adds a concrete policy dimension.</p><br>
+<p><blockquote><em>The gap between diplomatic optics and actual policy escalation at the Trump-Xi meeting will determine near-term export control outcomes, chip supply chains, and AI market access — the most consequential geopolitical event of the week for tech.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.nytimes.com/2026/11/17/business/trump-xi-meeting-tensions.html">NYT Business</a></p><br>
+<p><h3><a href="https://www.nytimes.com/2026/11/17/science/fearing-chinese-rivals-us-biotech-adopts-a-new-norm-share-nothing.html">US Biotech Adopts Radical Secrecy Norm Amid Fear of Chinese Rivals Stealing Research</a></h3><br>
+<em>Nov 17, 11:57</em></p><br>
+<p>NYT reports that US biotech companies are abandoning the industry's traditional open science culture, moving to share nothing — not preprints, not conference presentations, not early data — out of concern that well-funded Chinese companies will rapidly develop competing drugs from disclosed research. The shift is reshaping scientific collaboration norms across the sector and comes directly after the FDA's rejection of ivonescimab, China's most prominent drug development milestone. The secrecy norm is spreading across the industry faster than any regulatory mandate.</p><br>
+<p><blockquote><em>A structural shift in how US biotech handles research disclosure — driven by competitive fear of Chinese rivals — is a major signal for anyone in life sciences, research collaboration, or technology transfer.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.nytimes.com/2026/11/17/science/fearing-chinese-rivals-us-biotech-adopts-a-new-norm-share-nothing.html">NYT Business</a></p><br>
+<p><h3><a href="https://www.bleepingcomputer.com/news/security/court-clears-brothers-of-25-million-ethereum-crypto-heist-charges/">Ethereum Brothers Acquitted of $25M Crypto Heist — Judge Rules Exploiting Blockchain Bug Is Not Theft</a></h3><br>
+<em>Nov 17, 09:44</em></p><br>
+<p>US District Judge Jessica Clarke acquitted two brothers who had been charged with stealing $25 million in Ethereum in approximately 12 seconds by exploiting a vulnerability in the blockchain's transaction ordering. The not-guilty verdict rests on the legal distinction between exploiting a software flaw and committing fraud — with significant implications for how smart contract exploits and blockchain vulnerabilities are prosecuted. The case was closely watched by the crypto legal community.</p><br>
+<p><blockquote><em>An acquittal on the basis that exploiting a blockchain bug is not theft sets a significant legal precedent for how crypto protocol vulnerabilities are treated under US criminal law — directly relevant for anyone in DeFi, crypto security, or digital asset compliance.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.bleepingcomputer.com/news/security/court-clears-brothers-of-25-million-ethereum-crypto-heist-charges/">BleepingComputer</a></p><br>
+<p><h3><a href="https://www.nytimes.com/2026/11/17/world/europe/deutsche-bank-russia-oligarchs-leaked-documents.html">Leaked Documents Show Deutsche Bank Courted Russian Oligarchs — Sanctions Exposure Detailed in Internal Records</a></h3><br>
+<em>Nov 17, 06:00</em></p><br>
+<p>NYT obtained leaked internal Deutsche Bank documents showing the bank actively courted and retained wealthy Russian clients, with an analyst internally noting the bank had a 'large Russian Oligarchs client population' as it braced for sanctions. The leak exposes the gap between Deutsche Bank's public compliance posture and internal relationship management ahead of the Ukraine war sanctions regime. Deutsche Bank has faced prior regulatory scrutiny over its Russian client relationships.</p><br>
+<p><blockquote><em>Leaked documentation of Deutsche Bank's internal Russian oligarch client strategy creates significant sanctions compliance and reputational exposure — relevant for anyone with Deutsche Bank counterparty relationships or tracking financial sector sanctions risk.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.nytimes.com/2026/11/17/world/europe/deutsche-bank-russia-oligarchs-leaked-documents.html">NYT Business</a><br>
+</p>
+</body>
+</html>
