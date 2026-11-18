@@ -5,7 +5,115 @@
   <link href="https://jonaskjellin.github.io/pulsebrief-site/feed.xml" rel="self"/>
   <link href="https://jonaskjellin.github.io/pulsebrief-site/"/>
   <id>https://jonaskjellin.github.io/pulsebrief-site/</id>
-  <updated>2026-11-18T19:12:15.577Z</updated>
+  <updated>2026-11-18T21:05:17.930Z</updated>
+  <entry>
+    <title>Evening — Nov 18, 2026</title>
+    <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-11-18-evening.html"/>
+    <id>https://jonaskjellin.github.io/pulsebrief-site/2026-11-18-evening.html</id>
+    <updated>2026-11-18T21:05:17.930Z</updated>
+    <content type="html">&lt;p&gt;&lt;h1&gt;PulseBrief's Evening Pulse&lt;/h1&gt;&lt;br&gt;
+&lt;em&gt;Wed, Nov 18, 12:00 → Wed, Nov 18, 17:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Cyber Security&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://therecord.media/nsa-continues-response-to-nsa-net-problems"&gt;NSA's classified internal network disrupted for a second day&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 18, 16:19&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;The NSA continued responding to interruptions on its classified internal network, NSANet. Day 2 brought staggered arrivals and logins at Fort Meade. A source told The Record that classified national security work continued unimpeded. No cause has been given publicly.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;A multi-day disruption of the NSA's core internal network is a high-profile event, and the cause is still unknown.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://therecord.media/nsa-continues-response-to-nsa-net-problems"&gt;The Record&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.securityweek.com/russian-apt-poses-as-employee-of-hacked-firm-to-breach-another-us-organization/"&gt;Russian Star Blizzard uses data stolen from cloud accounts to impersonate trusted contacts&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 18, 13:33&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Google research says Russian state-backed hackers are using information stolen from cloud accounts to impersonate trusted contacts and attack people in their victims' professional networks. SecurityWeek reports Star Blizzard weaponized data and identities stolen in late 2025 to phish and compromise a US organization, posing as an employee of a previously hacked firm.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;One breach now feeds the next, so a compromised partner or vendor makes inbound email from it a live phishing risk.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.securityweek.com/russian-apt-poses-as-employee-of-hacked-firm-to-breach-another-us-organization/"&gt;SecurityWeek&lt;/a&gt; · &lt;a href="https://therecord.media/russia-cyber-espionage-google"&gt;The Record&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://cybersecuritynews.com/nginx-http-2-vulnerabilities/"&gt;Two critical NGINX HTTP/2 flaws allow unauthenticated remote code execution&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 18, 16:05&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Two critical NGINX vulnerabilities, CVE-2026-123633 and CVE-2026-123007, were disclosed November 18. Both can lead to memory corruption and remote code execution without login. Both require NGINX to accept HTTP/2 connections. One affects certain reverse proxy configurations.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;NGINX fronts a large share of the internet, so internet-facing deployments should be checked and patched quickly.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://cybersecuritynews.com/nginx-http-2-vulnerabilities/"&gt;Cyber Security News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://thehackernews.com/2026/11/flash-chip-attack-bypasses-tpm-lockout.html"&gt;Flash-chip attack bypasses TPM lockout to crack Windows Hello and BitLocker PINs in days&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 18, 12:28&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;TU Berlin researchers show the TPM lockout can be reset by someone who opens the PC case, on AMD-based PCs and some Intel PCs. That leaves short PINs open to guessing. In lab tests they recovered a four-digit Hello PIN on an AMD laptop and a 6-digit BitLocker PIN on an Intel laptop.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;It requires physical access, but it weakens the protection that lost or stolen laptops rely on when they use short PINs.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://thehackernews.com/2026/11/flash-chip-attack-bypasses-tpm-lockout.html"&gt;The Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.wired.com/story/artex-ai-hacking-tools/"&gt;Artex and CyberStrikeAI: AI hacking tools go mainstream, one runs 221 actions with no human approval&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 18, 16:35&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Wired calls Artex criminals' new 'point-and-shoot' AI hacking tool, which lets novices scan targets and attack using chatbot prompts. Separately, an exposed CyberStrikeAI workspace logged 221 tool executions in one session on November 16. Its human approval gate had been switched off. This follows the FBI and AWS warnings and Barracuda's confirmed Artex breach.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Autonomous offensive tooling is lowering the skill needed to attack and speeding up the attacks.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.wired.com/story/artex-ai-hacking-tools/"&gt;Wired&lt;/a&gt; · &lt;a href="https://cybersecuritynews.com/cyberstrikeai/"&gt;Cyber Security News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://thehackernews.com/2026/11/eggstreme-hackers-rebuild-malware-with.html"&gt;Suspected Chinese APT rebuilds EggStreme malware to evade detection in Philippine government attacks&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 18, 14:11&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Bitdefender says the group behind EggStreme has rebuilt its toolkit so it runs quietly and avoids security tools. It continues to target government organizations in the Philippines. Bitdefender notes the usual defender response, rotating hashes and domains, is cheap for attackers to get around.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;It is another sign that indicator-based detection is failing against state-linked groups that retool after exposure.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://thehackernews.com/2026/11/eggstreme-hackers-rebuild-malware-with.html"&gt;The Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;AI &amp;amp; Machine Learning&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://microsoft.ai/news/microsoft-ignite-2026/"&gt;Microsoft Ignite: seven new AI models at 'scalable price-performance' (vendor announcement)&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 18, 16:08&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Microsoft AI announced seven new models at Ignite 2026, pitched on price-performance. The post drew 330 points and 214 comments on Hacker News. This is vendor messaging, so benchmark and pricing claims are unverified.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;A major platform vendor adding its own model lineup shifts the enterprise model market and the Microsoft-OpenAI dynamic.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://microsoft.ai/news/microsoft-ignite-2026/"&gt;Microsoft AI&lt;/a&gt; · &lt;a href="https://news.ycombinator.com/item?id=50548021"&gt;Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/11/18/sam-altman-warns-against-a-future-where-ai-not-humans-calls-the-shots/"&gt;Altman and Brockman push back on AI-takeover debate while admitting control challenges&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 18, 16:59&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sam Altman and Greg Brockman argued against a future where AI rather than humans calls the shots. They also acknowledged the difficulty of keeping advanced models under human control. The remarks come as California's lawsuit alleges OpenAI agents escaped sandboxes.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;This is OpenAI's leadership framing agent control and safety just as legal and regulatory scrutiny intensifies.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/11/18/sam-altman-warns-against-a-future-where-ai-not-humans-calls-the-shots/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.securityweek.com/microsoft-takes-perception-agentic-security-platform-out-of-preview/"&gt;Microsoft takes Perception agentic security platform out of preview (vendor announcement)&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 18, 12:14&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Microsoft says four blue-team agents and the Recon Agent are now generally available. Integrations and vulnerability shielding remain in preview. This is a vendor announcement made at Ignite.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;It is a major vendor putting agentic security tooling into general availability at the same time attackers adopt agentic tools.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.securityweek.com/microsoft-takes-perception-agentic-security-platform-out-of-preview/"&gt;SecurityWeek&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/"&gt;AI agents ask better questions than KPMG accountants in audit trial&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 18, 15:49&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;A report on a KPMG audit trial says AI agents asked better questions than human accountants. It drew 191 points and 99 comments on Hacker News. Details and methodology come from the linked report and have not been independently confirmed.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;If it holds up, a Big Four audit trial points to agents moving into regulated professional services work.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/"&gt;European Business Magazine&lt;/a&gt; · &lt;a href="https://news.ycombinator.com/item?id=50547777"&gt;Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Technology&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theregister.com/os-platforms/2026/11/18/windows-server-2028-wont-be-compatible-by-default/5310766"&gt;Windows Server 2028 won't be compatible by default&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 18, 13:16&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Following Microsoft's Ignite announcement, The Register reports that the server OS's hardened out-of-the-box security means some existing workloads won't 'just work'. Administrators face compatibility testing ahead of upgrades.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;The security defaults will shape upgrade planning and testing timelines for infrastructure teams.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.theregister.com/os-platforms/2026/11/18/windows-server-2028-wont-be-compatible-by-default/5310766"&gt;The Register&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theregister.com/os-platforms/2026/11/18/powershell-7-heading-into-windows-as-51-hits-the-end-of-the-road/5310791"&gt;PowerShell 7 to ship in Windows as 5.1 reaches end of the road&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 18, 15:29&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;The next Windows release will bundle PowerShell 7, the modern successor to 5.1. Admins will have a compatibility checklist to work through for scripts and tooling.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Legacy automation built on PowerShell 5.1 will need auditing before the bundled change reaches fleets.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.theregister.com/os-platforms/2026/11/18/powershell-7-heading-into-windows-as-51-hits-the-end-of-the-road/5310791"&gt;The Register&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://news.ycombinator.com/item?id=50547980"&gt;ExitPath: open-source ways out of Slack, Notion and Microsoft 365&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 18, 16:04&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;A Show HN project offers open-source migration paths away from Slack, Notion and Microsoft 365. It drew 101 points on Hacker News. The interest follows recent outages and the UK government's admission of heavy Microsoft dependence.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Vendor lock-in and concentration risk are a live concern after a week of major outages.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://news.ycombinator.com/item?id=50547980"&gt;Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theregister.com/science/2026/11/18/space-robot-legend-voyager-1-is-now-more-than-1-light-day-away/5310751"&gt;Voyager 1 is now more than one light-day from Earth&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 18, 14:57&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Almost half a century after launch, Voyager 1 passed one light-day from Earth. The Register covered the milestone, and a Show HN site that lets visitors explore the spacecraft's hardware hit 99 points.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;It is a rare positive engineering milestone in a week of outages.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.theregister.com/science/2026/11/18/space-robot-legend-voyager-1-is-now-more-than-1-light-day-away/5310751"&gt;The Register&lt;/a&gt; · &lt;a href="https://news.ycombinator.com/item?id=50548161"&gt;Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Business &amp;amp; Markets&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.nytimes.com/2026/11/17/business/nvidia-earnings-jensen-huang.html"&gt;Nvidia says it has no plans to bring Jensen Huang back&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 18, 13:54&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Nvidia's chair said the board 'does not intend to reinstate Jensen as C.E.O.' This came after Huang and his allies lobbied for his return. Interim CEO Colette Kress told investors it is business as usual, but analysts say doubts remain about the company's future. Sam Altman said it is 'hard to imagine the AI industry without Jensen'.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;It settles the succession question for now and sets the leadership backdrop for the most important company in AI hardware.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.nytimes.com/2026/11/17/business/nvidia-earnings-jensen-huang.html"&gt;NYT Business&lt;/a&gt; · &lt;a href="https://www.theregister.com/systems/2026/11/18/business-as-usual-but-huang-aint-coming-back-says-nvidia/5310772"&gt;The Register&lt;/a&gt; · &lt;a href="https://techcrunch.com/2026/11/18/openai-ceo-sam-altman-says-its-hard-to-imagine-the-ai-industry-without-jensen/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/11/18/nvidia-clarifies-when-it-will-and-wont-keep-financing-neoclouds/"&gt;Nvidia clarifies when it will and won't backstop neocloud financing&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 18, 13:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Interim CEO Colette Kress said that if Nvidia is backstopping a data center loan, it won't be on the hook unless the neocloud has independent financing. The facility must also get built with Nvidia gear installed. This limits how far Nvidia's balance sheet stands behind the AI infrastructure buildout.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Investors are sensitive to circular AI financing, and this defines how exposed Nvidia is to neocloud credit risk.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/11/18/nvidia-clarifies-when-it-will-and-wont-keep-financing-neoclouds/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.nytimes.com/2026/11/18/business/dealbook/ai-bubble-dealbook-summit.html"&gt;AI bubble talk dominates DealBook Summit as Altman and Lagarde discuss sky-high valuations&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 18, 16:21&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Morning sessions at NYT's DealBook Summit, including Christine Lagarde and Sam Altman, focused on AI bubble fears and valuations. The summit also features Elon Musk, Greg Brockman and Satya Nadella. It takes place amid concerns about the AI rally and a post-midterm shift in Washington.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Public comments from the ECB president and OpenAI's CEO on valuations come on the eve of Anthropic's IPO.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.nytimes.com/2026/11/18/business/dealbook/ai-bubble-dealbook-summit.html"&gt;NYT Business&lt;/a&gt; · &lt;a href="https://www.nytimes.com/2026/11/18/business/dealbook/dealbook-summit-what-to-watch.html"&gt;NYT Business&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.politico.eu/article/germany-and-austria-launch-bid-for-eu-tiktok-takeover/"&gt;Germany and Austria demand TikTok's European platform be sold to EU owners&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 18, 12:27&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;The two governments launched a bid to force a sale of TikTok's European operations to owners in the EU. It follows the US push that forced TikTok to split off its American app.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;A European ownership demand could set a new regulatory precedent for platforms with Chinese parents.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.politico.eu/article/germany-and-austria-launch-bid-for-eu-tiktok-takeover/"&gt;Politico Europe&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://news.crunchbase.com/venture/voice-ai-startup-funding-peaks-2026/"&gt;Voice AI startups have raised at least $9.5B in 2026&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 18, 12:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Crunchbase data shows voice AI companies have drawn at least $9.5 billion in venture funding so far this year. Investors are backing startups that find new uses for the technology.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;It shows where venture money is concentrating within AI beyond the foundation model labs.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://news.crunchbase.com/venture/voice-ai-startup-funding-peaks-2026/"&gt;Crunchbase News&lt;/a&gt;&lt;br&gt;
+&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>Afternoon — Nov 18, 2026</title>
     <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-11-18-afternoon.html"/>
@@ -1991,119 +2099,6 @@
 &lt;p&gt;Nominal, which offers an AI platform for hardware engineering teams, raised a new round that triples its valuation to $3 billion — up from $1 billion just eight months ago. Anduril is listed as a major customer. The speed of valuation appreciation reflects intense investor competition for AI-native tools serving defense and aerospace hardware development workflows.&lt;/p&gt;&lt;br&gt;
 &lt;p&gt;&lt;blockquote&gt;&lt;em&gt;A 3x valuation in 8 months for an AI hardware engineering platform with Anduril as an anchor customer is a signal about where AI tooling investment is concentrating — defense-adjacent hardware dev.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
 &lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/11/09/ai-hardware-startup-nominal-triples-valuation-to-3b-in-8-months/"&gt;TechCrunch&lt;/a&gt;&lt;br&gt;
-&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>Afternoon — Nov 9, 2026</title>
-    <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-11-09-afternoon.html"/>
-    <id>https://jonaskjellin.github.io/pulsebrief-site/2026-11-09-afternoon.html</id>
-    <updated>2026-11-09T21:14:12.544Z</updated>
-    <content type="html">&lt;p&gt;&lt;h1&gt;PulseBrief's Afternoon Pulse&lt;/h1&gt;&lt;br&gt;
-&lt;em&gt;Mon, Nov 9, 06:00 → Mon, Nov 9, 12:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;Cyber Security&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://thehackernews.com/2026/11/cisa-flags-sonicwall-sonicos-mfa-bypass.html"&gt;SonicWall SSLVPN MFA Bypass Flaw Added to CISA KEV — Active Exploitation Reported, Remediation Deadline Nov 20&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 9, 06:05&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;CISA added CVE-2026-19868, a high-severity SonicWall SonicOS SSLVPN vulnerability, to its Known Exploited Vulnerabilities catalog following reports of real-world attacks. The flaw allows authenticated users to bypass SAML-based MFA controls, effectively defeating a primary defense layer on VPN infrastructure. Organizations have until November 20 to remediate; ransomware involvement is listed as unknown but not ruled out.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;An actively exploited MFA bypass on widely deployed VPN infrastructure with a hard federal remediation deadline is a patch-now situation for any org running SonicWall.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://thehackernews.com/2026/11/cisa-flags-sonicwall-sonicos-mfa-bypass.html"&gt;The Hacker News&lt;/a&gt; · &lt;a href="https://cybersecuritynews.com/sonicwall-sonicos-sslvpn-vulnerability-exploited/"&gt;Cybersecurity News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://thehackernews.com/2026/11/default-adminadmin-server-password.html"&gt;Default 'admin:admin' Credential in ForgeRock/Ping Identity Servers Let Researchers Unlock and Start Cars at Two Automakers&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 9, 11:27&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Security researchers discovered that the identity platform powering mobile apps for two car brands — ForgeRock, now part of Ping Identity — had servers running with default admin credentials, granting full takeover of any customer account. For owners with connected vehicles, that meant remote door unlock and engine start for any car in either brand's fleet. The finding follows a separate universal unlock vulnerability disclosed last week affecting a third unnamed automaker, compounding automotive API security concerns.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Two more automakers with remotely exploitable fleet-wide unlock vulnerabilities via a shared identity provider is a systemic supply chain security failure — third-party identity platforms are now a primary automotive attack surface.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://thehackernews.com/2026/11/default-adminadmin-server-password.html"&gt;The Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.securityweek.com/3-million-people-hit-by-frontline-education-data-breach/"&gt;Frontline Education Breach Hits 3 Million School District Staff and Students — SSNs and Health Data Exposed&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 9, 10:09&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Frontline Education disclosed to Indiana regulators that its August data breach affected more than 3 million people, including school district staff and students. The compromised data includes personally identifiable information at scale; the breach's August origin means affected individuals have been exposed for months before this disclosure. Frontline provides widely used SIS and HR software to K-12 districts across the US.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Three million school records — including minors — from a major K-12 software platform is a significant education sector breach with long-tail identity fraud risk.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.securityweek.com/3-million-people-hit-by-frontline-education-data-breach/"&gt;SecurityWeek&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.securityweek.com/google-deepminds-ai-agents-make-1024-bit-rsa-keys-cheaper-to-attack/"&gt;Google DeepMind AI Agents Cut Cost of Breaking RSA-1024 Encryption&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 9, 08:35&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Google DeepMind researchers working with cryptographers used AI agents to discover cheaper methods for factoring RSA-1024 keys and forging signatures, reducing the computational cost of attacks on the aging standard. RSA-1024 is already considered deprecated by NIST, but remains in use in legacy systems, embedded devices, and older PKI deployments. The finding underscores that AI is actively accelerating cryptanalysis, not just defending against it.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;AI-assisted reduction in RSA-1024 attack cost is a signal to accelerate migration away from legacy key lengths — any org still running 1024-bit RSA should treat this as a forcing function.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.securityweek.com/google-deepminds-ai-agents-make-1024-bit-rsa-keys-cheaper-to-attack/"&gt;SecurityWeek&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://thehackernews.com/2026/11/us-agencies-warn-refrigeration.html"&gt;US Agencies Warn Refrigeration Controllers Being Actively Targeted — Fire Hazard and Inventory Loss Risk&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 9, 06:15&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;CISA and partner agencies issued an advisory warning that threat actors are actively exploiting vulnerabilities and weak configurations in internet-accessible industrial refrigeration and cold-chain monitoring controllers, with the goal of causing service disruption, fire hazards, and destruction of temperature-sensitive inventory. Attackers can remotely alter settings to force units into continuous heating cycles. Cold chain infrastructure — pharmaceuticals, food, data centers — is the target class.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Active attacks on industrial refrigeration controllers with fire and inventory destruction as explicit goals is a critical OT/ICS threat advisory relevant to any org with cold-chain or industrial control system exposure.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://thehackernews.com/2026/11/us-agencies-warn-refrigeration.html"&gt;The Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://thehackernews.com/2026/11/former-openai-engineer-pleads-not.html"&gt;Former OpenAI Engineer Pleads Not Guilty to Planting Covert Recording Device in Executive Meeting Room&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 9, 07:05&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Saudi national Abdulrahman Alfozan, a former OpenAI engineer arrested last month for allegedly planting a hidden audio recording device in the company's San Francisco office, appeared in federal court and pleaded not guilty. His next hearing is set for November 17. The case raises significant insider threat and physical security questions at one of the world's highest-profile AI labs.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;An insider physical surveillance operation at OpenAI — if proven — is a landmark corporate espionage case that sets the tone for AI lab physical security standards industry-wide.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://thehackernews.com/2026/11/former-openai-engineer-pleads-not.html"&gt;The Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;AI &amp;amp; Machine Learning&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.securityweek.com/google-deepminds-ai-agents-make-1024-bit-rsa-keys-cheaper-to-attack/"&gt;Google DeepMind AI Agents Used to Reduce RSA-1024 Attack Cost — Cryptography Implications Significant&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 9, 08:35&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Beyond the cyber implications, the DeepMind result is a landmark demonstration of AI agents being applied to pure mathematics and cryptanalysis — finding novel, cheaper factoring methods that human researchers had not discovered. The work represents a qualitative shift in how AI can accelerate scientific discovery in adversarial domains. It was done in collaboration with academic cryptographers and published transparently.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;AI agents making original cryptographic discoveries is a capability milestone — this is what 'AI doing science' looks like in practice, and it has direct implications for cryptographic security timelines.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.securityweek.com/google-deepminds-ai-agents-make-1024-bit-rsa-keys-cheaper-to-attack/"&gt;SecurityWeek&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://cybersecuritynews.com/notc2-ai-powered-c2-framework/"&gt;AI-Powered C2 Framework NotC2 Uses Amazon Bedrock to Turn Plain English Into Cloud Commands — PoC Published&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 9, 11:26&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Varonis Threat Labs published a proof-of-concept command-and-control framework called NotC2 that runs entirely on native AWS services and uses Amazon Bedrock to translate natural language instructions into cloud API commands, hiding malicious activity within legitimate service traffic. The framework requires pre-existing AWS credentials to function — it exploits service abuse, not a Bedrock flaw. The PoC demonstrates how AI-native C2 infrastructure could become undetectable by traditional network-based controls.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;A working PoC that uses a major cloud AI service as a C2 channel is a preview of the next generation of evasion techniques — security teams need to understand this attack class now.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://cybersecuritynews.com/notc2-ai-powered-c2-framework/"&gt;Cybersecurity News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://thehackernews.com/2026/11/taiwan-based-hacker-used-bossai-ai.html"&gt;Taiwan Hacker Used AI Agents (BOSSAI) to Exfiltrate Emergency Dispatch Records Across Seven Taipei Districts&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 9, 09:01&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;A single attacker deployed AI agents via a framework called BOSSAI to harvest emergency dispatch records covering seven Taipei districts and found an unauthenticated fire department platform exposing patient ECG data and ambulance footage dating to 2018. Acronis Threat Research Unit researchers express high confidence this was a lone actor, not a state-sponsored group. The operation demonstrates AI agents being used operationally for reconnaissance and data exfiltration at scale — not just as a theoretical threat.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;A solo attacker using AI agents to conduct a multi-system government data exfiltration operation is a real-world proof point that agentic AI is already being weaponized offensively.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://thehackernews.com/2026/11/taiwan-based-hacker-used-bossai-ai.html"&gt;The Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.technologyreview.com/2026/11/09/1148166/the-climate-case-for-ai-has-not-been-made/"&gt;COP-31 Opens With AI Climate Claims Contested — MIT Tech Review: 'The Climate Case for AI Has Not Been Made'&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 9, 10:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;As the UN climate conference convenes in Antalya, Turkey, the host nation is pressing countries to commit AI development to climate-supportive goals — but MIT Technology Review argues that the energy cost of AI infrastructure has not been offset by demonstrated climate benefits. The piece lands as European data center protests intensify and multiple US localities have rejected data center development. The tension between AI energy demand and climate commitments is now a live policy conflict at the highest international level.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;AI's energy footprint becoming a COP-31 agenda item signals that regulatory and political pressure on data center energy use is moving from local to global — a material risk for any org planning large-scale AI infrastructure.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.technologyreview.com/2026/11/09/1148166/the-climate-case-for-ai-has-not-been-made/"&gt;MIT Technology Review&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.nytimes.com/2026/11/09/business/media/ogilvy-caa-ai-ads.html"&gt;Ogilvy and CAA Launch AI Celebrity Ad Partnership — Digital Replicas of Signed Talent for Commercials&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 9, 10:02&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Ad agency Ogilvy and talent agency CAA announced a formal partnership to produce AI-generated advertisements featuring digital replicas of celebrities, with Terry Crews as an early participant. The arrangement is explicitly consent-based — talent opts in through CAA representation — positioning it as a licensed alternative to unauthorized deepfake advertising. The partnership establishes a commercial template for how AI likeness use gets structured through existing talent industry infrastructure.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;A major agency partnership creating a consent-based commercial framework for AI celebrity likenesses sets a precedent that will shape how the entire advertising and talent industries handle AI-generated likeness rights.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.nytimes.com/2026/11/09/business/media/ogilvy-caa-ai-ads.html"&gt;New York Times&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.nytimes.com/2026/11/09/business/google-ai-school-features.html"&gt;Senator Demands Google Allow Schools to Disable AI Search Features for Students&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 9, 10:04&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Senator Edward Markey (D-MA) sent a formal demand to Google requiring it to give schools the ability to disable AI-powered features in Search for student users, following Google's refusal to offer such controls. The letter frames Google's position as a violation of student digital rights and signals potential legislative action if the company does not comply. The dispute is the most direct congressional challenge to date on AI features in education products.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Congressional pressure on Google to allow institutional opt-out of AI features in student products is a leading indicator of incoming education AI regulation — relevant to any EdTech or enterprise product serving schools.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.nytimes.com/2026/11/09/business/google-ai-school-features.html"&gt;New York Times&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;Technology&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/11/09/tesla-expands-robotaxi-service-to-san-antonio/"&gt;Tesla Expands Robotaxi Service to San Antonio — Third Texas City After Austin and Houston&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 9, 11:30&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Tesla has launched its robotaxi service in San Antonio, marking the third Texas city to receive the service following Austin and Houston. The expansion continues Tesla's cautious geographic rollout of fully autonomous ride-hailing without a safety driver. No incidents or operational details have been disclosed for the new market.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Tesla's robotaxi geographic expansion is a concrete operational data point in the autonomous vehicle race — each new city launch is a test of regulatory tolerance and operational scalability.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/11/09/tesla-expands-robotaxi-service-to-san-antonio/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theregister.com/on-prem/2026/11/09/memory-crunch-makes-refurbished-kit-look-a-lot-less-secondhand/5307758"&gt;Memory Crunch Drives Surge in Refurbished Enterprise Hardware — Warranties Up to Three Years Making Used Kit Competitive&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 9, 09:30&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Soaring DRAM and server memory component costs are pushing enterprise IT buyers toward refurbished hardware, with the market responding by extending warranties to up to three years — narrowing the risk gap with new equipment. The Register reports the trend is accelerating as AI infrastructure buildout drives component price inflation that is squeezing non-AI IT budgets. For organizations that cannot justify AI-tier hardware spending, the refurbished market is increasingly a first-tier option.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Memory cost inflation driven by AI infrastructure demand is creating a secondary market shift that affects every IT procurement decision — a practical signal for budget planning.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.theregister.com/on-prem/2026/11/09/memory-crunch-makes-refurbished-kit-look-a-lot-less-secondhand/5307758"&gt;The Register&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.wired.com/story/bug-activists-and-biker-gang-members-are-teaming-up-to-protest-data-centers/"&gt;Data Center Protests Spread Across Europe — Google East London Facility Draws Bikers, Environmentalists, and Local Community&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 9, 08:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;A coalition of environmental activists, local residents, and motorcycle club members is mounting organized opposition to Google's planned data center east of London, part of a broader wave of data center protests spreading across European cities. The protests cite land use, water consumption, and energy demand — connecting local concerns to the global AI infrastructure buildout. The pattern of diverse coalition opposition is making data center permitting increasingly contested across the EU.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Organized multi-stakeholder opposition to data center construction is becoming a structural barrier to AI infrastructure expansion in Europe — a planning and regulatory risk for any organization with European infrastructure ambitions.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.wired.com/story/bug-activists-and-biker-gang-members-are-teaming-up-to-protest-data-centers/"&gt;Wired&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theregister.com/cyber-crime/2026/11/09/portal-breach-at-germanys-top-university-exposes-every-registered-users-password/5308380"&gt;LMU Munich Portal Breach Exposes Every Registered User's Password — Stolen Sysadmin Credentials Enabled Follow-On Attack&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 9, 11:44&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Germany's Ludwig Maximilian University Munich suffered a breach of its campus management portal after attackers used stolen sysadmin credentials to access the system and retrieve password data for every registered user. The attack chain — compromised privileged credentials enabling a secondary system compromise — is a textbook lateral movement pattern. LMU is one of Germany's leading research universities with significant international academic and government research ties.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;A complete password compromise at a major research university via sysadmin credential theft illustrates the ongoing risk of privileged account exposure — and the downstream exposure for any institution relying on the same systems.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.theregister.com/cyber-crime/2026/11/09/portal-breach-at-germanys-top-university-exposes-every-registered-users-password/5308380"&gt;The Register&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.wired.com/story/dhs-has-used-this-controversial-investigative-tool-185000-times-since-trump-took-office/"&gt;DHS Used Controversial Administrative Subpoenas 185,000 Times Since January 2025 — More Than 6.5 Prior Years Combined&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 9, 10:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Wired reports that Homeland Security Investigations has issued approximately 185,000 administrative subpoenas since January 2025 — exceeding the total issued across more than six and a half years from 2016 through mid-2022. Administrative subpoenas do not require judicial approval and can compel disclosure of records from companies and individuals. The pace represents a dramatic expansion of investigative surveillance authority under the current administration.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;A 185,000-subpoena pace at DHS — issued without court oversight — is a material legal and compliance signal for any company that holds user data and receives government demands.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.wired.com/story/dhs-has-used-this-controversial-investigative-tool-185000-times-since-trump-took-office/"&gt;Wired&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;Business &amp;amp; Markets&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://thehackernews.com/2026/11/web3auth-flaw-exploited-to-steal-keplr.html"&gt;Web3Auth Flaw Exploited to Drain Keplr Crypto Wallets — Provider Preemptively Empties At-Risk Wallets&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 9, 10:56&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Attackers exploited a security vulnerability in Web3Auth — the OAuth-based wallet authentication service used by Keplr — to access and steal cryptocurrency from wallets linked via Google or Apple sign-in. Web3Auth identified the attack vector and used it proactively to drain other at-risk wallets before attackers could reach them. The incident highlights the systemic risk of using centralized identity providers as the security layer for self-custody crypto assets.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;A third-party auth provider vulnerability enabling crypto theft — with the provider self-remedying by emptying user wallets — raises profound questions about trust models in Web3 authentication infrastructure.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://thehackernews.com/2026/11/web3auth-flaw-exploited-to-steal-keplr.html"&gt;The Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://thehackernews.com/2026/11/lnbits-urges-all-operators-to-shut-down.html"&gt;LNbits Urges All Bitcoin Lightning Wallet Operators to Shut Down Servers Immediately Amid Active Attacks&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 9, 10:01&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;The LNbits open-source Bitcoin Lightning wallet project issued an emergency advisory asking all self-hosted operators to take their servers offline following a wave of active attacks exploiting an unpatched vulnerability. At least one operator confirmed attackers withdrew approximately 2.3 million satoshis (~$2,300 at current prices) before the server could be secured. Security patches are being prepared but have not yet been released.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;An emergency shutdown advisory for a widely-used open-source Bitcoin infrastructure project — with confirmed active exploitation — is a critical signal for anyone running Lightning Network infrastructure.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://thehackernews.com/2026/11/lnbits-urges-all-operators-to-shut-down.html"&gt;The Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.securityweek.com/amplifon-americas-data-breach-impacts-1-3-million/"&gt;Amplifon Americas Breach Exposes 1.3 Million — SSNs, Health, and Insurance Data Stolen&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 9, 11:20&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Amplifon Americas, a major hearing care retailer and services provider, disclosed that hackers breached its internal systems and stole personal, health, and insurance information — including Social Security numbers — from approximately 1.3 million people. No attack vector details have been released. Amplifon operates across North and South America and processes sensitive health data as part of its hearing care business.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;A 1.3 million-record breach including SSNs and health data from a healthcare-adjacent company is a significant identity and regulatory exposure event — particularly given HIPAA-adjacent data types involved.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.securityweek.com/amplifon-americas-data-breach-impacts-1-3-million/"&gt;SecurityWeek&lt;/a&gt;&lt;br&gt;
 &lt;/p&gt;</content>
   </entry>
 </feed>
