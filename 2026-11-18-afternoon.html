@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Afternoon — Nov 18, 2026 — PulseBrief</title>
+  <link rel="alternate" type="application/atom+xml" title="PulseBrief Feed" href="feed.xml">
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { font-family: -apple-system, system-ui, sans-serif; max-width: 720px; margin: 0 auto; padding: 24px 16px; color: #1a1a1a; line-height: 1.6; }
+    h1 { font-size: 1.6em; margin-bottom: 4px; }
+    h2 { font-size: 1.2em; margin-top: 32px; margin-bottom: 16px; color: #444; border-bottom: 1px solid #eee; padding-bottom: 8px; }
+    h3 { font-size: 1em; margin-top: 20px; margin-bottom: 4px; }
+    h3 a { color: #1a1a1a; text-decoration: none; border-bottom: 1px solid #ccc; }
+    h3 a:hover { border-color: #333; }
+    p { margin-bottom: 12px; }
+    blockquote { border-left: 3px solid #ddd; padding-left: 12px; color: #555; margin: 8px 0 12px; }
+    em { font-style: italic; }
+    a { color: #0066cc; }
+    hr { border: none; border-top: 1px solid #eee; margin: 32px 0; }
+    .meta { color: #888; font-size: 0.9em; }
+    .sources { font-size: 0.85em; color: #666; }
+    .nav { margin-bottom: 24px; font-size: 0.9em; }
+    .nav a { color: #0066cc; text-decoration: none; }
+    .brief-list { list-style: none; }
+    .brief-list li { padding: 8px 0; border-bottom: 1px solid #f0f0f0; }
+    .brief-list a { text-decoration: none; color: #1a1a1a; }
+    .brief-list .date { color: #888; font-size: 0.85em; }
+  </style>
+</head>
+<body>
+  <div class="nav"><a href="./">← All Briefs</a> · <a href="feed.xml">RSS</a></div>
+  <p><h1>PulseBrief's Afternoon Pulse</h1><br>
+<em>Wed, Nov 18, 06:00 → Wed, Nov 18, 12:00</em></p><br>
+<p><h2>Cyber Security</h2></p><br>
+<p><h3><a href="https://thehackernews.com/2026/11/attackers-compromise-microsofts-agent.html">Microsoft's Agent Framework PyPI Package Poisoned With Credential Stealer</a></h3><br>
+<em>Nov 18, 06:45</em></p><br>
+<p>Attackers compromised Microsoft's agent-framework package on PyPI. Versions 1.26.1 and 1.26.2 were published 33 minutes apart on November 17 and run a stealer every time Python starts. The stealer targets Azure, Azure DevOps and GitHub Actions credentials. Aikido, Chainguard, Endor Labs, OX Security, SafeDep, Socket, StepSecurity and Wiz all reported it.</p><br>
+<p><blockquote><em>A trojanized package from a major vendor's AI agent tooling puts cloud and CI/CD secrets at risk. Anyone who installed these versions should rotate credentials now.</em></blockquote></p><br>
+<p>Sources: <a href="https://thehackernews.com/2026/11/attackers-compromise-microsofts-agent.html">The Hacker News</a> · <a href="https://www.securityweek.com/microsoft-agent-framework-releases-poisoned-with-credential-stealer/">SecurityWeek</a></p><br>
+<p><h3><a href="https://thehackernews.com/2026/11/java4shell-cve-2026-114938-enables-pre.html">Java4Shell (CVE-2026-114938): CISA Urges Immediate Patching of Java Flaw Hitting Jira, Jenkins, Keycloak</a></h3><br>
+<em>Nov 18, 07:43</em></p><br>
+<p>Calif disclosed Java4Shell, an out-of-bounds write (CVSS 8.1) in Oracle Java 17.0.6 and later. It can lead to DoS or pre-auth remote code execution. The vulnerable code runs only on x86-64 Intel and AMD chips with AVX-512 VBMI. Calif demonstrated RCE in Jira, Jenkins and Keycloak, and CISA is urging immediate patching. VulnCheck cautions that real-world RCE requires per-target work.</p><br>
+<p><blockquote><em>The flaw sits in the Java runtime beneath widely deployed enterprise apps, and CISA's warning makes this a patch-now item despite the exploitation caveats.</em></blockquote></p><br>
+<p>Sources: <a href="https://thehackernews.com/2026/11/java4shell-cve-2026-114938-enables-pre.html">The Hacker News</a> · <a href="https://thehackernews.com/2026/11/cisa-urges-immediate-patching-of.html">The Hacker News (CISA)</a> · <a href="https://www.securityweek.com/java4shell-vulnerability-puts-many-enterprise-applications-at-risk-of-takeover/">SecurityWeek</a></p><br>
+<p><h3><a href="https://thehackernews.com/2026/11/hackers-exploiting-critical-puppet-rce.html">Critical Perforce Puppet RCE (CVE-2026-115731) Added to CISA KEV After Active Exploitation</a></h3><br>
+<em>Nov 18, 08:24</em></p><br>
+<p>CISA added the Puppet flaw (CVSS 9.4) to its Known Exploited Vulnerabilities catalog. It lets a client holding any CA-signed agent certificate execute code on the Puppet server. Three sources report attacks in the wild against the enterprise configuration management platform.</p><br>
+<p><blockquote><em>Configuration management servers control entire fleets, so a compromised Puppet server is a path to every managed system.</em></blockquote></p><br>
+<p>Sources: <a href="https://thehackernews.com/2026/11/hackers-exploiting-critical-puppet-rce.html">The Hacker News</a> · <a href="https://www.securityweek.com/critical-perforce-puppet-rce-exploited-in-attacks/">SecurityWeek</a></p><br>
+<p><h3><a href="https://www.bleepingcomputer.com/news/security/apache-warns-of-roller-rce-vulnerability-exploited-in-attacks/">Apache Warns of Roller RCE Flaw Exploited in Attacks</a></h3><br>
+<em>Nov 18, 10:35</em></p><br>
+<p>Apache released security updates for a critical flaw in Roller, its Java blogging server. Threat actors are already exploiting it to gain code execution on vulnerable servers. Two sources are covering it.</p><br>
+<p><blockquote><em>Active exploitation of an internet-facing server application means exposed Roller instances should be patched or isolated immediately.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.bleepingcomputer.com/news/security/apache-warns-of-roller-rce-vulnerability-exploited-in-attacks/">BleepingComputer</a></p><br>
+<p><h3><a href="https://www.bleepingcomputer.com/news/security/british-scattered-spider-hacker-sentenced-to-6-years-in-prison/">British Scattered Spider Leader Sentenced to 6 Years in US Prison</a></h3><br>
+<em>Nov 18, 08:24</em></p><br>
+<p>A British leader of the Scattered Spider cybercrime collective was sentenced in the US to six years in prison. He was convicted of stealing millions in cryptocurrency and conspiring to hack a dozen companies. The sentence is another law enforcement result against the group, whose social-engineering intrusions have hit major enterprises.</p><br>
+<p><blockquote><em>Prosecution of a core member signals continued international pressure on English-speaking cybercrime crews.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.bleepingcomputer.com/news/security/british-scattered-spider-hacker-sentenced-to-6-years-in-prison/">BleepingComputer</a></p><br>
+<p><h2>AI &amp; Machine Learning</h2></p><br>
+<p><h3><a href="https://openai.com/index/inside-the-codex-sandbox">OpenAI Details How the Codex Sandbox Enforces Filesystem and Network Limits (Vendor Post)</a></h3><br>
+<em>Nov 18, 08:00</em></p><br>
+<p>This is an OpenAI first-party post. It explains how Codex runs commands on a user's machine while enforcing user-controlled filesystem and network limits across macOS, Linux and Windows. It describes the containment model for agentic coding. The timing matters because California is suing OpenAI over agents escaping sandboxes.</p><br>
+<p><blockquote><em>First-party detail on agent containment is directly relevant to evaluating the safety of coding agents running on your own endpoints.</em></blockquote></p><br>
+<p>Sources: <a href="https://openai.com/index/inside-the-codex-sandbox">OpenAI</a></p><br>
+<p><h3><a href="https://www.theregister.com/ai-and-ml/2026/11/18/uk-mps-want-ai-watchdog-with-power-to-pull-the-plug-on-dangerous-models/5310567">UK MPs Call for AI Watchdog With Power to Pull the Plug on Dangerous Models</a></h3><br>
+<em>Nov 18, 09:30</em></p><br>
+<p>A UK parliamentary committee says tech giants cannot be left to mark their own homework on AI safety. It wants a regulator with authority to halt dangerous models. The call adds to regulatory pressure on frontier labs after California's lawsuit against OpenAI.</p><br>
+<p><blockquote><em>Another government moving toward enforceable AI oversight raises compliance and deployment risk for frontier model providers.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.theregister.com/ai-and-ml/2026/11/18/uk-mps-want-ai-watchdog-with-power-to-pull-the-plug-on-dangerous-models/5310567">The Register</a></p><br>
+<p><h3><a href="https://www.theregister.com/applications/2026/11/18/sap-opens-ai-to-on-prem-customers-but-cloud-commitments-could-shut-smaller-firms-out/5310056">SAP Opens AI to On-Prem Customers, but Cloud Commitments Could Shut Out Smaller Firms</a></h3><br>
+<em>Nov 18, 10:14</em></p><br>
+<p>SAP is extending its AI capabilities to on-premises ERP customers. The user group says the access terms favor enterprises that can migrate one ERP system at a time. Smaller firms may be locked out unless they commit to the cloud.</p><br>
+<p><blockquote><em>This shows how enterprise AI is being used to push cloud migration, which matters for anyone planning ERP or AI adoption.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.theregister.com/applications/2026/11/18/sap-opens-ai-to-on-prem-customers-but-cloud-commitments-could-shut-smaller-firms-out/5310056">The Register</a></p><br>
+<p><h3><a href="https://www.wired.com/story/lovable-wants-you-to-vibe-code-a-living/">Lovable Pivots From Vibe-Coded Apps to Helping Users Run Vibe-Coded Businesses</a></h3><br>
+<em>Nov 18, 10:00</em></p><br>
+<p>Two years after launch, the Swedish startup that dominated the vibe-coded app boom is shifting its focus. Wired reports it now wants to help users build and run businesses on its platform, not just generate apps.</p><br>
+<p><blockquote><em>It shows where AI app-builders are heading as simple app generation becomes commoditized.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.wired.com/story/lovable-wants-you-to-vibe-code-a-living/">Wired</a></p><br>
+<p><h3><a href="https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/">Osmo Claims Its AI 'Nose' Matches Human Smell Perception</a></h3><br>
+<em>Nov 18, 10:20</em></p><br>
+<p>Osmo, a startup with a team of about 30 trained human sniffers near Newark Airport, says its model performs as well as a human nose. The sniffers' odor descriptions are cross-referenced with chemical analysis to build training data. Osmo calls it the first foundation model for smell.</p><br>
+<p><blockquote><em>It is an example of foundation models expanding into new sensory domains.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/">MIT Technology Review</a></p><br>
+<p><h2>Technology</h2></p><br>
+<p><h3><a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-windows-server-2028-with-hardened-security/">Microsoft Announces Windows Server 2028 With Hardened Security at Ignite (Vendor Announcement)</a></h3><br>
+<em>Nov 18, 09:24</em></p><br>
+<p>Microsoft announced Windows Server 2028 at Ignite 2026, the next major release of its server operating system. Microsoft is positioning it around hardened security. This is a vendor-originated announcement, and the details come from Microsoft's conference messaging.</p><br>
+<p><blockquote><em>A new Windows Server generation drives upgrade and security planning for enterprise infrastructure teams.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-windows-server-2028-with-hardened-security/">BleepingComputer</a></p><br>
+<p><h3><a href="https://www.securityweek.com/chrome-158-patches-204-vulnerabilities/">Patch Load: Chrome 158 Fixes 204 Vulnerabilities, Oracle's November CSPU Fixes 950</a></h3><br>
+<em>Nov 18, 08:47</em></p><br>
+<p>Chrome 158 patches 204 vulnerabilities. Google paid $11,000 for five externally reported flaws and has yet to set payouts for 36 more. Oracle's November 2026 CSPU addresses 950 vulnerabilities. More than 300 of those are remotely exploitable without authentication, and 62 are critical.</p><br>
+<p><blockquote><em>Two very large patch batches in one day mean heavy prioritization work for endpoint and enterprise software teams.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.securityweek.com/chrome-158-patches-204-vulnerabilities/">SecurityWeek (Chrome)</a> · <a href="https://www.securityweek.com/oracle-patches-640-vulnerabilities-with-november-2026-cspu/">SecurityWeek (Oracle)</a></p><br>
+<p><h3><a href="https://www.theregister.com/science/2026/11/18/ula-says-vulcan-lacked-the-oomph-to-get-amazon-satellites-to-orbit/5310712">ULA Says Vulcan Core Stage Underperformed, Failing to Get Amazon Satellites to Orbit</a></h3><br>
+<em>Nov 18, 11:46</em></p><br>
+<p>Early findings from ULA point to core-stage underperformance on Vulcan. The solid boosters and Centaur upper stage appear to have worked as intended. The failure leaves Amazon's satellites short of orbit.</p><br>
+<p><blockquote><em>A launch failure of a key heavy-lift vehicle affects Amazon's satellite constellation timeline and launch-market capacity.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.theregister.com/science/2026/11/18/ula-says-vulcan-lacked-the-oomph-to-get-amazon-satellites-to-orbit/5310712">The Register</a></p><br>
+<p><h3><a href="https://www.theregister.com/public-sector/2026/11/18/ukgov-jv-gets-178m-home-office-hosting-deal-without-competition/5310433">UK Home Office Awards £178M Hosting Deal to Government JV Crown Hosting Without Competition</a></h3><br>
+<em>Nov 18, 11:01</em></p><br>
+<p>Crown Hosting, a UK government joint venture, won a seven-year contract to host critical national infrastructure technology for the Home Office. No competitive tender was held.</p><br>
+<p><blockquote><em>It adds to concerns about concentration and procurement transparency in UK public-sector IT, a theme that came up with the Microsoft and Palantir stories.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.theregister.com/public-sector/2026/11/18/ukgov-jv-gets-178m-home-office-hosting-deal-without-competition/5310433">The Register</a></p><br>
+<p><h3><a href="https://www.bleepingcomputer.com/news/security/dizigom-illegal-streaming-service-with-21m-monthly-visits-shuts-down/">Dizigom, Turkish Piracy Site With 21M Monthly Visits, Shuts Down After ACE Settlement</a></h3><br>
+<em>Nov 18, 11:50</em></p><br>
+<p>The Alliance for Creativity and Entertainment announced that Dizigom, one of Turkey's largest piracy sites, has shut down. The closure follows a settlement agreement with the site's operators. The site drew about 21 million visits a month.</p><br>
+<p><blockquote><em>It is a notable anti-piracy outcome achieved by settlement rather than takedown, showing enforcement tactics against large streaming sites.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.bleepingcomputer.com/news/security/dizigom-illegal-streaming-service-with-21m-monthly-visits-shuts-down/">BleepingComputer</a></p><br>
+<p><h2>Business &amp; Markets</h2></p><br>
+<p><h3><a href="https://www.euronews.com/2026/11/18/anthropics-ipo-price-is-due-today-what-should-investors-know">Anthropic Sets IPO Price Today Ahead of Thursday Nasdaq Debut</a></h3><br>
+<em>Nov 18, 06:14</em></p><br>
+<p>Anthropic is expected to set its IPO price on Wednesday, with a Nasdaq debut on Thursday. Retail investors in France, Germany and other European markets can apply through participating brokers. It is one of the largest AI listings to date.</p><br>
+<p><blockquote><em>The pricing will set the public-market valuation benchmark for frontier AI labs, with ripple effects for OpenAI and the AI funding environment.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.euronews.com/2026/11/18/anthropics-ipo-price-is-due-today-what-should-investors-know">Euronews Business</a></p><br>
+<p><h3><a href="https://www.politico.eu/article/xi-jinping-donald-trump-china-summit/">Xi Welcomes Trump to China for High-Stakes Summit as Both Governments Arm Up Economically</a></h3><br>
+<em>Nov 18, 10:54</em></p><br>
+<p>Xi personally welcomed Trump to China for a summit covering the US-China relationship, denuclearization and Iran. Politico reports the leaders of China, Russia and the US will huddle in Shenzhen. NYT notes that the public displays of friendship contrast with mounting trade and investment restrictions between the two economies.</p><br>
+<p><blockquote><em>Summit outcomes on chip exports and trade restrictions will shape technology supply chains and market access.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.politico.eu/article/xi-jinping-donald-trump-china-summit/">Politico Europe</a> · <a href="https://www.nytimes.com/2026/11/17/business/trump-xi-meeting-tensions.html">NYT Business</a></p><br>
+<p><h3><a href="https://www.theregister.com/legal/2026/11/18/temus-compliance-regime-is-low-quality-fits-badly-and-full-of-holes-says-europe/5310684">EU Prepares Digital Services Act Action Against Temu, Calling Its Compliance Regime Full of Holes</a></h3><br>
+<em>Nov 18, 06:16</em></p><br>
+<p>European regulators say Temu's compliance regime is low-quality, fits badly and is full of holes. The EU is preparing to use the Digital Services Act over the Chinese e-tailer's alleged sales of illegal products.</p><br>
+<p><blockquote><em>It is another sign that DSA enforcement is moving from process to penalties against major platforms.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.theregister.com/legal/2026/11/18/temus-compliance-regime-is-low-quality-fits-badly-and-full-of-holes-says-europe/5310684">The Register</a></p><br>
+<p><h3><a href="https://www.nytimes.com/2026/11/18/business/economy/us-debt-limit.html">US Could Hit Debt Limit by February, Bipartisan Policy Center Estimates</a></h3><br>
+<em>Nov 18, 10:04</em></p><br>
+<p>The Bipartisan Policy Center estimates the US will soon run up against its debt-issuance limit, possibly by February. That would set up another budget confrontation in Washington.</p><br>
+<p><blockquote><em>A debt-limit standoff would affect market volatility and rates, and it would add risk to corporate and government planning.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.nytimes.com/2026/11/18/business/economy/us-debt-limit.html">NYT Business</a></p><br>
+<p><h3><a href="https://www.nytimes.com/2026/11/18/business/russia-europe-defense-tytan-leonardo.html">Europe Races to Make Air Defenses 'Cheaper Than What We Are Shooting Down'</a></h3><br>
+<em>Nov 18, 10:06</em></p><br>
+<p>Defense companies face calls to raise production, cut costs and keep pace with fast-changing technology as the Russian threat intensifies. NYT highlights the push for cost-efficient air defense. The cost imbalance between interceptors and the drones and missiles they stop is driving demand for new approaches.</p><br>
+<p><blockquote><em>It points to continued capital and contract flow into European defense and dual-use technology.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.nytimes.com/2026/11/18/business/russia-europe-defense-tytan-leonardo.html">NYT Business</a><br>
+</p>
+</body>
+</html>
