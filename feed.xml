@@ -5,7 +5,90 @@
   <link href="https://jonaskjellin.github.io/pulsebrief-site/feed.xml" rel="self"/>
   <link href="https://jonaskjellin.github.io/pulsebrief-site/"/>
   <id>https://jonaskjellin.github.io/pulsebrief-site/</id>
-  <updated>2026-11-21T21:37:21.104Z</updated>
+  <updated>2026-11-22T13:16:46.017Z</updated>
+  <entry>
+    <title>Morning — Nov 22, 2026</title>
+    <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-11-22-morning.html"/>
+    <id>https://jonaskjellin.github.io/pulsebrief-site/2026-11-22-morning.html</id>
+    <updated>2026-11-22T13:16:46.017Z</updated>
+    <content type="html">&lt;p&gt;&lt;h1&gt;PulseBrief's Morning Pulse&lt;/h1&gt;&lt;br&gt;
+&lt;em&gt;Sat, Nov 21, 18:00 → Sun, Nov 22, 07:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Cyber Security&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.bleepingcomputer.com/news/security/microsoft-entra-connect-health-flaw-exploited-to-steal-tenant-data/"&gt;Microsoft discloses Entra Connect Health breach: attackers pulled admin emails and tenant configuration data&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 21, 19:01&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Microsoft warned customers that attackers exploited a flaw in its Entra Connect Health service to read administrator and technical contact email addresses and tenant configuration data. A customer notice shared on Reddit describes read-only access to those records, not access to inboxes or messages. Microsoft fixed the cloud-side flaw on November 19. The details come from Microsoft's own notice, and the number of affected tenants has not been given.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Admin contact emails and tenant configuration data are useful for targeted phishing and reconnaissance against identity infrastructure, so expect follow-on social engineering aimed at your admins.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.bleepingcomputer.com/news/security/microsoft-entra-connect-health-flaw-exploited-to-steal-tenant-data/"&gt;BleepingComputer&lt;/a&gt; · &lt;a href="https://cybersecuritynews.com/microsoft-entra-connect-health-flaw/"&gt;Cybersecurity News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theverge.com/tech/1039543/fbi-usda-hacked"&gt;FBI NCIC hack confirmed by Trump as USDA is also reported breached&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 21, 18:42&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;The FBI breach of the National Crime Information Center (NCIC), which law enforcement uses to share warrants and missing-persons data, was confirmed by President Trump in a Fox News interview. He called it 'not good'. CNN notes this is the second attack on the agency in recent months. Separately, NBC first reported a hack of the US Department of Agriculture, and Reuters reports that a payments database is the known extent so far, with former officials warning there may be more. The attacker and the data taken have not been disclosed.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;This moves the FBI story from an unconfirmed report to an acknowledged incident, and the USDA intrusion suggests a wider campaign against federal systems.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.theverge.com/tech/1039543/fbi-usda-hacked"&gt;The Verge&lt;/a&gt; · &lt;a href="https://techcrunch.com/2026/11/21/trump-says-reported-fbi-database-hack-is-not-good/"&gt;TechCrunch&lt;/a&gt; · &lt;a href="https://www.securityweek.com/fbi-investigating-apparent-hack-of-its-key-national-criminal-justice-database-ap-source-says/"&gt;SecurityWeek&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.bleepingcomputer.com/news/security/rackspace-spot-breach-let-hackers-access-customer-kubernetes-secrets/"&gt;Rackspace Spot breached via stolen credentials; attackers reached customer Kubernetes secrets&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 21, 23:59&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Rackspace told customers that hackers used compromised credentials to get into its Rackspace Spot cloud platform. They deployed unauthorized workloads and accessed Kubernetes secrets in customer clusters. The warning is Rackspace's own notice to customers. The number of affected customers and the source of the credentials have not been given.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Exposed cluster secrets can hand attackers keys to databases, registries and other cloud services, so Spot customers should rotate every secret in the clusters at once.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.bleepingcomputer.com/news/security/rackspace-spot-breach-let-hackers-access-customer-kubernetes-secrets/"&gt;BleepingComputer&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://thehackernews.com/2026/11/researchers-demonstrate-ghostscript.html"&gt;Upload2Shell: patched Ghostscript flaw gives remote code execution through ordinary file uploads (vendor research)&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 21, 19:29&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Security firm pwn.ai showed that a crafted file can escape Ghostscript's sandbox and run commands on the server that processes it. The flaw is CVE-2026-125396 and affects Ghostscript releases before 10.08.0. The researchers demonstrated it against WordPress, Roundcube webmail and Linux print servers. Applications often invoke Ghostscript indirectly to convert uploaded PDFs, PostScript and images. A fix is available, and no exploitation in the wild has been reported.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Ghostscript is buried inside many upload-handling pipelines, so you may be exposed without knowing it. Check server images and containers for versions before 10.08.0.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://thehackernews.com/2026/11/researchers-demonstrate-ghostscript.html"&gt;The Hacker News&lt;/a&gt; · &lt;a href="https://cybersecuritynews.com/upload2shell-flaw/"&gt;Cybersecurity News&lt;/a&gt; · &lt;a href="https://pwn.ai/upload2shell"&gt;pwn.ai (vendor research)&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;AI &amp;amp; Machine Learning&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://thehackernews.com/2026/11/openrouter-drops-3-providers-after.html"&gt;OpenRouter drops three AI inference providers after months of prompt theft found by Dragos&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 22, 03:14&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Dragos researchers found that attackers had stolen data from inside three AI inference providers for months, and none of the providers knew until they were told. Some of the stolen requests were flagged Zero Data Retention. OpenRouter, the gateway that routes requests to a pool of providers, removed the three and revoked ZDR eligibility for 125 endpoints. In its November 22 incident notice it says it notified all potentially affected customers. The notice is OpenRouter's own account, and the Dragos findings are vendor research.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;It shows that a 'zero retention' label from a downstream AI provider is not a guarantee, so anything sent through third-party inference routes should be treated as exposed.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://thehackernews.com/2026/11/openrouter-drops-3-providers-after.html"&gt;The Hacker News&lt;/a&gt; · &lt;a href="https://cybersecuritynews.com/openrouter-ai-chat-leaks/"&gt;Cybersecurity News&lt;/a&gt; · &lt;a href="https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/"&gt;OpenRouter (vendor notice)&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://venturebeat.com/technology/thinking-machines-wows-with-inkling-2-mini-looped-transformer-model-that-runs-locally-on-laptops"&gt;Thinking Machines' Inkling 2 Mini is an open-weights model that runs offline on a 32GB laptop (vendor release)&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 21, 19:02&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Mira Murati's Thinking Machines Lab released Inkling 2 Mini, an open-weights multimodal looped-transformer model. It is built to run offline on a 32GB MacBook Pro or a single desktop GPU. VentureBeat says it challenges the cloud-first frontier model approach. A community quantization already runs it in 5.4 GB of memory, and that thread has 489 points on Hacker News. The performance claims come from the vendor and have not been independently benchmarked here.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;It is a first-party release that bets on local inference, which matters if you want capable models without sending data to a third-party provider.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://venturebeat.com/technology/thinking-machines-wows-with-inkling-2-mini-looped-transformer-model-that-runs-locally-on-laptops"&gt;VentureBeat&lt;/a&gt; · &lt;a href="https://github.com/ShinMegamiBoson/lookatmyquant"&gt;GitHub (5.4 GB quantization)&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theverge.com/tech/1039554/un-regulations-killer-robots"&gt;UN talks on 'killer robots' end with an agreement only to 'start discussing options'&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 21, 21:03&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;UN diplomats in Geneva spent a largely fruitless week on autonomous weapons rules and left agreeing only to start discussing options. The Red Cross had urged binding rules within a year, and the UN secretary-general and Pope Leo backed that call. The Verge, citing NPR, reports the outcome. It follows Politico's earlier report that the effort was delayed to 2028.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;The outcome confirms that no binding international framework for AI-enabled weapons is coming soon, which leaves the rules to national policy and industry norms.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.theverge.com/tech/1039554/un-regulations-killer-robots"&gt;The Verge&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Technology&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.nytimes.com/2026/11/21/us/politics/tech-outages-ai-disruptions.html"&gt;NYT: AI is uncovering dormant flaws, so tech outages are 'only the beginning'&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 21, 20:11&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;The NYT argues that decades of treating cybersecurity as an afterthought are coming due, as AI exposes long-dormant problems in vulnerable code. It expects more disruptions as a result. This is analysis, not new reporting, and it follows Wired and earlier NYT pieces on the same theme. The Hard Fork podcast also notes that software patches seem to be breaking everything.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;The framing is now mainstream, which makes the case for investing in patch testing and rollback plans ahead of the next round of fixes.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.nytimes.com/2026/11/21/us/politics/tech-outages-ai-disruptions.html"&gt;NYT Technology&lt;/a&gt; · &lt;a href="https://www.nytimes.com/2026/11/20/podcasts/hardfork-gta6-nvidia-anthropic.html"&gt;NYT Hard Fork&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://linebender.org/blog/next-100-guis/"&gt;Linebender: advice for the next 100 Rust GUIs&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 21, 22:17&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;A post from the Linebender project, which works on Rust GUI tooling, offers advice to people building new Rust GUI toolkits. The Hacker News thread has 197 points and 89 comments. It is a developer perspective piece, not a release.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;It is a widely read view on the state of Rust UI development, and it is useful if your team is choosing a GUI approach.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://linebender.org/blog/next-100-guis/"&gt;Linebender&lt;/a&gt; · &lt;a href="https://news.ycombinator.com/item?id=50593737"&gt;Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://venturebeat.com/orchestration/even-the-fastest-ai-clusters-can-be-held-back-by-their-release-pipelines"&gt;Firmware rollouts at AI-cluster scale: automated safety gates froze a six-day update (opinion)&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 21, 23:30&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;A VentureBeat contributor describes a firmware rollout that had run zone by zone for six days before automation froze it. The share of hosts rebooting uncleanly in one zone had crossed a safety threshold. The piece argues that release pipelines, not hardware speed, can hold back large AI clusters. It is a first-person account and not an incident report.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;It is a practical example of staged rollouts with automatic halts, which is the same safeguard the week's patch-related outages argue for.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://venturebeat.com/orchestration/even-the-fastest-ai-clusters-can-be-held-back-by-their-release-pipelines"&gt;VentureBeat&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Business &amp;amp; Markets&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/"&gt;A tale of two Nvidias: strong earnings, while tech executives lobby for Jensen Huang's return&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 21, 22:07&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;TechCrunch contrasts Nvidia's latest earnings report with tech executives loudly calling for Jensen Huang to come back after his resignation. The NYT separately reports that the company faces an SEC probe into its accounting practices, tied to questions about chip sales in Asia. The summaries give no earnings figures.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;The key AI chip supplier is showing strong results while its governance and regulatory problems keep growing, and that mix is hard to price.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/"&gt;TechCrunch&lt;/a&gt; · &lt;a href="https://www.nytimes.com/2026/11/20/business/nvidia-sec-accounting.html"&gt;NYT Business&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/"&gt;Toyota, Nissan and Honda to standardize parts to lower costs&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 22, 05:04&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Car and Driver reports that the three Japanese automakers will standardize parts to cut costs. The Hacker News thread has 676 points and 407 comments. The summary gives no detail on which parts or the expected savings.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Rare cooperation among rivals points to cost pressure across the auto industry, which could change supplier dynamics.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/"&gt;Car and Driver&lt;/a&gt; · &lt;a href="https://news.ycombinator.com/item?id=50596133"&gt;Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theverge.com/tech/1039564/amazon-nyc-council-packages-shipping-label"&gt;Amazon escalates its fight with NYC Council, putting labels on packages blaming the Delivery Protection Act&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 21, 22:59&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Amazon is now labeling shipments to claim the Council's Delivery Protection Act could add up to $5 to any order. This follows notifications shown earlier in its app and on its website. The act would effectively ban the third-party delivery arrangements Amazon uses. Last-mile firms with warehouses would need a city license and would have to employ their workers directly. The cost claim is Amazon's own.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;It is a high-profile test of whether a big platform can use its customer channels to resist labor-model regulation, and other cities will watch the outcome.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.theverge.com/tech/1039564/amazon-nyc-council-packages-shipping-label"&gt;The Verge&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.nytimes.com/2026/11/21/us/politics/penny-mint-trump-common-cent-act.html"&gt;Trump signs law formally ending the penny&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 22, 00:12&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;President Trump signed a law on Friday formally putting the penny out of the mint, a year after the Mint stopped striking it. NYT reports the signing. The summary gives no detail on transition rules for cash transactions.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;It is a small but concrete change in retail and payment practice, and it takes effect in the law as signed.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.nytimes.com/2026/11/21/us/politics/penny-mint-trump-common-cent-act.html"&gt;NYT Business&lt;/a&gt;&lt;br&gt;
+&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>Evening — Nov 21, 2026</title>
     <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-11-21-evening.html"/>
@@ -1991,44 +2074,6 @@
 &lt;p&gt;President Trump and major US tech executives are expected to attend a summit in Shenzhen next week alongside the APEC gathering, with the agenda covering a stalled trade war, expanding semiconductor export controls, and the espionage allegations now surrounding Nvidia. The summit comes at a uniquely volatile moment: the Huang affair has made export control enforcement a live political issue, and tech CEOs will be navigating both diplomatic opportunity and legal exposure. The NYT's DealBook framing of the five key questions signals this is the most consequential US-China tech policy moment in years.&lt;/p&gt;&lt;br&gt;
 &lt;p&gt;&lt;blockquote&gt;&lt;em&gt;The outcome of this summit will directly shape export control enforcement, US-China chip trade, and the operating environment for every tech company with China exposure.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
 &lt;p&gt;Sources: &lt;a href="https://www.nytimes.com/2026/11/14/business/dealbook/questions-china-us-apec-summit.html"&gt;NYT DealBook&lt;/a&gt;&lt;br&gt;
-&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>Afternoon — Nov 14, 2026</title>
-    <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-11-14-afternoon.html"/>
-    <id>https://jonaskjellin.github.io/pulsebrief-site/2026-11-14-afternoon.html</id>
-    <updated>2026-11-14T16:48:11.110Z</updated>
-    <content type="html">&lt;p&gt;&lt;h1&gt;PulseBrief's Afternoon Pulse&lt;/h1&gt;&lt;br&gt;
-&lt;em&gt;Sat, Nov 14, 06:00 → Sat, Nov 14, 12:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;Cyber Security&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.securityweek.com/apple-reveals-how-secure-exclaves-shield-camera-and-microphone-data/"&gt;Apple Details Secure Enclave Architecture Isolating Camera and Microphone Data From Main OS&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 14, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Apple has published a detailed technical explanation of how Secure Exclaves in HomeView devices and new iPhones isolate ambient sensor data — camera and microphone streams — from the main operating system, preventing even a compromised OS from accessing the raw feeds. The architecture creates a hardware-enforced boundary that processes sensor data in a dedicated enclave before any software layer can touch it. The disclosure follows growing regulatory and public scrutiny of always-on sensor devices in home and enterprise environments.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Apple's architectural approach to sensor isolation sets a hardware security benchmark for always-on devices — directly relevant for anyone evaluating ambient sensor risk in enterprise or home office environments.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.securityweek.com/apple-reveals-how-secure-exclaves-shield-camera-and-microphone-data/"&gt;SecurityWeek&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;AI &amp;amp; Machine Learning&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.wired.com/story/no-pilots-few-air-traffic-controllers-what-could-go-wrong/"&gt;AI Is Coming for the Skies — Aviation Pushes Into AI Automation Amid Staffing Crisis and Regulatory Gaps&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 14, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Wired examines how AI is rapidly entering aviation — from piloting assistance to air traffic control — at a moment when the industry faces acute staffing shortages in both cockpits and control towers. The piece notes that aviation's historically conservative approach to new technology has broken down under workforce pressure, with AI adoption outpacing the regulatory frameworks designed to govern it. The FAA ground stop this week provides a charged backdrop for the story.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;AI automation of safety-critical aviation systems — accelerated by staffing gaps and without mature regulatory guardrails — is a systemic risk signal for infrastructure security and AI governance.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.wired.com/story/no-pilots-few-air-traffic-controllers-what-could-go-wrong/"&gt;Wired&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;Technology&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.securityweek.com/no-signs-of-hacking-in-faa-ground-stop-as-fbi-reportedly-probes-software-update/"&gt;FAA Ground Stop Caused by Software Update, Not Cyberattack — FBI Probing the Failure&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 14, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Officials have confirmed there is no evidence of a cyberattack behind yesterday's four-hour nationwide FAA ground stop, with the FBI reportedly investigating a faulty software update as the likely cause. The outage grounded thousands of flights and caused cascading delays across the US aviation system. The software-update finding echoes the Microsoft 365 outage earlier this week, raising broader questions about change management and resilience in critical national infrastructure.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Closing the loop on whether the FAA outage was a cyberattack is essential context — the answer (software update) shapes what remediation and regulatory response looks like.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.securityweek.com/no-signs-of-hacking-in-faa-ground-stop-as-fbi-reportedly-probes-software-update/"&gt;SecurityWeek&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theregister.com/saas/2026/11/14/microsofts-school-email-bill-gives-rivals-something-to-smile-about/5309296"&gt;Microsoft Ending Free School Email Gives Google and Open-Source Rivals an Opening&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 14, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Microsoft's decision to charge education customers for email services is prompting schools to evaluate alternatives, with Collabora and Nextcloud actively pitching open-source replacements. The shift is significant because Microsoft's free-for-education model locked in a generation of students and IT administrators on its productivity stack. If schools migrate at scale, it could break Microsoft's pipeline of future enterprise users and validate EU digital sovereignty alternatives in a highly visible market.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Microsoft losing cost-sensitive education customers to open-source alternatives is a market structure signal — a preview of what broader EU sovereign cloud pressure could do to Microsoft's enterprise pipeline.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.theregister.com/saas/2026/11/14/microsofts-school-email-bill-gives-rivals-something-to-smile-about/5309296"&gt;The Register&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;Business &amp;amp; Markets&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo"&gt;Jensen Huang's Fall Shocks Silicon Valley — NYT and The Verge Examine the Decline of the Visionary Founder-CEO&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 14, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Major coverage from the NYT and The Verge is framing Jensen Huang's abrupt departure from Nvidia as a broader inflection point: the end of an era of unchecked visionary founder-CEOs in Silicon Valley. Huang's exit — triggered by chip smuggling scandals and multiple affairs including one with an alleged Chinese spy — has prompted unusual levels of soul-searching across the tech industry about how outsized individual power goes unchecked at critical infrastructure companies. The coverage signals that Nvidia's governance crisis is now a cultural and structural story, not just a corporate one.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;The cultural autopsy of Huang's fall will shape how boards, investors, and regulators approach founder-CEO accountability at AI-critical companies going forward.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo"&gt;The Verge&lt;/a&gt; · &lt;a href="https://www.nytimes.com/2026/11/14/technology/jensen-huang-nvidia-scandal-silicon-valley.html"&gt;NYT&lt;/a&gt;&lt;br&gt;
 &lt;/p&gt;</content>
   </entry>
 </feed>

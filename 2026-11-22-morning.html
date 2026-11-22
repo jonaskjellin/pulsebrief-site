@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Morning — Nov 22, 2026 — PulseBrief</title>
+  <link rel="alternate" type="application/atom+xml" title="PulseBrief Feed" href="feed.xml">
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { font-family: -apple-system, system-ui, sans-serif; max-width: 720px; margin: 0 auto; padding: 24px 16px; color: #1a1a1a; line-height: 1.6; }
+    h1 { font-size: 1.6em; margin-bottom: 4px; }
+    h2 { font-size: 1.2em; margin-top: 32px; margin-bottom: 16px; color: #444; border-bottom: 1px solid #eee; padding-bottom: 8px; }
+    h3 { font-size: 1em; margin-top: 20px; margin-bottom: 4px; }
+    h3 a { color: #1a1a1a; text-decoration: none; border-bottom: 1px solid #ccc; }
+    h3 a:hover { border-color: #333; }
+    p { margin-bottom: 12px; }
+    blockquote { border-left: 3px solid #ddd; padding-left: 12px; color: #555; margin: 8px 0 12px; }
+    em { font-style: italic; }
+    a { color: #0066cc; }
+    hr { border: none; border-top: 1px solid #eee; margin: 32px 0; }
+    .meta { color: #888; font-size: 0.9em; }
+    .sources { font-size: 0.85em; color: #666; }
+    .nav { margin-bottom: 24px; font-size: 0.9em; }
+    .nav a { color: #0066cc; text-decoration: none; }
+    .brief-list { list-style: none; }
+    .brief-list li { padding: 8px 0; border-bottom: 1px solid #f0f0f0; }
+    .brief-list a { text-decoration: none; color: #1a1a1a; }
+    .brief-list .date { color: #888; font-size: 0.85em; }
+  </style>
+</head>
+<body>
+  <div class="nav"><a href="./">← All Briefs</a> · <a href="feed.xml">RSS</a></div>
+  <p><h1>PulseBrief's Morning Pulse</h1><br>
+<em>Sat, Nov 21, 18:00 → Sun, Nov 22, 07:00</em></p><br>
+<p><h2>Cyber Security</h2></p><br>
+<p><h3><a href="https://www.bleepingcomputer.com/news/security/microsoft-entra-connect-health-flaw-exploited-to-steal-tenant-data/">Microsoft discloses Entra Connect Health breach: attackers pulled admin emails and tenant configuration data</a></h3><br>
+<em>Nov 21, 19:01</em></p><br>
+<p>Microsoft warned customers that attackers exploited a flaw in its Entra Connect Health service to read administrator and technical contact email addresses and tenant configuration data. A customer notice shared on Reddit describes read-only access to those records, not access to inboxes or messages. Microsoft fixed the cloud-side flaw on November 19. The details come from Microsoft's own notice, and the number of affected tenants has not been given.</p><br>
+<p><blockquote><em>Admin contact emails and tenant configuration data are useful for targeted phishing and reconnaissance against identity infrastructure, so expect follow-on social engineering aimed at your admins.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.bleepingcomputer.com/news/security/microsoft-entra-connect-health-flaw-exploited-to-steal-tenant-data/">BleepingComputer</a> · <a href="https://cybersecuritynews.com/microsoft-entra-connect-health-flaw/">Cybersecurity News</a></p><br>
+<p><h3><a href="https://www.theverge.com/tech/1039543/fbi-usda-hacked">FBI NCIC hack confirmed by Trump as USDA is also reported breached</a></h3><br>
+<em>Nov 21, 18:42</em></p><br>
+<p>The FBI breach of the National Crime Information Center (NCIC), which law enforcement uses to share warrants and missing-persons data, was confirmed by President Trump in a Fox News interview. He called it 'not good'. CNN notes this is the second attack on the agency in recent months. Separately, NBC first reported a hack of the US Department of Agriculture, and Reuters reports that a payments database is the known extent so far, with former officials warning there may be more. The attacker and the data taken have not been disclosed.</p><br>
+<p><blockquote><em>This moves the FBI story from an unconfirmed report to an acknowledged incident, and the USDA intrusion suggests a wider campaign against federal systems.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.theverge.com/tech/1039543/fbi-usda-hacked">The Verge</a> · <a href="https://techcrunch.com/2026/11/21/trump-says-reported-fbi-database-hack-is-not-good/">TechCrunch</a> · <a href="https://www.securityweek.com/fbi-investigating-apparent-hack-of-its-key-national-criminal-justice-database-ap-source-says/">SecurityWeek</a></p><br>
+<p><h3><a href="https://www.bleepingcomputer.com/news/security/rackspace-spot-breach-let-hackers-access-customer-kubernetes-secrets/">Rackspace Spot breached via stolen credentials; attackers reached customer Kubernetes secrets</a></h3><br>
+<em>Nov 21, 23:59</em></p><br>
+<p>Rackspace told customers that hackers used compromised credentials to get into its Rackspace Spot cloud platform. They deployed unauthorized workloads and accessed Kubernetes secrets in customer clusters. The warning is Rackspace's own notice to customers. The number of affected customers and the source of the credentials have not been given.</p><br>
+<p><blockquote><em>Exposed cluster secrets can hand attackers keys to databases, registries and other cloud services, so Spot customers should rotate every secret in the clusters at once.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.bleepingcomputer.com/news/security/rackspace-spot-breach-let-hackers-access-customer-kubernetes-secrets/">BleepingComputer</a></p><br>
+<p><h3><a href="https://thehackernews.com/2026/11/researchers-demonstrate-ghostscript.html">Upload2Shell: patched Ghostscript flaw gives remote code execution through ordinary file uploads (vendor research)</a></h3><br>
+<em>Nov 21, 19:29</em></p><br>
+<p>Security firm pwn.ai showed that a crafted file can escape Ghostscript's sandbox and run commands on the server that processes it. The flaw is CVE-2026-125396 and affects Ghostscript releases before 10.08.0. The researchers demonstrated it against WordPress, Roundcube webmail and Linux print servers. Applications often invoke Ghostscript indirectly to convert uploaded PDFs, PostScript and images. A fix is available, and no exploitation in the wild has been reported.</p><br>
+<p><blockquote><em>Ghostscript is buried inside many upload-handling pipelines, so you may be exposed without knowing it. Check server images and containers for versions before 10.08.0.</em></blockquote></p><br>
+<p>Sources: <a href="https://thehackernews.com/2026/11/researchers-demonstrate-ghostscript.html">The Hacker News</a> · <a href="https://cybersecuritynews.com/upload2shell-flaw/">Cybersecurity News</a> · <a href="https://pwn.ai/upload2shell">pwn.ai (vendor research)</a></p><br>
+<p><h2>AI &amp; Machine Learning</h2></p><br>
+<p><h3><a href="https://thehackernews.com/2026/11/openrouter-drops-3-providers-after.html">OpenRouter drops three AI inference providers after months of prompt theft found by Dragos</a></h3><br>
+<em>Nov 22, 03:14</em></p><br>
+<p>Dragos researchers found that attackers had stolen data from inside three AI inference providers for months, and none of the providers knew until they were told. Some of the stolen requests were flagged Zero Data Retention. OpenRouter, the gateway that routes requests to a pool of providers, removed the three and revoked ZDR eligibility for 125 endpoints. In its November 22 incident notice it says it notified all potentially affected customers. The notice is OpenRouter's own account, and the Dragos findings are vendor research.</p><br>
+<p><blockquote><em>It shows that a 'zero retention' label from a downstream AI provider is not a guarantee, so anything sent through third-party inference routes should be treated as exposed.</em></blockquote></p><br>
+<p>Sources: <a href="https://thehackernews.com/2026/11/openrouter-drops-3-providers-after.html">The Hacker News</a> · <a href="https://cybersecuritynews.com/openrouter-ai-chat-leaks/">Cybersecurity News</a> · <a href="https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/">OpenRouter (vendor notice)</a></p><br>
+<p><h3><a href="https://venturebeat.com/technology/thinking-machines-wows-with-inkling-2-mini-looped-transformer-model-that-runs-locally-on-laptops">Thinking Machines' Inkling 2 Mini is an open-weights model that runs offline on a 32GB laptop (vendor release)</a></h3><br>
+<em>Nov 21, 19:02</em></p><br>
+<p>Mira Murati's Thinking Machines Lab released Inkling 2 Mini, an open-weights multimodal looped-transformer model. It is built to run offline on a 32GB MacBook Pro or a single desktop GPU. VentureBeat says it challenges the cloud-first frontier model approach. A community quantization already runs it in 5.4 GB of memory, and that thread has 489 points on Hacker News. The performance claims come from the vendor and have not been independently benchmarked here.</p><br>
+<p><blockquote><em>It is a first-party release that bets on local inference, which matters if you want capable models without sending data to a third-party provider.</em></blockquote></p><br>
+<p>Sources: <a href="https://venturebeat.com/technology/thinking-machines-wows-with-inkling-2-mini-looped-transformer-model-that-runs-locally-on-laptops">VentureBeat</a> · <a href="https://github.com/ShinMegamiBoson/lookatmyquant">GitHub (5.4 GB quantization)</a></p><br>
+<p><h3><a href="https://www.theverge.com/tech/1039554/un-regulations-killer-robots">UN talks on 'killer robots' end with an agreement only to 'start discussing options'</a></h3><br>
+<em>Nov 21, 21:03</em></p><br>
+<p>UN diplomats in Geneva spent a largely fruitless week on autonomous weapons rules and left agreeing only to start discussing options. The Red Cross had urged binding rules within a year, and the UN secretary-general and Pope Leo backed that call. The Verge, citing NPR, reports the outcome. It follows Politico's earlier report that the effort was delayed to 2028.</p><br>
+<p><blockquote><em>The outcome confirms that no binding international framework for AI-enabled weapons is coming soon, which leaves the rules to national policy and industry norms.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.theverge.com/tech/1039554/un-regulations-killer-robots">The Verge</a></p><br>
+<p><h2>Technology</h2></p><br>
+<p><h3><a href="https://www.nytimes.com/2026/11/21/us/politics/tech-outages-ai-disruptions.html">NYT: AI is uncovering dormant flaws, so tech outages are 'only the beginning'</a></h3><br>
+<em>Nov 21, 20:11</em></p><br>
+<p>The NYT argues that decades of treating cybersecurity as an afterthought are coming due, as AI exposes long-dormant problems in vulnerable code. It expects more disruptions as a result. This is analysis, not new reporting, and it follows Wired and earlier NYT pieces on the same theme. The Hard Fork podcast also notes that software patches seem to be breaking everything.</p><br>
+<p><blockquote><em>The framing is now mainstream, which makes the case for investing in patch testing and rollback plans ahead of the next round of fixes.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.nytimes.com/2026/11/21/us/politics/tech-outages-ai-disruptions.html">NYT Technology</a> · <a href="https://www.nytimes.com/2026/11/20/podcasts/hardfork-gta6-nvidia-anthropic.html">NYT Hard Fork</a></p><br>
+<p><h3><a href="https://linebender.org/blog/next-100-guis/">Linebender: advice for the next 100 Rust GUIs</a></h3><br>
+<em>Nov 21, 22:17</em></p><br>
+<p>A post from the Linebender project, which works on Rust GUI tooling, offers advice to people building new Rust GUI toolkits. The Hacker News thread has 197 points and 89 comments. It is a developer perspective piece, not a release.</p><br>
+<p><blockquote><em>It is a widely read view on the state of Rust UI development, and it is useful if your team is choosing a GUI approach.</em></blockquote></p><br>
+<p>Sources: <a href="https://linebender.org/blog/next-100-guis/">Linebender</a> · <a href="https://news.ycombinator.com/item?id=50593737">Hacker News</a></p><br>
+<p><h3><a href="https://venturebeat.com/orchestration/even-the-fastest-ai-clusters-can-be-held-back-by-their-release-pipelines">Firmware rollouts at AI-cluster scale: automated safety gates froze a six-day update (opinion)</a></h3><br>
+<em>Nov 21, 23:30</em></p><br>
+<p>A VentureBeat contributor describes a firmware rollout that had run zone by zone for six days before automation froze it. The share of hosts rebooting uncleanly in one zone had crossed a safety threshold. The piece argues that release pipelines, not hardware speed, can hold back large AI clusters. It is a first-person account and not an incident report.</p><br>
+<p><blockquote><em>It is a practical example of staged rollouts with automatic halts, which is the same safeguard the week's patch-related outages argue for.</em></blockquote></p><br>
+<p>Sources: <a href="https://venturebeat.com/orchestration/even-the-fastest-ai-clusters-can-be-held-back-by-their-release-pipelines">VentureBeat</a></p><br>
+<p><h2>Business &amp; Markets</h2></p><br>
+<p><h3><a href="https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/">A tale of two Nvidias: strong earnings, while tech executives lobby for Jensen Huang's return</a></h3><br>
+<em>Nov 21, 22:07</em></p><br>
+<p>TechCrunch contrasts Nvidia's latest earnings report with tech executives loudly calling for Jensen Huang to come back after his resignation. The NYT separately reports that the company faces an SEC probe into its accounting practices, tied to questions about chip sales in Asia. The summaries give no earnings figures.</p><br>
+<p><blockquote><em>The key AI chip supplier is showing strong results while its governance and regulatory problems keep growing, and that mix is hard to price.</em></blockquote></p><br>
+<p>Sources: <a href="https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/">TechCrunch</a> · <a href="https://www.nytimes.com/2026/11/20/business/nvidia-sec-accounting.html">NYT Business</a></p><br>
+<p><h3><a href="https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/">Toyota, Nissan and Honda to standardize parts to lower costs</a></h3><br>
+<em>Nov 22, 05:04</em></p><br>
+<p>Car and Driver reports that the three Japanese automakers will standardize parts to cut costs. The Hacker News thread has 676 points and 407 comments. The summary gives no detail on which parts or the expected savings.</p><br>
+<p><blockquote><em>Rare cooperation among rivals points to cost pressure across the auto industry, which could change supplier dynamics.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/">Car and Driver</a> · <a href="https://news.ycombinator.com/item?id=50596133">Hacker News</a></p><br>
+<p><h3><a href="https://www.theverge.com/tech/1039564/amazon-nyc-council-packages-shipping-label">Amazon escalates its fight with NYC Council, putting labels on packages blaming the Delivery Protection Act</a></h3><br>
+<em>Nov 21, 22:59</em></p><br>
+<p>Amazon is now labeling shipments to claim the Council's Delivery Protection Act could add up to $5 to any order. This follows notifications shown earlier in its app and on its website. The act would effectively ban the third-party delivery arrangements Amazon uses. Last-mile firms with warehouses would need a city license and would have to employ their workers directly. The cost claim is Amazon's own.</p><br>
+<p><blockquote><em>It is a high-profile test of whether a big platform can use its customer channels to resist labor-model regulation, and other cities will watch the outcome.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.theverge.com/tech/1039564/amazon-nyc-council-packages-shipping-label">The Verge</a></p><br>
+<p><h3><a href="https://www.nytimes.com/2026/11/21/us/politics/penny-mint-trump-common-cent-act.html">Trump signs law formally ending the penny</a></h3><br>
+<em>Nov 22, 00:12</em></p><br>
+<p>President Trump signed a law on Friday formally putting the penny out of the mint, a year after the Mint stopped striking it. NYT reports the signing. The summary gives no detail on transition rules for cash transactions.</p><br>
+<p><blockquote><em>It is a small but concrete change in retail and payment practice, and it takes effect in the law as signed.</em></blockquote></p><br>
+<p>Sources: <a href="https://www.nytimes.com/2026/11/21/us/politics/penny-mint-trump-common-cent-act.html">NYT Business</a><br>
+</p>
+</body>
+</html>
