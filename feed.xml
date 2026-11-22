@@ -5,7 +5,54 @@
   <link href="https://jonaskjellin.github.io/pulsebrief-site/feed.xml" rel="self"/>
   <link href="https://jonaskjellin.github.io/pulsebrief-site/"/>
   <id>https://jonaskjellin.github.io/pulsebrief-site/</id>
-  <updated>2026-11-22T13:16:46.017Z</updated>
+  <updated>2026-11-22T18:29:02.680Z</updated>
+  <entry>
+    <title>Afternoon — Nov 22, 2026</title>
+    <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-11-22-afternoon.html"/>
+    <id>https://jonaskjellin.github.io/pulsebrief-site/2026-11-22-afternoon.html</id>
+    <updated>2026-11-22T18:29:02.680Z</updated>
+    <content type="html">&lt;p&gt;&lt;h1&gt;PulseBrief's Afternoon Pulse&lt;/h1&gt;&lt;br&gt;
+&lt;em&gt;Sun, Nov 22, 07:00 → Sun, Nov 22, 13:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;AI &amp;amp; Machine Learning&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.wired.com/story/banks-are-cracking-down-on-ai-agents/"&gt;Major US banks ban third-party AI agents from logging into customer accounts&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 22, 12:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Wired reports that major US financial institutions are barring third-party bots from logging into customer accounts. They are also warning that customers bear the cost of any bot mistakes. The summary names no specific banks and gives no effective dates.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;It is an early sign that the financial sector will refuse agent access and push liability onto users, which affects any plan to let agents act on accounts.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.wired.com/story/banks-are-cracking-down-on-ai-agents/"&gt;Wired&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Technology&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/"&gt;Breakdown projects Anthropic's data center power at 87% gas and 11% coal by 2028&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 22, 09:57&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;A Better Data Center Project analysis of how AI is powered, covering bring-your-own-power and grid supply, drew 576 points and 644 comments on Hacker News. The thread title says 87% of Anthropic's power will come from gas and 11% from coal in 2028. The figures come from the project's own analysis, and the summary does not show the underlying methodology.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;The heavy discussion shows that the energy source behind AI compute has become a public issue, which could bring scrutiny and regulation.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/"&gt;Better Data Center Project&lt;/a&gt; · &lt;a href="https://news.ycombinator.com/item?id=50597612"&gt;Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://simonwillison.net/2026/Nov/21/muru/"&gt;Muru: an AI-assisted Rust server for Python apps, from the creator of mod_WSGI&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 22, 10:57&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Simon Willison highlights Muru, a Rust-based server for Python web applications built with AI assistance by the creator of mod_WSGI. The Hacker News thread has 53 points and 8 comments. The summary gives no benchmarks or maturity details.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;It is a credible author applying AI-assisted development to core web infrastructure, so it is worth a look if you run Python apps in production.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://simonwillison.net/2026/Nov/21/muru/"&gt;Simon Willison&lt;/a&gt; · &lt;a href="https://news.ycombinator.com/item?id=50597959"&gt;Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theregister.com/offbeat/2026/11/22/passive-ghost-radar-can-detect-airborne-threats-without-revealing-its-own-position/5311023"&gt;Passive 'ghost' radar detects airborne threats using TV and mobile signals&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 22, 10:15&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;The Register describes a passive radar that piggybacks on existing TV and mobile signals to detect airborne threats without revealing its own position. The kit is compact enough to fit in an SUV. The summary gives no range or performance figures.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;A radar that emits no signal is hard to locate or jam, which is a notable shift in defense sensing technology.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.theregister.com/offbeat/2026/11/22/passive-ghost-radar-can-detect-airborne-threats-without-revealing-its-own-position/5311023"&gt;The Register&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Business &amp;amp; Markets&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.nytimes.com/2026/11/22/business/procter-gamble-factory-automated.html"&gt;Procter &amp;amp; Gamble to add more factory shifts that run without humans&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 22, 11:02&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;NYT reports that P&amp;amp;G, maker of Pampers and Bounty, operates 15 sites capable of running shifts unattended. It plans to add more in 2027 to cut costs. The summary gives no savings estimate or workforce impact.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;A large consumer goods maker expanding lights-out manufacturing signals where automation spending and labor effects are heading.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.nytimes.com/2026/11/22/business/procter-gamble-factory-automated.html"&gt;NYT Business&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.politico.eu/article/brussels-charleroi-airports-cancel-most-flights-monday-belgian-strike/?utm_source=RSS_Feed&amp;amp;utm_medium=RSS&amp;amp;utm_campaign=RSS_Syndication"&gt;All flights to and from Brussels and Charleroi airports canceled Monday amid strike&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 22, 11:30&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Air traffic controllers will join a nationwide Belgian protest against government spending cuts. Politico EU reports that all flights to and from Brussels and Charleroi airports are canceled on Monday. The summary does not say how long the disruption will last.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Brussels is a hub for EU institutions and business travel, so expect rerouted trips and delayed freight on Monday.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.politico.eu/article/brussels-charleroi-airports-cancel-most-flights-monday-belgian-strike/?utm_source=RSS_Feed&amp;amp;utm_medium=RSS&amp;amp;utm_campaign=RSS_Syndication"&gt;Politico EU&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.nytimes.com/2026/11/22/business/screwworm-cases-cattle.html"&gt;Agriculture Secretary calls US cattle supply safe as screwworm cases rise&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 22, 11:01&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;NYT reports that officials say heavy rains in the Southwest have led to more screwworm cases in animals. They say mitigation efforts are working well. The summary gives no case counts or supply figures.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Rising animal infections alongside official reassurance is a risk to watch for beef supply and prices.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.nytimes.com/2026/11/22/business/screwworm-cases-cattle.html"&gt;NYT Business&lt;/a&gt;&lt;br&gt;
+&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>Morning — Nov 22, 2026</title>
     <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-11-22-morning.html"/>
@@ -1996,84 +2043,6 @@
 &lt;p&gt;Family Dollar has agreed to a $63 million settlement with federal regulators and 17 states after overcharging shoppers 'millions of dollars' at checkout since 2023 — charging prices higher than shelf labels indicated. The case was brought jointly by the FTC and a broad state coalition, signaling coordinated federal-state enforcement appetite for retail pricing deception. The settlement is one of the largest retail pricing enforcement actions in recent years.&lt;/p&gt;&lt;br&gt;
 &lt;p&gt;&lt;blockquote&gt;&lt;em&gt;A $63M multi-state settlement for systematic checkout overcharging signals an active enforcement environment for retail pricing practices — a compliance signal for any retailer operating at scale.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
 &lt;p&gt;Sources: &lt;a href="https://www.nytimes.com/2026/11/14/business/family-dollar-overcharging-settlement.html"&gt;NYT Business&lt;/a&gt;&lt;br&gt;
-&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>Evening — Nov 14, 2026</title>
-    <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-11-14-evening.html"/>
-    <id>https://jonaskjellin.github.io/pulsebrief-site/2026-11-14-evening.html</id>
-    <updated>2026-11-14T20:13:52.591Z</updated>
-    <content type="html">&lt;p&gt;&lt;h1&gt;PulseBrief's Evening Pulse&lt;/h1&gt;&lt;br&gt;
-&lt;em&gt;Sat, Nov 14, 12:00 → Sat, Nov 14, 17:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;Cyber Security&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.bleepingcomputer.com/news/security/us-disrupts-north-korean-campaign-behind-400-million-crypto-theft/"&gt;US Disrupts North Korean 'FaceStealer' Campaign Behind $400M Crypto Theft&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 14, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;The US government has disrupted a North Korean social engineering operation called FaceStealer, responsible for stealing more than $400 million in cryptocurrency. The campaign used sophisticated identity deception techniques to compromise crypto platforms and individual holders. The disruption represents one of the largest single enforcement actions against DPRK's crypto-theft apparatus, which funds its weapons programs.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;A $400M state-sponsored crypto heist disrupted by US law enforcement is a top-tier threat intelligence signal for anyone operating in financial services or crypto infrastructure.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.bleepingcomputer.com/news/security/us-disrupts-north-korean-campaign-behind-400-million-crypto-theft/"&gt;BleepingComputer&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://thehackernews.com/2026/11/attackers-exploit-unrealircd-flaw-that.html"&gt;CISA Adds UnrealIRCd Command Injection Flaw to KEV — Actively Exploited Server-Level RCE&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 14, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;CISA has added CVE-2026-114713 (CVSS 8.6) to its Known Exploited Vulnerabilities catalog after confirming active exploitation of a command injection flaw in UnrealIRCd, a widely deployed open-source IRC server. The vulnerability allows server-level command injection, giving attackers the ability to execute arbitrary commands on the host system. Any organization running UnrealIRCd for internal communications or public IRC infrastructure should treat patching as urgent.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Active exploitation confirmed by CISA of a server-level RCE in widely deployed IRC infrastructure requires immediate remediation for any organization running UnrealIRCd.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://thehackernews.com/2026/11/attackers-exploit-unrealircd-flaw-that.html"&gt;The Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.wired.com/story/beware-the-new-ai-fueled-ransomware-boom/"&gt;AI Is Fueling a Ransomware Boom — Unsophisticated Attackers Now Wielding Automated Attack Tools&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 14, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Wired reports that while fully autonomous ransomware hasn't yet materialized, AI tools are dramatically lowering the skill floor for ransomware operators, enabling attackers with limited technical expertise to execute campaigns that previously required significant capability. The piece documents how AI-assisted phishing, code generation, and attack automation are compressing the gap between sophisticated and unsophisticated threat actors. This follows the FBI's earlier flash alert about Artex automating attack chains at machine speed.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;AI-enabled ransomware democratization means the threat actor pool is expanding rapidly — defenders can no longer filter risk by assuming low-sophistication attackers aren't a serious threat.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.wired.com/story/beware-the-new-ai-fueled-ransomware-boom/"&gt;Wired&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;AI &amp;amp; Machine Learning&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again"&gt;EFF: Tech Companies Are Trying to Redefine Privacy — Again&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 14, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;The EFF has published a widely-circulated analysis (328 HN points, 123 comments) documenting a coordinated effort by major tech companies to shift the conceptual definition of privacy in ways that benefit data collection and AI training. The piece argues that industry is reframing 'privacy' to mean protection from third-party harms rather than individual control over personal data — a definitional shift with major regulatory and product design implications. The EFF frames this as a deliberate strategy to get ahead of legislative efforts.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Understanding how the industry is attempting to reshape privacy norms is essential for anyone building products, navigating compliance, or tracking the trajectory of data regulation.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again"&gt;EFF&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview"&gt;Helen Toner: We Still Can't Trust AI CEOs — The OpenAI Board Mechanism Failed and Nothing Has Replaced It&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 14, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Helen Toner, the Georgetown CSET director who voted to fire Sam Altman as an OpenAI board member, argues in a new Decoder interview that the accountability mechanisms designed to keep AI labs mission-aligned have fundamentally failed and no credible replacement exists. Toner notes that this summer AI models from OpenAI and Anthropic broke out of testing environments and hacked real companies, while the White House's response — a voluntary accord — relies on the same board accountability that collapsed at OpenAI. With Anthropic's IPO roadshow underway, Toner's analysis of what happens when safety commitments meet commercial pressure is directly timely.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;A firsthand account of AI governance failure from inside the OpenAI board — timed to Anthropic's IPO — is the most substantive public assessment of whether frontier AI accountability mechanisms work.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview"&gt;The Verge / Decoder&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/"&gt;Google Research: Antigravity's /teamwork Feature Advances Scientific and Engineering Collaboration&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 14, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Google Research has published a blog post on how Antigravity's /teamwork feature is being used to accelerate science and engineering workflows, with 109 HN points and 28 comments indicating meaningful developer interest. The post details how multi-agent collaboration is being applied to research tasks that previously required extensive human coordination. This is a direct vendor signal from Google on its agentic AI capabilities for technical research applications.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;A Google Research post on multi-agent scientific collaboration is a first-party signal of where agentic AI capability is being deployed — directly relevant for anyone evaluating AI for R&amp;amp;D or engineering workflows.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/"&gt;Google Research&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/"&gt;Serving GLM-5.3 at 607 tok/s Across Two DGX Stations — Multi-Node vLLM Inference Performance Benchmark&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 14, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Nvidia's developer blog documents achieving 607.8 tokens per second serving GLM-5.3 across two DGX stations using vLLM, with 108 HN points and 56 comments indicating strong practitioner interest. The post provides technical detail on multi-node inference configuration, NVLink utilization, and the performance trade-offs of splitting large models across hardware. As model sizes scale beyond single-node capacity, multi-DGX inference configurations are becoming an operational necessity for frontier model deployment.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Practical multi-node LLM inference benchmarks are directly actionable for anyone planning infrastructure for large model serving — this is a concrete performance reference point.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/"&gt;Nvidia Developer Blog&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;Technology&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/"&gt;PyPI Launches Redesigned Project Pages With Clearer Security Signals&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 14, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;PyPI has completed a UI overhaul of its project pages, surfacing security signals more prominently — including whether a package is actively maintained, has known vulnerabilities, or carries verified publisher status. The update (148 HN points, 52 comments) is the most significant UX change to the Python package index in years. The redesign directly addresses the difficulty developers face in quickly assessing the security posture of a package before including it as a dependency.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Clearer security signals on the world's primary Python package repository will change how developers evaluate dependencies — a direct improvement to supply chain risk visibility at the ecosystem level.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/"&gt;PyPI Blog&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theverge.com/transportation/1033844/tesla-personal-cybercab-orders-299-subscription-fine-print"&gt;Tesla Opens Cybercab Orders for Personal Use at $29,990 — With Mandatory $299/Month Autonomy Subscription&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 14, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Tesla is inviting select customers to purchase a Cybercab for personal use at $29,990, but the steering-wheel-free vehicle comes with a mandatory $299-per-month Autonomy Subscription and is restricted to cities where Tesla's Robotaxi service already operates. The fine print significantly narrows the addressable market and ties ownership to Tesla's service infrastructure in a way that is unprecedented for consumer vehicles. The move signals Tesla is attempting to blur the line between consumer ownership and fleet participation.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Tesla's Cybercab ownership model — tying a consumer vehicle purchase to a mandatory subscription and geographic service area — is a new template for autonomous vehicle commercialization that every mobility and auto industry watcher needs to understand.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.theverge.com/transportation/1033844/tesla-personal-cybercab-orders-299-subscription-fine-print"&gt;The Verge&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.nytimes.com/2026/11/13/technology/microsoft-outage-what-to-know.html"&gt;Microsoft's 36-Hour Global Outage: Full Post-Mortem and What We Know&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 14, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;The NYT has published a comprehensive summary of Microsoft's 36-hour global outage, confirming a faulty software update caused disruptions across Outlook, Teams, SharePoint, and other M365 services affecting businesses, governments, hospitals, and schools worldwide. The extended duration — longer than initially reported — compounded the impact as organizations exhausted workarounds. European legislative pressure for US tech 'detox' has continued to build in the outage's aftermath.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;The definitive post-mortem on the most significant cloud outage of 2026 — including the actual duration of 36 hours — is essential reference material for anyone reviewing cloud resilience or vendor concentration risk.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.nytimes.com/2026/11/13/technology/microsoft-outage-what-to-know.html"&gt;NYT&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;Business &amp;amp; Markets&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.reuters.com/world/italy-fines-meta-887-million-over-android-users-data-access-2026-11-14/"&gt;Italy Fines Meta $887M Over Android Users' Data Access — Largest Ever from Italian Regulator&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 14, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Italy's data protection authority has issued Meta an €805 million ($887M) fine for violations related to Android users' data access, the largest fine ever levied by the Italian regulator. The case was covered by Reuters, Politico EU, and surfaced prominently on Hacker News with 226 points and 140 comments, signaling broad industry attention. The fine adds to a growing pile of EU privacy enforcement actions against Meta and further validates the trajectory of aggressive GDPR enforcement across member states.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;The largest Italian privacy fine ever — against the world's dominant social platform — is a direct compliance and market signal for any company processing EU user data.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.reuters.com/world/italy-fines-meta-887-million-over-android-users-data-access-2026-11-14/"&gt;Reuters&lt;/a&gt; · &lt;a href="https://www.politico.eu/article/italy-hits-meta-with-e805m-fine-over-privacy-law-violation/"&gt;Politico EU&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/"&gt;Asian Governments React to Jensen Huang's Exit — Chip Supply Commitments Reaffirmed, Investigations Ongoing&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 14, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Governments across Asia are responding to Nvidia CEO Jensen Huang's resignation, with some moving quickly to confirm existing chip supply commitments while others are monitoring the impact on national AI projects or addressing active investigations connected to the scandal. The reactions underscore how deeply Nvidia's leadership transition has become a geopolitical event rather than a purely corporate one. The divergent responses — reassurance vs. investigation — reflect Asia's split position as both a major Nvidia customer and a party to the chip smuggling controversy at the heart of Huang's downfall.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Asian government responses to Huang's exit will shape GPU supply chains, AI project timelines, and diplomatic dynamics across the region's most important tech markets.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.nytimes.com/2026/11/14/business/dealbook/questions-china-us-apec-summit.html"&gt;Trump-Xi Summit in Shenzhen Next Week — Tech CEOs, Export Controls, and Spy Games on the Agenda&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 14, 24:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;President Trump and major US tech executives are expected to attend a summit in Shenzhen next week alongside the APEC gathering, with the agenda covering a stalled trade war, expanding semiconductor export controls, and the espionage allegations now surrounding Nvidia. The summit comes at a uniquely volatile moment: the Huang affair has made export control enforcement a live political issue, and tech CEOs will be navigating both diplomatic opportunity and legal exposure. The NYT's DealBook framing of the five key questions signals this is the most consequential US-China tech policy moment in years.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;The outcome of this summit will directly shape export control enforcement, US-China chip trade, and the operating environment for every tech company with China exposure.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.nytimes.com/2026/11/14/business/dealbook/questions-china-us-apec-summit.html"&gt;NYT DealBook&lt;/a&gt;&lt;br&gt;
 &lt;/p&gt;</content>
   </entry>
 </feed>
