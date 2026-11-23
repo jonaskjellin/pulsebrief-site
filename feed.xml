@@ -5,7 +5,95 @@
   <link href="https://jonaskjellin.github.io/pulsebrief-site/feed.xml" rel="self"/>
   <link href="https://jonaskjellin.github.io/pulsebrief-site/"/>
   <id>https://jonaskjellin.github.io/pulsebrief-site/</id>
-  <updated>2026-11-22T21:42:55.861Z</updated>
+  <updated>2026-11-23T15:54:10.759Z</updated>
+  <entry>
+    <title>Morning — Nov 23, 2026</title>
+    <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-11-23-morning.html"/>
+    <id>https://jonaskjellin.github.io/pulsebrief-site/2026-11-23-morning.html</id>
+    <updated>2026-11-23T15:54:10.759Z</updated>
+    <content type="html">&lt;p&gt;&lt;h1&gt;PulseBrief's Morning Pulse&lt;/h1&gt;&lt;br&gt;
+&lt;em&gt;Sun, Nov 22, 18:00 → Mon, Nov 23, 07:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Cyber Security&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.bleepingcomputer.com/news/security/hackers-exploit-glinet-cloud-flaw-to-infect-routers-kvm-devices/"&gt;GL.iNet confirms hackers exploited its cloud management flaw to infect routers and KVM devices&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 22, 19:45&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;GL.iNet confirmed attackers exploited a vulnerability in its cloud remote management services to install custom malware on customers' routers and KVM devices. Some affected users report backdoors and reverse shells giving remote access. The company has published a security notice dated Nov 20, which drew 246 points on Hacker News. The summaries do not say how many devices are affected.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Compromised routers and KVMs sit at the network edge and give attackers a foothold, so check any GL.iNet gear and its cloud management settings now.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.bleepingcomputer.com/news/security/hackers-exploit-glinet-cloud-flaw-to-infect-routers-kvm-devices/"&gt;BleepingComputer&lt;/a&gt; · &lt;a href="https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20"&gt;GL.iNet Security Notice (vendor notice)&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theregister.com/virtualization/2026/11/23/google-claims-last-weeks-critical-vmware-bug-was-under-attack-in-september/5311547"&gt;Google says critical VMware bug was exploited in September by China-linked ARMORY CASTLE&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 23, 05:39&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Google claims the critical VMware vulnerability disclosed last week was under attack back in September. It attributes the exploitation to China-linked ARMORY CASTLE, which knew of the bug weeks before the patch. The group then deployed five custom malware tools targeting vCenter. The attribution and timeline come from Google.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;A bug exploited for weeks before disclosure means vCenter environments should be patched and also hunted for prior compromise.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.theregister.com/virtualization/2026/11/23/google-claims-last-weeks-critical-vmware-bug-was-under-attack-in-september/5311547"&gt;The Register&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theregister.com/security/2026/11/23/1-of-gpt-51-tokens-finds-new-ways-around-chinas-great-firewall/5311532"&gt;$1 of GPT-5.1 tokens found new ways around China's Great Firewall&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 23, 01:23&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;The Register reports that researchers used about a dollar's worth of GPT-5.1 tokens to find new methods of circumventing China's Great Firewall. The item is part of a weekly roundup, and the summary gives no technical detail on the methods. The same roundup mentions an Australian bank releasing its own AI bug-finder.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;It is a cheap data point on how little it now costs to use frontier models to probe large, well-defended network systems.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.theregister.com/security/2026/11/23/1-of-gpt-51-tokens-finds-new-ways-around-chinas-great-firewall/5311532"&gt;The Register&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;AI &amp;amp; Machine Learning&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/"&gt;OpenAI's chief scientist outlines how a 'speed limit' on AI development could be measured&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 22, 22:14&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;TechCrunch reports that OpenAI's chief scientist has set out views on limiting AI development. The central point is that to set a speed limit you first have to agree on how to measure speed. The summary gives no specific metrics or proposals. This is a first-party signal from OpenAI leadership.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;It shows how a leading lab is framing the AI-pace debate, and any agreed way of measuring speed would shape future policy and safety commitments.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth"&gt;Local AI momentum: beginner's guide to Inkling, Qwen and Unsloth draws 649 points on Hacker News&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 22, 22:01&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;A guide to running local models with Inkling, Qwen and Unsloth is one of the most discussed Hacker News items, with 649 points and 263 comments. It follows this weekend's release of Thinking Machines' Inkling 2 Mini. The guide is published by GPU vendor gpupartner.com, so treat it as vendor-originated content.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;The strong interest suggests local, offline models are moving from hobbyist territory toward mainstream use, a way to avoid sending data to third-party providers.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth"&gt;GPU Partner (vendor blog)&lt;/a&gt; · &lt;a href="https://news.ycombinator.com/item?id=50603845"&gt;Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://venturebeat.com/orchestration/your-ml-model-passed-every-test-heres-what-those-tests-might-have-missed"&gt;VentureBeat contributor: ML models that pass every test can still degrade silently in production (opinion)&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 22, 23:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;A VentureBeat piece argues most ML models are tested on clean, familiar data under comfortable conditions. In production the inputs are messy and labels drift, so models that looked excellent in the lab can degrade without anyone noticing. This is a contributed opinion piece, not news.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;It is a reminder to monitor deployed models for drift rather than relying on pre-release test scores.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://venturebeat.com/orchestration/your-ml-model-passed-every-test-heres-what-those-tests-might-have-missed"&gt;VentureBeat&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Technology&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://github.com/AFK-surf/xnulinux"&gt;XNU Linux project brings a full OS X GUI userspace to Linux&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 23, 04:49&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;The XNU Linux project on GitHub claims to run a full OS X GUI userspace on Linux. It drew 485 points and 204 comments on Hacker News. The summary does not describe how complete it is or its legal status.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Heavy developer interest makes it worth a look, though maturity and licensing are unclear.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://github.com/AFK-surf/xnulinux"&gt;GitHub&lt;/a&gt; · &lt;a href="https://news.ycombinator.com/item?id=50607261"&gt;Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.docker.com/blog/meet-the-new-docker-built-to-run-on-trust/"&gt;Docker relaunches as 'The New Docker: Built to Run on Trust' (vendor announcement)&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 23, 04:34&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Docker published a post titled 'Meet the new Docker: built to run on trust', drawing 85 points and 164 comments on Hacker News. The comment count is high relative to the points, which suggests an active debate. The summary does not describe the product or policy changes, and the post is Docker's own messaging.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Docker is core developer infrastructure, so any repositioning around trust is worth reading in full for changes to products or terms.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.docker.com/blog/meet-the-new-docker-built-to-run-on-trust/"&gt;Docker (vendor blog)&lt;/a&gt; · &lt;a href="https://news.ycombinator.com/item?id=50607194"&gt;Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://micjm.com/blog/yes-17m-lines-of-lean-is-a-lot/"&gt;Lean formalization of a Riemann Hypothesis proof stirs debate: '17M lines of Lean is a lot'&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 23, 06:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Two Hacker News threads discuss a Lean proof related to the Riemann Hypothesis. One is a treemap visualizer of the proof (148 points), and the other is a post titled 'Yes, 17M lines of Lean is a lot' (197 points, 236 comments). The summaries do not confirm the proof's validity or where it comes from, so treat the claims cautiously until independently verified.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;If a proof of this size is real and machine-checked, it would be a landmark for formal verification and AI-assisted mathematics, but verification matters more than the headline.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://micjm.com/blog/yes-17m-lines-of-lean-is-a-lot/"&gt;micjm.com&lt;/a&gt; · &lt;a href="https://pengowray.github.io/riemann-zeta-proof-visualizer/"&gt;Riemann zeta proof visualizer&lt;/a&gt; · &lt;a href="https://news.ycombinator.com/item?id=50607668"&gt;Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/"&gt;Why data centers are at the center of the Big Tech backlash&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 22, 19:08&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;TechCrunch interviews journalist Paris Marx about his new book 'Hyperscale', which examines data centers and public backlash against Big Tech. It follows this weekend's discussion of AI data center power sources. The summary gives no specifics from the book.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Community and energy pushback on data centers is becoming a constraint on AI infrastructure growth.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Business &amp;amp; Markets&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.nytimes.com/2026/11/22/business/scott-bessent-jensen-huang-nvidia.html"&gt;Bessent presses Nvidia for answers on China chip sales, says it is too soon to say if Huang should return&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 22, 18:55&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Treasury Secretary Scott Bessent said on CBS that Nvidia should provide answers on chip sales to China. He said it was too soon to say whether Jensen Huang should return as CEO. This follows reports of an SEC accounting probe tied to Asia chip sales and executives lobbying for Huang's return.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Direct pressure from a senior administration official raises regulatory risk for the key AI chip supplier.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.nytimes.com/2026/11/22/business/scott-bessent-jensen-huang-nvidia.html"&gt;NYT Business&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/"&gt;Notable Capital, GIC and Baillie Gifford explain their big bets on Anthropic ahead of its IPO&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 23, 02:25&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;TechCrunch spoke with three significant Anthropic backers about what gave them the conviction to invest billions. The piece frames the investments as coming before Anthropic's IPO. The summary does not give valuations or round sizes.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;It shows how institutional investors are underwriting frontier AI labs ahead of a possible public listing.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.nytimes.com/video/business/100000011293737/how-the-us-economy-is-tied-to-ai.html"&gt;NYT explains how deeply the US economy is now tied to AI, and why that is risky&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 22, 20:58&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;NYT chief economics correspondent Ben Casselman explains in a video why AI has become a huge piece of the US economy and how that concentration might be risky. The summary gives no figures.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Dependence of growth and markets on AI spending is a systemic risk to watch for investment and budgeting.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.nytimes.com/video/business/100000011293737/how-the-us-economy-is-tied-to-ai.html"&gt;NYT Business&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.euronews.com/2026/11/22/israel-set-to-become-worlds-25th-largest-economy-what-can-europe-learn-from-its-tech-boom"&gt;IMF: Israel's tech-driven economy set to become world's 25th largest in 2026&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 22, 18:11&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;The IMF forecasts Israel will grow 4.5% and overtake Sweden and Ireland to become the 25th-largest economy in 2026, despite years of war. Euronews reports that European and Israeli policymakers meet in Jerusalem this week to discuss closer ties and what Europe can learn from Israel's innovation model.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;It is a signal about tech-sector resilience and possible EU-Israel cooperation this week.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.euronews.com/2026/11/22/israel-set-to-become-worlds-25th-largest-economy-what-can-europe-learn-from-its-tech-boom"&gt;Euronews Business&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.nytimes.com/2026/11/22/business/media/hunger-games-box-office.html"&gt;'The Hunger Games: Sunrise on the Reaping' opens to $120M, extending Lionsgate's hot streak&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 22, 18:53&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;The film had nearly three times the domestic opening of its predecessor, according to NYT. It extends a hot streak for Lionsgate.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;A strong box office opening is a sign of consumer spending on theatrical entertainment going into the holidays.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.nytimes.com/2026/11/22/business/media/hunger-games-box-office.html"&gt;NYT Business&lt;/a&gt;&lt;br&gt;
+&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>Evening — Nov 22, 2026</title>
     <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-11-22-evening.html"/>
@@ -1975,59 +2063,6 @@
 &lt;p&gt;Southeast Asian nations have signed a digital trade deal under the ASEAN framework aimed at harmonizing cross-border payments, reducing paperwork, and enabling smoother data sharing for e-commerce and digital services across the region. The agreement addresses the fragmented regulatory environment that has forced businesses to navigate different rules in each country, and comes as online shopping and digital services are growing rapidly across the region. This creates a materially larger addressable market for digital businesses operating in Southeast Asia.&lt;/p&gt;&lt;br&gt;
 &lt;p&gt;&lt;blockquote&gt;&lt;em&gt;A unified digital trade framework across ASEAN's combined 680M-person market is a significant market access development for any business with Southeast Asian digital operations or expansion plans.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
 &lt;p&gt;Sources: &lt;a href="https://www.euronews.com/2026/11/15/southeast-asian-nations-sign-digital-trade-deal-to-ease-payments-and-cut-paperwork"&gt;Euronews Business&lt;/a&gt;&lt;br&gt;
-&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>Afternoon — Nov 15, 2026</title>
-    <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-11-15-afternoon.html"/>
-    <id>https://jonaskjellin.github.io/pulsebrief-site/2026-11-15-afternoon.html</id>
-    <updated>2026-11-15T17:30:59.464Z</updated>
-    <content type="html">&lt;p&gt;&lt;h1&gt;PulseBrief's Afternoon Pulse&lt;/h1&gt;&lt;br&gt;
-&lt;em&gt;Sun, Nov 15, 06:00 → Sun, Nov 15, 12:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;Cyber Security&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://thehackernews.com/2026/11/stolen-fireworks-ai-key-led-to-cursor.html"&gt;Cursor Confirms Fireworks AI Key Theft Led to Trojanized Claude Code Extension — Full Attack Chain Now Documented&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 15, 08:22&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Cursor has confirmed the malicious Claude Code extension distributed through its marketplace was enabled by an access key stolen from Fireworks AI's breach — the attacker used the key to copy data from a read-only storage layer, then weaponized Cursor's extension signing pipeline. The Hacker News coverage adds technical detail to what was confirmed Friday: Fireworks AI's compromise is now a documented multi-victim supply chain incident affecting Cursor, Uber, and Notion. The attack chain — compromise AI infra provider → steal signing credential → distribute malicious extension through trusted marketplace — is now fully reconstructed.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;The complete attack chain documentation makes this the clearest case study yet of AI infrastructure providers as Tier-1 supply chain attack vectors — directly actionable for anyone auditing third-party AI integrations.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://thehackernews.com/2026/11/stolen-fireworks-ai-key-led-to-cursor.html"&gt;The Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://thehackernews.com/2026/11/italy-fines-meta-805-million-over.html"&gt;Italy Fines Meta €805M Over Facebook Android Gallery Access — Covered Again With New THN Technical Detail&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 15, 11:27&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;The Hacker News has published new technical detail on Italy's €805M Meta fine, clarifying that the Garante found the photo-suggestion feature was enabled by default and accessed photos, videos, and metadata without explicit consent — not merely implicit consent through terms of service. Meta has 60 days to respond. The fine was first covered in yesterday's briefs but the additional technical framing of 'default-enabled ambient media access without explicit consent' sharpens the compliance implication for any app using similar patterns.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;The 'default-enabled, no explicit consent' framing is the operative legal finding — a direct template for regulators to pursue any app that accesses device sensors or media libraries without affirmative opt-in.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://thehackernews.com/2026/11/italy-fines-meta-805-million-over.html"&gt;The Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;AI &amp;amp; Machine Learning&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.wired.com/story/ai-djs-completely-kill-my-groove/"&gt;AI DJs on YouTube Music and Spotify Are Frustrating Users — Synthetic Hosts Spreading Bogus Trivia at Scale&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 15, 12:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Wired reports that YouTube Music and Spotify have deployed AI DJ features with synthetic hosts that curate playlists and deliver between-song banter, but users are finding the AI hosts generate false song trivia and awkward transitions that actively degrade the listening experience. The piece is a consumer-facing signal of AI deployment moving faster than quality controls, in a context — music streaming — where hundreds of millions of users will encounter it. It also surfaces a reputational risk pattern: AI features shipped to mass audiences that generate confident misinformation.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;AI hosts generating confident false information at streaming scale is an early case study in what happens when generative AI is deployed to hundreds of millions of users without adequate quality gates — a pattern relevant far beyond music.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.wired.com/story/ai-djs-completely-kill-my-groove/"&gt;Wired&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;Technology&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.nytimes.com/2026/11/15/business/technology-dependence-microsoft-airlines.html"&gt;Microsoft Outlook Outage and FAA Ground Stop Trigger Broad Reckoning Over Technology Fragility&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 15, 10:02&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;The NYT has published a synthesis piece arguing that the Microsoft 365 outage and the FAA nationwide ground stop — occurring within days of each other — reveal a systemic pattern of dangerous dependence on critical technology infrastructure that is poorly understood, inadequately redundant, and rarely stress-tested. The piece lands as a broader public narrative is crystallizing around infrastructure resilience, following confirmation that both failures were caused by software updates rather than attacks. The convergence of two major critical infrastructure failures in one week is driving regulatory and board-level attention.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Back-to-back critical infrastructure failures from software updates in a single week is the kind of pattern that triggers congressional hearings, procurement reviews, and resilience mandates — worth tracking early.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.nytimes.com/2026/11/15/business/technology-dependence-microsoft-airlines.html"&gt;NYT Business&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.euronews.com/2026/11/15/spacex-catches-part-of-its-starship-rocket-in-historic-first"&gt;SpaceX Catches Starship Upper Stage — Euronews Confirms 'Changed Everything' Moment for Reusable Launch&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 15, 08:32&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Additional international coverage from Euronews confirms SpaceX's successful Starship upper-stage catch during Flight 15, with the mechanical 'chopstick' arms closing around the spacecraft for the first time as crowds outside Texas Starbase cheered. SpaceX called the moment one that 'changed everything' for the economics of fully reusable launch. This is incremental coverage of a story first flagged in yesterday's brief, confirming the milestone's global resonance.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Full upper-stage recovery closes the loop on reusable orbital launch economics — the downstream implications for satellite deployment costs and launch market competition are now concrete.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.euronews.com/2026/11/15/spacex-catches-part-of-its-starship-rocket-in-historic-first"&gt;Euronews Business&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;Business &amp;amp; Markets&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.nytimes.com/2026/11/15/us/politics/lutnick-pushed-to-weaken-chip-rules-that-overlap-with-his-family-business.html"&gt;Lutnick Pushed to Weaken Chip Export Rules That Overlap With His Family Business&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 15, 11:40&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;The NYT reports that Commerce Secretary Howard Lutnick lobbied to weaken semiconductor export control rules in ways that benefited his family's business interests, raising significant conflict-of-interest concerns. The story is drawing 214 HN points and 91 comments, confirming broad industry attention. Coming directly on top of the Jensen Huang chip smuggling scandal and the upcoming Trump-Xi summit in Shenzhen, US export control enforcement is now under simultaneous pressure from both foreign actors and domestic officials.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;A Cabinet secretary weakening chip export controls for personal financial benefit — during active federal investigations into Nvidia — is the most significant US export control governance story in years.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.nytimes.com/2026/11/15/us/politics/lutnick-pushed-to-weaken-chip-rules-that-overlap-with-his-family-business.html"&gt;NYT&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.nytimes.com/2026/11/15/business/anthropic-ipo-filing-prospectus.html"&gt;Anthropic IPO Prospectus Analysis: Unprecedented Existential Risk Disclosures, But Does Honesty Comfort Investors?&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 15, 10:01&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;The NYT has published a detailed read of Anthropic's IPO filing, noting the prospectus is 'unparalleled in its willingness to discuss existential risk' — explicitly disclosing scenarios in which the company's own models could cause catastrophic harm. The analysis raises the question of whether that level of candor reassures or unsettles institutional investors being asked to price the offering as potentially the largest tech IPO ever. The juxtaposition of existential risk language alongside a maximum-valuation roadshow is a defining tension of the frontier AI moment.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;The specific risk language in Anthropic's S-1 will shape how Wall Street and regulators frame AI liability and governance for every frontier lab that follows.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.nytimes.com/2026/11/15/business/anthropic-ipo-filing-prospectus.html"&gt;NYT Business&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.nytimes.com/2026/11/15/business/jensen-huang-taiwan.html"&gt;Jensen Huang's Downfall Shocks Taiwan — 'The People's Dad' Falls From Grace in His Birthplace&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 15, 10:01&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;The NYT reports widespread disbelief in Taiwan following Jensen Huang's resignation, where he is revered as 'the people's dad' and a symbol of Taiwanese-American achievement in technology. The reaction underscores how deeply personal the Huang affair is across Asia — not merely a corporate governance event but a cultural rupture. Taiwan is also home to TSMC, Nvidia's primary chip fabricator, making the geopolitical and industrial dimensions of Huang's fall particularly acute there.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Taiwan's reaction to Huang's exit matters because it signals potential friction in the US-Taiwan semiconductor relationship at the precise moment export control enforcement is under challenge from Lutnick.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.nytimes.com/2026/11/15/business/jensen-huang-taiwan.html"&gt;NYT Business&lt;/a&gt;&lt;br&gt;
 &lt;/p&gt;</content>
   </entry>
 </feed>
