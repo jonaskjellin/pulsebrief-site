@@ -5,7 +5,105 @@
   <link href="https://jonaskjellin.github.io/pulsebrief-site/feed.xml" rel="self"/>
   <link href="https://jonaskjellin.github.io/pulsebrief-site/"/>
   <id>https://jonaskjellin.github.io/pulsebrief-site/</id>
-  <updated>2026-11-23T15:54:10.759Z</updated>
+  <updated>2026-11-23T22:36:17.305Z</updated>
+  <entry>
+    <title>Afternoon — Nov 23, 2026</title>
+    <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-11-23-afternoon.html"/>
+    <id>https://jonaskjellin.github.io/pulsebrief-site/2026-11-23-afternoon.html</id>
+    <updated>2026-11-23T22:36:17.305Z</updated>
+    <content type="html">&lt;p&gt;&lt;h1&gt;PulseBrief's Afternoon Pulse&lt;/h1&gt;&lt;br&gt;
+&lt;em&gt;Mon, Nov 23, 07:00 → Mon, Nov 23, 13:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Cyber Security&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.bleepingcomputer.com/news/security/cisa-flags-critical-cisco-expressway-rce-flaw-as-actively-exploited/"&gt;CISA flags Cisco Expressway RCE as exploited; SAP NetWeaver flaw also under attack&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 23, 08:44&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;CISA warned federal agencies that attackers are exploiting a recently patched critical remote code execution flaw in Cisco Expressway. SecurityWeek separately reports that an SAP NetWeaver flaw is being exploited too. The Cisco bug can be used to run commands as root, and the SAP issue can leak or modify server information. The summaries give no attribution or scale of exploitation.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Both are actively exploited in widely deployed enterprise infrastructure, and CISA's flag usually sets a short patching deadline for federal agencies.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.bleepingcomputer.com/news/security/cisa-flags-critical-cisco-expressway-rce-flaw-as-actively-exploited/"&gt;BleepingComputer&lt;/a&gt; · &lt;a href="https://www.securityweek.com/sap-netweaver-cisco-expressway-flaws-exploited-in-attacks/"&gt;SecurityWeek&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://thehackernews.com/2026/11/hackers-exploit-critical-aspnet-anti.html"&gt;Critical ASP.NET anti-CSRF library flaw (CVE-2026-131914) exploited for unauthenticated RCE&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 23, 10:11&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Researchers urge users to stop using the legacy Idunno.AntiCsrf library after a critical flaw (CVSS 9.3) was found and exploited in the wild. It affects versions 0.9.1.0 and 0.9.1 Beta and allows unauthenticated remote code execution. The summary gives no information on who is exploiting it or how widely.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;The library is old and may be buried in legacy ASP.NET apps, so check your dependency inventory for it now.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://thehackernews.com/2026/11/hackers-exploit-critical-aspnet-anti.html"&gt;The Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://thehackernews.com/2026/11/ai-assisted-cyberattacks-trigger.html"&gt;India's CERT-In warns AI-assisted attacks are triggering unauthorized payments at banks and fintechs&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 23, 09:24&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;CERT-In says threat actors are running AI-assisted attacks on ICT assets in India. The activity has led to unauthorized financial transactions at banking and financial services entities and at technology service providers. The summary does not name victims or describe the techniques.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;This is a government warning that AI-assisted attacks are already causing real financial losses, not just a theoretical risk.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://thehackernews.com/2026/11/ai-assisted-cyberattacks-trigger.html"&gt;The Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.securityweek.com/badbox-3-0-ad-fraud-operation-generating-40-billion-daily-bid-requests-disrupted/"&gt;BadBox 3.0 ad-fraud operation generating 40 billion daily bid requests disrupted&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 23, 12:44&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;SecurityWeek reports a disruption of BadBox 3.0, which used backdoors on low-cost consumer devices. The devices served modules for ad fraud and were turned into residential proxies. The operation generated about 40 billion bid requests a day. The summary does not say who carried out the disruption.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Pre-infected cheap devices feeding fraud and proxy networks are a supply-chain threat that can put compromised hardware inside home and corporate networks.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.securityweek.com/badbox-3-0-ad-fraud-operation-generating-40-billion-daily-bid-requests-disrupted/"&gt;SecurityWeek&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;AI &amp;amp; Machine Learning&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://z.ai/blog/glm-5.4"&gt;Z.ai releases GLM-5.4, its first loop transformer (vendor announcement)&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 23, 11:06&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Z.ai published GLM-5.4, pitched as a step toward generalized coding and built on its first loop transformer architecture. The post drew 992 points and 326 comments on Hacker News, making it one of the most discussed items today. Capability claims come from the vendor and the summary gives no independent benchmarks.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;A new architecture from a major Chinese lab for coding models, with heavy developer interest, is a vendor signal worth tracking.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://z.ai/blog/glm-5.4"&gt;Z.ai (vendor blog)&lt;/a&gt; · &lt;a href="https://news.ycombinator.com/item?id=50609685"&gt;Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.wired.com/story/states-sue-spacex-over-grok-deepfakes/"&gt;Oregon and Virginia sue Musk companies, including SpaceX, over Grok deepfakes&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 23, 12:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;The attorneys general of Oregon and Virginia are suing several Elon Musk companies, alleging weak safeguards against sexualized imagery of real people, including children. Wired reports the suit names SpaceX. The summary does not give the specific claims or remedies sought.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;State-level enforcement over generative AI safeguards is a regulatory precedent that could affect any AI image-generation provider.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.wired.com/story/states-sue-spacex-over-grok-deepfakes/"&gt;Wired Security&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://openai.com/business/customer-stories/richpanel-ai-customer-support"&gt;OpenAI customer story names GPT-6 Astra, GPT-6.1 Sol and GPT-6 Luna models (vendor content)&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 23, 09:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;An OpenAI customer story says Richpanel uses GPT-6 Astra and GPT-6.1 Sol to equip support agents with tools and procedures, and GPT-6 Luna for their conversations. The headline claim is that companies automate 50% of support in 30 days. This is OpenAI marketing, so the results are unverified.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;It shows how OpenAI's current model lineup is tiered by role in agent deployments, though the performance claims are the vendor's own.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://openai.com/business/customer-stories/richpanel-ai-customer-support"&gt;OpenAI News (vendor)&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.wired.com/story/goodbye-world-the-end-of-programmers/"&gt;Wired essay 'Goodbye, World: The End of Programmers' (opinion)&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 23, 11:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Wired published a first-person essay billed as the last thing the author may ever write about the craft of coding. It is an opinion piece reflecting on AI's effect on programming rather than a news report. The summary gives no data.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;It reflects how widely the AI-replacing-coders debate is now framed in mainstream tech media, though it is commentary rather than news.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.wired.com/story/goodbye-world-the-end-of-programmers/"&gt;Wired AI&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Technology&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-printing-issues-after-kb5132043-windows-hotpatch/"&gt;Microsoft confirms printing problems after KB5132043 hotpatch on systems running Forcepoint DLP&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 23, 10:11&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Microsoft says Windows 11 systems with Forcepoint DLP software have printing issues after the November 2026 KB5132043 hotpatch. The summary does not describe a fix or workaround.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;A hotpatch breaking printing on a security-software combination is a rollout risk to check before pushing the update widely.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-printing-issues-after-kb5132043-windows-hotpatch/"&gt;BleepingComputer&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theregister.com/applications/2026/11/23/airbus-may-be-leaving-microsoft-office-but-for-its-36000-defense-staff-office-isnt-leaving-them/5311325"&gt;Airbus plans to leave Microsoft Office in 2-3 years, but not for its 36,000 defense staff&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 23, 10:32&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;The Register reports that Airbus's plan to move off Microsoft's suite stops short of the 22% of staff who cannot work with cloud services. Those are the defense employees, and they will keep Office. The migration is expected to take two to three years.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;A large European firm moving away from Microsoft Office signals digital-sovereignty pressure, but the defense carve-out shows its limits.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.theregister.com/applications/2026/11/23/airbus-may-be-leaving-microsoft-office-but-for-its-36000-defense-staff-office-isnt-leaving-them/5311325"&gt;The Register&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theregister.com/os-platforms/2026/11/23/old-school-linux-desktops-find-fresh-routes-to-wayland/5311349"&gt;Xfce 4.22 lined up for 2027 as MATE and Xfce push toward Wayland&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 23, 11:17&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;The Register reports that Xfce is planning version 4.22 for 2027. MATE is gaining an Ubuntu-based distribution and its own compositor. Both traditional Linux desktops are finding new routes to Wayland.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;It shows the X11-to-Wayland transition reaching even lightweight desktops, which affects Linux desktop deployments.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.theregister.com/os-platforms/2026/11/23/old-school-linux-desktops-find-fresh-routes-to-wayland/5311349"&gt;The Register&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://blogs.gentoo.org/mgorny/2026/10/27/the-next-circle-of-security-hell/"&gt;Gentoo developer's 'The next circle of security hell' draws 223 points on Hacker News&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 23, 12:34&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;A post on a Gentoo developer's blog, originally dated Oct 27, is being heavily discussed with 223 points and 131 comments. The summary does not describe its argument, so its content is unconfirmed here.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Attention from open-source maintainers on a security-themed post suggests an ecosystem concern worth reading directly.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://blogs.gentoo.org/mgorny/2026/10/27/the-next-circle-of-security-hell/"&gt;Gentoo blog (mgorny)&lt;/a&gt; · &lt;a href="https://news.ycombinator.com/item?id=50610334"&gt;Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Business &amp;amp; Markets&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.securityweek.com/crowdstrike-to-acquire-zscaler-in-43-9-billion-deal/"&gt;CrowdStrike to acquire Zscaler in $43.9 billion deal&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 23, 12:31&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;CrowdStrike will buy Zscaler for $43.9 billion. It expects the combined company to have more than $10 billion in annual recurring revenue. The summary does not cover deal terms, regulatory timing or integration plans.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;It is a landmark consolidation of endpoint and cloud security vendors that will reshape the market and customer vendor strategies.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.securityweek.com/crowdstrike-to-acquire-zscaler-in-43-9-billion-deal/"&gt;SecurityWeek&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.euronews.com/2026/11/23/donald-trump-urges-nvidia-to-rehire-former-ceo-jensen-huang"&gt;Trump urges Nvidia to rehire Jensen Huang; Huang to face Congress on Dec 1&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 23, 12:44&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;President Trump has urged Nvidia's board to rehire Huang, joining calls that include a petition with more than 200,000 signatures. The former CEO is due to face questions in Congress on 1 December. This follows Treasury Secretary Bessent's pressure on Nvidia over China chip sales.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Presidential involvement in Nvidia's leadership raises political and regulatory risk for the key AI chip supplier.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.euronews.com/2026/11/23/donald-trump-urges-nvidia-to-rehire-former-ceo-jensen-huang"&gt;Euronews Business&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theregister.com/public-sector/2026/11/23/capita-ceo-leaves-following-pensions-contract-disaster/5311585"&gt;Capita CEO leaves after pensions contract disaster; shares plunge about 70%&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 23, 12:11&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;The Register reports that outsourcer Capita's CEO is leaving following a pensions contract problem. The company cut profit expectations and plans a £190M cash call, and its shares fell around 70%. The summary does not detail what went wrong in the contract.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;A UK public-sector outsourcer collapsing in value is a warning on contract risk for firms that depend on large IT service providers.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.theregister.com/public-sector/2026/11/23/capita-ceo-leaves-following-pensions-contract-disaster/5311585"&gt;The Register&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.euronews.com/2026/11/23/eu-targets-chinese-imports-in-fresh-trade-defence-investigation"&gt;EU opens new trade defence investigation into Chinese imports&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 23, 11:41&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;The EU investigation could lead to sweeping tariffs or quotas on materials used in defence, renewable energy and transport. Brussels is stepping up efforts to protect European industry from cheap Chinese imports. The summary does not name the specific materials.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Possible new EU tariffs on inputs for strategic sectors could raise costs and reshape supply chains.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.euronews.com/2026/11/23/eu-targets-chinese-imports-in-fresh-trade-defence-investigation"&gt;Euronews Business&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.euronews.com/2026/11/23/nearly-15-billion-in-new-investments-announced-at-all-french-choose-france-summit"&gt;'Choose France' summit highlights €14.9B in investment; Portugal's tech investment surges after Tekever round&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 23, 07:44&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;The Choose France summit highlights 273 industrial projects worth €14.9 billion, though Euronews notes an undercurrent of uncertainty. Separately, Portugal has entered Europe's top 10 for tech investment after Tekever's funding round, with investment expected to grow 187% this year. This is part of a broader recovery in European tech investment.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;These are signals of where European capital and tech investment are flowing.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.euronews.com/2026/11/23/nearly-15-billion-in-new-investments-announced-at-all-french-choose-france-summit"&gt;Euronews Business (Choose France)&lt;/a&gt; · &lt;a href="https://www.euronews.com/2026/11/23/portugal-joins-europes-top-10-for-tech-investment-on-back-of-tekever-funding-round"&gt;Euronews Business (Portugal/Tekever)&lt;/a&gt;&lt;br&gt;
+&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>Morning — Nov 23, 2026</title>
     <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-11-23-morning.html"/>
@@ -2000,69 +2098,6 @@
 &lt;p&gt;Bharat Semi, an Indian semiconductor startup focused on AI-enabled sensor chips, has closed a $24 million seed round and secured design wins with companies including General Atomics. The raise is notable as one of the largest seed rounds for an Indian chip startup and arrives as India is aggressively positioning itself as an alternative semiconductor design hub. The General Atomics partnership suggests early traction in defense and industrial sensor applications.&lt;/p&gt;&lt;br&gt;
 &lt;p&gt;&lt;blockquote&gt;&lt;em&gt;A $24M seed for an Indian AI chip startup with defense-adjacent design wins is an early signal of India's semiconductor ambitions gaining real commercial traction — relevant for anyone tracking chip supply chain diversification or India's tech sector.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
 &lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/"&gt;TechCrunch&lt;/a&gt;&lt;br&gt;
-&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>Evening — Nov 15, 2026</title>
-    <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-11-15-evening.html"/>
-    <id>https://jonaskjellin.github.io/pulsebrief-site/2026-11-15-evening.html</id>
-    <updated>2026-11-15T20:39:37.152Z</updated>
-    <content type="html">&lt;p&gt;&lt;h1&gt;PulseBrief's Evening Pulse&lt;/h1&gt;&lt;br&gt;
-&lt;em&gt;Sun, Nov 15, 12:00 → Sun, Nov 15, 17:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;Cyber Security&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.bleepingcomputer.com/news/security/tsmc-employee-data-breach-linked-to-cloud-provider/"&gt;TSMC Employee Data Breach Linked to Cloud Provider — 6.9GB on Auction&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 15, 15:23&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;TSMC confirmed that personal employee data has been leaked after a threat actor put 6.9GB of allegedly stolen information up for auction online. The breach is linked to a third-party cloud provider, not TSMC's own systems — continuing the pattern of AI and semiconductor industry targets being compromised via supply chain and infrastructure partners. TSMC is the world's most critical chip fabricator, making any exposure of its personnel or operational data geopolitically significant.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;A confirmed data breach at the world's most strategically important chip manufacturer — via a cloud provider — is a direct signal that semiconductor supply chain partners are high-value targets.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.bleepingcomputer.com/news/security/tsmc-employee-data-breach-linked-to-cloud-provider/"&gt;BleepingComputer&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://cybersecuritynews.com/supermarket-refrigeration-systems-0-day/"&gt;Six Pre-Auth RCE Zero-Days Found in Supermarket Refrigeration Controllers — No Patch Yet&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 15, 15:23&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Midnight Blue researcher Carlo Meijer discovered six pre-authentication remote code execution vulnerabilities in Danfoss AK-SM800A controllers, which manage refrigeration systems in supermarkets worldwide. The flaws — stack-based buffer overflows — affect every firmware version up to 5.3.2, allow full system takeover in approximately one hour, and have no CVE numbers or patches assigned yet. Exploitation could allow attackers to manipulate cold chain infrastructure at scale, spoiling food or disrupting pharmaceutical storage.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Unpatched pre-auth RCE on widely deployed industrial refrigeration controllers is an actively unmitigated OT/ICS risk for any organization operating or securing food retail or cold chain infrastructure.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://cybersecuritynews.com/supermarket-refrigeration-systems-0-day/"&gt;Cybersecurity News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.politico.eu/article/estonia-accuses-russia-of-attempted-arson-attack-on-drone-maker/"&gt;Estonia Closes Russia Border After GRU-Commissioned Arson Attack on Drone Maker&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 15, 14:32&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Estonia's Internal Security Service attributed an attempted arson attack on a domestic drone manufacturer to Russia's GRU military intelligence agency, prompting Tallinn to close its border with Russia. The attack targeted a defense-sector firm producing military-relevant hardware, marking an escalation of Russian sabotage operations against NATO member defense industries. This follows a documented pattern of GRU-linked physical sabotage across Europe targeting logistics, energy, and defense suppliers.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;A confirmed GRU sabotage attack on a NATO member's defense industrial base — triggering a border closure — is a significant escalation signal for anyone tracking European security or defense supply chain risk.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.politico.eu/article/estonia-accuses-russia-of-attempted-arson-attack-on-drone-maker/"&gt;Politico EU&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.politico.eu/article/romanian-pm-condemns-unacceptable-drone-strikes-black-sea-ships/"&gt;Russia Drones Strike Three Commercial Vessels Near Romania — NATO Black Sea Security Demanded&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 15, 13:16&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Three commercial vessels were struck by drone attacks near Romania's Black Sea coast, prompting Romanian fighter jet deployments and urgent calls for strengthened NATO presence in the region. Romania condemned the strikes as 'unacceptable,' raising the geopolitical temperature around Black Sea maritime security at a moment of ongoing conflict spillover risk. The targeting of commercial shipping near a NATO member's coast represents a significant escalation threshold.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Drone strikes on commercial vessels within range of a NATO member's coastline directly affect maritime trade security and NATO's posture in the Black Sea — relevant for anyone tracking European conflict escalation or shipping risk.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.politico.eu/article/romanian-pm-condemns-unacceptable-drone-strikes-black-sea-ships/"&gt;Politico EU&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;AI &amp;amp; Machine Learning&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.securityweek.com/pentagon-renames-cdao-super-intelligence-office/"&gt;Pentagon Renames AI Office 'Super Intelligence Office' — Trump Orders Terminology Shift Across Executive Branch&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 15, 12:51&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;The Pentagon has renamed its Chief Digital and Artificial Intelligence Office (CDAO) to the 'Super Intelligence Office,' following a presidential order requiring the executive branch to replace 'artificial intelligence' with 'super intelligence' in official communications. The move is a significant branding and framing signal from the administration, potentially reshaping how federal AI policy, procurement, and regulation is communicated going forward. It also sets up a linguistic divergence between federal agencies and the private sector and international partners who continue to use standard AI terminology.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;An executive branch-wide terminology mandate affects federal AI policy framing, procurement language, and regulatory communications — directly relevant for anyone working with or selling to the US government.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.securityweek.com/pentagon-renames-cdao-super-intelligence-office/"&gt;SecurityWeek&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://news.ycombinator.com/item?id=50507303"&gt;914-Point HN Debate: Should All AI-Generated Code Be Open Source?&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 15, 14:46&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;A blog post arguing that all AI-generated code should be released as open source drew 914 points and 492 comments on Hacker News — the highest engagement of the current window — indicating the question has struck a live nerve across the developer community. The argument centers on training data provenance, copyright ambiguity, and the asymmetry of AI companies training on open source while producing proprietary output. With AI coding assistants now generating a substantial share of production code, the licensing and ownership questions are moving from theoretical to operationally urgent.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;A near-unanimous developer community debate about AI-generated code licensing is an early signal of the legal and policy pressure building around AI coding tools — directly relevant for anyone shipping AI-assisted software.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://news.ycombinator.com/item?id=50507303"&gt;Hacker News&lt;/a&gt; · &lt;a href="https://jakub.jankiewicz.org/blog/ai-code-open-source/"&gt;jakub.jankiewicz.org&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation"&gt;Full Jensen Huang Downfall Recap: Concealed Relationship, Board Decision, Nvidia Without a Succession Plan&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 15, 12:40&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;The Verge and NYT have both published comprehensive overviews of Jensen Huang's resignation, with the NYT additionally releasing a video analysis noting Huang had 60 direct reports and no clear succession plan — making his departure an acute organizational risk beyond the governance scandal. The Verge's Stepback newsletter traces the full arc from the October 29 spy plot report through board action, documenting how a concealed customer relationship intersected with Chinese intelligence activity and chip smuggling. Nvidia now faces the challenge of executing its AI hardware roadmap without the founder who built every key relationship in its ecosystem.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;The definitive account of Nvidia's leadership collapse — including the succession vacuum — is essential context for anyone dependent on Nvidia's product roadmap or tracking AI infrastructure risk.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation"&gt;The Verge&lt;/a&gt; · &lt;a href="https://www.nytimes.com/video/business/100000011275611/why-jensen-huang-was-essential-to-nvidias-rise.html"&gt;NYT Business&lt;/a&gt; · &lt;a href="https://www.nytimes.com/2026/11/14/technology/jensen-huang-nvidia-board.html"&gt;NYT Technology&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;Technology&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theverge.com/tech/1033968/apples-first-smart-glasses-are-coming-together"&gt;Apple Smart Glasses Confirmed for WWDC June Announcement — No AR, Revamped Siri Required&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 15, 16:59&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Bloomberg's Mark Gurman reports Apple's first smart glasses (codename N50) will be announced at WWDC in June, with shipments expected before year-end. The first model will lack augmented reality features, positioning it as a direct Meta Ray-Ban competitor, and its success will depend heavily on the newly revamped Siri gaining fine-grained app control — which Apple is building out on iPhone first to give developers time to add support before glasses launch. The glasses are described as 'slightly thinner' than Meta's second-gen Ray-Bans.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Apple's confirmed entry into smart glasses with a specific timeline and a Siri-dependent capability strategy is a direct market signal for anyone tracking wearables, AR platforms, or Apple's AI trajectory.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.theverge.com/tech/1033968/apples-first-smart-glasses-are-coming-together"&gt;The Verge&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/"&gt;MacBook Pro OLED PWM Problem: Better Display, Worse for Sensitive Users — 324 HN Points&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 15, 13:15&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;A detailed technical analysis of the MacBook Pro's OLED display found that its PWM (pulse-width modulation) dimming implementation causes significant eye strain and headaches for a subset of users — particularly those sensitive to flicker — making the 'better' display objectively worse for daily use in that group. The post drew 324 HN points and 172 comments, indicating widespread resonance among developers and power users who are Apple's core MacBook Pro audience. The issue is hardware-level and not addressable via software update.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;A hardware-level display flaw causing real usability problems on Apple's flagship laptop is directly relevant for anyone evaluating MacBook Pro purchases or managing fleet procurement.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/"&gt;macanorak.com&lt;/a&gt; · &lt;a href="https://news.ycombinator.com/item?id=50506719"&gt;Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;Business &amp;amp; Markets&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.euronews.com/2026/11/15/southeast-asian-nations-sign-digital-trade-deal-to-ease-payments-and-cut-paperwork"&gt;ASEAN Nations Sign Digital Trade Agreement — Unified Payments and Data Sharing Across Southeast Asia&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 15, 14:24&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Southeast Asian nations have signed a digital trade deal under the ASEAN framework aimed at harmonizing cross-border payments, reducing paperwork, and enabling smoother data sharing for e-commerce and digital services across the region. The agreement addresses the fragmented regulatory environment that has forced businesses to navigate different rules in each country, and comes as online shopping and digital services are growing rapidly across the region. This creates a materially larger addressable market for digital businesses operating in Southeast Asia.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;A unified digital trade framework across ASEAN's combined 680M-person market is a significant market access development for any business with Southeast Asian digital operations or expansion plans.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.euronews.com/2026/11/15/southeast-asian-nations-sign-digital-trade-deal-to-ease-payments-and-cut-paperwork"&gt;Euronews Business&lt;/a&gt;&lt;br&gt;
 &lt;/p&gt;</content>
   </entry>
 </feed>
