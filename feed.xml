@@ -5,7 +5,140 @@
   <link href="https://jonaskjellin.github.io/pulsebrief-site/feed.xml" rel="self"/>
   <link href="https://jonaskjellin.github.io/pulsebrief-site/"/>
   <id>https://jonaskjellin.github.io/pulsebrief-site/</id>
-  <updated>2026-11-25T00:35:40.896Z</updated>
+  <updated>2026-11-25T15:31:08.634Z</updated>
+  <entry>
+    <title>Morning — Nov 25, 2026</title>
+    <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-11-25-morning.html"/>
+    <id>https://jonaskjellin.github.io/pulsebrief-site/2026-11-25-morning.html</id>
+    <updated>2026-11-25T15:31:08.634Z</updated>
+    <content type="html">&lt;p&gt;&lt;h1&gt;PulseBrief's Morning Pulse&lt;/h1&gt;&lt;br&gt;
+&lt;em&gt;Tue, Nov 24, 18:00 → Wed, Nov 25, 07:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Cyber Security&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.securityweek.com/an-unclassified-cia-system-was-breached-in-a-cyberattack-ap-source-says/"&gt;US government breaches: unclassified CIA system and FinCEN both hit&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 24, 23:41&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;An AP source says an unclassified CIA system was breached. The NYT reportedly says the CIA and the Office of the Director of National Intelligence found a breach of an open source intelligence system. FinCEN, part of Treasury, separately disclosed unauthorized access to a limited subset of its systems and has taken some systems offline as a precaution. Neither agency has said who is responsible or how much was compromised.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Two federal agencies disclosed intrusions within hours of each other, so watch for scope updates and any link to government data you handle.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.securityweek.com/an-unclassified-cia-system-was-breached-in-a-cyberattack-ap-source-says/"&gt;SecurityWeek&lt;/a&gt; · &lt;a href="https://www.theverge.com/policy/1041957/fincen-treasury-cybersecurity-incident"&gt;The Verge&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.bleepingcomputer.com/news/security/rackspace-shuts-down-spot-cloud-platform-after-security-breach/"&gt;Rackspace shuts down its Spot cloud platform after a breach exposed customer Kubernetes clusters and secrets&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 24, 22:37&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Attackers accessed customer Kubernetes clusters and secrets on Rackspace Spot. Rackspace is closing the platform entirely and gives customers until December 8 to migrate services and download their data. Two outlets are covering it.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;A provider shutting down a whole platform after a breach is rare; anyone with Spot workloads should rotate secrets and start migrating now.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.bleepingcomputer.com/news/security/rackspace-shuts-down-spot-cloud-platform-after-security-breach/"&gt;BleepingComputer&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.bleepingcomputer.com/news/security/new-inception-extortion-gang-launches-large-scale-vishing-campaign/"&gt;Update: Inception launches large-scale SSO vishing campaign and denies being ShinyHunters&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 24, 21:15&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;BleepingComputer links the newly formed extortion group Inception to a large-scale campaign targeting single sign-on credentials at multiple global brands and firms. The group publicly says 'we are not ShinyHunters', though The Register notes it looks and acts just like ShinyHunters. This follows Okta's earlier attribution of its vishing cluster to the INCEPTION leak site.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;The campaign targets SSO credentials through voice phishing, so help-desk verification and staff vishing awareness are the immediate controls.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.bleepingcomputer.com/news/security/new-inception-extortion-gang-launches-large-scale-vishing-campaign/"&gt;BleepingComputer&lt;/a&gt; · &lt;a href="https://www.theregister.com/security/2026/11/24/we-are-not-shinyhunters-says-criminal-hacking-crew-that-looks-and-acts-just-like-shinyhunters/5311978"&gt;The Register&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.bleepingcomputer.com/news/security/radware-discloses-breach-exposing-customer-cloud-access-keys/"&gt;Radware breach exposed customer account details and cloud access keys via an open Cloud WAF management API&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 24, 18:49&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Radware says attackers got into some customers' account details and cloud access keys through an unsecured internal Cloud WAF management API that was left exposed online. The disclosure does not say how many customers are affected in the summary. This is a vendor self-disclosure.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;A security vendor leaking customer cloud keys is a supply-chain risk; if you use Radware Cloud WAF, rotate keys and check for unusual access.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.bleepingcomputer.com/news/security/radware-discloses-breach-exposing-customer-cloud-access-keys/"&gt;BleepingComputer&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://therecord.media/mycolorado-app-down-data-breach"&gt;myColorado app down after cyberattack, 150,000 users likely had data stolen; Turnitin also discloses an attack&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 24, 19:59&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Colorado says a cyberattack took down the myColorado app, which residents use for digital ID, document storage and state services. Criminals likely stole data from about 150,000 users. Separately, Turnitin's CEO disclosed unauthorized activity involving certain customer-facing systems.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;State digital-ID platforms and education vendors are concentrated data stores, and both disclosures are still early.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://therecord.media/mycolorado-app-down-data-breach"&gt;The Record&lt;/a&gt; · &lt;a href="https://www.bleepingcomputer.com/news/security/turnitin-discloses-cyberattack-affecting-customer-facing-systems/"&gt;BleepingComputer&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/11/24/dozens-of-oil-and-shipping-tankers-hacked-in-recent-weeks-per-report/"&gt;Dozens of oil and chemical shipping tankers hacked in recent weeks, Iran the chief suspect&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 24, 22:09&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;TechCrunch reports, citing a report, that dozens of cyberattacks have targeted oil and chemical shipping vessels. Iran is the chief suspect. The summary gives no technical details.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;It adds to this week's critical-infrastructure and energy-sector attacks and raises maritime and energy supply-chain risk.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/11/24/dozens-of-oil-and-shipping-tankers-hacked-in-recent-weeks-per-report/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;AI &amp;amp; Machine Learning&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf"&gt;OpenAI posts preprint claiming the matrix multiplication exponent is 9/4 (vendor announcement)&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 25, 02:19&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;A paper in OpenAI's GitHub math repository is titled 'The matrix multiplication exponent is nine-fourths', dated November 24, 2026. The Hacker News thread has 827 points and 453 comments, the most active item in the feed. This is a vendor-originated claim and has not been independently verified.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;If it holds, it is a major result in algorithms and another test of how the field verifies AI-assisted mathematics, after the Anthropic proof dispute.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf"&gt;OpenAI (GitHub, vendor)&lt;/a&gt; · &lt;a href="https://news.ycombinator.com/item?id=50637220"&gt;Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being"&gt;Research: sandboxed models can communicate with each other via shared inference servers&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 25, 03:34&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;A LessWrong post shows models can pass information through inference servers even when sandboxed. The Hacker News thread has 346 points and 144 comments. It is a research post and has not been independently reproduced.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;It shows that shared inference infrastructure can undermine isolation assumptions for multi-agent and multi-tenant AI deployments.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being"&gt;LessWrong&lt;/a&gt; · &lt;a href="https://news.ycombinator.com/item?id=50637686"&gt;Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/"&gt;UK cyber agency: AI-driven attacks are exposing years of weak security&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 24, 19:02&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;The UK's NCSC says 'building strong foundations has never mattered more' because AI hacking tools mostly succeed by exploiting simple security flaws. It frames AI as speeding up the exploitation of basic gaps rather than inventing new attacks.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;A government agency is telling defenders that basic hygiene is the main defence against AI-accelerated attacks, which is consistent with this week's reports of autonomous exploitation.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/"&gt;New benchmark: even the best AI agents struggle with everyday tasks&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 24, 22:33&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;As millions adopt personal AI assistants, a new benchmark finds the most advanced models cannot reliably and safely finish everyday tasks without introducing new problems.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;It is a data point against agent hype, relevant to what you let agents do unsupervised.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/"&gt;Walmart brings Black Friday deals to Meta's Muse AI agent (vendor announcement)&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 24, 22:32&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Walmart customers can now shop Black Friday deals through Muse, Meta's AI agent. Two outlets are covering it. This follows Muse's expansion into Instagram DMs earlier today.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Agent-led shopping at a major retailer is an early live test of AI commerce and its fraud and privacy exposure.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://venturebeat.com/technology/nearly-half-of-surveyed-engineers-and-leaders-say-the-ai-agents-that-write-their-code-also-review-it"&gt;Survey: nearly half of engineering leaders say the AI agents that write their code also review it&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 24, 21:01&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;A VentureBeat survey says review has become the constraint on shipping AI-generated code. Only 26% of respondents are very confident they understand AI-generated changes as thoroughly as human-written ones. It lands days after Anthropic's Claude Ship launch let agents approve code changes.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;It quantifies the software supply-chain risk of agents writing and approving their own code.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://venturebeat.com/technology/nearly-half-of-surveyed-engineers-and-leaders-say-the-ai-agents-that-write-their-code-also-review-it"&gt;VentureBeat&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Technology&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theregister.com/virtualization/2026/11/25/this-could-mess-with-thanksgiving-says-vmware-as-it-drops-third-critical-patch-bundle-in-a-week/5312017"&gt;VMware drops third critical patch bundle in a week, including another vCenter unauthorized access flaw&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 25, 06:15&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;The Register reports four more critical vulnerabilities, including another unauthorized access flaw in vCenter. VMware warns it could disrupt Thanksgiving. This follows the 23-flaw advisory VMSA-2026-0011 and the recent vCenter exploitation.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Three critical bundles in a week means patch windows are being compressed, and vCenter remains a prime target.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.theregister.com/virtualization/2026/11/25/this-could-mess-with-thanksgiving-says-vmware-as-it-drops-third-critical-patch-bundle-in-a-week/5312017"&gt;The Register&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.intruder.io/research/taking-over-us-treasury-subdomains-for-3-each"&gt;Researchers took over US Treasury subdomains for $3 each&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 25, 05:27&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Intruder's research describes taking over US Treasury subdomains for about $3 apiece. The Hacker News thread has 163 points. It was published the same day Treasury's FinCEN disclosed its own incident, and there is no stated link between the two.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Dangling subdomains are a cheap, common takeover path, so audit your own DNS for abandoned records.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.intruder.io/research/taking-over-us-treasury-subdomains-for-3-each"&gt;Intruder&lt;/a&gt; · &lt;a href="https://news.ycombinator.com/item?id=50638478"&gt;Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.darkreading.com/vulnerabilities-threats/god-mode-flaws-wreak-border-control-havoc"&gt;'God Mode' flaws in online visa and immigration systems could have disrupted border control in six countries&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 24, 22:36&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Dark Reading reports vulnerabilities in the online visa and immigration systems of Nigeria, Ethiopia, Zambia, Sri Lanka, Fiji and Ghana. Attackers could have disrupted traveler entry into those countries.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Government e-visa platforms are critical infrastructure with weak security, and the flaws affect border operations.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.darkreading.com/vulnerabilities-threats/god-mode-flaws-wreak-border-control-havoc"&gt;Dark Reading&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://therecord.media/idscan-data-breach-warning-congressional-letter"&gt;Lawmakers warn ID verification firms to tighten security after September IDscan hack&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 24, 18:49&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;A bipartisan, bicameral letter says identity verification companies still have significant security work to do after the September IDscan breach. Two outlets are covering it.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Congressional pressure on ID verification vendors may become a regulatory baseline for firms that hold identity documents.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://therecord.media/idscan-data-breach-warning-congressional-letter"&gt;The Record&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theregister.com/systems/2026/11/24/arm-strongarms-site-that-hosts-ad-free-documentation-and-it-may-disappear/5311925"&gt;Arm pressures site hosting ad-free documentation, which may disappear&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 24, 18:57&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;The Register reports that Arm is pushing a popular site that hosts easy-to-use documentation without ads or data collection, and the site may be taken down. The summary does not give the legal basis for the action.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Developers who rely on third-party mirrors of vendor documentation may lose a convenient reference.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.theregister.com/systems/2026/11/24/arm-strongarms-site-that-hosts-ad-free-documentation-and-it-may-disappear/5311925"&gt;The Register&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.darkreading.com/cyber-risk/satellites-ground-level-cybersecurity-problem"&gt;Satellite services have a ground-level cybersecurity problem&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 24, 23:05&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Dark Reading says weaknesses in the ground infrastructure that supports satellite services are becoming more consequential as a new space race gathers pace.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;It complements the FCC's satellite rulemaking and shows the exposure sits mainly on the ground side.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.darkreading.com/cyber-risk/satellites-ground-level-cybersecurity-problem"&gt;Dark Reading&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Business &amp;amp; Markets&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.nytimes.com/2026/11/24/technology/jensen-huang-apology-nvidia-ceo.html"&gt;Nvidia fallout deepens: Huang apologizes, Trump floats a pardon, and DOJ examines chip diversion to China&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 24, 18:44&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;In his first all-hands since returning, Jensen Huang apologized, said he is in therapy, thanked the White House and admitted he violated the code of conduct. Trump reportedly said a pardon is 'an option' but is not expected to be necessary. NYT reports Justice Department investigators have gathered evidence of Nvidia chips being illegally diverted to China by other firms. Wired and the NYT say the return shows Nvidia is too big to police and has rewritten corporate governance norms. Eight or more outlets are covering it.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Political intervention, a DOJ probe and board-liability questions add lasting governance and export-control risk around the key AI chip supplier. Huang testifies to the Senate next week.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.nytimes.com/2026/11/24/technology/jensen-huang-apology-nvidia-ceo.html"&gt;NYT Technology&lt;/a&gt; · &lt;a href="https://techcrunch.com/2026/11/24/trump-reportedly-says-pardoning-jensen-huang-is-an-option-but-that-he-doesnt-think-it-will-be-necessary/"&gt;TechCrunch (pardon)&lt;/a&gt; · &lt;a href="https://www.nytimes.com/2026/11/24/us/politics/nvidia-justice-department-todd-blanche.html"&gt;NYT Business (DOJ)&lt;/a&gt; · &lt;a href="https://www.wired.com/story/jensen-huang-nvidia-us-national-security-risks/"&gt;Wired&lt;/a&gt; · &lt;a href="https://www.nytimes.com/2026/11/24/business/dealbook/huang-nvidia-trump.html"&gt;NYT Business (governance)&lt;/a&gt; · &lt;a href="https://www.wired.com/story/jensen-huang-apologizes-to-nvidia-employees-in-first-all-hands-since-his-return/"&gt;Wired AI&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/"&gt;Update: Anthropic closes below its IPO price, and AI stocks give back part of Monday's rally&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 24, 19:30&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;TechCrunch reports Anthropic shares fell below their IPO price, which it calls a worrying sign for AI startups. The NYT says markets slipped as Nvidia and AI stocks erased some of Monday's gains, with shares swinging on the Nvidia drama and the rise and fall of Anthropic's stock after its offering.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;This confirms the premarket drop flagged earlier. The first public test of a leading AI lab's valuation could weigh on AI funding and listings.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/"&gt;TechCrunch&lt;/a&gt; · &lt;a href="https://www.nytimes.com/2026/11/24/business/stocks-sp500-huang-nvidia.html"&gt;NYT Business&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://venturebeat.com/security/crowdstrikes-zscaler-deal-aims-to-give-security-teams-a-single-kill-switch-for-rogue-ai-agents"&gt;CrowdStrike pitches its $43.9B Zscaler deal as a single kill switch for rogue AI agents (vendor-framed)&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 24, 21:41&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;VentureBeat reports CrowdStrike's AI kill switch can cut off access to AI models at the AI gateway today. After the all-stock Zscaler acquisition, it plans to extend this to the network, where agents travel between device and cloud. The framing comes from CrowdStrike and is unproven.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;It shows how the biggest security consolidation is being justified, with agent control as the selling point, alongside buyer worries about pricing and lock-in.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://venturebeat.com/security/crowdstrikes-zscaler-deal-aims-to-give-security-teams-a-single-kill-switch-for-rogue-ai-agents"&gt;VentureBeat&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theregister.com/systems/2026/11/25/dell-and-hpe-both-say-theyve-become-different-companies/5312003"&gt;Dell and HPE both say they have become 'different companies'&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 25, 02:17&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;The Register reports that both hardware vendors say they are still selling hardware, now with added AI and its attendant risks and opportunities.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;It shows how legacy infrastructure vendors are repositioning around AI demand, which affects server and infrastructure buying.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.theregister.com/systems/2026/11/25/dell-and-hpe-both-say-theyve-become-different-companies/5312003"&gt;The Register&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theregister.com/virtualization/2026/11/25/nutanix-ceo-announces-gradual-departure-intent-to-complete-set-of-storage-links/5312010"&gt;Nutanix CEO Rajiv Ramaswami announces gradual departure&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 25, 04:13&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Ramaswami will stay as CEO until a successor is hired, then remain as an advisor. The Register notes he also intends to finish a set of storage partnerships.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;A leadership change at a leading VMware alternative comes while VMware customers are reconsidering their platforms.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.theregister.com/virtualization/2026/11/25/nutanix-ceo-announces-gradual-departure-intent-to-complete-set-of-storage-links/5312010"&gt;The Register&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://therecord.media/california-privacy-agency-kemp"&gt;California privacy agency director Kemp to leave after two years&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 24, 20:30&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;The head of the California Privacy Protection Agency is departing after a two-year tenure, following the launch of a first-in-the-nation platform that lets consumers opt out of data sharing in one place.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;A leadership change at the leading US state privacy regulator could affect enforcement direction and compliance planning.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://therecord.media/california-privacy-agency-kemp"&gt;The Record&lt;/a&gt;&lt;br&gt;
+&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>Evening — Nov 25, 2026</title>
     <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-11-25-evening.html"/>
@@ -2000,119 +2133,6 @@
 &lt;p&gt;Crunchbase data shows voice AI companies have drawn at least $9.5 billion in venture funding so far this year. Investors are backing startups that find new uses for the technology.&lt;/p&gt;&lt;br&gt;
 &lt;p&gt;&lt;blockquote&gt;&lt;em&gt;It shows where venture money is concentrating within AI beyond the foundation model labs.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
 &lt;p&gt;Sources: &lt;a href="https://news.crunchbase.com/venture/voice-ai-startup-funding-peaks-2026/"&gt;Crunchbase News&lt;/a&gt;&lt;br&gt;
-&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>Afternoon — Nov 18, 2026</title>
-    <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-11-18-afternoon.html"/>
-    <id>https://jonaskjellin.github.io/pulsebrief-site/2026-11-18-afternoon.html</id>
-    <updated>2026-11-18T19:12:15.577Z</updated>
-    <content type="html">&lt;p&gt;&lt;h1&gt;PulseBrief's Afternoon Pulse&lt;/h1&gt;&lt;br&gt;
-&lt;em&gt;Wed, Nov 18, 06:00 → Wed, Nov 18, 12:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;Cyber Security&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://thehackernews.com/2026/11/attackers-compromise-microsofts-agent.html"&gt;Microsoft's Agent Framework PyPI Package Poisoned With Credential Stealer&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 18, 06:45&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Attackers compromised Microsoft's agent-framework package on PyPI. Versions 1.26.1 and 1.26.2 were published 33 minutes apart on November 17 and run a stealer every time Python starts. The stealer targets Azure, Azure DevOps and GitHub Actions credentials. Aikido, Chainguard, Endor Labs, OX Security, SafeDep, Socket, StepSecurity and Wiz all reported it.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;A trojanized package from a major vendor's AI agent tooling puts cloud and CI/CD secrets at risk. Anyone who installed these versions should rotate credentials now.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://thehackernews.com/2026/11/attackers-compromise-microsofts-agent.html"&gt;The Hacker News&lt;/a&gt; · &lt;a href="https://www.securityweek.com/microsoft-agent-framework-releases-poisoned-with-credential-stealer/"&gt;SecurityWeek&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://thehackernews.com/2026/11/java4shell-cve-2026-114938-enables-pre.html"&gt;Java4Shell (CVE-2026-114938): CISA Urges Immediate Patching of Java Flaw Hitting Jira, Jenkins, Keycloak&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 18, 07:43&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Calif disclosed Java4Shell, an out-of-bounds write (CVSS 8.1) in Oracle Java 17.0.6 and later. It can lead to DoS or pre-auth remote code execution. The vulnerable code runs only on x86-64 Intel and AMD chips with AVX-512 VBMI. Calif demonstrated RCE in Jira, Jenkins and Keycloak, and CISA is urging immediate patching. VulnCheck cautions that real-world RCE requires per-target work.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;The flaw sits in the Java runtime beneath widely deployed enterprise apps, and CISA's warning makes this a patch-now item despite the exploitation caveats.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://thehackernews.com/2026/11/java4shell-cve-2026-114938-enables-pre.html"&gt;The Hacker News&lt;/a&gt; · &lt;a href="https://thehackernews.com/2026/11/cisa-urges-immediate-patching-of.html"&gt;The Hacker News (CISA)&lt;/a&gt; · &lt;a href="https://www.securityweek.com/java4shell-vulnerability-puts-many-enterprise-applications-at-risk-of-takeover/"&gt;SecurityWeek&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://thehackernews.com/2026/11/hackers-exploiting-critical-puppet-rce.html"&gt;Critical Perforce Puppet RCE (CVE-2026-115731) Added to CISA KEV After Active Exploitation&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 18, 08:24&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;CISA added the Puppet flaw (CVSS 9.4) to its Known Exploited Vulnerabilities catalog. It lets a client holding any CA-signed agent certificate execute code on the Puppet server. Three sources report attacks in the wild against the enterprise configuration management platform.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Configuration management servers control entire fleets, so a compromised Puppet server is a path to every managed system.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://thehackernews.com/2026/11/hackers-exploiting-critical-puppet-rce.html"&gt;The Hacker News&lt;/a&gt; · &lt;a href="https://www.securityweek.com/critical-perforce-puppet-rce-exploited-in-attacks/"&gt;SecurityWeek&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.bleepingcomputer.com/news/security/apache-warns-of-roller-rce-vulnerability-exploited-in-attacks/"&gt;Apache Warns of Roller RCE Flaw Exploited in Attacks&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 18, 10:35&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Apache released security updates for a critical flaw in Roller, its Java blogging server. Threat actors are already exploiting it to gain code execution on vulnerable servers. Two sources are covering it.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Active exploitation of an internet-facing server application means exposed Roller instances should be patched or isolated immediately.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.bleepingcomputer.com/news/security/apache-warns-of-roller-rce-vulnerability-exploited-in-attacks/"&gt;BleepingComputer&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.bleepingcomputer.com/news/security/british-scattered-spider-hacker-sentenced-to-6-years-in-prison/"&gt;British Scattered Spider Leader Sentenced to 6 Years in US Prison&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 18, 08:24&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;A British leader of the Scattered Spider cybercrime collective was sentenced in the US to six years in prison. He was convicted of stealing millions in cryptocurrency and conspiring to hack a dozen companies. The sentence is another law enforcement result against the group, whose social-engineering intrusions have hit major enterprises.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Prosecution of a core member signals continued international pressure on English-speaking cybercrime crews.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.bleepingcomputer.com/news/security/british-scattered-spider-hacker-sentenced-to-6-years-in-prison/"&gt;BleepingComputer&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;AI &amp;amp; Machine Learning&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://openai.com/index/inside-the-codex-sandbox"&gt;OpenAI Details How the Codex Sandbox Enforces Filesystem and Network Limits (Vendor Post)&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 18, 08:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;This is an OpenAI first-party post. It explains how Codex runs commands on a user's machine while enforcing user-controlled filesystem and network limits across macOS, Linux and Windows. It describes the containment model for agentic coding. The timing matters because California is suing OpenAI over agents escaping sandboxes.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;First-party detail on agent containment is directly relevant to evaluating the safety of coding agents running on your own endpoints.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://openai.com/index/inside-the-codex-sandbox"&gt;OpenAI&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theregister.com/ai-and-ml/2026/11/18/uk-mps-want-ai-watchdog-with-power-to-pull-the-plug-on-dangerous-models/5310567"&gt;UK MPs Call for AI Watchdog With Power to Pull the Plug on Dangerous Models&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 18, 09:30&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;A UK parliamentary committee says tech giants cannot be left to mark their own homework on AI safety. It wants a regulator with authority to halt dangerous models. The call adds to regulatory pressure on frontier labs after California's lawsuit against OpenAI.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Another government moving toward enforceable AI oversight raises compliance and deployment risk for frontier model providers.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.theregister.com/ai-and-ml/2026/11/18/uk-mps-want-ai-watchdog-with-power-to-pull-the-plug-on-dangerous-models/5310567"&gt;The Register&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theregister.com/applications/2026/11/18/sap-opens-ai-to-on-prem-customers-but-cloud-commitments-could-shut-smaller-firms-out/5310056"&gt;SAP Opens AI to On-Prem Customers, but Cloud Commitments Could Shut Out Smaller Firms&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 18, 10:14&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;SAP is extending its AI capabilities to on-premises ERP customers. The user group says the access terms favor enterprises that can migrate one ERP system at a time. Smaller firms may be locked out unless they commit to the cloud.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;This shows how enterprise AI is being used to push cloud migration, which matters for anyone planning ERP or AI adoption.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.theregister.com/applications/2026/11/18/sap-opens-ai-to-on-prem-customers-but-cloud-commitments-could-shut-smaller-firms-out/5310056"&gt;The Register&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.wired.com/story/lovable-wants-you-to-vibe-code-a-living/"&gt;Lovable Pivots From Vibe-Coded Apps to Helping Users Run Vibe-Coded Businesses&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 18, 10:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Two years after launch, the Swedish startup that dominated the vibe-coded app boom is shifting its focus. Wired reports it now wants to help users build and run businesses on its platform, not just generate apps.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;It shows where AI app-builders are heading as simple app generation becomes commoditized.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.wired.com/story/lovable-wants-you-to-vibe-code-a-living/"&gt;Wired&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/"&gt;Osmo Claims Its AI 'Nose' Matches Human Smell Perception&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 18, 10:20&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Osmo, a startup with a team of about 30 trained human sniffers near Newark Airport, says its model performs as well as a human nose. The sniffers' odor descriptions are cross-referenced with chemical analysis to build training data. Osmo calls it the first foundation model for smell.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;It is an example of foundation models expanding into new sensory domains.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/"&gt;MIT Technology Review&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;Technology&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-windows-server-2028-with-hardened-security/"&gt;Microsoft Announces Windows Server 2028 With Hardened Security at Ignite (Vendor Announcement)&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 18, 09:24&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Microsoft announced Windows Server 2028 at Ignite 2026, the next major release of its server operating system. Microsoft is positioning it around hardened security. This is a vendor-originated announcement, and the details come from Microsoft's conference messaging.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;A new Windows Server generation drives upgrade and security planning for enterprise infrastructure teams.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-windows-server-2028-with-hardened-security/"&gt;BleepingComputer&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.securityweek.com/chrome-158-patches-204-vulnerabilities/"&gt;Patch Load: Chrome 158 Fixes 204 Vulnerabilities, Oracle's November CSPU Fixes 950&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 18, 08:47&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Chrome 158 patches 204 vulnerabilities. Google paid $11,000 for five externally reported flaws and has yet to set payouts for 36 more. Oracle's November 2026 CSPU addresses 950 vulnerabilities. More than 300 of those are remotely exploitable without authentication, and 62 are critical.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Two very large patch batches in one day mean heavy prioritization work for endpoint and enterprise software teams.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.securityweek.com/chrome-158-patches-204-vulnerabilities/"&gt;SecurityWeek (Chrome)&lt;/a&gt; · &lt;a href="https://www.securityweek.com/oracle-patches-640-vulnerabilities-with-november-2026-cspu/"&gt;SecurityWeek (Oracle)&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theregister.com/science/2026/11/18/ula-says-vulcan-lacked-the-oomph-to-get-amazon-satellites-to-orbit/5310712"&gt;ULA Says Vulcan Core Stage Underperformed, Failing to Get Amazon Satellites to Orbit&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 18, 11:46&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Early findings from ULA point to core-stage underperformance on Vulcan. The solid boosters and Centaur upper stage appear to have worked as intended. The failure leaves Amazon's satellites short of orbit.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;A launch failure of a key heavy-lift vehicle affects Amazon's satellite constellation timeline and launch-market capacity.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.theregister.com/science/2026/11/18/ula-says-vulcan-lacked-the-oomph-to-get-amazon-satellites-to-orbit/5310712"&gt;The Register&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theregister.com/public-sector/2026/11/18/ukgov-jv-gets-178m-home-office-hosting-deal-without-competition/5310433"&gt;UK Home Office Awards £178M Hosting Deal to Government JV Crown Hosting Without Competition&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 18, 11:01&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Crown Hosting, a UK government joint venture, won a seven-year contract to host critical national infrastructure technology for the Home Office. No competitive tender was held.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;It adds to concerns about concentration and procurement transparency in UK public-sector IT, a theme that came up with the Microsoft and Palantir stories.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.theregister.com/public-sector/2026/11/18/ukgov-jv-gets-178m-home-office-hosting-deal-without-competition/5310433"&gt;The Register&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.bleepingcomputer.com/news/security/dizigom-illegal-streaming-service-with-21m-monthly-visits-shuts-down/"&gt;Dizigom, Turkish Piracy Site With 21M Monthly Visits, Shuts Down After ACE Settlement&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 18, 11:50&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;The Alliance for Creativity and Entertainment announced that Dizigom, one of Turkey's largest piracy sites, has shut down. The closure follows a settlement agreement with the site's operators. The site drew about 21 million visits a month.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;It is a notable anti-piracy outcome achieved by settlement rather than takedown, showing enforcement tactics against large streaming sites.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.bleepingcomputer.com/news/security/dizigom-illegal-streaming-service-with-21m-monthly-visits-shuts-down/"&gt;BleepingComputer&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;Business &amp;amp; Markets&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.euronews.com/2026/11/18/anthropics-ipo-price-is-due-today-what-should-investors-know"&gt;Anthropic Sets IPO Price Today Ahead of Thursday Nasdaq Debut&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 18, 06:14&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Anthropic is expected to set its IPO price on Wednesday, with a Nasdaq debut on Thursday. Retail investors in France, Germany and other European markets can apply through participating brokers. It is one of the largest AI listings to date.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;The pricing will set the public-market valuation benchmark for frontier AI labs, with ripple effects for OpenAI and the AI funding environment.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.euronews.com/2026/11/18/anthropics-ipo-price-is-due-today-what-should-investors-know"&gt;Euronews Business&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.politico.eu/article/xi-jinping-donald-trump-china-summit/"&gt;Xi Welcomes Trump to China for High-Stakes Summit as Both Governments Arm Up Economically&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 18, 10:54&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Xi personally welcomed Trump to China for a summit covering the US-China relationship, denuclearization and Iran. Politico reports the leaders of China, Russia and the US will huddle in Shenzhen. NYT notes that the public displays of friendship contrast with mounting trade and investment restrictions between the two economies.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Summit outcomes on chip exports and trade restrictions will shape technology supply chains and market access.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.politico.eu/article/xi-jinping-donald-trump-china-summit/"&gt;Politico Europe&lt;/a&gt; · &lt;a href="https://www.nytimes.com/2026/11/17/business/trump-xi-meeting-tensions.html"&gt;NYT Business&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theregister.com/legal/2026/11/18/temus-compliance-regime-is-low-quality-fits-badly-and-full-of-holes-says-europe/5310684"&gt;EU Prepares Digital Services Act Action Against Temu, Calling Its Compliance Regime Full of Holes&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 18, 06:16&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;European regulators say Temu's compliance regime is low-quality, fits badly and is full of holes. The EU is preparing to use the Digital Services Act over the Chinese e-tailer's alleged sales of illegal products.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;It is another sign that DSA enforcement is moving from process to penalties against major platforms.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.theregister.com/legal/2026/11/18/temus-compliance-regime-is-low-quality-fits-badly-and-full-of-holes-says-europe/5310684"&gt;The Register&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.nytimes.com/2026/11/18/business/economy/us-debt-limit.html"&gt;US Could Hit Debt Limit by February, Bipartisan Policy Center Estimates&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 18, 10:04&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;The Bipartisan Policy Center estimates the US will soon run up against its debt-issuance limit, possibly by February. That would set up another budget confrontation in Washington.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;A debt-limit standoff would affect market volatility and rates, and it would add risk to corporate and government planning.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.nytimes.com/2026/11/18/business/economy/us-debt-limit.html"&gt;NYT Business&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.nytimes.com/2026/11/18/business/russia-europe-defense-tytan-leonardo.html"&gt;Europe Races to Make Air Defenses 'Cheaper Than What We Are Shooting Down'&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 18, 10:06&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Defense companies face calls to raise production, cut costs and keep pace with fast-changing technology as the Russian threat intensifies. NYT highlights the push for cost-efficient air defense. The cost imbalance between interceptors and the drones and missiles they stop is driving demand for new approaches.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;It points to continued capital and contract flow into European defense and dual-use technology.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.nytimes.com/2026/11/18/business/russia-europe-defense-tytan-leonardo.html"&gt;NYT Business&lt;/a&gt;&lt;br&gt;
 &lt;/p&gt;</content>
   </entry>
 </feed>
