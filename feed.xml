@@ -5,7 +5,110 @@
   <link href="https://jonaskjellin.github.io/pulsebrief-site/feed.xml" rel="self"/>
   <link href="https://jonaskjellin.github.io/pulsebrief-site/"/>
   <id>https://jonaskjellin.github.io/pulsebrief-site/</id>
-  <updated>2026-11-25T15:31:08.634Z</updated>
+  <updated>2026-11-25T20:28:18.655Z</updated>
+  <entry>
+    <title>Afternoon — Nov 25, 2026</title>
+    <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-11-25-afternoon.html"/>
+    <id>https://jonaskjellin.github.io/pulsebrief-site/2026-11-25-afternoon.html</id>
+    <updated>2026-11-25T20:28:18.655Z</updated>
+    <content type="html">&lt;p&gt;&lt;h1&gt;PulseBrief's Afternoon Pulse&lt;/h1&gt;&lt;br&gt;
+&lt;em&gt;Wed, Nov 25, 07:00 → Wed, Nov 25, 13:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Cyber Security&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.securityweek.com/drupal-flaw-found-by-anthropic-scanner-exploited-in-attacks/"&gt;Drupal 'Fail2Install' RCE (CVE-2026-132165, CVSS 9.8) under active exploitation; CISA sets a Nov 27 patch deadline&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 25, 09:01&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;The Drupal security team confirmed attackers have been hijacking unpatched sites since at least Thursday. CISA added the flaw to KEV on Tuesday and gave federal agencies until November 27 to patch. SecurityWeek reports the bug was found by an Anthropic scanner, so the discovery claim comes from the vendor side. Four outlets are covering it.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Unauthenticated RCE in a widely deployed CMS with exploit details now public means patch immediately and check for signs of compromise.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.securityweek.com/drupal-flaw-found-by-anthropic-scanner-exploited-in-attacks/"&gt;SecurityWeek&lt;/a&gt; · &lt;a href="https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-drupal-rce-flaw-to-hijack-sites/"&gt;BleepingComputer&lt;/a&gt; · &lt;a href="https://thehackernews.com/2026/11/drupal-fail2install-exploit-details.html"&gt;The Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.securityweek.com/palo-alto-networks-patches-fragnesia-flaw-used-to-root-firewalls/"&gt;Palo Alto patches 'Fragnesia' flaw that a China-linked group used to root firewalls&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 25, 09:12&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;The group chained PHP2Shell with Fragnesia in AI-assisted attacks that compromised 25 servers. Palo Alto Networks has released a patch.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Second major network-security vendor hit by an AI-assisted campaign this week, so check exposed management interfaces and apply the fix.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.securityweek.com/palo-alto-networks-patches-fragnesia-flaw-used-to-root-firewalls/"&gt;SecurityWeek&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.bleepingcomputer.com/news/security/hackers-reportedly-breached-cia-intelligence-analysis-system/"&gt;Update: CIA open-source intelligence system breach reported; Treasury's FinCEN takes systems offline&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 25, 08:45&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;BleepingComputer reports unknown attackers breached an open-source intelligence analysis system at the CIA. The Record says FinCEN has taken some systems offline after unauthorized access to a limited subset of its systems. Neither agency has named an attacker or given scope.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Two federal intrusions in one day; watch for scope and attribution updates, especially if you handle government data.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.bleepingcomputer.com/news/security/hackers-reportedly-breached-cia-intelligence-analysis-system/"&gt;BleepingComputer&lt;/a&gt; · &lt;a href="https://therecord.media/treasury-fincen-takes-systems-offline-after-cyber-incident"&gt;The Record&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://thehackernews.com/2026/11/com-affiliated-hackers-hijack-cloud.html"&gt;Update: Unit 42 tracks 'numerous waves' of Com-affiliated vishing hijacking cloud accounts since August&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 25, 07:37&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Palo Alto Networks Unit 42 says Com-affiliated actors have used voice phishing to take over cloud accounts for data theft and extortion. Targets include financial services, healthcare and legal firms in the US, UK and Australia, plus construction and other sectors. This is vendor threat research and lines up with the Inception/ShinyHunters campaign reported earlier.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;A second vendor confirms the vishing wave, so help-desk verification and SSO reset procedures are the immediate controls.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://thehackernews.com/2026/11/com-affiliated-hackers-hijack-cloud.html"&gt;The Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theregister.com/security/2026/11/25/gatwick-drop-off-customers-personal-data-exposed-in-supplier-breach/5312060"&gt;Gatwick drop-off customers' data exposed in supplier breach; Turnitin says systems are operational&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 25, 11:40&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;The Gatwick incident exposed AutoPay login and vehicle records, limited payment information and customer service emails. Separately, Turnitin says its systems are fully operational and safe to use while it investigates its disclosed cyberattack.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Both are third-party and supplier exposures; check which vendors hold your customer or user data.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.theregister.com/security/2026/11/25/gatwick-drop-off-customers-personal-data-exposed-in-supplier-breach/5312060"&gt;The Register&lt;/a&gt; · &lt;a href="https://www.securityweek.com/plagiarism-checker-turnitin-investigating-cyberattack/"&gt;SecurityWeek&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;AI &amp;amp; Machine Learning&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://thehackernews.com/2026/11/hackers-compromise-24-check-point.html"&gt;AI-driven intrusions escalate: Check Point management servers compromised at 22 organizations&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 25, 07:50&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Tracked by GreyNoise as GT13, the campaign used AI-driven offensive tooling against Check Point Security Management servers at organizations in financial services, energy and government. The Hacker News puts the compromised servers at 24. Together with the Palo Alto Fragnesia attacks, it is the second AI-assisted campaign against a security vendor's gear this week. The Drupal flaw above was found by an Anthropic scanner, which is a vendor claim.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Autonomous exploitation is now a repeating pattern, so expect shorter windows between disclosure and attack.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://thehackernews.com/2026/11/hackers-compromise-24-check-point.html"&gt;The Hacker News&lt;/a&gt; · &lt;a href="https://www.securityweek.com/palo-alto-networks-patches-fragnesia-flaw-used-to-root-firewalls/"&gt;SecurityWeek (Palo Alto)&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://thehackernews.com/2026/11/ex-openai-employee-accused-of-bugging.html"&gt;Ex-OpenAI employee accused of bugging company offices granted $1M bail&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 25, 11:43&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;A federal judge in San Francisco ruled Tuesday that Abdulrahman Alfozan, a 35-year-old Saudi national, can be released on a $1 million bond. He was arrested October 9 for allegedly hiding a covert recording device at OpenAI's offices.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;A physical and insider-threat case at a frontier AI lab shows how exposed AI labs' IP and internal discussions are.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://thehackernews.com/2026/11/ex-openai-employee-accused-of-bugging.html"&gt;The Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/"&gt;AI is straining America's open records systems&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 25, 11:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;MIT Technology Review reports small town clerks, such as the one in Panton, Vermont (population 660), are struggling to keep up with public records requests as AI tools increase request volume.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;This is a real-world example of AI shifting the load onto under-resourced public institutions, which could prompt policy responses.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/"&gt;MIT Technology Review&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.wired.com/story/airplane-turbulence-is-extremely-hard-to-predict-and-avoid/"&gt;Crowdsourced data and machine learning give new hope for predicting airplane turbulence&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 25, 12:30&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Wired reports that terabytes of crowdsourced flight data and new machine-learning methods are improving work on turbulence, which it calls the 'hardest remaining problem in classical physics'.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;It is a practical example of ML making progress on a long-standing scientific problem, though it is early-stage.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.wired.com/story/airplane-turbulence-is-extremely-hard-to-predict-and-avoid/"&gt;Wired AI&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Technology&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://thehackernews.com/2026/11/hackers-exploited-cvss-100-hexpm-rce.html"&gt;Hex.pm package registry hit through a CVSS 10.0 RCE flaw that dated back to 2016&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 25, 10:06&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;An attacker ran OS commands on six production Hex.pm servers on Monday. The registry is where Elixir and Erlang developers fetch dependencies. The bug had been in the code since February 2016, and maintainers had every server on a patched build within about 15 minutes of the first malicious request.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;An attack on a package registry is a supply-chain risk; Elixir and Erlang teams should verify the integrity of recently fetched dependencies.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://thehackernews.com/2026/11/hackers-exploited-cvss-100-hexpm-rce.html"&gt;The Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://thehackernews.com/2026/11/wordpress-blocks-six-backdoored-wp.html"&gt;WordPress blocks six backdoored WP Connect plugins before the malicious releases go live&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 25, 07:21&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Six plugins from the WP Connect developer were backdoored on November 22 to allow arbitrary code execution, after a suspected account compromise. The WordPress plugins team detected and blocked the threat before it was officially released.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Another developer-account takeover supply-chain attempt that was caught early; check for any of these plugins on your sites.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://thehackernews.com/2026/11/wordpress-blocks-six-backdoored-wp.html"&gt;The Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-authentication-issues-after-november-updates/"&gt;Microsoft confirms authentication issues after November updates; separate Microsoft 365 Office access bug fixed&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 25, 10:02&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Microsoft confirmed customers may see authentication problems after installing the November security updates that fix a high-severity RCE vulnerability. Separately, it resolved an issue where a blank dialog blocked some Microsoft 365 customers from using Office apps.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Patching the RCE flaw could trigger authentication failures, so test the updates before wide rollout.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-authentication-issues-after-november-updates/"&gt;BleepingComputer (auth issues)&lt;/a&gt; · &lt;a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-blank-dialog-that-made-microsoft-365-office-apps-unusable/"&gt;BleepingComputer (Office fix)&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://thehackernews.com/2026/11/credential-remediation-is-slow-when-you.html"&gt;GitGuardian (vendor report): more than 64% of valid secrets found in 2022 still worked in January 2026&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 25, 12:51&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;GitGuardian's State of Secrets Sprawl 2026 says teams stall on revoking credentials because they fear breaking something. It also says triage based only on whether a secret is valid misses 46% of critical secrets and recommends prioritizing by impact and public exposure. This is vendor-originated research.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;It matches this week's pattern of stolen keys, from Radware to Rackspace, being the real damage, so rotation speed matters.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://thehackernews.com/2026/11/credential-remediation-is-slow-when-you.html"&gt;The Hacker News (GitGuardian, vendor)&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theregister.com/hpc/2026/11/25/the-worlds-fastest-computers-have-a-problem-keeping-the-work-running/5311710"&gt;The world's fastest computers have a reliability problem&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 25, 11:15&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;The Register reports that keeping HPC jobs running on the largest supercomputers is increasingly difficult as node failures interrupt long-running projects.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;It is relevant to AI-scale infrastructure, where failure rates affect the cost of training and large simulation runs.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.theregister.com/hpc/2026/11/25/the-worlds-fastest-computers-have-a-problem-keeping-the-work-running/5311710"&gt;The Register&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Business &amp;amp; Markets&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theregister.com/legal/2026/11/25/jury-finds-huawei-stole-us-tech-laundered-money-and-broke-sanctions/5312024"&gt;Jury finds Huawei stole US technology, laundered money and broke sanctions&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 25, 07:16&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;A US jury convicted Huawei on charges including technology theft, money laundering and sanctions violations. The case featured front companies and fake attributions, such as claiming to work for 'Weihua' or to have source code from 'oscic' instead of Cisco.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;A criminal verdict against a major global tech vendor raises export-control and supply-chain compliance stakes, and it follows this week's Nvidia and China chip scrutiny.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.theregister.com/legal/2026/11/25/jury-finds-huawei-stole-us-tech-laundered-money-and-broke-sanctions/5312024"&gt;The Register&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.euronews.com/2026/11/25/byd-plans-car-production-in-france-to-boost-its-push-into-the-european-market"&gt;BYD in exclusive talks to buy Ineos's Hambach plant in France&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 25, 08:41&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;The world's top electric carmaker wants to build cars in Moselle, which would give it a European manufacturing base and help it respond to tariffs and local-content pressure.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;A Chinese EV maker building in the EU signals how industrial strategy is changing under trade pressure.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.euronews.com/2026/11/25/byd-plans-car-production-in-france-to-boost-its-push-into-the-european-market"&gt;Euronews Business&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theregister.com/offbeat/2026/11/25/government-may-apply-tv-license-fee-to-streaming-services-to-fund-the-bbc/5311928"&gt;UK government may extend TV licence fee to streaming services to fund the BBC&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 25, 10:30&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;The Register reports the proposal could bring in more than a billion pounds in extra BBC funding each year. It is controversial and not yet decided.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;It is a regulatory signal that streaming platforms in the UK may face new levies.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.theregister.com/offbeat/2026/11/25/government-may-apply-tv-license-fee-to-streaming-services-to-fund-the-bbc/5311928"&gt;The Register&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.nytimes.com/2026/11/25/business/media/bob-iger-disney-robbie-whelan.html"&gt;Bob Iger heads to his final Disney board meeting as an unflattering biography lands&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 25, 11:02&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;The NYT reports that 'The House of Mouse' by Robbie Whelan challenges the image Iger has built over decades. He attends his last Disney board meeting next week.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;The leadership transition at a major media company is nearly complete, though this item is mostly narrative rather than market-moving.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.nytimes.com/2026/11/25/business/media/bob-iger-disney-robbie-whelan.html"&gt;NYT Business&lt;/a&gt;&lt;br&gt;
+&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>Morning — Nov 25, 2026</title>
     <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-11-25-morning.html"/>
@@ -2025,114 +2128,6 @@
 &lt;p&gt;Payhawk, founded in 2018, uses AI agents to help companies track and manage expenses and procurement. The raise values the enterprise financial management platform at $2 billion.&lt;/p&gt;&lt;br&gt;
 &lt;p&gt;&lt;blockquote&gt;&lt;em&gt;It's a large round showing investor appetite for agentic AI in finance operations.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
 &lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/11/18/spend-management-platform-payhawk-announces-280m-raise-2b-valuation/"&gt;TechCrunch&lt;/a&gt;&lt;br&gt;
-&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>Evening — Nov 18, 2026</title>
-    <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-11-18-evening.html"/>
-    <id>https://jonaskjellin.github.io/pulsebrief-site/2026-11-18-evening.html</id>
-    <updated>2026-11-18T21:05:17.930Z</updated>
-    <content type="html">&lt;p&gt;&lt;h1&gt;PulseBrief's Evening Pulse&lt;/h1&gt;&lt;br&gt;
-&lt;em&gt;Wed, Nov 18, 12:00 → Wed, Nov 18, 17:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;Cyber Security&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://therecord.media/nsa-continues-response-to-nsa-net-problems"&gt;NSA's classified internal network disrupted for a second day&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 18, 16:19&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;The NSA continued responding to interruptions on its classified internal network, NSANet. Day 2 brought staggered arrivals and logins at Fort Meade. A source told The Record that classified national security work continued unimpeded. No cause has been given publicly.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;A multi-day disruption of the NSA's core internal network is a high-profile event, and the cause is still unknown.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://therecord.media/nsa-continues-response-to-nsa-net-problems"&gt;The Record&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.securityweek.com/russian-apt-poses-as-employee-of-hacked-firm-to-breach-another-us-organization/"&gt;Russian Star Blizzard uses data stolen from cloud accounts to impersonate trusted contacts&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 18, 13:33&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Google research says Russian state-backed hackers are using information stolen from cloud accounts to impersonate trusted contacts and attack people in their victims' professional networks. SecurityWeek reports Star Blizzard weaponized data and identities stolen in late 2025 to phish and compromise a US organization, posing as an employee of a previously hacked firm.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;One breach now feeds the next, so a compromised partner or vendor makes inbound email from it a live phishing risk.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.securityweek.com/russian-apt-poses-as-employee-of-hacked-firm-to-breach-another-us-organization/"&gt;SecurityWeek&lt;/a&gt; · &lt;a href="https://therecord.media/russia-cyber-espionage-google"&gt;The Record&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://cybersecuritynews.com/nginx-http-2-vulnerabilities/"&gt;Two critical NGINX HTTP/2 flaws allow unauthenticated remote code execution&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 18, 16:05&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Two critical NGINX vulnerabilities, CVE-2026-123633 and CVE-2026-123007, were disclosed November 18. Both can lead to memory corruption and remote code execution without login. Both require NGINX to accept HTTP/2 connections. One affects certain reverse proxy configurations.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;NGINX fronts a large share of the internet, so internet-facing deployments should be checked and patched quickly.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://cybersecuritynews.com/nginx-http-2-vulnerabilities/"&gt;Cyber Security News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://thehackernews.com/2026/11/flash-chip-attack-bypasses-tpm-lockout.html"&gt;Flash-chip attack bypasses TPM lockout to crack Windows Hello and BitLocker PINs in days&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 18, 12:28&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;TU Berlin researchers show the TPM lockout can be reset by someone who opens the PC case, on AMD-based PCs and some Intel PCs. That leaves short PINs open to guessing. In lab tests they recovered a four-digit Hello PIN on an AMD laptop and a 6-digit BitLocker PIN on an Intel laptop.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;It requires physical access, but it weakens the protection that lost or stolen laptops rely on when they use short PINs.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://thehackernews.com/2026/11/flash-chip-attack-bypasses-tpm-lockout.html"&gt;The Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.wired.com/story/artex-ai-hacking-tools/"&gt;Artex and CyberStrikeAI: AI hacking tools go mainstream, one runs 221 actions with no human approval&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 18, 16:35&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Wired calls Artex criminals' new 'point-and-shoot' AI hacking tool, which lets novices scan targets and attack using chatbot prompts. Separately, an exposed CyberStrikeAI workspace logged 221 tool executions in one session on November 16. Its human approval gate had been switched off. This follows the FBI and AWS warnings and Barracuda's confirmed Artex breach.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Autonomous offensive tooling is lowering the skill needed to attack and speeding up the attacks.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.wired.com/story/artex-ai-hacking-tools/"&gt;Wired&lt;/a&gt; · &lt;a href="https://cybersecuritynews.com/cyberstrikeai/"&gt;Cyber Security News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://thehackernews.com/2026/11/eggstreme-hackers-rebuild-malware-with.html"&gt;Suspected Chinese APT rebuilds EggStreme malware to evade detection in Philippine government attacks&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 18, 14:11&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Bitdefender says the group behind EggStreme has rebuilt its toolkit so it runs quietly and avoids security tools. It continues to target government organizations in the Philippines. Bitdefender notes the usual defender response, rotating hashes and domains, is cheap for attackers to get around.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;It is another sign that indicator-based detection is failing against state-linked groups that retool after exposure.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://thehackernews.com/2026/11/eggstreme-hackers-rebuild-malware-with.html"&gt;The Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;AI &amp;amp; Machine Learning&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://microsoft.ai/news/microsoft-ignite-2026/"&gt;Microsoft Ignite: seven new AI models at 'scalable price-performance' (vendor announcement)&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 18, 16:08&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Microsoft AI announced seven new models at Ignite 2026, pitched on price-performance. The post drew 330 points and 214 comments on Hacker News. This is vendor messaging, so benchmark and pricing claims are unverified.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;A major platform vendor adding its own model lineup shifts the enterprise model market and the Microsoft-OpenAI dynamic.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://microsoft.ai/news/microsoft-ignite-2026/"&gt;Microsoft AI&lt;/a&gt; · &lt;a href="https://news.ycombinator.com/item?id=50548021"&gt;Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/11/18/sam-altman-warns-against-a-future-where-ai-not-humans-calls-the-shots/"&gt;Altman and Brockman push back on AI-takeover debate while admitting control challenges&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 18, 16:59&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sam Altman and Greg Brockman argued against a future where AI rather than humans calls the shots. They also acknowledged the difficulty of keeping advanced models under human control. The remarks come as California's lawsuit alleges OpenAI agents escaped sandboxes.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;This is OpenAI's leadership framing agent control and safety just as legal and regulatory scrutiny intensifies.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/11/18/sam-altman-warns-against-a-future-where-ai-not-humans-calls-the-shots/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.securityweek.com/microsoft-takes-perception-agentic-security-platform-out-of-preview/"&gt;Microsoft takes Perception agentic security platform out of preview (vendor announcement)&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 18, 12:14&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Microsoft says four blue-team agents and the Recon Agent are now generally available. Integrations and vulnerability shielding remain in preview. This is a vendor announcement made at Ignite.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;It is a major vendor putting agentic security tooling into general availability at the same time attackers adopt agentic tools.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.securityweek.com/microsoft-takes-perception-agentic-security-platform-out-of-preview/"&gt;SecurityWeek&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/"&gt;AI agents ask better questions than KPMG accountants in audit trial&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 18, 15:49&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;A report on a KPMG audit trial says AI agents asked better questions than human accountants. It drew 191 points and 99 comments on Hacker News. Details and methodology come from the linked report and have not been independently confirmed.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;If it holds up, a Big Four audit trial points to agents moving into regulated professional services work.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/"&gt;European Business Magazine&lt;/a&gt; · &lt;a href="https://news.ycombinator.com/item?id=50547777"&gt;Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;Technology&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theregister.com/os-platforms/2026/11/18/windows-server-2028-wont-be-compatible-by-default/5310766"&gt;Windows Server 2028 won't be compatible by default&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 18, 13:16&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Following Microsoft's Ignite announcement, The Register reports that the server OS's hardened out-of-the-box security means some existing workloads won't 'just work'. Administrators face compatibility testing ahead of upgrades.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;The security defaults will shape upgrade planning and testing timelines for infrastructure teams.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.theregister.com/os-platforms/2026/11/18/windows-server-2028-wont-be-compatible-by-default/5310766"&gt;The Register&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theregister.com/os-platforms/2026/11/18/powershell-7-heading-into-windows-as-51-hits-the-end-of-the-road/5310791"&gt;PowerShell 7 to ship in Windows as 5.1 reaches end of the road&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 18, 15:29&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;The next Windows release will bundle PowerShell 7, the modern successor to 5.1. Admins will have a compatibility checklist to work through for scripts and tooling.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Legacy automation built on PowerShell 5.1 will need auditing before the bundled change reaches fleets.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.theregister.com/os-platforms/2026/11/18/powershell-7-heading-into-windows-as-51-hits-the-end-of-the-road/5310791"&gt;The Register&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://news.ycombinator.com/item?id=50547980"&gt;ExitPath: open-source ways out of Slack, Notion and Microsoft 365&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 18, 16:04&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;A Show HN project offers open-source migration paths away from Slack, Notion and Microsoft 365. It drew 101 points on Hacker News. The interest follows recent outages and the UK government's admission of heavy Microsoft dependence.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Vendor lock-in and concentration risk are a live concern after a week of major outages.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://news.ycombinator.com/item?id=50547980"&gt;Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theregister.com/science/2026/11/18/space-robot-legend-voyager-1-is-now-more-than-1-light-day-away/5310751"&gt;Voyager 1 is now more than one light-day from Earth&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 18, 14:57&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Almost half a century after launch, Voyager 1 passed one light-day from Earth. The Register covered the milestone, and a Show HN site that lets visitors explore the spacecraft's hardware hit 99 points.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;It is a rare positive engineering milestone in a week of outages.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.theregister.com/science/2026/11/18/space-robot-legend-voyager-1-is-now-more-than-1-light-day-away/5310751"&gt;The Register&lt;/a&gt; · &lt;a href="https://news.ycombinator.com/item?id=50548161"&gt;Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;Business &amp;amp; Markets&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.nytimes.com/2026/11/17/business/nvidia-earnings-jensen-huang.html"&gt;Nvidia says it has no plans to bring Jensen Huang back&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 18, 13:54&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Nvidia's chair said the board 'does not intend to reinstate Jensen as C.E.O.' This came after Huang and his allies lobbied for his return. Interim CEO Colette Kress told investors it is business as usual, but analysts say doubts remain about the company's future. Sam Altman said it is 'hard to imagine the AI industry without Jensen'.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;It settles the succession question for now and sets the leadership backdrop for the most important company in AI hardware.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.nytimes.com/2026/11/17/business/nvidia-earnings-jensen-huang.html"&gt;NYT Business&lt;/a&gt; · &lt;a href="https://www.theregister.com/systems/2026/11/18/business-as-usual-but-huang-aint-coming-back-says-nvidia/5310772"&gt;The Register&lt;/a&gt; · &lt;a href="https://techcrunch.com/2026/11/18/openai-ceo-sam-altman-says-its-hard-to-imagine-the-ai-industry-without-jensen/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/11/18/nvidia-clarifies-when-it-will-and-wont-keep-financing-neoclouds/"&gt;Nvidia clarifies when it will and won't backstop neocloud financing&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 18, 13:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Interim CEO Colette Kress said that if Nvidia is backstopping a data center loan, it won't be on the hook unless the neocloud has independent financing. The facility must also get built with Nvidia gear installed. This limits how far Nvidia's balance sheet stands behind the AI infrastructure buildout.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Investors are sensitive to circular AI financing, and this defines how exposed Nvidia is to neocloud credit risk.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/11/18/nvidia-clarifies-when-it-will-and-wont-keep-financing-neoclouds/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.nytimes.com/2026/11/18/business/dealbook/ai-bubble-dealbook-summit.html"&gt;AI bubble talk dominates DealBook Summit as Altman and Lagarde discuss sky-high valuations&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 18, 16:21&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Morning sessions at NYT's DealBook Summit, including Christine Lagarde and Sam Altman, focused on AI bubble fears and valuations. The summit also features Elon Musk, Greg Brockman and Satya Nadella. It takes place amid concerns about the AI rally and a post-midterm shift in Washington.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Public comments from the ECB president and OpenAI's CEO on valuations come on the eve of Anthropic's IPO.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.nytimes.com/2026/11/18/business/dealbook/ai-bubble-dealbook-summit.html"&gt;NYT Business&lt;/a&gt; · &lt;a href="https://www.nytimes.com/2026/11/18/business/dealbook/dealbook-summit-what-to-watch.html"&gt;NYT Business&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.politico.eu/article/germany-and-austria-launch-bid-for-eu-tiktok-takeover/"&gt;Germany and Austria demand TikTok's European platform be sold to EU owners&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 18, 12:27&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;The two governments launched a bid to force a sale of TikTok's European operations to owners in the EU. It follows the US push that forced TikTok to split off its American app.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;A European ownership demand could set a new regulatory precedent for platforms with Chinese parents.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.politico.eu/article/germany-and-austria-launch-bid-for-eu-tiktok-takeover/"&gt;Politico Europe&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://news.crunchbase.com/venture/voice-ai-startup-funding-peaks-2026/"&gt;Voice AI startups have raised at least $9.5B in 2026&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 18, 12:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Crunchbase data shows voice AI companies have drawn at least $9.5 billion in venture funding so far this year. Investors are backing startups that find new uses for the technology.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;It shows where venture money is concentrating within AI beyond the foundation model labs.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://news.crunchbase.com/venture/voice-ai-startup-funding-peaks-2026/"&gt;Crunchbase News&lt;/a&gt;&lt;br&gt;
 &lt;/p&gt;</content>
   </entry>
 </feed>
