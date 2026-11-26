@@ -5,7 +5,105 @@
   <link href="https://jonaskjellin.github.io/pulsebrief-site/feed.xml" rel="self"/>
   <link href="https://jonaskjellin.github.io/pulsebrief-site/"/>
   <id>https://jonaskjellin.github.io/pulsebrief-site/</id>
-  <updated>2026-11-26T15:05:08.889Z</updated>
+  <updated>2026-11-26T20:07:57.414Z</updated>
+  <entry>
+    <title>Afternoon — Nov 26, 2026</title>
+    <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-11-26-afternoon.html"/>
+    <id>https://jonaskjellin.github.io/pulsebrief-site/2026-11-26-afternoon.html</id>
+    <updated>2026-11-26T20:07:57.414Z</updated>
+    <content type="html">&lt;p&gt;&lt;h1&gt;PulseBrief's Afternoon Pulse&lt;/h1&gt;&lt;br&gt;
+&lt;em&gt;Thu, Nov 26, 07:00 → Thu, Nov 26, 13:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Cyber Security&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.securityweek.com/1password-breach-exposes-customer-data-internal-source-code/"&gt;Update: 1Password confirms internal source code and customer data stolen via compromised GitHub account&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 26, 09:32&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;1Password says an attacker used a compromised employee GitHub account to push malicious code into backend services. Customer records and internal source code were accessed. The company says customer password vaults and other secrets were not touched. The coverage seen so far does not say how many customers are affected.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;A security vendor compromised through a developer account is a supply-chain warning, so read 1Password's notice for what was exposed and review your own GitHub account controls.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.securityweek.com/1password-breach-exposes-customer-data-internal-source-code/"&gt;SecurityWeek&lt;/a&gt; · &lt;a href="https://thehackernews.com/2026/11/1password-hacked-customer-data-and.html"&gt;The Hacker News&lt;/a&gt; · &lt;a href="https://www.theregister.com/security/2026/11/26/hackers-help-themselves-to-1passwords-source-code-and-customer-data/5312317"&gt;The Register&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://thehackernews.com/2026/11/drupal-warns-of-new-highly-critical.html"&gt;Drupal warns of a second actively exploited site-takeover flaw (CVE-2026-136716) after its Fail2Install patch left a gap&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 26, 08:02&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Drupal's November 25 advisory describes CVE-2026-136716 as a &amp;quot;highly critical&amp;quot; access bypass that lets attackers take over sites without signing in. It covers installation states left vulnerable after the Fail2Install fix (CVE-2026-132165). Attacks are already under way, and Drupal released updates for three supported core branches. Drupal did not say how many sites are affected.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;If you patched Fail2Install earlier this week, you are not done: apply the new update and check for compromise.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://thehackernews.com/2026/11/drupal-warns-of-new-highly-critical.html"&gt;The Hacker News&lt;/a&gt; · &lt;a href="https://www.securityweek.com/drupal-installer-patch-left-a-gap-attackers-are-already-exploiting/"&gt;SecurityWeek&lt;/a&gt; · &lt;a href="https://cybersecuritynews.com/drupal-website-takeover-flaw/"&gt;Cybersecurity News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://thehackernews.com/2026/11/hackers-exploit-10-vulnerabilities.html"&gt;CISA adds 10 exploited flaws to KEV, including five Mitel MiCollab bugs and Juniper, Vates and Danfoss products&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 26, 07:44&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;CISA added 10 vulnerabilities to its Known Exploited Vulnerabilities catalog on Wednesday. Five affect Mitel MiCollab and were disclosed last week, and the rest hit Juniper, Vates and Danfoss products. The Danfoss entry follows CISA's earlier warning about an unpatched flaw in the company's refrigeration controllers.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;KEV listing confirms active exploitation, so check whether you run any of these products, especially internet-facing Mitel and Juniper gear.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://thehackernews.com/2026/11/hackers-exploit-10-vulnerabilities.html"&gt;The Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.bleepingcomputer.com/news/security/sys010-malware-abuses-browser-management-to-spy-on-gmail-outlook/"&gt;SYS010 infostealer, spread through Meta ads, enrolls browsers in enterprise management to push an email-stealing extension&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 26, 12:50&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;BleepingComputer reports a new version of the SYS01 infostealer, delivered through Meta ads. It enrolls victims' browsers into enterprise-style management, which forces the installation of an extension that steals sensitive data. The data includes Gmail and Outlook emails.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Abusing browser management policies to install extensions sidesteps normal user prompts, so audit managed-browser enrollment and extension policies.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.bleepingcomputer.com/news/security/sys010-malware-abuses-browser-management-to-spy-on-gmail-outlook/"&gt;BleepingComputer&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.darkreading.com/cyberattacks-data-breaches/cyprus-espionage-target-iranian-hackers"&gt;Previously undocumented Iranian group &amp;quot;Volant Manticore&amp;quot; targets Cypriot organizations&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 26, 09:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Dark Reading reports that a new Iranian threat group, tracked as Volant Manticore, is running an intelligence-gathering campaign against organizations in Cyprus on behalf of Tehran. The summary gives no technical detail or victim list. It adds to this week's US investigation into Iran-linked attacks on commercial ships.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Iranian state-linked activity is widening in the region, so organizations with Eastern Mediterranean exposure should watch for further reporting.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.darkreading.com/cyberattacks-data-breaches/cyprus-espionage-target-iranian-hackers"&gt;Dark Reading&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;AI &amp;amp; Machine Learning&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.securityweek.com/mitel-micollab-zero-days-exploited-in-suspected-ai-assisted-attacks/"&gt;Accenture (vendor report): Mitel MiCollab zero-days exploited before the advisory, likely with AI help, in a suspected extortion campaign&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 26, 12:35&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Accenture says attackers exploited Mitel MiCollab flaws before Mitel published its advisory, and that AI assistance likely helped them. It describes a suspected extortion campaign. This is Accenture's own assessment, and the AI-assistance claim is a suspicion, not a confirmed finding. Several governments and vendors have reported similar AI-accelerated attacks this week.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;It is another sign that the gap between disclosure and exploitation is shrinking, so patch internet-facing collaboration systems quickly.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.securityweek.com/mitel-micollab-zero-days-exploited-in-suspected-ai-assisted-attacks/"&gt;SecurityWeek&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.wired.com/story/meta-refused-to-share-muse-for-testing-uk-financial-watchdog-complains/"&gt;UK financial watchdog says Meta refused to share its Muse agent for testing before the UK rollout&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 26, 11:51&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Wired reports that the FCA asked Meta to work on joint testing of its Muse personal agent before it launched in the UK on Tuesday, and Meta declined. The FCA warned of &amp;quot;another force of attack&amp;quot; from AI agents. This follows reports that Amazon has blocked Muse for two months.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;A financial regulator publicly complaining that an AI agent vendor will not cooperate on testing is an early sign of oversight friction for consumer and financial AI agents.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.wired.com/story/meta-refused-to-share-muse-for-testing-uk-financial-watchdog-complains/"&gt;Wired AI&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://techstackups.com/articles/google-workspace-ai-agents-mcp/"&gt;Google is making AI agents use its Workspace MCP servers, but the Gmail one can't send email&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 26, 10:44&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;A techstackups.com analysis (116 points, 125 comments on Hacker News) looks at Google's move to route AI agents through its own MCP servers for Workspace. It notes the Gmail server cannot send email. This is a third-party analysis, not a Google announcement.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;It shows how far major platforms will let agents act on their behalf, which bears on agent permissions and security review of MCP connections.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://techstackups.com/articles/google-workspace-ai-agents-mcp/"&gt;techstackups.com&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Technology&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://cybersecuritynews.com/november-update-breaks-authentication/"&gt;Update: Microsoft confirms November Windows updates can break SSO and third-party app logins&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 26, 11:24&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Microsoft says the November 2026 Windows security updates, starting with the November 10 update, can cause sign-in failures in some third-party apps and devices that use NTLM authentication. Affected products include authentication proxies, single sign-on tools and application packaging products. This follows reports earlier this week of authentication problems after the updates.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Test the updates against any NTLM-dependent apps before wide rollout.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://cybersecuritynews.com/november-update-breaks-authentication/"&gt;Cybersecurity News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/"&gt;Nextcloud launches a desktop app for its Office suite&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 26, 12:50&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Nextcloud released the Nextcloud Office Desktop app, which the Hacker News thread (359 points, 173 comments) links to a European Office effort. The announcement is from the vendor, so its claims are unreviewed.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;It is a sign of continued interest in self-hosted alternatives to Microsoft and Google office suites.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/"&gt;Nextcloud&lt;/a&gt; · &lt;a href="https://news.ycombinator.com/item?id=50654289"&gt;Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theregister.com/hpc/2026/11/26/45c-inlets-just-killed-the-chiller-most-people-havent-noticed-yet/5311831"&gt;Data center cooling: 45°C inlet temperatures are making chillers obsolete&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 26, 11:15&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;The Register argues that data center inlet temperatures of 45°C have made traditional chillers unnecessary, and that few people have noticed. It is an opinion piece, and the summary gives no figures.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Cooling design is becoming a constraint on dense AI hardware and shapes data center power and cost.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.theregister.com/hpc/2026/11/26/45c-inlets-just-killed-the-chiller-most-people-havent-noticed-yet/5311831"&gt;The Register&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theregister.com/security/2026/11/26/uk-home-office-waved-through-border-system-without-a-working-fix-for-bad-data/5312162"&gt;UK Home Office approved a border system without a working fix for bad data, ICO says&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 26, 10:30&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;The UK Information Commissioner's Office reprimanded the Home Office after a border system went live without a working way to correct bad data. The failings risked wrongful detention, and a temporary correction process took more than a year to arrive.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;It is a data-quality and accountability failure in a government system with serious consequences for individuals.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.theregister.com/security/2026/11/26/uk-home-office-waved-through-border-system-without-a-working-fix-for-bad-data/5312162"&gt;The Register&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Business &amp;amp; Markets&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theregister.com/public-sector/2026/11/26/uk-government-working-around-the-clock-on-capita-contingency-plans/5312298"&gt;UK government working &amp;quot;around the clock&amp;quot; on Capita contingency plans after CEO exit and share plunge&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 26, 12:45&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;A UK minister said Capita should be &amp;quot;absolutely ashamed&amp;quot; of its pensions failures. The outsourcer's CEO has left and its shares have plunged. The government is preparing contingency plans.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;It is a major government-outsourcing failure that raises concentration risk for any organization depending on a single large provider.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.theregister.com/public-sector/2026/11/26/uk-government-working-around-the-clock-on-capita-contingency-plans/5312298"&gt;The Register&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.nytimes.com/2026/11/26/business/huawei-trump-china-ai.html"&gt;Huawei is becoming central to China's AI push as Nvidia access shrinks&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 26, 11:01&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;NYT reports that as China's access to Nvidia's advanced chips narrows, Huawei is becoming increasingly indispensable to Beijing, despite a wide technological gap with its US rival. This follows yesterday's US jury verdict against Huawei on technology theft, money laundering and sanctions charges.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;It shows how export controls are reshaping the AI chip supply chain and strengthening a vendor that has just been convicted in a US court.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.nytimes.com/2026/11/26/business/huawei-trump-china-ai.html"&gt;NYT Business&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.euronews.com/2026/11/26/unicredit-secures-final-polish-approval-for-commerzbank-takeover-bid"&gt;UniCredit gets final Polish approval for its Commerzbank takeover bid&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 26, 08:37&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Poland's KNF approval completes the regulatory authorization process for UniCredit's Commerzbank deal. Governance, the German state's stake and the next stages of the offer are still to be defined.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;It is a major cross-border European bank takeover that is now past its regulatory approvals, though the German government's position remains open.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.euronews.com/2026/11/26/unicredit-secures-final-polish-approval-for-commerzbank-takeover-bid"&gt;Euronews Business&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.euronews.com/2026/11/26/uk-discounter-poundland-enters-administration-with-11000-jobs-at-risk"&gt;Poundland enters administration with 11,000 jobs at risk&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 26, 07:57&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;The UK discounter has entered administration. Euronews calls it another major setback for Britain's struggling retail sector, which is hit by weak consumer spending, rising costs and fierce competition.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;It signals continued stress in UK retail and consumer demand.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.euronews.com/2026/11/26/uk-discounter-poundland-enters-administration-with-11000-jobs-at-risk"&gt;Euronews Business&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.euronews.com/2026/11/26/norwegian-low-cost-carrier-norse-atlantic-suspends-flights-as-bankruptcy-looms"&gt;Norse Atlantic cancels all flights as bankruptcy looms, citing jet fuel prices from the Iran war&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 26, 12:46&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;The Norwegian low-cost carrier cancelled all its flights for Thursday and said it was teetering on the verge of bankruptcy. It blamed surging jet fuel prices caused by the war against Iran.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;It is a direct example of the Iran conflict's economic fallout, adding cost pressure on travel and transport.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.euronews.com/2026/11/26/norwegian-low-cost-carrier-norse-atlantic-suspends-flights-as-bankruptcy-looms"&gt;Euronews Business&lt;/a&gt;&lt;br&gt;
+&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>Morning — Nov 26, 2026</title>
     <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-11-26-morning.html"/>
@@ -2000,124 +2098,6 @@
 &lt;p&gt;A judge allowed Trump's $15 billion case against the Times and Penguin Random House to move forward. Trump accuses them of disparaging his reputation as a successful businessman. NYT is the subject of this report, so its framing should be read accordingly.&lt;/p&gt;&lt;br&gt;
 &lt;p&gt;&lt;blockquote&gt;&lt;em&gt;A large media-liability case moving ahead matters for publishers and for how courts treat claims over business reputation.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
 &lt;p&gt;Sources: &lt;a href="https://www.nytimes.com/2026/11/19/business/media/new-york-times-trump-defamation-case.html"&gt;NYT Business&lt;/a&gt;&lt;br&gt;
-&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>Evening — Nov 20, 2026</title>
-    <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-11-19-evening.html"/>
-    <id>https://jonaskjellin.github.io/pulsebrief-site/2026-11-19-evening.html</id>
-    <updated>2026-11-19T23:01:10.687Z</updated>
-    <content type="html">&lt;p&gt;&lt;h1&gt;PulseBrief's Evening Pulse&lt;/h1&gt;&lt;br&gt;
-&lt;em&gt;Thu, Nov 19, 13:00 → Thu, Nov 19, 18:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;Cyber Security&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.bleepingcomputer.com/news/security/php-security-updates-fix-18-flaws-including-critical-rce-bugs/"&gt;PHP patches 18 flaws, including 7 critical RCE bugs; phpAfterShell bypasses the October PHP2Shell fix&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 19, 16:18&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;The PHP Foundation shipped security releases for all supported branches, covering 18 flaws. Seven are critical and could lead to remote code execution, including CVE-2026-115560. Separately, Depthfirst disclosed phpAfterShell (CVE-2026-126714), which abuses file-based session handling and can reach unauthenticated RCE even on servers patched for PHP2Shell. Several critical bugs need non-default settings or uncommon setups, so exposure varies.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;PHP runs a huge share of the web, and the new fix chain arrives on top of last month's PHP2Shell patching, so this is a patch-now item.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.bleepingcomputer.com/news/security/php-security-updates-fix-18-flaws-including-critical-rce-bugs/"&gt;BleepingComputer&lt;/a&gt; · &lt;a href="https://thehackernews.com/2026/11/php-fixes-7-critical-flaws-including.html"&gt;The Hacker News&lt;/a&gt; · &lt;a href="https://www.securityweek.com/php-patches-seven-critical-rce-vulnerabilities/"&gt;SecurityWeek&lt;/a&gt; · &lt;a href="https://thehackernews.com/2026/11/phpaftershell-explained-how-hackers.html"&gt;The Hacker News (phpAfterShell)&lt;/a&gt; · &lt;a href="https://cybersecuritynews.com/phpaftershell-rce/"&gt;Cybersecurity News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://therecord.media/european-commission-confirms-cyberattack-using-ai"&gt;European Commission confirms cyberattack; attackers used the ARTEX AI hacking tool&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 19, 16:14&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;The Commission confirmed a cyberattack. Politico reported that CERT-EU identified the attackers' use of ARTEX, the open-source AI hacking platform the FBI warned about last week. HR and medical reimbursement systems were taken offline while officials investigate whether personal data was compromised.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;This is a confirmed attack on a major government institution using an AI offensive tool that was flagged this week, so it is a concrete data point on AI-assisted attacks.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://therecord.media/european-commission-confirms-cyberattack-using-ai"&gt;The Record&lt;/a&gt; · &lt;a href="https://www.theregister.com/cyber-crime/2026/11/19/european-commission-scrambles-to-contain-ai-assisted-cyberattack/5311103"&gt;The Register&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theregister.com/cyber-crime/2026/11/19/europes-biggest-gas-supplier-battling-cyberattack-with-no-timeline-for-recovery/5311026"&gt;Equinor, Europe's biggest gas supplier, battling cyberattack with no recovery timeline&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 19, 16:37&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Norwegian energy giant Equinor is dealing with a cyberattack and has given no timeline for recovery. The company says oil and gas production is unaffected. Scope and attribution have not been disclosed.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Europe depends on Equinor for gas supply, so an attack on its IT systems matters for critical-infrastructure risk even though production continues.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.theregister.com/cyber-crime/2026/11/19/europes-biggest-gas-supplier-battling-cyberattack-with-no-timeline-for-recovery/5311026"&gt;The Register&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://thehackernews.com/2026/11/critical-vmware-vcenter-flaw-cvss-98.html"&gt;Critical VMware vCenter flaw (CVSS 9.8) lets network attackers bypass authentication&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 19, 16:11&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Broadcom's advisory VMSA-2026-0009 covers five flaws across vCenter, SDDC Manager and VMware Tools, with CVSS scores from 6.7 to 9.8. The worst, CVE-2026-123890, lets anyone with network access to vCenter skip login. Fixed versions exist for all supported branches and Broadcom lists no workarounds.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;vCenter is the control plane for virtualized estates, so an authentication bypass there is a high-value target that needs patching quickly.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://thehackernews.com/2026/11/critical-vmware-vcenter-flaw-cvss-98.html"&gt;The Hacker News&lt;/a&gt; · &lt;a href="https://cybersecuritynews.com/vmware-vcenter-authentication-bypass/"&gt;Cybersecurity News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.bleepingcomputer.com/news/security/critical-nginx-nginx2root-bugs-let-attackers-hijack-servers/"&gt;NGINX2Root bugs can be chained with a Linux kernel flaw to take root&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 19, 15:57&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;BleepingComputer reports that two critical NGINX vulnerabilities, collectively dubbed nginx2root, allow unauthenticated remote code execution. Researchers showed they can be chained with a Linux kernel bug for root access. This follows F5's patches and the public PoCs reported earlier today.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;The chain turns a web server bug into full host takeover, which raises the stakes for any internet-facing NGINX with HTTP/2 enabled.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.bleepingcomputer.com/news/security/critical-nginx-nginx2root-bugs-let-attackers-hijack-servers/"&gt;BleepingComputer&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaw-warns-exploits-may-surface-quickly/"&gt;Drupal patches critical installer flaw and warns exploits may appear quickly&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 19, 14:08&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Under specific conditions, an unauthenticated attacker can use Drupal core's built-in installer to attempt to reinstall a site, leading to takeover or remote code execution. The project rates the vulnerable configurations as uncommon. Fixed releases for all supported branches shipped yesterday, and the Drupal Security Team expects exploits to surface fast.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Four outlets are covering it, and Drupal's own warning on exploit timing makes it a quick-check item for anyone running Drupal.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaw-warns-exploits-may-surface-quickly/"&gt;BleepingComputer&lt;/a&gt; · &lt;a href="https://thehackernews.com/2026/11/drupal-patches-critical-installer-flaw.html"&gt;The Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://cybersecuritynews.com/jpmorgan-third-party-data-breach/"&gt;JPMorgan Chase confirms third-party cyberattack that may have exposed customer names and emails&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 19, 17:14&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;JPMorgan said on November 19 that a cyberattack hit outside companies that provide services to the bank. It believes attackers accessed marketing data held by those vendors, which may include some customer names and email addresses. The bank has not said how many customers are affected.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;This is another third-party provider compromise reaching a major financial institution, and the customer count is still open.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://cybersecuritynews.com/jpmorgan-third-party-data-breach/"&gt;Cybersecurity News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;AI &amp;amp; Machine Learning&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/"&gt;At the Nasdaq bell, Anthropic's Amodei recommits to pacing AI development (vendor statement)&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 19, 17:19&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;In his opening-bell speech, Dario Amodei reiterated that Anthropic will pace AI development regardless of business or political pressure. The statement comes on the day the company goes public. It is a first-party commitment, and how it holds up under public-market pressure is untested.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;The first public-company test of a safety-first pledge is a signal for how frontier labs will balance growth and restraint.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://cybersecuritynews.com/muse-reads-encrypted-messages/"&gt;Reuters: Meta's Muse AI agent read Signal messages through Android notifications and Mac permissions&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 19, 15:11&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Reuters reported on November 18 that Meta's Muse agent could read Signal message text on Android phones and Macs. It did so without connecting to Signal, using notifications and macOS permissions to see text already displayed on the device. The tests did not show that Muse broke Signal's encryption.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;It shows that OS-level agent permissions can undercut end-to-end encryption in practice, a new data-exposure path for agentic assistants.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://cybersecuritynews.com/muse-reads-encrypted-messages/"&gt;Cybersecurity News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.wired.com/story/google-built-a-giant-mirror-dimension-internet-to-test-its-chrome-ai-agents/"&gt;Google built a giant 'mirror dimension' internet to train and test Chrome AI agents (vendor effort)&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 19, 18:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Wired reports that Google created a large simulated internet that serves as a sandbox for the Chrome team to train AI browsing agents. The aim is to test agent behavior without the risk of the agents going rogue on the real web. Details come from Google's own account.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;It shows how a major vendor is handling agent safety testing as browser agents become a mainstream product.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.wired.com/story/google-built-a-giant-mirror-dimension-internet-to-test-its-chrome-ai-agents/"&gt;Wired&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.nytimes.com/2026/11/19/business/anthropic-ipo-washington.html"&gt;Anthropic's debut puts Washington's AI preparedness gap in focus&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 19, 17:39&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;NYT frames Anthropic's trillion-dollar debut as a watershed for AI's risks and rewards. It says policymakers have struggled to prepare for potential disruption to workers, businesses and the broader economy as the technology surges ahead.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;The public listing raises the political profile of AI regulation just as senators push for a national AI cyber defense effort.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.nytimes.com/2026/11/19/business/anthropic-ipo-washington.html"&gt;NYT Business&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;Technology&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://therecord.media/apple-uk-encryption-notice"&gt;UK tribunal confirms government served Apple with secret iCloud encryption notice&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 19, 16:32&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;A UK tribunal confirmed that the British government served Apple with a secret legal notice targeting the cryptographic protections for iCloud accounts. This ends almost two years of official refusal to acknowledge it. TechCrunch says the ruling rejected London's argument that disclosure would harm national security.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;A confirmed government demand to weaken encryption at a major platform has implications for every provider operating in the UK.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://therecord.media/apple-uk-encryption-notice"&gt;The Record&lt;/a&gt; · &lt;a href="https://techcrunch.com/2026/11/19/u-k-government-forced-to-disclose-secret-apple-backdoor-order/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theregister.com/systems/2026/11/19/qualcomm-offers-test-drive-of-its-rack-scale-nvidia-ai-challenger/5310966"&gt;Qualcomm opens test drives of its Dragonfly AI200 rack-scale Nvidia challenger (vendor program)&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 19, 15:03&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Selected customers can try Qualcomm's rack-scale Dragonfly AI200 on Cirrascale's cloud. It is a vendor-run early-access program, and performance claims are unverified. It is Qualcomm's attempt to get real workloads onto a non-Nvidia AI platform.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Alternatives to Nvidia matter more with Nvidia in leadership turmoil and US export controls tightening.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.theregister.com/systems/2026/11/19/qualcomm-offers-test-drive-of-its-rack-scale-nvidia-ai-challenger/5310966"&gt;The Register&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theregister.com/personal-tech/2026/11/19/microsoft-to-do-will-soon-become-microsoft-done/5310973"&gt;Microsoft To Do retires in June 2027 with no automatic task migration&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 19, 13:26&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Microsoft will retire To Do in June 2027. Tasks will not migrate automatically, and there is no Planner replacement for personal accounts. Users need to export or move their data themselves.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;This is another reminder of platform-lifecycle risk for teams that depend on consumer-tier Microsoft tools.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.theregister.com/personal-tech/2026/11/19/microsoft-to-do-will-soon-become-microsoft-done/5310973"&gt;The Register&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theregister.com/science/2026/11/19/voyager-1-celebrates-one-light-day-with-a-nice-lie-down/5310991"&gt;Voyager 1 passes one light-day but its science and engineering data have gone missing&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 19, 14:15&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;The Register reports that Voyager 1's carrier signal still reaches Earth after it passed one light-day from the planet. Science and engineering data have gone missing, however. The mission team is working on the problem.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;It is an update on a long-running engineering story, and the data loss puts the spacecraft's remaining useful life in question.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.theregister.com/science/2026/11/19/voyager-1-celebrates-one-light-day-with-a-nice-lie-down/5310991"&gt;The Register&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;Business &amp;amp; Markets&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/"&gt;Anthropic opens on Nasdaq near $111, about 33% above its $83 IPO price&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 19, 17:59&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Anthropic shares opened at roughly $111 on Nasdaq against an $83 IPO price that raised more than $80 billion in new capital. NYT calls the debut trillion-dollar scale and a watershed for AI. The jump gives an early read on public-market appetite for frontier AI labs.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;This is the day's defining market event, and it sets the public benchmark for every frontier lab valuation.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/"&gt;TechCrunch&lt;/a&gt; · &lt;a href="https://www.nytimes.com/2026/11/19/business/anthropic-ipo-washington.html"&gt;NYT Business&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/"&gt;Anthropic's IPO puts AI's circular financing boom to the test&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 19, 15:54&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;TechCrunch notes that Anthropic faces enormous compute commitments as it goes public. Its biggest infrastructure partners, including Amazon and Google, could keep profiting from AI even if Anthropic loses its lead.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;It shows where the risk in the AI buildout sits, with the infrastructure partners better insulated than the lab.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.nytimes.com/2026/11/19/business/iran-tanker-attack-strait-of-hormuz.html"&gt;Iran keeps up attacks on ships in the Strait of Hormuz; IEA says the war will reshape the energy order&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 19, 16:32&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;NYT reports that a recent strike on an already-disabled ship may signal a dangerous new phase for tankers in the Persian Gulf. Separately, the IEA's most comprehensive analysis of the war's fallout found the oil shock could speed adoption of alternative power sources.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Shipping risk and energy shifts feed through to costs and supply chains across all sectors.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.nytimes.com/2026/11/19/business/iran-tanker-attack-strait-of-hormuz.html"&gt;NYT Business&lt;/a&gt; · &lt;a href="https://www.nytimes.com/2026/11/19/business/cop31-energy-iea.html"&gt;NYT Business (IEA)&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.nytimes.com/2026/11/19/technology/google-search-ads-ai.html"&gt;Google's search ad growth slows as AI becomes more prevalent&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 19, 16:16&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;NYT reports that Google's embrace of AI is disrupting the search advertising that has long fueled the company. Search ad growth is slowing as AI answers spread.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;It shows the core business model of a major AI vendor being reshaped by its own AI products.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.nytimes.com/2026/11/19/technology/google-search-ads-ai.html"&gt;NYT Technology&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.nytimes.com/2026/11/18/business/dealbook/dealbook-summit-musk-altman-ellison.html"&gt;DealBook Summit takeaways: Nvidia fallout after Huang's ouster, AI bubble fears, politics&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 19, 15:08&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;NYT's summit roundup covers AI bubble fears, the reverberations of Jensen Huang's ouster at Nvidia, prediction markets and shifting US politics. Elon Musk, Sam Altman, Larry Ellison and Mayor Mamdani were among the speakers.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;It collects the leadership commentary on valuations and Nvidia that is shaping market sentiment around Anthropic's debut.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.nytimes.com/2026/11/18/business/dealbook/dealbook-summit-musk-altman-ellison.html"&gt;NYT Business&lt;/a&gt; · &lt;a href="https://www.nytimes.com/2026/11/19/business/dealbook/mamdani-musk-altman-summit-highlights.html"&gt;NYT Business (highlights)&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/"&gt;Former Alibaba exec's Everful raises $48.5M to link retailers with Chinese factories&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 19, 18:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Everful raised $48.5 million to expand its factory-direct sourcing platform, which helps retailers buy from overseas manufacturers. It comes as tariffs and supply chain shifts keep pushing buyers to rethink sourcing.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;It is a funding signal for cross-border sourcing platforms amid trade tension.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/"&gt;TechCrunch&lt;/a&gt;&lt;br&gt;
 &lt;/p&gt;</content>
   </entry>
 </feed>
