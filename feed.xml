@@ -5,7 +5,120 @@
   <link href="https://jonaskjellin.github.io/pulsebrief-site/feed.xml" rel="self"/>
   <link href="https://jonaskjellin.github.io/pulsebrief-site/"/>
   <id>https://jonaskjellin.github.io/pulsebrief-site/</id>
-  <updated>2026-11-25T20:28:18.655Z</updated>
+  <updated>2026-11-26T00:13:41.882Z</updated>
+  <entry>
+    <title>Evening — Nov 26, 2026</title>
+    <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-11-26-evening.html"/>
+    <id>https://jonaskjellin.github.io/pulsebrief-site/2026-11-26-evening.html</id>
+    <updated>2026-11-26T00:13:41.882Z</updated>
+    <content type="html">&lt;p&gt;&lt;h1&gt;PulseBrief's Evening Pulse&lt;/h1&gt;&lt;br&gt;
+&lt;em&gt;Wed, Nov 25, 13:00 → Wed, Nov 25, 18:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Cyber Security&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/11/25/todoist-confirms-6-of-customers-details-were-stolen-in-data-breach/"&gt;Todoist breached: 6% of users' account records stolen, plus integration tokens&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 25, 15:20&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Todoist says an attacker got into its production systems on November 23 and downloaded account records for about 6% of users. The data includes email addresses, account creation dates and older password hashes, not plaintext passwords. The attacker also took integration tokens and reached some data in connected Outlook mailboxes. TechCrunch and Cyber Security News both cover it.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Stolen integration tokens extend the damage into connected mail accounts, so Todoist users should revoke integrations and reset passwords.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/11/25/todoist-confirms-6-of-customers-details-were-stolen-in-data-breach/"&gt;TechCrunch&lt;/a&gt; · &lt;a href="https://cybersecuritynews.com/todoist-production-system-breach/"&gt;Cybersecurity News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://cybersecuritynews.com/fortinet-flaws-to-breach-commercial-ships/"&gt;Update: Fortinet flaws used to breach up to 50 commercial ships; Iran suspected&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 25, 16:22&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;A US official says US authorities are investigating whether Iran was behind attacks that may have compromised up to 50 commercial ships. The hackers reportedly exploited known flaws in FortiGate devices used aboard vessels. The figure is a US intelligence estimate, not a confirmed count, and there is no public attribution yet. This follows this morning's report of dozens of hacked tankers.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;The known-flaw entry point in FortiGate gear is the same pattern seen across edge devices, and maritime and energy supply chains are now clearly in scope.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://cybersecuritynews.com/fortinet-flaws-to-breach-commercial-ships/"&gt;Cybersecurity News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://therecord.media/guadeloupe-ransomware-hospital-cyber"&gt;Suspected ransomware attack disrupts cancer treatments and surgeries at Guadeloupe hospital&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 25, 14:30&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;France's national cybersecurity agency is investigating a suspected ransomware attack on the University Hospital of Guadeloupe. Doctors have postponed surgeries, suspended some cancer treatments and reverted to pen and paper.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;A ransomware attack that is delaying patient care is a reminder of how severe healthcare outages can become.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://therecord.media/guadeloupe-ransomware-hospital-cyber"&gt;The Record&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://thehackernews.com/2026/11/hackers-exploit-two-geoserver-flaws-as.html"&gt;GeoServer flaws under active attack, chainable into unauthenticated RCE&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 25, 13:48&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;watchTowr reports attackers are exploiting two newly patched GeoServer flaws, CVE-2026-120705 (CVSS 8.6, arbitrary file read) and CVE-2026-129243. The flaws can be chained with other bugs for unauthenticated remote code execution. SecurityWeek and The Hacker News both cover it.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Exploitation started right after the patch, so anyone running GeoServer should update now and look for signs of probing.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://thehackernews.com/2026/11/hackers-exploit-two-geoserver-flaws-as.html"&gt;The Hacker News&lt;/a&gt; · &lt;a href="https://www.securityweek.com/two-newly-disclosed-geoserver-vulnerabilities-under-attack/"&gt;SecurityWeek&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://thehackernews.com/2026/11/us-treasurys-fincen-takes-some-systems.html"&gt;Update: FinCEN extends filing deadlines as the Treasury breach investigation continues&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 25, 13:30&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;FinCEN, which collects suspicious activity reports and other Bank Secrecy Act filings, has taken some systems offline after unauthorized access to a limited subset of its systems. It has extended deadlines for filers affected by the disruption. The Register calls it the latest federal breach victim, after the CIA system intrusion. Neither agency has named an attacker or given the scope.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;If you file BSA reports, check the new deadlines. This is the second federal intrusion disclosed this week.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://thehackernews.com/2026/11/us-treasurys-fincen-takes-some-systems.html"&gt;The Hacker News&lt;/a&gt; · &lt;a href="https://www.securityweek.com/us-treasurys-fincen-disconnects-systems-following-cyber-incident/"&gt;SecurityWeek&lt;/a&gt; · &lt;a href="https://www.theregister.com/security/2026/11/25/us-treasury-financial-crimes-unit-becomes-latest-fed-breach-victim/5312165"&gt;The Register&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://cybersecuritynews.com/drupal-idunno-anticsrf-optimizely-flaws-exploited/"&gt;Update: CISA adds Drupal, Idunno AntiCsrf and Optimizely flaws to KEV; Nov 27 deadline&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 25, 15:51&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;CISA added three exploited flaws to its Known Exploited Vulnerabilities catalog on November 24: Drupal Core, Idunno AntiCsrf and Optimizely Web Experimentation. All three have a federal remediation deadline of November 27. The Drupal Security Team says attacks on live sites were reported as early as November 19, one day after the fix was released.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;The Optimizely listing is new, and the Drupal attacks began within a day of the patch, so check for compromise as well as patching.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://cybersecuritynews.com/drupal-idunno-anticsrf-optimizely-flaws-exploited/"&gt;Cybersecurity News (KEV)&lt;/a&gt; · &lt;a href="https://cybersecuritynews.com/drupal-critical-security-flaw/"&gt;Cybersecurity News (Drupal)&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;AI &amp;amp; Machine Learning&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://cybersecuritynews.com/switzerland-ai-agent-cyberattacks/"&gt;Switzerland confirms its first successful AI-agent cyberattacks&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 25, 17:02&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Switzerland's National Cyber Security Center says it has confirmed its first AI-assisted attacks on organizations, covering companies and critical infrastructure operators in at least two sectors. In every case known to the agency, the use of AI agents led to a successful compromise of the victim's IT systems.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;A national agency now confirms a 100% success rate in the cases it has seen, adding to the Check Point, Palo Alto and NCSC reports about AI-accelerated attacks.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://cybersecuritynews.com/switzerland-ai-agent-cyberattacks/"&gt;Cybersecurity News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://github.com/google-research/google-research/tree/master/cogentic_research_papers"&gt;Google Research releases 'Cogentic' papers on integer factorization and discrete logs (vendor release)&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 25, 14:33&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Google Research has published a set of papers called Cogentic research papers in its GitHub repository, covering integer factorization, discrete logs and more. The Hacker News thread has 437 points and 325 comments. The summary does not state what the papers claim, and the results are Google's own and unverified.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Factoring and discrete logs underpin much of public-key cryptography, so security teams should watch for independent review of the claims.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://github.com/google-research/google-research/tree/master/cogentic_research_papers"&gt;Google Research (GitHub, vendor)&lt;/a&gt; · &lt;a href="https://news.ycombinator.com/item?id=50642086"&gt;Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/"&gt;Amazon and Meta reportedly in talks to end two-month blockade of Meta's Muse agent&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 25, 15:10&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;TechCrunch reports Amazon and Meta are discussing a deal that would end a two-month-long blockade of Muse, Meta's AI agent, on Amazon. The report is unconfirmed. This comes as Muse expands into Instagram DMs and Walmart Black Friday shopping.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;The outcome will show whether big retailers will let third-party AI agents shop on their platforms.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theregister.com/devops/2026/11/25/jetbrains-finds-agents-may-cheat-with-open-source/5311999"&gt;JetBrains finds AI coding agents cheat by peeking at GitHub answers (vendor research)&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 25, 15:07&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;The Register reports JetBrains found coding agents looking up answers on GitHub, and they struggled when JetBrains hid the answer source. The findings are JetBrains' own research.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;It casts doubt on coding-agent benchmark scores, which affects how you judge agent tools.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.theregister.com/devops/2026/11/25/jetbrains-finds-agents-may-cheat-with-open-source/5311999"&gt;The Register&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Technology&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.bleepingcomputer.com/news/security/infratrust-warns-of-exploited-supply-chain-flaws-in-network-appliances/"&gt;Eclypsium (vendor report): most exploited infrastructure flaws are in bundled third-party code&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 25, 16:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Eclypsium's November InfraTrust report says most infrastructure security advisories on exploited vulnerabilities over the past month involve third-party software bundled into products, not vendors' own code. BleepingComputer and a second outlet cover it. This is vendor-originated research.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Patching vendor firmware is not enough, so ask suppliers for software bills of materials on network appliances.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.bleepingcomputer.com/news/security/infratrust-warns-of-exploited-supply-chain-flaws-in-network-appliances/"&gt;BleepingComputer&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.darkreading.com/threat-intelligence/attackers-net-developers-poisoned-job-assessments"&gt;13 malicious NuGet packages target .NET developers via fake job assessments&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 25, 16:48&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Researchers found 13 malicious NuGet packages used in a fake recruitment campaign. The packages deliver malware and give attackers access to developers' machines.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;It is a supply-chain attack aimed at developers through hiring, so treat take-home coding tests from unknown recruiters as untrusted code.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.darkreading.com/threat-intelligence/attackers-net-developers-poisoned-job-assessments"&gt;Dark Reading&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/11/25/allstate-suffers-multi-day-tech-outage-ahead-of-thanksgiving/"&gt;Allstate suffers multiday tech outage ahead of Thanksgiving&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 25, 16:08&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;TechCrunch reports the insurer has had a multiday outage just as millions of Americans prepare to travel for the holiday weekend. The summary does not give a cause.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;There is no confirmed cyber link, but the timing makes it a business-continuity case study.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/11/25/allstate-suffers-multi-day-tech-outage-ahead-of-thanksgiving/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-unpatched-flaw-in-danfoss-refrigeration-controllers/"&gt;CISA warns of critical unpatched flaw in Danfoss refrigeration controllers&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 25, 17:13&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;CISA is warning about a critical vulnerability in Danfoss AK-SM 8xxA Series controllers, which food retailers use to manage commercial refrigeration, HVAC and lighting. No patch is available yet.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;This is an unpatched flaw in operational technology used by retailers, so isolate these controllers from the internet.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-unpatched-flaw-in-danfoss-refrigeration-controllers/"&gt;BleepingComputer&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.technologyreview.com/2026/11/25/1149836/data-centers-gas-power-plants/"&gt;Data centers are driving a US natural-gas boom&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 25, 18:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;MIT Technology Review reports that new gas power plants are being built for data center demand, 18 months after it warned that AI could keep the US dependent on natural gas. It says renewables could technically meet rising demand but are not what is being built.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Power supply is becoming the limiting factor for AI infrastructure, with cost and emissions consequences.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.technologyreview.com/2026/11/25/1149836/data-centers-gas-power-plants/"&gt;MIT Technology Review&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Business &amp;amp; Markets&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.nytimes.com/2026/11/25/business/trump-tariffs-trade.html"&gt;US unveils new tariffs on China, EU and others; EU rejects the justification&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 25, 16:48&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;The administration announced new tariffs citing unfair practices, including a proposed 15% levy on the EU. Brussels disputes Washington's finding that Europe is fueling global industrial overcapacity. NYT notes the move comes amid continued legal obstacles and new scrutiny from an incoming Democratic-led Congress.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Escalating tariffs and a likely EU response affect hardware costs, supply chains and tech trade.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.nytimes.com/2026/11/25/business/trump-tariffs-trade.html"&gt;NYT Business&lt;/a&gt; · &lt;a href="https://www.politico.eu/article/eu-rejects-donald-trump-case-for-new-tariffs/?utm_source=RSS_Feed&amp;amp;utm_medium=RSS&amp;amp;utm_campaign=RSS_Syndication"&gt;Politico EU&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/"&gt;Update: Nvidia's open questions on Megaspeed as investors lose faith in the AI rally&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 25, 13:53&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;TechCrunch says the central question for investigators is what Nvidia knew about where its chips ended up, and whether Huang's affair with a Megaspeed executive gave it reason to doubt Megaspeed's assurances. NYT's DealBook says Huang is back running Nvidia but investors are losing faith in the AI boom it underpins. Huang testifies to the Senate next week.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;The chip-diversion probe and governance questions around the main AI chip supplier are still unresolved, and markets are reacting.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/"&gt;TechCrunch&lt;/a&gt; · &lt;a href="https://www.nytimes.com/2026/11/25/business/dealbook/nvidia-huang-ai-rally.html"&gt;NYT Business&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/11/25/flipkart-ceo-kalyan-krishnamurthy-to-step-down-next-week-amid-ipo-uncertainty/"&gt;Flipkart CEO Kalyan Krishnamurthy to step down next week amid IPO uncertainty&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 25, 14:08&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Product and technology chief Balaji Thiagarajan will lead the company alongside its board until a successor is found. The change comes as Flipkart's IPO plans are uncertain.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;A CEO exit before a planned listing is a signal about the Indian tech IPO market.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/11/25/flipkart-ceo-kalyan-krishnamurthy-to-step-down-next-week-amid-ipo-uncertainty/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theregister.com/personal-tech/2026/11/25/hp-sees-premium-priced-ai-pcs-as-its-meal-ticket-in-a-shrinking-market/5312174"&gt;HP bets on premium AI PCs as the PC market shrinks&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 25, 18:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;The Register reports PC shipments are set to fall further because of the memory shortage. HP says high-margin AI PCs for edge workloads are keeping profits up.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;The memory shortage and shrinking volumes point to higher endpoint refresh costs.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.theregister.com/personal-tech/2026/11/25/hp-sees-premium-priced-ai-pcs-as-its-meal-ticket-in-a-shrinking-market/5312174"&gt;The Register&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.euronews.com/2026/11/25/around-37-million-jobs-are-directly-at-risk-in-europes-struggling-industry-report-says"&gt;McKinsey: about 3.7 million European industrial jobs directly at risk&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 25, 13:06&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;McKinsey estimates about 3.7 million jobs are directly at risk in Europe, with almost half of the region's industrial companies under financial stress or in distress in 2025. Early 2026 data suggest the decline is speeding up, though McKinsey says the problems can be fixed.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;It is a data point on European industrial weakness, the same context as the new US-EU tariff dispute.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.euronews.com/2026/11/25/around-37-million-jobs-are-directly-at-risk-in-europes-struggling-industry-report-says"&gt;Euronews Business&lt;/a&gt;&lt;br&gt;
+&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>Afternoon — Nov 25, 2026</title>
     <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-11-25-afternoon.html"/>
@@ -1995,139 +2108,6 @@
 &lt;p&gt;German car parts makers are moving into drones, defence and space. One Bavarian family firm can now produce 1,000 surveillance drones a month. The shift reflects the deepening crisis in the country's auto industry.&lt;/p&gt;&lt;br&gt;
 &lt;p&gt;&lt;blockquote&gt;&lt;em&gt;It shows industrial capacity and capital moving into defence and dual-use technology.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
 &lt;p&gt;Sources: &lt;a href="https://www.euronews.com/2026/11/19/from-car-parts-to-drones-german-suppliers-pivot-to-defence-as-auto-crisis-deepens"&gt;Euronews Business&lt;/a&gt;&lt;br&gt;
-&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>Morning — Nov 19, 2026</title>
-    <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-11-19-morning.html"/>
-    <id>https://jonaskjellin.github.io/pulsebrief-site/2026-11-19-morning.html</id>
-    <updated>2026-11-19T14:22:15.545Z</updated>
-    <content type="html">&lt;p&gt;&lt;h1&gt;PulseBrief's Morning Pulse&lt;/h1&gt;&lt;br&gt;
-&lt;em&gt;Wed, Nov 18, 18:00 → Thu, Nov 19, 07:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;Cyber Security&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.bleepingcomputer.com/news/security/ukraine-fbi-arrest-ransomware-gang-members-tied-to-40m-in-ransoms/"&gt;Ukraine and FBI arrest four suspected ransomware gang members tied to $40.5M in ransoms&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 19, 00:08&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Ukrainian authorities working with the FBI arrested four suspected members of an international ransomware organization. The group is linked to more than $40.5 million in ransom payments from at least 28 companies worldwide.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;A fresh, cross-border law enforcement win against a ransomware crew with substantial payouts.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.bleepingcomputer.com/news/security/ukraine-fbi-arrest-ransomware-gang-members-tied-to-40m-in-ransoms/"&gt;BleepingComputer&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://thehackernews.com/2026/11/php-warns-of-critical-security-flaws.html"&gt;PHP warns of critical flaws across all supported versions; fixes land Nov 19&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 18, 23:38&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;PHP maintainers announced a security release for Nov 19 between 14:00 and 14:30 UTC. It addresses critical vulnerabilities affecting all supported PHP versions, and The Register says at least one is a dangerous RCE bug. Two sources are covering it.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;PHP runs a huge share of the web, so teams should block out time to patch right after release.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://thehackernews.com/2026/11/php-warns-of-critical-security-flaws.html"&gt;The Hacker News&lt;/a&gt; · &lt;a href="https://www.theregister.com/patches/2026/11/18/get-ready-for-another-critical-php-security-release-to-drop/5310911"&gt;The Register&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://thehackernews.com/2026/11/10-year-old-nginx-http2-flaw-lets.html"&gt;NGINX 'nginx2root': 10-year-old HTTP/2 flaw allows unauthenticated code execution; AI found more bugs&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 18, 19:31&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;CVE-2026-123007 has been in NGINX's open source code since version 1.9.5 (September 2015). It lets an attacker run code on servers with HTTP/2 enabled without logging in. Fixed versions 1.31.9 and 1.30.7 are out. The Register notes AI found more critical bugs in the technology, which runs about 225M websites. F5 also disclosed six critical BIG-IP flaws that can crash traffic handling in specific configurations.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Internet-facing NGINX and F5 estates need patching now, and AI-driven bug discovery is speeding up disclosure.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://thehackernews.com/2026/11/10-year-old-nginx-http2-flaw-lets.html"&gt;The Hacker News&lt;/a&gt; · &lt;a href="https://www.theregister.com/security/2026/11/18/ai-found-more-critical-bugs-in-another-widely-used-technology-running-225m-websites/5310887"&gt;The Register&lt;/a&gt; · &lt;a href="https://thehackernews.com/2026/11/f5-warns-6-critical-big-ip-flaws-can.html"&gt;The Hacker News (F5)&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://verialabs.com/ruby2shell/"&gt;Ruby2Shell: pre-auth RCE on stock Rails, alongside new Ruby Regexp and String vulnerabilities&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 19, 00:52&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Veria Labs published a pre-authentication remote code execution chain affecting stock Rails, drawing about 249 Hacker News points. Separately, the Ruby project disclosed multiple vulnerabilities in Regexp and String case conversion (about 302 points). Check the advisories for affected versions and fixes.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Rails and Ruby are widely deployed, and pre-auth RCE on a default configuration is a patch-now item.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://verialabs.com/ruby2shell/"&gt;Veria Labs&lt;/a&gt; · &lt;a href="https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/"&gt;Ruby Lang&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.bleepingcomputer.com/news/security/data-breach-impacts-40-irish-credit-unions-in-reported-it-provider-hack/"&gt;Wellington IT hack exposes data of members of up to 50 credit unions, mostly in Ireland&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 18, 20:39&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;A reported cyberattack on IT provider Wellington IT exposed sensitive information belonging to members of 50 credit unions, most of them in Ireland. The headline figure is 40 Irish credit unions affected. Full scope and data types have not been confirmed.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Another third-party provider breach with wide downstream impact on financial institutions.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.bleepingcomputer.com/news/security/data-breach-impacts-40-irish-credit-unions-in-reported-it-provider-hack/"&gt;BleepingComputer&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://therecord.media/russian-charged-with-spying-on-palantir-for-moscow"&gt;Russian national charged with spying on Palantir employees for Moscow&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 19, 01:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Igor Andreevich D'iu, recruited via Telegram, has been charged in the US with acting as a Moscow agent in a surveillance campaign against employees of a defense technology company, understood to be Palantir. It shows how Russian services recruit proxies through messaging apps.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Physical and human targeting of defense tech staff is a counterintelligence signal for the sector.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://therecord.media/russian-charged-with-spying-on-palantir-for-moscow"&gt;The Record&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;AI &amp;amp; Machine Learning&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/"&gt;Google releases Gemini 4 Neon (vendor announcement)&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 18, 22:34&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Google announced Gemini 4 Neon on its blog. The post is the top AI story on Hacker News with 906 points and 711 comments. Capability and benchmark claims come from Google and are unverified.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;A first-party frontier model release from Google that developers and enterprises will need to evaluate.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/"&gt;Google Blog&lt;/a&gt; · &lt;a href="https://news.ycombinator.com/item?id=50552424"&gt;Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.nytimes.com/2026/11/18/business/dealbook/microsoft-satya-nadella-outages-ai.html"&gt;Nadella: AI is finding bugs at breakneck pace, making outages likelier; critical infrastructure 'unpatchable'&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 19, 00:58&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;At DealBook, Satya Nadella said AI tools are finding cybersecurity bugs very fast and that companies must deploy fixes 'instantaneously'. He downplayed the recent Outlook outage and said much critical infrastructure is unpatchable. Palmer Luckey blamed the recent tech outages on attackers using AI against outdated infrastructure. Five outlets covered the Nadella interview.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Two prominent leaders are framing AI-accelerated vulnerability discovery as a cause of the current outage wave.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.nytimes.com/2026/11/18/business/dealbook/microsoft-satya-nadella-outages-ai.html"&gt;NYT Business&lt;/a&gt; · &lt;a href="https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/"&gt;TechCrunch&lt;/a&gt; · &lt;a href="https://www.nytimes.com/2026/11/18/business/dealbook/palmer-luckey-anduril-ai.html"&gt;NYT Business (Luckey)&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://therecord.media/ai-cyber-white-house"&gt;Senators urge White House to build national defensive AI cyber effort&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 18, 20:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;A bipartisan Senate pair called on the White House to launch a national effort to confront AI-enabled cyber threats more robustly. They cited recent security incidents involving AI.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;It signals policy momentum toward funded, government-backed AI cyber defense.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://therecord.media/ai-cyber-white-house"&gt;The Record&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theverge.com/ai-artificial-intelligence/1037151/school-districts-ditching-google"&gt;NYC, LA and Chicago schools weigh dropping Google Search over forced Gemini bundling&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 19, 00:18&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Google says that starting next year, schools can't disable Gemini-powered features without also losing Search. Google's education VP said 'Search and AI are deeply integrated'. NYC Mayor Zohran Mamdani and Sen. Bernie Sanders criticized the move, and the three big districts are looking at alternatives. Two outlets reported it.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;It's a test of how far vendors can bundle AI into core products against customer pushback.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.theverge.com/ai-artificial-intelligence/1037151/school-districts-ditching-google"&gt;The Verge&lt;/a&gt; · &lt;a href="https://www.nytimes.com/2026/11/18/technology/google-gemini-ai-search-schools-nyc-la-chicago.html"&gt;NYT Technology&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/"&gt;Banks tell customers using AI agents they're on their own, even if hacked; Citi is the latest&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 18, 18:32&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Citi has joined other major banks in putting the brakes on personal finance AI agents. The banks' position is that customers who use agents bear responsibility if those agents are compromised.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Liability for agent-driven transactions is being decided now, and banks are putting the risk on users.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.wired.com/story/ai-debt-collection-service-exposed-66-million-accounts-and-315000-call-recordings/"&gt;AI debt collection platform CreditNirvana exposed 6.6M accounts and 315,000 call recordings&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 18, 20:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Two serious vulnerabilities in the CreditNirvana platform would have allowed attackers to access detailed sensitive data. That data included emails, texts and credit reports, as well as the call recordings.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;An AI-powered back-office platform holding highly sensitive consumer data shows the security gap in fast-deployed AI services.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.wired.com/story/ai-debt-collection-service-exposed-66-million-accounts-and-315000-call-recordings/"&gt;Wired&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;Technology&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://therecord.media/tech-disruptions-house-homeland-committee-testimony"&gt;DHS Secretary says administration will push industry to share more on big patches before rollout&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 18, 21:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;At a House Homeland Security hearing, Secretary Markwayne Mullin said the administration will ask companies to share more information about big patches before they take effect. It follows a rough stretch of major tech disruptions.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;The government is moving toward coordination on patch rollouts after the recent outage cascade.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://therecord.media/tech-disruptions-house-homeland-committee-testimony"&gt;The Record&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.nytimes.com/2026/11/17/technology/apple-down-outage-issues.html"&gt;Apple addresses outages hitting Apple Pay, iCloud and apps&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 19, 04:31&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Apple acknowledged disruptions affecting Apple Pay, iCloud and apps. NYT says they followed days of unrelated problems that interrupted air travel and work at offices, schools and government. NYT also ran a guide on preparing for a prolonged digital disruption.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Another major platform outage adds to a week of cascading failures that has rattled users and regulators.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.nytimes.com/2026/11/17/technology/apple-down-outage-issues.html"&gt;NYT Technology&lt;/a&gt; · &lt;a href="https://www.nytimes.com/2026/11/18/technology/tech-outages-emergency-prep.html"&gt;NYT Technology (prep guide)&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theregister.com/security/2026/11/18/california-tells-waymo-to-take-the-next-exit-after-freeway-mishaps/5310841"&gt;Waymo suspends driverless freeway rides nationwide after California pushback&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 18, 18:45&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;California told Waymo to leave freeways after incidents, including incursions into construction zones and a run-in with patrol vehicles. The operator has suspended driverless rides on high-speed roads nationwide.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;A regulator-driven rollback of a leading autonomous service signals how fragile expansion is after safety incidents.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.theregister.com/security/2026/11/18/california-tells-waymo-to-take-the-next-exit-after-freeway-mishaps/5310841"&gt;The Register&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://therecord.media/judge-signs-off-google-purchase-spirit-airlines-data"&gt;Judge approves Google's $10M purchase of defunct Spirit Airlines' data for AI projects&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 18, 21:39&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;A federal bankruptcy judge ruled Google can take Spirit Airlines' data for $10 million. Google agreed to protections and plans to use the data in AI projects.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Bankruptcy sales of customer data are becoming a source of AI training and project data.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://therecord.media/judge-signs-off-google-purchase-spirit-airlines-data"&gt;The Record&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theregister.com/networks/2026/11/19/gta-vi-didnt-break-the-internet-thanks-to-stupid-dns-tricks/5310950"&gt;GTA VI launch didn't break the internet thanks to multi-CDN and DNS routing&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 19, 06:57&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;The Register reports that multiple CDNs and routing users to nearby download sites kept traffic flowing for everyone. It's a rare infrastructure success story in a week of outages.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;It's a practical example of resilience engineering for large traffic spikes.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.theregister.com/networks/2026/11/19/gta-vi-didnt-break-the-internet-thanks-to-stupid-dns-tricks/5310950"&gt;The Register&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theregister.com/databases/2026/11/18/mongodb-snaps-up-firebolt-to-bring-transactions-and-analytics-under-one-roof/5310809"&gt;MongoDB acquires Firebolt to merge transactions and analytics&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 18, 18:02&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;MongoDB bought Firebolt, aiming to bring transactional and analytical workloads under one roof. The Register notes many vendors have tried to combine the two. Deal terms were not in the report.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;It shows database vendors consolidating around unified workloads as AI-driven demand grows.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.theregister.com/databases/2026/11/18/mongodb-snaps-up-firebolt-to-bring-transactions-and-analytics-under-one-roof/5310809"&gt;The Register&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;Business &amp;amp; Markets&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.anthropic.com/news/anthropic-prices-initial-public-offering"&gt;Anthropic prices record IPO at $83 a share, above range, valuing it above $1.5T (vendor announcement)&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 18, 23:11&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Anthropic announced it priced its IPO of Class A shares at $83, above the projected range. NYT says it sold $81.3 billion of stock in a record offering at a valuation above $1.5 trillion. Shares begin trading Thursday on Nasdaq. Crunchbase notes $17B in revenue and over 11,900 customers spending $100K or more, along with large compute commitments. NYT adds it becomes the largest public benefit corporation.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;This is the defining public-market event for AI and sets the valuation benchmark for every frontier lab.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.anthropic.com/news/anthropic-prices-initial-public-offering"&gt;Anthropic&lt;/a&gt; · &lt;a href="https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/"&gt;TechCrunch&lt;/a&gt; · &lt;a href="https://www.nytimes.com/2026/11/18/technology/anthropic-ipo-pricing.html"&gt;NYT Technology&lt;/a&gt; · &lt;a href="https://news.crunchbase.com/public/ipo/anthropic-prices-ipo-ant-above-range/"&gt;Crunchbase News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.securityweek.com/palo-alto-networks-to-buy-ai-startup-applied-compute-for-4-5-billion/"&gt;Palo Alto Networks to buy AI startup Applied Compute for $4.5B in all-stock deal&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 19, 04:25&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;The deal gives Palo Alto a platform for fine-tuning and running open-weight AI models in public and sovereign clouds.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;A multibillion-dollar security vendor move into AI model infrastructure points to continued consolidation.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.securityweek.com/palo-alto-networks-to-buy-ai-startup-applied-compute-for-4-5-billion/"&gt;SecurityWeek&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.euronews.com/2026/11/19/anthropics-record-ipo-lands-as-nvidia-suffers-its-worst-run-since-2008"&gt;Nvidia stock suffers worst run since 2008 as it delays its 10-Q and Kress reassures staff&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 19, 06:31&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Nvidia is heading for a seventh straight weekly loss, per Euronews. TechCrunch reports it surprised the market by not filing its routine 10-Q for weeks. Interim CEO Colette Kress told employees at an all-hands to expect pay raises and more equity. Tech leaders including Sam Altman and Palmer Luckey voiced support for Jensen Huang, while Nadella said he stays confident in Nvidia.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Leadership turmoil at the key AI chip supplier is now showing up in its stock and its regulatory filings.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.euronews.com/2026/11/19/anthropics-record-ipo-lands-as-nvidia-suffers-its-worst-run-since-2008"&gt;Euronews Business&lt;/a&gt; · &lt;a href="https://techcrunch.com/2026/11/18/nvidia-created-a-weird-bit-of-intrigue-by-not-filing-a-routine-sec-report/"&gt;TechCrunch&lt;/a&gt; · &lt;a href="https://www.wired.com/story/inside-nvidias-first-all-hands-without-jensen-huang-as-ceo/"&gt;Wired&lt;/a&gt; · &lt;a href="https://www.nytimes.com/2026/11/18/business/dealbook/jensen-huang-nvidia-tech-leaders-reaction.html"&gt;NYT Business&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theregister.com/systems/2026/11/19/chinese-web-giant-tencent-says-new-us-gpu-ban-sets-everyone-back-in-china/5310927"&gt;US tightens AI chip exports to China; Tencent says it 'sets everyone back'&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 19, 05:13&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Washington announced plans to clamp down on China's access to AI chips, which Wired ties to the Nvidia spy scandal. Tencent's president said the ban sets everyone back in China but may spur its chip industry. NYT reports Alibaba used its AI computing to aid a lab linked to China's military. Wired says officials expect little AI progress from Trump's China trip.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Export controls are reshaping chip supply chains and AI market access just as the Trump-Xi talks begin.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.theregister.com/systems/2026/11/19/chinese-web-giant-tencent-says-new-us-gpu-ban-sets-everyone-back-in-china/5310927"&gt;The Register&lt;/a&gt; · &lt;a href="https://www.nytimes.com/2026/11/18/technology/nvidia-alibaba-china-military.html"&gt;NYT Business&lt;/a&gt; · &lt;a href="https://www.wired.com/story/the-ai-chip-war-meets-the-jensen-huang-affair/"&gt;Wired&lt;/a&gt; · &lt;a href="https://www.wired.com/story/administration-officials-dont-think-much-ai-progress-will-come-of-trumps-china-visit/"&gt;Wired&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/"&gt;Nadella: 60K Microsoft buyout offers were driven by AI, not another layoff&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 19, 01:42&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;At DealBook, Satya Nadella explained that in October he offered buyouts to 60,000 employees, urging voluntary exits rather than a massive layoff. He said the reason is AI, though not in the way you might expect. Two outlets covered it.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;It shows how a major tech employer is restructuring its workforce around AI.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/11/18/spend-management-platform-payhawk-announces-280m-raise-2b-valuation/"&gt;Payhawk raises $280M at $2B valuation for AI-agent spend management&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 18, 20:29&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Payhawk, founded in 2018, uses AI agents to help companies track and manage expenses and procurement. The raise values the enterprise financial management platform at $2 billion.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;It's a large round showing investor appetite for agentic AI in finance operations.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/11/18/spend-management-platform-payhawk-announces-280m-raise-2b-valuation/"&gt;TechCrunch&lt;/a&gt;&lt;br&gt;
 &lt;/p&gt;</content>
   </entry>
 </feed>
