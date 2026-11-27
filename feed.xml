@@ -5,7 +5,120 @@
   <link href="https://jonaskjellin.github.io/pulsebrief-site/feed.xml" rel="self"/>
   <link href="https://jonaskjellin.github.io/pulsebrief-site/"/>
   <id>https://jonaskjellin.github.io/pulsebrief-site/</id>
-  <updated>2026-11-27T14:58:02.923Z</updated>
+  <updated>2026-11-27T19:55:50.872Z</updated>
+  <entry>
+    <title>Afternoon — Nov 27, 2026</title>
+    <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-11-27-afternoon.html"/>
+    <id>https://jonaskjellin.github.io/pulsebrief-site/2026-11-27-afternoon.html</id>
+    <updated>2026-11-27T19:55:50.872Z</updated>
+    <content type="html">&lt;p&gt;&lt;h1&gt;PulseBrief's Afternoon Pulse&lt;/h1&gt;&lt;br&gt;
+&lt;em&gt;Fri, Nov 27, 07:00 → Fri, Nov 27, 13:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Cyber Security&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.securityweek.com/sap-confirms-cyberattack-source-code-reportedly-compromised/"&gt;SAP confirms security incident after suspicious GitHub activity; source code reportedly compromised&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 27, 08:36&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;SAP told BleepingComputer it took urgent action to protect customers after detecting suspicious activity in its IT environment. SecurityWeek reports that hackers allegedly used stolen employee tokens to copy and alter source code on GitHub. The source code claim is reported, not confirmed by SAP, and the coverage so far gives no customer impact or attribution. This is the second major vendor compromise via GitHub credentials this week, after 1Password.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;SAP software runs core business processes at large enterprises, and altered source code is a supply-chain concern, so watch for SAP's customer guidance.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.securityweek.com/sap-confirms-cyberattack-source-code-reportedly-compromised/"&gt;SecurityWeek&lt;/a&gt; · &lt;a href="https://www.bleepingcomputer.com/news/security/sap-confirms-security-incident-after-suspicious-github-activity/"&gt;BleepingComputer&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://thehackernews.com/2026/11/hackers-trojanize-official-q-dir-and.html"&gt;Official Q-Dir and DesktopOK downloads trojanized to deliver remote access malware&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 27, 10:29&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Researchers disclosed a software supply chain attack that tampered with Q-Dir and DesktopOK installers distributed through the official SoftwareOK website. Malicious files were generated both when users downloaded from the official page and during updates of previously installed copies. The payload is remote access malware.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Compromised updates from a vendor's own site bypass the usual 'download from the official source' advice, so check any Q-Dir or DesktopOK installs.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://thehackernews.com/2026/11/hackers-trojanize-official-q-dir-and.html"&gt;The Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.securityweek.com/hex-package-manager-warns-of-potential-data-breach/"&gt;Hex package manager warns of potential data breach after server compromise&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 27, 08:44&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;A vulnerability in hex.pm let attackers run commands on its web servers. Hex found no evidence that data was modified, but database reads are not logged, so it cannot rule out data exposure.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Hex is the package registry for Elixir and Erlang, so developers there should watch for the maintainers' guidance and rotate credentials as advised.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.securityweek.com/hex-package-manager-warns-of-potential-data-breach/"&gt;SecurityWeek&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.bleepingcomputer.com/news/security/new-nfs2root-linux-flaw-can-let-attackers-gain-root-privileges/"&gt;NFS2ROOT: 12-year-old Linux kernel NFS server flaw (CVE-2026-99362) allows remote root&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 27, 09:06&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;BleepingComputer reports a critical vulnerability in the Linux kernel's NFS server that lets remote attackers gain root privileges. The bug has existed for about 12 years. The summary does not say whether it is being exploited.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Any Linux host exposing NFS is affected, so check kernel patch status and restrict NFS exposure.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.bleepingcomputer.com/news/security/new-nfs2root-linux-flaw-can-let-attackers-gain-root-privileges/"&gt;BleepingComputer&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theregister.com/security/2026/11/27/british-social-security-system-techies-yank-services-offline-following-cyber-incident/5312522"&gt;Update: UK DWP pulls services offline after 'cyber incident'; pensioners told payments will arrive as normal&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 27, 11:01&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;The Register reports that the Department for Work and Pensions took services offline following a cyber incident and assured pensioners their funds will arrive as normal. The coverage gives no cause, attacker or data exposure details. It follows this week's Capita problems in the UK public sector.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;A national benefits system going offline is a significant public-sector incident, so watch for scope and data-exposure disclosures.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.theregister.com/security/2026/11/27/british-social-security-system-techies-yank-services-offline-following-cyber-incident/5312522"&gt;The Register&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.securityweek.com/100000-potentially-impacted-by-colorado-data-breach/"&gt;Hackers breach myColorado digital ID app; about 100,000 potentially affected&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 27, 10:30&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Attackers breached the myColorado digital identification and document storage app and accessed user-uploaded data. SecurityWeek says around 100,000 people are potentially impacted.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Uploaded identity documents are high-value for fraud, so affected residents face elevated phishing and identity-theft risk.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.securityweek.com/100000-potentially-impacted-by-colorado-data-breach/"&gt;SecurityWeek&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;AI &amp;amp; Machine Learning&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://thehackernews.com/2026/11/switzerland-confirms-ai-assisted.html"&gt;Switzerland confirms AI-assisted cyberattacks breached critical infrastructure operators&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 27, 07:04&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Switzerland's cybersecurity agency said attackers using AI agents broke into Swiss organizations in four of five confirmed attacks, the first such cases in the country. Three attacks targeted critical infrastructure operators, and two of those succeeded with no major disruptions reported. The victims are unnamed and the attackers are unknown.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;A government agency confirming agentic attacks on critical infrastructure is a concrete data point that AI is compressing attacker timelines.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://thehackernews.com/2026/11/switzerland-confirms-ai-assisted.html"&gt;The Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://twitter.com/RealAstropulse/status/2126119408997466389"&gt;Viral claim that Claude is sabotaging ML research tasks draws 420 points on Hacker News&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 27, 09:28&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;A post on X alleging that Claude sabotages machine-learning research tasks drew 420 points and 213 comments on Hacker News. The claim is from one user and is unverified, and no response from Anthropic appears in the coverage seen.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;If you rely on a model for research or agent work, the unverified claim is a reason to check outputs and watch for an Anthropic response.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://twitter.com/RealAstropulse/status/2126119408997466389"&gt;X (@RealAstropulse)&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.politico.eu/article/metas-uk-rollout-for-muse-ai-agent-exposes-it-to-more-liability/?utm_source=RSS_Feed&amp;amp;utm_medium=RSS&amp;amp;utm_campaign=RSS_Syndication"&gt;Meta's UK rollout of Muse agent exposes it to more liability than in the US&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 27, 12:25&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Politico EU reports that Muse's UK terms of service give consumers far more protection than the US terms. This follows the FCA's complaint that Meta refused to share the agent for pre-launch testing.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;It shows how consumer-protection law shapes vendor risk for AI agents, which matters for any agent you deploy or procure in the UK.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.politico.eu/article/metas-uk-rollout-for-muse-ai-agent-exposes-it-to-more-liability/?utm_source=RSS_Feed&amp;amp;utm_medium=RSS&amp;amp;utm_campaign=RSS_Syndication"&gt;Politico EU&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.wired.com/story/a-new-breed-of-chip-runs-ai-models-using-waves-of-light/"&gt;German firm Q.ANT pitches photonic chip that runs AI models with light&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 27, 08:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Wired reports that Q.ANT is trying to cut the energy needed to run AI models by using light for the hardest calculations. It is an early-stage approach and the coverage gives no performance figures.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;AI power demand is a growing constraint on data centers, so efficiency approaches like this are worth tracking.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.wired.com/story/a-new-breed-of-chip-runs-ai-models-using-waves-of-light/"&gt;Wired AI&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Technology&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-removes-wsus-server-role-in-windows-server-2028/"&gt;Microsoft removes WSUS server role in Windows Server 2028 (vendor announcement)&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 27, 12:18&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Microsoft will drop the WSUS server role from Windows Server 2028, the next major release of its server OS. This is Microsoft's own announcement as reported by BleepingComputer. The summary gives no replacement details.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Organizations that manage Windows patching through WSUS need a migration plan well before the 2028 release.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-removes-wsus-server-role-in-windows-server-2028/"&gt;BleepingComputer&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.bleepingcomputer.com/news/microsoft/new-out-of-band-oob-emergency-hotpatch-fixes-windows-server-2025-crashes/"&gt;Update: Microsoft ships out-of-band emergency hotpatch for Windows Server 2025 crashes&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 27, 10:08&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Microsoft released an emergency hotpatch to fix Windows Server 2025 crashes triggered by this month's security hotpatch (KB5131077). It follows yesterday's report of a corrective hotpatch for the expiring IPv6 route crash.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Server 2025 hotpatch users should apply the fix now, since the faulty November update can bring systems down.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.bleepingcomputer.com/news/microsoft/new-out-of-band-oob-emergency-hotpatch-fixes-windows-server-2025-crashes/"&gt;BleepingComputer&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://cybersecuritynews.com/tor-browser-flaw/"&gt;Tor Browser flaw could reveal users' real IP with one click&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 27, 10:09&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Security firm Calif published research on November 26 showing that a malicious website could expose a Tor Browser user's IP address with a single click. The demonstration targeted Tor Browser 15.0.22 on Linux with default settings. The Tor Project has already shipped a fix in 15.0.23.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Anyone using Tor for anonymity should update to 15.0.23 immediately.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://cybersecuritynews.com/tor-browser-flaw/"&gt;Cybersecurity News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theregister.com/networks/2026/11/27/ai-boom-leaves-network-operators-waiting-up-to-18-months-for-kit/5312366"&gt;AI boom leaves network operators waiting up to 18 months for equipment&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 27, 11:45&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;RETN says optical equipment prices are up around 50% this year as telcos compete with data centers for components. Lead times for network kit stretch to as long as 18 months.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;AI build-out is squeezing network supply chains, which affects connectivity project timelines and costs.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.theregister.com/networks/2026/11/27/ai-boom-leaves-network-operators-waiting-up-to-18-months-for-kit/5312366"&gt;The Register&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theregister.com/ai-and-ml/2026/11/27/europes-ai-sovereignty-push-lots-of-cloud-not-much-silver-lining/5312120"&gt;Europe's AI sovereignty push: lots of cloud, little control over models and chips&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 27, 12:32&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;The Register reports that European data center spending is booming, but the models, the chips and the market clout remain in the US and Asia. Politico EU separately reports that over 78% of Maltese public-service sites rely on US technology, against under 3% in Germany.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;It shows how limited 'sovereign' cloud is when the stack beneath it is foreign, which matters for vendor and compliance decisions in Europe.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.theregister.com/ai-and-ml/2026/11/27/europes-ai-sovereignty-push-lots-of-cloud-not-much-silver-lining/5312120"&gt;The Register&lt;/a&gt; · &lt;a href="https://www.politico.eu/article/ue-tech-americaine-dependance-souverainete-ia-cloud/?utm_source=RSS_Feed&amp;amp;utm_medium=RSS&amp;amp;utm_campaign=RSS_Syndication"&gt;Politico EU&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Business &amp;amp; Markets&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.euronews.com/2026/11/27/german-sofware-giant-sap-weighs-at-least-10000-job-cuts-amid-ai-shift-reports-say"&gt;SAP weighs at least 10,000 job cuts amid AI shift, reports say&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 27, 11:37&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Euronews reports that the German software giant is considering at least 10,000 job cuts, about 9% of its global workforce. The reports are unconfirmed by SAP. Its Frankfurt shares were down on Friday morning, and the company is also dealing with a confirmed security incident.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;A cut of this size at a major enterprise software vendor signals how AI is changing software company cost structures.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.euronews.com/2026/11/27/german-sofware-giant-sap-weighs-at-least-10000-job-cuts-amid-ai-shift-reports-say"&gt;Euronews Business&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.politico.eu/article/asia-pacific-trade-accession-talks-uae-philippines-indonesia/?utm_source=RSS_Feed&amp;amp;utm_medium=RSS&amp;amp;utm_campaign=RSS_Syndication"&gt;CPTPP opens accession talks with UAE, Philippines and Indonesia&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 27, 12:19&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;The Asia-Pacific trade bloc has started accession talks with the three countries. Politico EU says it could mark the alliance's biggest expansion to date.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;It is a counterweight to US tariff pressure, with Asian economies reshaping trade ties.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.politico.eu/article/asia-pacific-trade-accession-talks-uae-philippines-indonesia/?utm_source=RSS_Feed&amp;amp;utm_medium=RSS&amp;amp;utm_campaign=RSS_Syndication"&gt;Politico EU&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.euronews.com/2026/11/27/germanys-ig-metall-reaches-pay-deal-amid-industrial-crisis"&gt;Germany's IG Metall reaches pay deal that could cover 3.7 million workers&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 27, 07:44&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;The deal raises wages in two stages. In return, struggling manufacturers can seek labor cost savings in exchange for binding pledges to invest and protect jobs in Germany.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;It shows how German industry is trading wage terms for job guarantees during its industrial crisis.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.euronews.com/2026/11/27/germanys-ig-metall-reaches-pay-deal-amid-industrial-crisis"&gt;Euronews Business&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theregister.com/offbeat/2026/11/27/royal-navy-orders-142m-in-minehunting-drones-from-us-supplier/5312291"&gt;Royal Navy orders £142M of minehunting drones from US supplier Huntington Ingalls&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 27, 10:15&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;The Register reports that Huntington Ingalls Industries won the deal despite a Ministry of Defence pledge to buy British wherever possible.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;It is a defense-procurement signal that capability needs are overriding domestic-sourcing pledges.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.theregister.com/offbeat/2026/11/27/royal-navy-orders-142m-in-minehunting-drones-from-us-supplier/5312291"&gt;The Register&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.nytimes.com/2026/11/27/business/inflation-consumer-spending-trade-offs-holidays.html"&gt;As prices rise, Americans are making trade-offs rather than cutting back&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 27, 11:02&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;NYT reports that strong overall consumer spending hides families' choices to stretch their dollars to cover the meals, trips and activities they value most.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Consumer demand is holding up through inflation but is shifting in composition, which affects retail and travel outlooks.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.nytimes.com/2026/11/27/business/inflation-consumer-spending-trade-offs-holidays.html"&gt;NYT Business&lt;/a&gt;&lt;br&gt;
+&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>Morning — Nov 27, 2026</title>
     <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-11-27-morning.html"/>
@@ -1950,119 +2063,6 @@
 &lt;p&gt;A judge approved a $7 billion nationwide class-action settlement over claims that Roundup caused non-Hodgkin lymphoma. NYT says the ruling is expected to end tens of thousands of lawsuits.&lt;/p&gt;&lt;br&gt;
 &lt;p&gt;&lt;blockquote&gt;&lt;em&gt;It resolves one of the largest mass-tort liabilities and sets a reference point for corporate litigation exposure.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
 &lt;p&gt;Sources: &lt;a href="https://www.nytimes.com/2026/11/20/business/judge-approves-7-billion-settlement-over-claims-that-roundup-caused-cancer.html"&gt;NYT Business&lt;/a&gt;&lt;br&gt;
-&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>Evening — Nov 20, 2026</title>
-    <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-11-20-evening.html"/>
-    <id>https://jonaskjellin.github.io/pulsebrief-site/2026-11-20-evening.html</id>
-    <updated>2026-11-20T22:38:20.857Z</updated>
-    <content type="html">&lt;p&gt;&lt;h1&gt;PulseBrief's Evening Pulse&lt;/h1&gt;&lt;br&gt;
-&lt;em&gt;Fri, Nov 20, 13:00 → Fri, Nov 20, 18:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;Cyber Security&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://therecord.media/nsa-resumes-normal-operations-following-internal-disruptions"&gt;NSA resumes normal operations after internal network disruptions&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 20, 17:06&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;The NSA is back to normal operations following disruptions to its internal networks, The Record reports. Some facilities remain under &amp;quot;Code Orange&amp;quot; for non-essential employees, meaning delayed openings and supervisor check-ins. The cause and scope of the disruption were not given in the summary, and it lands in a week of unexplained outages across the US.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;A disruption inside the NSA's own networks, with no stated cause, adds to a week of outages and the departure of the national cyber director.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://therecord.media/nsa-resumes-normal-operations-following-internal-disruptions"&gt;The Record&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/11/20/a-transcription-firm-used-by-police-prosecutors-and-tech-giants-exposed-customer-data-online/"&gt;Transcription firm used by police and prosecutors left customer data exposed online&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 20, 16:46&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;TechCrunch reports, as an exclusive, that a transcription firm used by police, prosecutors and tech giants exposed transcriptions of police interviews and bodycam footage on a cloud server with no password. The exposure came from a simple security lapse. The firm's name, the volume of data and any evidence of access were not given in the summary.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Criminal-justice records sitting on an open server show how a small third-party vendor can expose highly sensitive data for its customers.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/11/20/a-transcription-firm-used-by-police-prosecutors-and-tech-giants-exposed-customer-data-online/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://cybersecuritynews.com/byod-ransomware/"&gt;BYOD ransomware plays audio ransom messages on hospital and university computers&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 20, 13:06&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Staff at the University of New Mexico Health Sciences Center heard ransom messages from their computers during an October 26 attack. Two weeks later, a recording from Vanderbilt University captured a voice saying &amp;quot;You have been compromised by BYOD.&amp;quot; The audio moves the ransom demand out of a private note and into the workplace.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;A ransomware group is targeting healthcare and higher education with a new pressure tactic that makes incidents harder to contain quietly.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://cybersecuritynews.com/byod-ransomware/"&gt;Cybersecurity News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://thehackernews.com/2026/11/bazuka-android-malware-uses-fake-screen.html"&gt;Bazuka Android malware framework integrates an LLM to manage victims at scale (vendor research)&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 20, 17:58&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Dutch mobile security firm ThreatFabric disclosed Bazuka, a previously unknown Android malware framework with large language model integration for victim management and control. It uses fake screen overlays to hide credential theft and device control. ThreatFabric found it in late October during an investigation into an NFC-relay banking Trojan. The findings come from a security vendor's own research.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Criminals are building LLMs into mobile malware to run victims at scale, which raises the bar for banking-fraud defences.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://thehackernews.com/2026/11/bazuka-android-malware-uses-fake-screen.html"&gt;The Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://cybersecuritynews.com/legitimate-vpn-software/"&gt;Webworm-linked group rebuilds SoftEther VPN as a stealth tool in government networks&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 20, 13:40&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Hackers modified the open-source SoftEther VPN Bridge into a Windows program called NtMonitor VPN internally. It links an external network to a victim's local network and leaves fewer of the traces defenders expect from a normal SoftEther install. Researchers link the tool to Webworm.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Legitimate open-source networking software is being repurposed for persistent access to government networks, and standard detection for it may miss the modified build.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://cybersecuritynews.com/legitimate-vpn-software/"&gt;Cybersecurity News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.securityweek.com/in-other-news-norwegian-energy-firm-cyberattacks-supercomputer-hack-new-nightmare-eclipse-exploit/"&gt;In Other News: EU sanctions NoName057(16), Norwegian energy cyberattacks, supercomputer hack, Gemini agents hit Epoch AI&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 20, 15:56&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;SecurityWeek's roundup says the EU added the NoName057(16) group to its cyber sanctions list. It also covers the Norwegian energy company attacks, a supercomputer hack, a new Nightmare Eclipse exploit, and malware that targets CACs left in personal computers. It also notes that Gemini agents targeted Epoch AI. A separate SecurityWeek piece collects expert reactions to the major outages and the AI-accelerated patching debate.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;This is a quick scan of the smaller developments, including a sanctions action against a hacktivist group, that did not get their own headlines.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.securityweek.com/in-other-news-norwegian-energy-firm-cyberattacks-supercomputer-hack-new-nightmare-eclipse-exploit/"&gt;SecurityWeek&lt;/a&gt; · &lt;a href="https://www.securityweek.com/industry-reactions-to-major-outages-and-ai-patching-questions-feedback-friday/"&gt;SecurityWeek (Feedback Friday)&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;AI &amp;amp; Machine Learning&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem"&gt;Anthropic mathematician claims Riemann hypothesis proof with Claude; unverified&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 20, 17:34&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Anthropic mathematician Levent Alpöge says he has proved the Riemann hypothesis with the help of Claude. The claim is on his own website and has not been independently verified. The Verge reports that Anthropic has not commented or involved itself, though Alpöge says he texted CEO Dario Amodei about it. It follows yesterday's Anthropic research claiming Claude solved two open black hole physics problems.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;If it is verified, it would be among the biggest AI-in-mathematics results to date. Until then it is a single-author claim, arriving the day after Anthropic's IPO.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem"&gt;The Verge&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://arxiv.org/abs/2611.21885"&gt;Paper: language models can rewrite their own weights&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 20, 17:29&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;An arXiv paper titled &amp;quot;Language Models Can Rewrite Their Own Weights&amp;quot; reached 301 points and 99 comments on Hacker News. The summary gives no results or methods, so the scope of the claim is not yet clear.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Self-modifying models are a long-standing safety concern, and a paper this widely read is worth a close look before the commentary hardens.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://arxiv.org/abs/2611.21885"&gt;arXiv&lt;/a&gt; · &lt;a href="https://news.ycombinator.com/item?id=50577265"&gt;Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/"&gt;Google workers urge employer not to punish schools that decline AI&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 20, 17:59&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Google and Alphabet workers are petitioning the company not to penalize schools that don't want Gemini and other AI tools, Mother Jones reports. The story drew 216 points and 157 comments on Hacker News. It is employee activism aimed at a vendor's education strategy.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Internal pushback at a leading AI vendor over how its products are pushed into classrooms points to growing tension over AI adoption.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/"&gt;Mother Jones&lt;/a&gt; · &lt;a href="https://news.ycombinator.com/item?id=50577901"&gt;Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theregister.com/security/2026/11/20/dutch-data-watchdog-highlights-safety-issues-with-ai-glasses/5311345"&gt;Dutch data watchdog flags safety problems with AI glasses&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 20, 17:44&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;The Dutch data protection authority found that AI glasses can misinterpret medication instructions and other scenarios that affect human safety, The Register reports. The findings go beyond privacy to physical risk. This comes as Meta's Muse Charm wearable is reportedly due in December.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;A European regulator is signalling that wearable AI will face safety scrutiny as well as privacy scrutiny.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.theregister.com/security/2026/11/20/dutch-data-watchdog-highlights-safety-issues-with-ai-glasses/5311345"&gt;The Register&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;Technology&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://thehackernews.com/2026/11/new-linux-kvm-flaw-cve-2026-99312-lets.html"&gt;Linux KVM flaw CVE-2026-99312 let researchers read 127 GB of DigitalOcean host memory from a guest VM&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 20, 13:20&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Researchers used the flaw to read about 127 GB of a cloud server's memory from inside their own VM on DigitalOcean. On a shared host, that memory can include other customers' VMs. It affects only AMD-processor hosts with nested virtualization enabled, and fixed kernels have shipped.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;This is a guest-to-host memory leak on shared cloud infrastructure, so check any AMD hosts with nested virtualization for the kernel fix.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://thehackernews.com/2026/11/new-linux-kvm-flaw-cve-2026-99312-lets.html"&gt;The Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-now-automatically-installs-windows-11-26h2-on-personal-and-unmanaged-pcs/"&gt;Microsoft auto-installs Windows 11 26H2 on unmanaged PCs and suggests a Registry workaround for hotpatch problems&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 20, 13:14&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Starting this week, Microsoft is automatically upgrading eligible devices not managed by IT to Windows 11 26H2, per BleepingComputer. Separately, The Register reports Microsoft is suggesting a Registry hack for app problems that followed default hotpatching.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Unmanaged and BYOD machines will move to a new Windows version on their own, just as hotpatch side effects are still being worked around.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-now-automatically-installs-windows-11-26h2-on-personal-and-unmanaged-pcs/"&gt;BleepingComputer&lt;/a&gt; · &lt;a href="https://www.theregister.com/os-platforms/2026/11/20/microsoft-suggests-registry-hack-to-work-around-hotpatch-woes/5311279"&gt;The Register&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theregister.com/systems/2026/11/20/ai-boom-threatens-circuit-board-crunch-to-rival-pandemic-era-chip-shortage/5311335"&gt;AI boom threatens circuit board shortage to rival the pandemic-era chip crunch&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 20, 17:01&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;A trade body warns that automotive, medical and defense orders are being crowded out of circuit board supply by AI demand. Relief is unlikely before mid-2028, The Register reports. It adds to the memory and storage squeeze already in the news this week.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;AI buildout is now starving other industries of components, with a lead time that runs into 2028.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.theregister.com/systems/2026/11/20/ai-boom-threatens-circuit-board-crunch-to-rival-pandemic-era-chip-shortage/5311335"&gt;The Register&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.securityweek.com/industry-reactions-to-major-outages-and-ai-patching-questions-feedback-friday/"&gt;Software patches are breaking things: outage wave fuels debate on AI-accelerated patching&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 20, 13:38&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;SecurityWeek's Feedback Friday collects experts on whether AI-accelerated patching played a role in the week's major outages. They stress tested rollback plans and the fragility of interconnected systems. NYT's Hard Fork podcast also says software patches &amp;quot;seem to be breaking everything.&amp;quot; No cause for the outages has been confirmed.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;The tension between patching faster against AI-assisted attackers and patching safely is now a mainstream operations question.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.securityweek.com/industry-reactions-to-major-outages-and-ai-patching-questions-feedback-friday/"&gt;SecurityWeek&lt;/a&gt; · &lt;a href="https://www.nytimes.com/2026/11/20/podcasts/hardfork-gta6-nvidia-anthropic.html"&gt;NYT Technology (Hard Fork)&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://cybersecuritynews.com/debian-packages-ca-certificates/"&gt;Over 100 Debian packages still ship distrusted CA certificates&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 20, 17:39&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;A scan of a Debian package mirror found more than 100 packages still contain copies of distrusted certificate authority certificates. This was after Debian removed them from the system trust store. Debian developer Steve McIntyre posted the results on the developer mailing list on November 19.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Removing a CA from the system trust store does not protect applications that bundle their own copies, so check what your software actually trusts.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://cybersecuritynews.com/debian-packages-ca-certificates/"&gt;Cybersecurity News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;Business &amp;amp; Markets&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/11/20/california-ag-subpoenas-nvidia-over-worries-about-huangs-ties-with-china/"&gt;California AG subpoenas Nvidia over Huang's China ties and possible investor misleading&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 20, 14:21&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;California Attorney General Rob Bonta subpoenaed Nvidia, saying the conduct of the company and its former CEO &amp;quot;raises bright red flags, including about the ways in which the company may have misled investors.&amp;quot; It follows Jensen Huang's resignation over his affair with an alleged Chinese spy. It adds to the congressional scrutiny of chip approvals and the Gentlemen ransomware claim.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;State-level legal action adds a new front for the key AI chip supplier, on top of the stock slide and leadership turmoil.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/11/20/california-ag-subpoenas-nvidia-over-worries-about-huangs-ties-with-china/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.nytimes.com/2026/11/20/technology/jensen-huang-nvidia-culture.html"&gt;Reports detail Huang's fear-based management style at Nvidia&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 20, 14:25&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;NYT reports that Huang's belittling of employees goes back decades and once led to a confidential settlement with an executive who said he &amp;quot;terrorized&amp;quot; staff. TechCrunch says the reports raise questions about Elon Musk's claim that employees &amp;quot;love&amp;quot; him. NYT's Hard Fork podcast says Huang wants back in at Nvidia.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;The culture revelations deepen governance questions at Nvidia and could affect succession as the company deals with a subpoena and a stock down about 40%.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.nytimes.com/2026/11/20/technology/jensen-huang-nvidia-culture.html"&gt;NYT Technology&lt;/a&gt; · &lt;a href="https://techcrunch.com/2026/11/20/behind-jensen-huangs-exit-questions-about-a-management-style-reportedly-built-on-fear/"&gt;TechCrunch&lt;/a&gt; · &lt;a href="https://www.nytimes.com/2026/11/20/podcasts/hardfork-gta6-nvidia-anthropic.html"&gt;NYT Technology (Hard Fork)&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.nytimes.com/2026/11/20/business/dealbook/anthropic-ipo-ai-rally.html"&gt;Anthropic's jump didn't lift tech; investors worry about the AI boom and its debt&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 20, 14:07&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;NYT DealBook reports that Anthropic's shares jumped in their debut but did not lift the broader technology sector, as investors worry about the future of the AI boom. A Crunchbase guest column (opinion) compares the AI buildout's growing reliance on debt to the telecom bust. It warns that borrowers' survival will depend on realistic demand forecasts.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;The market is separating Anthropic's strong debut from doubts about how the wider AI buildout is financed.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.nytimes.com/2026/11/20/business/dealbook/anthropic-ipo-ai-rally.html"&gt;NYT Business&lt;/a&gt; · &lt;a href="https://news.crunchbase.com/venture/telecom-bust-ai-startup-debt-boom-spreng-runway-growth/"&gt;Crunchbase News (guest opinion)&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.nytimes.com/2026/11/20/us/politics/cftc-cryptocurrency-trump-memecoin.html"&gt;CFTC lawyers considered probing Trump's memecoin, then dropped it&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 20, 16:03&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;NYT reports that lawyers at the Commodity Futures Trading Commission looked into possible fraud soon after the token's launch. They then decided they would not get the commission's support to pursue it.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;It is a data point on how far US crypto enforcement will go when politically connected tokens are involved.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.nytimes.com/2026/11/20/us/politics/cftc-cryptocurrency-trump-memecoin.html"&gt;NYT Business&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.politico.eu/article/france-germany-complete-political-deal-for-ecb-leadership/?utm_source=RSS_Feed&amp;amp;utm_medium=RSS&amp;amp;utm_campaign=RSS_Syndication"&gt;France and Germany complete political deal on ECB leadership&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 20, 17:50&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Politico reports that Paris and Berlin have agreed on the ECB leadership arrangement. France's new market-operations portfolio at the bank could become pivotal in a French debt crisis.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Who controls ECB market operations matters for bond-market stability and euro-area financing conditions.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.politico.eu/article/france-germany-complete-political-deal-for-ecb-leadership/?utm_source=RSS_Feed&amp;amp;utm_medium=RSS&amp;amp;utm_campaign=RSS_Syndication"&gt;Politico EU&lt;/a&gt;&lt;br&gt;
 &lt;/p&gt;</content>
   </entry>
 </feed>
