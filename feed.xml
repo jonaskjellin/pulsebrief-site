@@ -5,7 +5,120 @@
   <link href="https://jonaskjellin.github.io/pulsebrief-site/feed.xml" rel="self"/>
   <link href="https://jonaskjellin.github.io/pulsebrief-site/"/>
   <id>https://jonaskjellin.github.io/pulsebrief-site/</id>
-  <updated>2026-11-27T00:31:10.921Z</updated>
+  <updated>2026-11-27T14:58:02.923Z</updated>
+  <entry>
+    <title>Morning — Nov 27, 2026</title>
+    <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-11-27-morning.html"/>
+    <id>https://jonaskjellin.github.io/pulsebrief-site/2026-11-27-morning.html</id>
+    <updated>2026-11-27T14:58:02.923Z</updated>
+    <content type="html">&lt;p&gt;&lt;h1&gt;PulseBrief's Morning Pulse&lt;/h1&gt;&lt;br&gt;
+&lt;em&gt;Thu, Nov 26, 18:00 → Fri, Nov 27, 07:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Cyber Security&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://therecord.media/france-afp-hit-by-cyberattack"&gt;Cyberattack takes down AFP's global news distribution platform&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 27, 01:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Agence France-Presse was hit by a cyberattack on Thursday. It took offline one of its main platforms for distributing news content to media organizations worldwide. The coverage seen so far gives no attacker, cause or restoration timeline.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;A hit on a wire service's distribution platform can disrupt downstream newsrooms, and it is a clear case of an attack on a media supply chain.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://therecord.media/france-afp-hit-by-cyberattack"&gt;The Record&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://therecord.media/uk-department-work-pensions-cyber-incident"&gt;UK Department for Work and Pensions takes services offline after 'cyber incident'&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 27, 01:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;The DWP said on Friday that it had experienced a cyber incident and took several services down as a precaution. The summary gives no detail on which services, the cause or any data exposure. It follows the UK government's Capita problems this week.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;A major UK government department going offline is a significant public-sector incident, so watch for scope and data-exposure details.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://therecord.media/uk-department-work-pensions-cyber-incident"&gt;The Record&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://thehackernews.com/2026/11/unpatched-cacti-zero-day-enables-rce-in.html"&gt;Unpatched Cacti zero-day gives unauthenticated RCE in four HTTP requests&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 27, 06:48&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Details of a new zero-day in the open source network monitoring tool Cacti have been published. The proof-of-concept, tracked as 4HTTP2SHELL and 4HTTP2ROOT, has no CVE yet. The researcher says it goes from a fresh unauthenticated HTTP session to command execution as the Cacti server. No patch is available.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;A public PoC for an unpatched flaw in monitoring software means you should restrict Cacti exposure and disable guest access now.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://thehackernews.com/2026/11/unpatched-cacti-zero-day-enables-rce-in.html"&gt;The Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theregister.com/security/2026/11/27/free-e-government-platform-that-serves-two-billion-people-in-ten-countries-has-critical-sql-injection-bug/5312449"&gt;Critical SQL injection bug in India's DIGIT e-government platform, used across ten countries&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 27, 02:19&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;The Register reports a critical SQL injection flaw in India's free Digital Infrastructure for Governance Impact and Transformation (DIGIT) platform. The platform serves about two billion people in ten countries, and the bug can leak data. The summary does not say whether the flaw is being exploited or patched.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Government platforms of this scale concentrate data and risk, so a basic injection flaw there is a major exposure.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.theregister.com/security/2026/11/27/free-e-government-platform-that-serves-two-billion-people-in-ten-countries-has-critical-sql-injection-bug/5312449"&gt;The Register&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.bleepingcomputer.com/news/apple/fake-paid-expert-interviews-impersonate-brands-to-steal-google-logins/"&gt;'GoodGuys' phishing campaign poses as paid expert interviews to steal Google and Okta logins&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 26, 18:15&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;BleepingComputer describes an ongoing campaign that impersonates brands including Google, Nvidia, Accenture and SpaceX. It uses fake invitations to paid expert interviews and webinars to harvest corporate Google and Okta credentials.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;It targets corporate SSO credentials with a plausible lure aimed at professionals, so warn staff who get outside interview and consulting offers.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.bleepingcomputer.com/news/apple/fake-paid-expert-interviews-impersonate-brands-to-steal-google-logins/"&gt;BleepingComputer&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://thehackernews.com/2026/11/threatsday-250-rogue-extensions-10m.html"&gt;ThreatsDay roundup: 10M NGINX services at risk, 250+ malicious browser extensions, AI server hijacking&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 26, 20:39&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;The Hacker News weekly roundup covers about 20 stories. Headline items include roughly 10 million NGINX services at risk, more than 250 rogue browser extensions and hijacking of AI servers. The summary gives no further detail, and it is a roundup, not a single incident.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;It shows the scale of the browser-extension threat that also appeared in this week's Remus and SYS010 stories.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://thehackernews.com/2026/11/threatsday-250-rogue-extensions-10m.html"&gt;The Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;AI &amp;amp; Machine Learning&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.bleepingcomputer.com/news/artificial-intelligence/openai-warns-gpt-62-astra-will-hit-usage-limits-40-percent-faster-because-it-fixed-a-bug/"&gt;Update: OpenAI confirms GPT-6.2 Astra now hits usage limits 40% faster after a 'bug' fix (vendor confirmation)&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 26, 22:06&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;OpenAI has confirmed that it fixed a bug that had wrongly discounted GPT-6.2 usage, so users now hit limits 40% faster than before. This is OpenAI's own explanation. It confirms the figure from the earlier X post and ties it to the merged Chat and Work usage meter.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;If your teams rely on GPT-6.2 for heavy work, plan for the tighter effective capacity as a permanent change, not a glitch.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.bleepingcomputer.com/news/artificial-intelligence/openai-warns-gpt-62-astra-will-hit-usage-limits-40-percent-faster-because-it-fixed-a-bug/"&gt;BleepingComputer&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theregister.com/security/2026/11/26/microsoft-hackers-in-china-n-korea-using-artex-ai-tool-to-break-into-global-tech-systems/5312433"&gt;Update: Microsoft says Chinese and North Korean hackers use agentic ARTEX framework (vendor report)&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 26, 20:04&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;The Register's coverage of Microsoft's threat intelligence describes ARTEX as an agentic offensive framework that automates familiar attack techniques. Weak defenses could be breached in minutes. This is Microsoft's own assessment, and it follows earlier reporting that Salt Typhoon and North Korean groups are adopting the tool.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;It reinforces this week's pattern of AI-driven attacks shrinking the time between exposure and compromise.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.theregister.com/security/2026/11/26/microsoft-hackers-in-china-n-korea-using-artex-ai-tool-to-break-into-global-tech-systems/5312433"&gt;The Register&lt;/a&gt; · &lt;a href="https://therecord.media/microsoft-china-salt-typhoon-using-artex-ai-tool"&gt;The Record&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.politico.eu/article/bank-of-england-boss-warns-ai-must-benefit-humans/?utm_source=RSS_Feed&amp;amp;utm_medium=RSS&amp;amp;utm_campaign=RSS_Syndication"&gt;Bank of England governor warns AI must benefit humans, likens it to 'rearing children'&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 27, 04:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Andrew Bailey said technology needs boundaries, 'a bit like rearing children'. The remarks come as financial regulators step up scrutiny of AI, including the FCA's complaint this week about Meta's Muse agent.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;The head of a G7 central bank is pushing for AI guardrails, which signals the direction of financial-sector oversight.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.politico.eu/article/bank-of-england-boss-warns-ai-must-benefit-humans/?utm_source=RSS_Feed&amp;amp;utm_medium=RSS&amp;amp;utm_campaign=RSS_Syndication"&gt;Politico EU&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://kendell.dev/blog/arkwrapper/"&gt;Blog post claims Novita, StreamLake and others are wrappers for ByteDance's Ark service&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 26, 22:59&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;A third-party blog post argues that several AI inference providers, including Novita and StreamLake, are resellers of ByteDance's Ark platform. It drew 115 points on Hacker News. The claims are the author's and have not been confirmed by the companies.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;If you buy model access through a third-party provider, check where requests are actually routed, because it affects data handling and compliance.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://kendell.dev/blog/arkwrapper/"&gt;kendell.dev&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Technology&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theregister.com/off-prem/2026/11/27/aws-adds-virtual-iphones-to-its-cloud/5312457"&gt;AWS adds virtual iPhones to its cloud&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 27, 06:13&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;AWS is now offering virtual iPhones in its cloud. It also emulates Android, but it offers only two handsets and one tablet.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Cloud-hosted mobile devices are useful for app testing and mobile security work, though the device choice is narrow so far.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.theregister.com/off-prem/2026/11/27/aws-adds-virtual-iphones-to-its-cloud/5312457"&gt;The Register&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/"&gt;Hard drive prices have 'gotten bad' going into Black Friday&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 27, 02:13&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;A blog post on Black Friday hard drive pricing, with 455 points and 398 comments on Hacker News, says prices are badly out of line. It is one author's analysis, and the summary gives no figures.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;If you plan storage purchases for self-hosting or backups, the market is not favorable right now.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/"&gt;blog.ktz.me&lt;/a&gt; · &lt;a href="https://news.ycombinator.com/item?id=50661646"&gt;Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theregister.com/software/2026/11/26/indie-web-browser-ladybird-enters-alpha-testing/5311914"&gt;Ladybird browser enters alpha with macOS and Linux builds, but no security guarantees&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 26, 19:15&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;The independent Ladybird browser engine now has downloadable alpha builds for macOS and Linux. The Register notes that it comes with no security guarantees.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;It is a rare new browser engine, but treat the alpha as untrusted for sensitive browsing.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.theregister.com/software/2026/11/26/indie-web-browser-ladybird-enters-alpha-testing/5311914"&gt;The Register&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/11/26/x-finally-gets-parental-controls-after-20-years/"&gt;X adds parental controls for teens after 20 years&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 26, 20:31&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;X has added parental controls that let parents and guardians manage what teenagers see on the platform.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;It is another platform-safety move, and it fits the regulatory pressure on teen safety from New York's AI toy ban and Australia's new duty-of-care law.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/11/26/x-finally-gets-parental-controls-after-20-years/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://janlukas.blog/posts/ai-self-hosting"&gt;'AI made self-hosting fun again' tops Hacker News with 890 points&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 26, 22:47&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;A personal blog post arguing that AI tools have made self-hosting enjoyable again drew 890 points and 435 comments. It is an opinion piece, not news. It lines up with Nextcloud's desktop Office launch and interest in self-hosted alternatives.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;The discussion volume suggests developers are shifting toward self-hosted stacks built with AI help.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://janlukas.blog/posts/ai-self-hosting"&gt;janlukas.blog&lt;/a&gt; · &lt;a href="https://news.ycombinator.com/item?id=50660180"&gt;Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Business &amp;amp; Markets&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/"&gt;Update: Nvidia tells partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 26, 21:03&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;TechCrunch reports that Nvidia has told manufacturing partners to pause server shipments to the four countries. NYT says the halt follows a new US rule requiring licenses for companies there to buy advanced AI chips. Both outlets cover it as part of Washington's push to keep AI chips out of China.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Export controls are now reaching third-country channels, which affects AI hardware supply and data center plans in Southeast Asia.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/"&gt;TechCrunch&lt;/a&gt; · &lt;a href="https://www.nytimes.com/2026/11/26/business/nvidia-southeast-asia-sales.html"&gt;NYT Business&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/11/26/is-alice-huang-a-spy-or-not/"&gt;Is Alice Huang a spy? The central claim in the Nvidia scandal is still unproven&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 26, 21:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;TechCrunch says the central claim in the Nvidia scandal is that Alice Huang, a former Megaspeed executive who had an affair with CEO Jensen Huang, is a Chinese spy. The claim remains unproven. It sits alongside the DOJ chip-diversion probe and S&amp;amp;P's possible credit downgrade of Nvidia.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Unproven spy allegations around Nvidia's CEO are feeding governance and credit-rating risk at the largest AI chip vendor.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/11/26/is-alice-huang-a-spy-or-not/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.nytimes.com/2026/11/26/business/ecb-pablo-hernandez-de-cos.html"&gt;ECB picks Pablo Hernández de Cos as next president&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 26, 20:41&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;The European Central Bank has chosen Spain's Pablo Hernández de Cos to succeed Christine Lagarde, whose early exit opens the way for new leadership. Two board vacancies are also looming. This confirms earlier reports that EU leaders had cleared his path.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;New leadership at the ECB shapes eurozone rates and policy during tariff tension and inflation pressure.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.nytimes.com/2026/11/26/business/ecb-pablo-hernandez-de-cos.html"&gt;NYT Business&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.nytimes.com/2026/11/26/business/trump-tariffs-asia.html"&gt;Trump's latest tariffs revive pressure on China and signal escalation to Asian trade partners&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 26, 18:03&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;NYT reports that President Trump's new tariffs send a message to Asian trading partners that he is ready to escalate. Many of those countries depend on trade and investment from both the US and China.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;It adds to market pressure from tariffs, inflation and chip export controls, and raises supply-chain and cost risks for tech companies.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.nytimes.com/2026/11/26/business/trump-tariffs-asia.html"&gt;NYT Business&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.euronews.com/2026/11/26/argentina-enters-technical-recession-as-weak-consumption-undermines-mileis-economic-gains"&gt;Argentina enters technical recession as weak consumption undermines Milei's gains&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 26, 18:23&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Argentina's economy shrank 1.8% in the third quarter, its second straight contraction. Weak consumption, falling purchasing power and strain in key sectors are slowing growth and clouding Javier Milei's prospects.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;It is a test of Milei's economic programme and a data point on emerging-market stress amid global inflation and tariff pressure.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.euronews.com/2026/11/26/argentina-enters-technical-recession-as-weak-consumption-undermines-mileis-economic-gains"&gt;Euronews Business&lt;/a&gt;&lt;br&gt;
+&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>Evening — Nov 27, 2026</title>
     <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-11-27-evening.html"/>
@@ -1950,124 +2063,6 @@
 &lt;p&gt;Politico reports that Paris and Berlin have agreed on the ECB leadership arrangement. France's new market-operations portfolio at the bank could become pivotal in a French debt crisis.&lt;/p&gt;&lt;br&gt;
 &lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Who controls ECB market operations matters for bond-market stability and euro-area financing conditions.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
 &lt;p&gt;Sources: &lt;a href="https://www.politico.eu/article/france-germany-complete-political-deal-for-ecb-leadership/?utm_source=RSS_Feed&amp;amp;utm_medium=RSS&amp;amp;utm_campaign=RSS_Syndication"&gt;Politico EU&lt;/a&gt;&lt;br&gt;
-&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>Afternoon — Nov 20, 2026</title>
-    <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-11-20-afternoon.html"/>
-    <id>https://jonaskjellin.github.io/pulsebrief-site/2026-11-20-afternoon.html</id>
-    <updated>2026-11-20T19:05:23.069Z</updated>
-    <content type="html">&lt;p&gt;&lt;h1&gt;PulseBrief's Afternoon Pulse&lt;/h1&gt;&lt;br&gt;
-&lt;em&gt;Fri, Nov 20, 07:00 → Fri, Nov 20, 13:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;Cyber Security&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.bleepingcomputer.com/news/security/f5-releases-emergency-patches-for-critical-big-ip-rce-flaws/"&gt;F5 ships emergency patches for five critical BIG-IP flaws (vendor advisory)&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 20, 11:57&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;F5 told customers to patch five critical BIG-IP vulnerabilities that attackers can use to trigger denial of service or gain remote code execution. This comes a day after F5's NGINX2Root fixes and public PoCs. No exploitation has been reported yet, and the details come from F5's own advisory.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;BIG-IP sits at the network edge of many enterprises, and edge appliances with RCE bugs are prime targets, so this is a patch-now item.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.bleepingcomputer.com/news/security/f5-releases-emergency-patches-for-critical-big-ip-rce-flaws/"&gt;BleepingComputer&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://thehackernews.com/2026/11/hackers-exploit-critical-cisco.html"&gt;Attackers exploit critical Cisco Expressway flaw (CVE-2026-76466) and reach an internal network&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 20, 11:32&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;The Hacker News reports exploitation of the CVSS 9.8 unauthenticated bug in Cisco Expressway shortly after a public PoC appeared. Attackers breached four devices at a Russian organization and moved into its internal network. The reported victim is a single organization, but the PoC is public, so wider exploitation is likely.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;This is another PoC-to-exploitation sequence on an internet-facing collaboration gateway, and anyone running Expressway has little time to patch.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://thehackernews.com/2026/11/hackers-exploit-critical-cisco.html"&gt;The Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.securityweek.com/jpmorgan-visa-mastercard-cite-third-party-incidents-amid-data-leak/"&gt;N0n extortion group leaks data on about 16,000 Visa, Mastercard and JPMorgan customers&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 20, 08:35&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;The leak includes email addresses, phone numbers and, in some cases, JPMorgan Chase account IDs. This explains yesterday's third-party incident confirmations from the three firms, which pointed to outside providers. The leaked set is small relative to the brands involved, and the shared supplier has not been publicly named.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;The attribution and data type are now known, and the common third-party link across the three biggest payments names is the real question.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.securityweek.com/jpmorgan-visa-mastercard-cite-third-party-incidents-amid-data-leak/"&gt;SecurityWeek&lt;/a&gt; · &lt;a href="https://www.euronews.com/2026/11/20/hackers-leak-stolen-data-on-16000-visa-mastercard-and-jpmorgan-customers"&gt;Euronews Business&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://techcrunch.com/2026/11/20/the-u-s-national-cyber-director-is-stepping-down/"&gt;US national cyber director is stepping down amid unexplained outage wave&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 20, 10:14&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;TechCrunch reports the departure of the US national cyber director. It comes as businesses across the country report a flurry of technical outages whose causes are still unknown. No successor or reason has been given in the summary.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;A leadership gap at the top of federal cyber policy during a week of unexplained outages and major breaches is a notable signal.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://techcrunch.com/2026/11/20/the-u-s-national-cyber-director-is-stepping-down/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://thehackernews.com/2026/11/sonicwall-warns-gen-6-firewalls-wont.html"&gt;SonicWall: Gen 6 firewalls will get no more security patches, even for critical flaws (vendor warning)&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 20, 11:38&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;SonicWall urged customers to retire Generation 6 firewalls and stop exposing them on the internet edge. It cites AI-assisted attackers finding and exploiting unsupported edge devices faster. The framing comes from SonicWall, which also benefits from upgrade sales.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Unpatchable internet-facing firewalls are a standing liability, and any remaining Gen 6 units need a replacement plan.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://thehackernews.com/2026/11/sonicwall-warns-gen-6-firewalls-wont.html"&gt;The Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.securityweek.com/european-commission-confirms-ai-assisted-cyberattack-disrupted-services/"&gt;European Commission says AI-assisted attack disrupted services but shows no evidence of data breach; staff want answers&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 20, 11:51&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;The Commission took certain services offline to contain the incident, and SecurityWeek reports it has no evidence of a data breach. Separately, cybersecuritynews details the open-source ARTEX framework used in the attack, which hunts for exposed apps, weak passwords and loose permissions instead of zero-days. A union says the Commission has not sent a single update to all staff.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;This is a government-scale case of AI-automated intrusion using ordinary misconfigurations, which is the pattern defenders should expect to see more of.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.securityweek.com/european-commission-confirms-ai-assisted-cyberattack-disrupted-services/"&gt;SecurityWeek&lt;/a&gt; · &lt;a href="https://cybersecuritynews.com/hackers-use-ai-powered-artex-framework/"&gt;Cybersecurity News (ARTEX)&lt;/a&gt; · &lt;a href="https://www.politico.eu/article/staff-deserve-answers-eu-commission-cyberattack-union-says/?utm_source=RSS_Feed&amp;amp;utm_medium=RSS&amp;amp;utm_campaign=RSS_Syndication"&gt;Politico EU&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.securityweek.com/n-able-blames-service-disruption-on-cyberattack/"&gt;N-able blames outage on cyberattack; SBC Medical breach grows past 2 million&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 20, 10:08&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;N-able now attributes the Mail Assure and SpamExperts Hosted Cloud disruption to a cyberattack that could have led to credential theft. Separately, SecurityWeek reports that the SBC Medical Group breach affects over 2 million people, up from the 1.6 million in the SEC filing. The exposed data is tied to clinics in Japan.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Both are updates to incidents already on the radar, with the provider-compromise risk widening for N-able customers and the healthcare breach count rising.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.securityweek.com/n-able-blames-service-disruption-on-cyberattack/"&gt;SecurityWeek (N-able)&lt;/a&gt; · &lt;a href="https://www.securityweek.com/sbc-medical-group-data-breach-impacts-over-2-million/"&gt;SecurityWeek (SBC Medical)&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;AI &amp;amp; Machine Learning&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://architectlabs.com/blog/frostbite"&gt;Frostbite: a new CPU architecture 'discovered, designed and verified by AI'&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 20, 11:01&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Architect Labs published a post claiming AI created and verified a new CPU architecture. It reached 510 points and 278 comments on Hacker News. The claim comes from the vendor's own blog, and independent verification has not been reported.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;If the claim holds, AI is moving into hardware design and verification, which would be a notable capability shift beyond software.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://architectlabs.com/blog/frostbite"&gt;Architect Labs (vendor blog)&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://cybersecuritynews.com/signal-restricts-screenshots/"&gt;Signal limits screenshots to keep AI assistants from reading private chats (vendor action)&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 20, 10:42&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Signal is restricting screenshots on iOS 27 and some Android devices so that built-in assistants like Siri and Gemini cannot read chats through screen capture. On Android the block turns on when Signal detects an assistant trying to read the screen. Signal also published a post on protecting user privacy, which drew 320 points on Hacker News.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;It follows the Muse reports that agents can read Signal text via notifications, and shows apps now defending against OS-level assistants.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://cybersecuritynews.com/signal-restricts-screenshots/"&gt;Cybersecurity News&lt;/a&gt; · &lt;a href="https://signal.org/blog/protecting-your-privacy/"&gt;Signal (vendor blog)&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://thehackernews.com/2026/11/the-path-to-ai-autonomy-in-soc.html"&gt;a16z survey: 60% of CISOs expect to let AI agents act autonomously on low-risk security actions within a year&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 20, 13:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;The survey covered CISOs at organizations with more than 1,000 employees. 36% are comfortable with that autonomy today, and AI SOC ranked as the top initiative for 2027. The piece appears in The Hacker News and is framed around vendor and investor interests, so treat it as sentiment, not measured outcomes.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;It shows how quickly security teams expect to hand authority to agents, just as agent permission failures like Muse's are surfacing.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://thehackernews.com/2026/11/the-path-to-ai-autonomy-in-soc.html"&gt;The Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.wired.com/story/henrijs-dandzbergs-polemos-missiles-ai-warfare/"&gt;16-year-old YC dropout builds AI missile startup targeting 'cost per kill'&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 20, 08:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Wired profiles Henrijs Dandzbergs and his startup Polemos, which is developing a missile aimed at making warfare more efficient for the US and allies. The details rest on Wired's profile and the founder's own account.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;It marks another sign of venture-backed AI moving into weapons and defence.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.wired.com/story/henrijs-dandzbergs-polemos-missiles-ai-warfare/"&gt;Wired&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.wired.com/story/muse-is-unleashing-a-world-of-pettiness-on-instagram/"&gt;Meta's Muse assistant can now track and unfollow Instagram users who don't follow back&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 20, 13:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Wired reports that Muse is being used to audit Instagram follower lists and unfollow non-followers, and some people are taking full advantage. It is a consumer feature story, but it shows Muse taking actions on users' accounts. It follows the week's reports of Muse leaking other users' private data.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Agents taking actions inside social accounts widen the permission surface already flagged by Muse's privacy problems.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.wired.com/story/muse-is-unleashing-a-world-of-pettiness-on-instagram/"&gt;Wired&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;Technology&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://cybersecuritynews.com/palo-alto-confirms-java-vulnerability-impacts/"&gt;Palo Alto confirms Java4Shell affects Privilege Threat Analytics, Remote Access Connector and HTML5 Gateway&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 20, 11:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Palo Alto Networks' November 20 advisory says CVE-2026-114938 could let a remote attacker run code without signing in under specific hardware and software conditions. Exploitation attempts began yesterday. Ruby also patched a separate heap overflow, Ruby2Shell (CVE-2026-132825), that could lead to RCE.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;The Java4Shell vendor impact list keeps growing while it is under active scanning, so inventory of affected products matters.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://cybersecuritynews.com/palo-alto-confirms-java-vulnerability-impacts/"&gt;Cybersecurity News&lt;/a&gt; · &lt;a href="https://www.securityweek.com/ruby-patches-ruby2shell-vulnerability-that-could-lead-to-rce/"&gt;SecurityWeek (Ruby2Shell)&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5132057-update-released-with-28-changes-and-fixes/"&gt;Windows 11 preview update KB5132057 ships 28 changes; optional fix for passkey sign-in error&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 20, 10:25&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Microsoft's November preview update improves Windows Search, Windows Hello and the Run dialog. The Register reports a related optional update that fixes a bug where Windows 11 25H2 and 26H2 showed a failure message after a successful passkey sign-in on Android. It follows the hotpatch install problems from earlier this week.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Admins should test the preview before it reaches the January cycle, and the passkey fix matters for passwordless rollouts.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5132057-update-released-with-28-changes-and-fixes/"&gt;BleepingComputer&lt;/a&gt; · &lt;a href="https://www.theregister.com/security/2026/11/20/windows-11-passkey-bug-cries-failure-after-successful-sign-in/5311263"&gt;The Register&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theregister.com/os-platforms/2026/11/20/ubuntu-core-desktop-targets-2804-debut-with-default-status-in-its-sights/5310837"&gt;Canonical targets Ubuntu Core Desktop for 28.04, aims to make the immutable OS default in 30.04&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 20, 10:29&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Canonical's stretch goal is to make the immutable desktop standard in 30.04 without retiring the traditional distro. The plan is a roadmap, not a shipped product.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;A move toward immutable desktop Linux from a top distro would change how fleets patch and manage Linux endpoints.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.theregister.com/os-platforms/2026/11/20/ubuntu-core-desktop-targets-2804-debut-with-default-status-in-its-sights/5310837"&gt;The Register&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://thehackernews.com/2026/11/romulus-clickfix-attacks-deliver-rat.html"&gt;ROMULUS ClickFix platform delivers new RAT resembling CNCMachineRMS&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 20, 08:11&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Blackpoint says ROMULUS appears to work as a delivery service, distributing CNCMachineRMS and Legion Loader through separate chains. It keeps using ClickFix social engineering and signed binary sideloading.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;ClickFix keeps evolving into a commodity delivery channel, so user-awareness and execution controls remain relevant.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://thehackernews.com/2026/11/romulus-clickfix-attacks-deliver-rat.html"&gt;The Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;Business &amp;amp; Markets&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.euronews.com/2026/11/20/bending-spoons-to-buy-mailchimp-from-intuit-in-332-billion-deal"&gt;Bending Spoons to buy Mailchimp from Intuit for €3.35bn&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 20, 12:39&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;The Italian company behind WeTransfer and Vimeo agreed to buy the email marketing platform. Intuit is selling for less than a third of the roughly $12 billion it paid in 2021.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;It is a major software M&amp;amp;A deal and a data point on how much SaaS valuations have reset since 2021.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.euronews.com/2026/11/20/bending-spoons-to-buy-mailchimp-from-intuit-in-332-billion-deal"&gt;Euronews Business&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.nytimes.com/2026/11/20/business/nvidia-ceo-stock-succession-jensen-huang.html"&gt;Nvidia after Huang: markets weigh whether this CEO exit is different&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 20, 11:02&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;NYT notes that stocks often do well after abrupt CEO exits, but Nvidia's entanglement in US-China relations poses special problems. This follows the stock falling about 40% below its October peak, the Gentlemen ransomware claim and congressional scrutiny of chip approvals.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Nvidia's leadership and geopolitical risk now affect the whole AI infrastructure supply chain.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.nytimes.com/2026/11/20/business/nvidia-ceo-stock-succession-jensen-huang.html"&gt;NYT Business&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.nytimes.com/2026/11/20/business/china-ai-investment-spending.html"&gt;China's AI ambitions hit a money problem as US labs raise tens of billions&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 20, 11:01&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;NYT reports that Chinese AI rivals are struggling to match the capital Silicon Valley giants are raising, a gap highlighted by Anthropic's record IPO. A separate NYT video explains how deeply AI is now tied into the US economy and why that could be risky.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;The funding gap shapes the competitive balance in AI and how exposed the US economy is to a single sector.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.nytimes.com/2026/11/20/business/china-ai-investment-spending.html"&gt;NYT Business&lt;/a&gt; · &lt;a href="https://www.nytimes.com/video/business/100000011293737/how-the-us-economy-is-tied-to-ai.html"&gt;NYT Business (video)&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.euronews.com/2026/11/20/lufthansa-plans-1000-job-cuts-in-frankfurt-and-munich-as-iran-war-slows-turnaround"&gt;Lufthansa to cut 1,000 jobs in Frankfurt and Munich as Iran war slows turnaround&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 20, 12:35&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Strikes and soaring fuel costs linked to the war are weighing on the airline. Its flagship airline lost an average of €20 million a month from January to September, according to a letter to staff.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;It is a concrete example of the Iran conflict's energy shock feeding into corporate cost cutting.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.euronews.com/2026/11/20/lufthansa-plans-1000-job-cuts-in-frankfurt-and-munich-as-iran-war-slows-turnaround"&gt;Euronews Business&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.politico.eu/article/some-oil-giants-will-now-be-labeled-sustainable-under-eu-finance-rules/?utm_source=RSS_Feed&amp;amp;utm_medium=RSS&amp;amp;utm_campaign=RSS_Syndication"&gt;EU finance rules to label some oil giants as sustainable, same day EU delays methane rules&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 20, 12:38&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Politico reports that some oil majors will now be classed as green under EU finance rules. The decision came the same day the EU agreed to delay methane emission rules for fossil fuel companies.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;It is a regulatory signal that EU climate finance rules are loosening, with consequences for investors and energy companies.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.politico.eu/article/some-oil-giants-will-now-be-labeled-sustainable-under-eu-finance-rules/?utm_source=RSS_Feed&amp;amp;utm_medium=RSS&amp;amp;utm_campaign=RSS_Syndication"&gt;Politico EU&lt;/a&gt;&lt;br&gt;
 &lt;/p&gt;</content>
   </entry>
 </feed>
