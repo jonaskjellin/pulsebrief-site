@@ -5,7 +5,85 @@
   <link href="https://jonaskjellin.github.io/pulsebrief-site/feed.xml" rel="self"/>
   <link href="https://jonaskjellin.github.io/pulsebrief-site/"/>
   <id>https://jonaskjellin.github.io/pulsebrief-site/</id>
-  <updated>2026-11-28T00:00:09.666Z</updated>
+  <updated>2026-11-28T14:07:27.876Z</updated>
+  <entry>
+    <title>Morning — Nov 28, 2026</title>
+    <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-11-28-morning.html"/>
+    <id>https://jonaskjellin.github.io/pulsebrief-site/2026-11-28-morning.html</id>
+    <updated>2026-11-28T14:07:27.876Z</updated>
+    <content type="html">&lt;p&gt;&lt;h1&gt;PulseBrief's Morning Pulse&lt;/h1&gt;&lt;br&gt;
+&lt;em&gt;Fri, Nov 27, 18:00 → Sat, Nov 28, 07:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Cyber Security&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.bleepingcomputer.com/news/security/pcloud-confirms-password-manager-hack-after-suspicious-login-alerts/"&gt;pCloud confirms password manager attack as users report unknown devices despite 2FA&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 27, 20:26&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;pCloud Pass suffered a cyberattack, according to BleepingComputer. Users reported unknown devices connecting to their accounts even with two-factor authentication enabled. The cause, number of affected accounts and what data was exposed have not been detailed in the coverage seen.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Logins reaching vaults despite 2FA suggests a bypass or session-level compromise. pCloud Pass users should review connected devices and rotate credentials.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.bleepingcomputer.com/news/security/pcloud-confirms-password-manager-hack-after-suspicious-login-alerts/"&gt;BleepingComputer&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.bleepingcomputer.com/news/security/new-boston-scientific-data-breach-exposes-personal-medical-info/"&gt;Boston Scientific sends new breach notices over exposed personal and medical data&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 27, 19:57&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Medical technology company Boston Scientific is notifying individuals affected by a cyberattack on the firm. BleepingComputer reports that personal and medical information was exposed. Scale and attribution are not in the summary seen, and the notice is the company's own disclosure.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;A major medtech vendor leaking medical data raises fraud and phishing risk for those affected, and healthcare partners will want to check what was exposed.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.bleepingcomputer.com/news/security/new-boston-scientific-data-breach-exposes-personal-medical-info/"&gt;BleepingComputer&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.bleepingcomputer.com/news/security/unpatched-cacti-zero-day-with-public-poc-gives-remote-code-execution/"&gt;Update: Unpatched Cacti zero-day with public PoC now drawing wider coverage&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 27, 18:06&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;BleepingComputer confirms the Cacti network monitoring zero-day has been publicly disclosed with a proof-of-concept exploit. Unauthenticated attackers can execute commands on vulnerable servers. No patch had been reported in the coverage seen. This follows The Hacker News report from earlier today.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;A public exploit for unpatched monitoring software that often sits deep inside networks means exposure of Cacti should be restricted until a fix ships.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.bleepingcomputer.com/news/security/unpatched-cacti-zero-day-with-public-poc-gives-remote-code-execution/"&gt;BleepingComputer&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;AI &amp;amp; Machine Learning&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://research.google/blog/supercharging-transformer-residual-connections/"&gt;Google Research: DeepCrossAttention reaches comparable model quality up to 3x faster (vendor research)&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 28, 00:06&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Google published research on a change to transformer residual connections called DeepCrossAttention. Google says it reaches comparable model quality up to 3x faster. The post drew 480 points and 174 comments on Hacker News. The speedup figure is Google's own claim and has not been independently verified.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;This is a first-party signal on training efficiency, which bears on model cost and pace across the industry.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://research.google/blog/supercharging-transformer-residual-connections/"&gt;Google Research&lt;/a&gt; · &lt;a href="https://news.ycombinator.com/item?id=50672565"&gt;Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://github.com/convex/convex-backend-skill/issues/64"&gt;Convex agent skill reportedly sends users' app ideas to a remote server without telling them&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 27, 19:02&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;A GitHub issue on the convex-backend-skill repository alleges the skill transmits the user's app idea to a remote server without disclosure. It drew 334 points and 110 comments on Hacker News. The claim is from the issue reporter, and no response from Convex appears in the coverage seen.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;If you install third-party agent skills, this is a reminder to audit what they send off-machine.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://github.com/convex/convex-backend-skill/issues/64"&gt;GitHub (convex-backend-skill issue)&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://venturebeat.com/technology/ai-is-collapsing-centuries-of-math-and-science-research-into-days-is-the-singularity-upon-us"&gt;VentureBeat: AI is collapsing centuries of math and science research into days&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 27, 20:16&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;VentureBeat argues that AI is compressing the time to settle landmark mathematical conjectures and other scientific problems from years to days, and asks whether this points to a singularity. It is an analysis piece, and the summary seen gives no specific results.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;This is a widely discussed framing of AI capability shifts, but treat it as commentary until the specific results are checked.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://venturebeat.com/technology/ai-is-collapsing-centuries-of-math-and-science-research-into-days-is-the-singularity-upon-us"&gt;VentureBeat&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Technology&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://neuralnetworksanddeeplearning.com/"&gt;Michael Nielsen takes down his neural networks book, drawing 595 points on Hacker News&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 27, 20:31&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Michael Nielsen's well-known online book on neural networks and deep learning has been taken down. The thread drew 595 points and 410 comments. The summary seen gives no reason for the removal.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;It is a widely used learning resource for many developers and is now gone, and the reason is not yet known.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://neuralnetworksanddeeplearning.com/"&gt;neuralnetworksanddeeplearning.com&lt;/a&gt; · &lt;a href="https://news.ycombinator.com/item?id=50670757"&gt;Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://unkernel.dev"&gt;Unkernel: a real Linux kernel compiled to WebAssembly&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 28, 04:19&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;A project called Unkernel runs a real Linux kernel compiled to WebAssembly, and it drew 442 points and 117 comments on Hacker News. The summary seen gives no performance or security details.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;It points to a possible path for sandboxed and browser-based Linux workloads, though it is early and not yet proven.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://unkernel.dev"&gt;Unkernel&lt;/a&gt; · &lt;a href="https://news.ycombinator.com/item?id=50674218"&gt;Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theverge.com/gadgets/1044771/m5-macbook-air-black-friday-2026-deal-sale"&gt;Verge: 'RAMageddon' price hikes shape Black Friday as M5 MacBook Air returns to pre-hike price&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 28, 04:30&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;The Verge says prices are up across multiple categories because of 'RAMageddon', so some Black Friday deals look smaller than usual. The M5 MacBook Air is $300 off, back at $999 for the 13-inch with 16GB RAM and 512GB, the lowest since Apple raised prices by $200 in June. This is retail deal coverage, not a hard-news report.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;It is a consumer-facing sign that memory costs are still pushing up hardware prices, which matters for refresh budgets.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.theverge.com/gadgets/1044771/m5-macbook-air-black-friday-2026-deal-sale"&gt;The Verge&lt;/a&gt; · &lt;a href="https://www.theverge.com/gadgets/1039190/best-black-friday-2026-deals-tech-gadgets-gift-ideas"&gt;The Verge (best Black Friday deals)&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theverge.com/transportation/1044706/this-purple-electric-chinese-minivan-can-go-up-to-559-miles-on-a-charge"&gt;BYD unveils 'Whale' electric minivan with an estimated 559-mile range&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 28, 01:02&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;BYD announced the Whale, a flagship electric minivan with an estimated range of 559 miles (900 km). It is larger than the Honda Odyssey, Chrysler Pacifica and Toyota Sienna, at 17.3 feet long. The range is a manufacturer estimate and the coverage gives no pricing or market availability.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;It is a competitive signal in EV range from a Chinese maker, set against the VW ID Buzz's roughly 200 real-world miles.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.theverge.com/transportation/1044706/this-purple-electric-chinese-minivan-can-go-up-to-559-miles-on-a-charge"&gt;The Verge&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h2&gt;Business &amp;amp; Markets&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.nytimes.com/2026/11/27/business/stocks-tech-stocks-ai.html"&gt;Stocks rally to close a week of wild swings, with Nvidia moves driving volatility&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 27, 19:13&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;US stocks rallied at the end of a holiday-shortened week that NYT describes as eventful and volatile. A separate NYT column says Nvidia has been down, up and down again, and the market has followed. The columnist argues long-term diversified investors need not change course.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Market direction is tied closely to a single AI chip vendor, and that concentration is a risk for tech-heavy portfolios.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.nytimes.com/2026/11/27/business/stocks-tech-stocks-ai.html"&gt;NYT Business&lt;/a&gt; · &lt;a href="https://www.nytimes.com/2026/11/27/business/nvidia-jensen-huang-trump-markets.html"&gt;NYT Business (column)&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.politico.eu/article/an-advocate-for-russia-jared-kushner-vladimir-putin-comments-spark-outrage-europe/?utm_source=RSS_Feed&amp;amp;utm_medium=RSS&amp;amp;utm_campaign=RSS_Syndication"&gt;Kushner's Putin comments spark outrage in Europe, with calls to replace him as peace envoy&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 27, 21:10&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Politico EU reports that Jared Kushner's comments about Vladimir Putin drew sharp criticism in Europe. A Kyiv lawmaker called for him to be replaced as peace envoy, and a German MEP said he is repeating 'pure Kremlin propaganda.' Politico gives no sign yet of any formal change to his role.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Friction between Washington and European capitals over Ukraine diplomacy affects sanctions, energy and trade policy.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.politico.eu/article/an-advocate-for-russia-jared-kushner-vladimir-putin-comments-spark-outrage-europe/?utm_source=RSS_Feed&amp;amp;utm_medium=RSS&amp;amp;utm_campaign=RSS_Syndication"&gt;Politico EU&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.politico.eu/article/nine-things-you-need-to-read-spanish-election/?utm_source=RSS_Feed&amp;amp;utm_medium=RSS&amp;amp;utm_campaign=RSS_Syndication"&gt;Spanish election on Sunday: Politico EU's primer on key players and results&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
+&lt;em&gt;Nov 28, 04:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Politico EU published a guide to Spain's election this Sunday, covering the key players and how to follow the results. The summary seen gives no polling details.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;The outcome of the election will shape Spanish policy and EU dynamics, and the result lands over the weekend.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;Sources: &lt;a href="https://www.politico.eu/article/nine-things-you-need-to-read-spanish-election/?utm_source=RSS_Feed&amp;amp;utm_medium=RSS&amp;amp;utm_campaign=RSS_Syndication"&gt;Politico EU&lt;/a&gt;&lt;br&gt;
+&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>Evening — Nov 28, 2026</title>
     <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-11-28-evening.html"/>
@@ -1935,89 +2013,6 @@
 &lt;p&gt;NYT adds reporting that Jensen Huang's belittling of employees goes back decades and once led to a confidential settlement with an executive who said he was 'terrorized'. A second NYT piece covers what interim CEO Colette Kress told employees at an all-hands meeting after Huang's resignation. She sought to put his indiscretions behind the company. This builds on earlier culture reporting and the SEC and California subpoena scrutiny.&lt;/p&gt;&lt;br&gt;
 &lt;p&gt;&lt;blockquote&gt;&lt;em&gt;The governance story at the key AI chip supplier is still deepening, and the interim leadership's message shows how it is trying to steady the company.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
 &lt;p&gt;Sources: &lt;a href="https://www.nytimes.com/2026/11/20/technology/jensen-huang-nvidia-culture.html"&gt;NYT Technology (culture)&lt;/a&gt; · &lt;a href="https://www.nytimes.com/2026/11/18/technology/nvidia-jensen-huang-affair-colette-kress.html"&gt;NYT Technology (Kress)&lt;/a&gt;&lt;br&gt;
-&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>Afternoon — Nov 21, 2026</title>
-    <link href="https://jonaskjellin.github.io/pulsebrief-site/2026-11-21-afternoon.html"/>
-    <id>https://jonaskjellin.github.io/pulsebrief-site/2026-11-21-afternoon.html</id>
-    <updated>2026-11-21T17:57:49.386Z</updated>
-    <content type="html">&lt;p&gt;&lt;h1&gt;PulseBrief's Afternoon Pulse&lt;/h1&gt;&lt;br&gt;
-&lt;em&gt;Sat, Nov 21, 07:00 → Sat, Nov 21, 13:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;Cyber Security&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://thehackernews.com/2026/11/hackers-exploit-critical-vmware-cisco.html"&gt;CISA adds VMware vCenter, Cisco Expressway, SAP NetWeaver and Apache Roller flaws to its exploited-vulnerabilities list&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 21, 09:49&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;CISA added four flaws to its Known Exploited Vulnerabilities catalog on Friday, citing evidence of active exploitation. They affect Apache Roller, Cisco Expressway, SAP NetWeaver and Broadcom VMware vCenter, and one carries a CVSS score of 9.8. The vCenter and Expressway entries follow earlier reports of China-linked and PoC-driven exploitation.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;A KEV listing sets federal patch deadlines and confirms exploitation, so any of these four products in your estate should move to the front of the queue.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://thehackernews.com/2026/11/hackers-exploit-critical-vmware-cisco.html"&gt;The Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://thehackernews.com/2026/11/gnupg-warns-critical-gpgme-flaw-could.html"&gt;GnuPG warns of critical GPGME flaw: a malicious OpenPGP key can expose application data&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 21, 09:32&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;The GnuPG project says a malicious OpenPGP key with an unusually long user ID can trigger a critical memory bug in GPGME, the library most programs use to work with GnuPG. The flaw (CVE-2026-129975) could be used to steal data from affected applications. It affects all software using GPGME before version 2.3.0, and fixed versions are out. The GnuPG announcement was also the subject of a Hacker News thread titled 'RCE in Gnupg' (166 points).&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;GPGME sits underneath many mail and signing tools, so check which of your applications bundle it and update to 2.3.0 or later.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://thehackernews.com/2026/11/gnupg-warns-critical-gpgme-flaw-could.html"&gt;The Hacker News&lt;/a&gt; · &lt;a href="https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html"&gt;GnuPG announce list&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.bbc.com/news/articles/cvze7de86pk3o"&gt;FBI reportedly investigating apparent hack of its criminal database&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 21, 11:33&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;The BBC reports that the FBI is investigating an apparent breach of its criminal database. The thread drew 136 points and 70 comments on Hacker News. The summary gives no detail on what data was reached, who is responsible, or how access was gained.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;If confirmed, a compromise of a core law-enforcement system is a major incident, and it lands in a week of unexplained outages and the departure of the national cyber director.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.bbc.com/news/articles/cvze7de86pk3o"&gt;BBC News&lt;/a&gt; · &lt;a href="https://news.ycombinator.com/item?id=50587859"&gt;Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://thehackernews.com/2026/11/attackers-ai-agents-found-zero-day-in.html"&gt;Detail emerges on the AI-agent zero-day: MONAI Label flaw gave root on a university server (vendor research)&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 21, 12:03&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Amazon Threat Intelligence says suspected China-linked attackers used autonomous AI agents to find a previously unknown flaw in MONAI Label, an open-source medical imaging server. The bug lets an unauthenticated attacker write files outside the server's storage folder, and it affects MONAI Label 0.8.5 and earlier in the default setup. The attackers gained root on a university server. The findings come from Amazon's own research.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;This confirms the exposed product and the exploit class for the first documented case of AI agents finding and exploiting a zero-day, so anyone running MONAI Label has a concrete patch target.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://thehackernews.com/2026/11/attackers-ai-agents-found-zero-day-in.html"&gt;The Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;AI &amp;amp; Machine Learning&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://thehackernews.com/2026/11/a-single-malicious-webpage-let.html"&gt;One malicious webpage let researchers hijack Meta Muse and read private chats and memories&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 21, 12:53&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Researchers showed that a malicious webpage could extract a Muse user's private conversations and stored memories without triggering any approval prompt. The same attack could be extended to reach credentials Muse stores for connected accounts. It was a laboratory demonstration, not an attack on real users.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;It is another agent permission failure in Muse, following earlier reports of the assistant leaking users' private data, and it shows the risk of assistants that hold credentials.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://thehackernews.com/2026/11/a-single-malicious-webpage-let.html"&gt;The Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://thehackernews.com/2026/11/signal-blocks-ai-agents-from-reading.html"&gt;Signal restricts screenshots by default to keep AI agents out of chats, but admits protection is 'incomplete' (vendor action)&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 21, 09:49&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Signal will block screenshots by default on iOS 27, where agentic systems are built into the OS, and on Android versions where it can detect an AI assistant trying to read the screen. Signal itself concedes that the protection is 'incomplete'. This is Signal's own announcement.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;A major encrypted messenger is openly treating OS-level AI agents as a threat, and its admission of gaps shows how hard that threat is to contain.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://thehackernews.com/2026/11/signal-blocks-ai-agents-from-reading.html"&gt;The Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theregister.com/offbeat/2026/11/21/chatgpt-shrunk-down-to-run-on-a-super-nintendo/5311418"&gt;ChatGPT shrunk down to run on a Super Nintendo&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 21, 12:46&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;The Register reports that a hobbyist version of a ChatGPT-style model has been squeezed onto a Super Nintendo. Don't expect complex, coherent, or always correct answers. It is a novelty project, with no practical use claimed.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;It is a light signal of how far model compression can go, though the output quality makes it a curiosity.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.theregister.com/offbeat/2026/11/21/chatgpt-shrunk-down-to-run-on-a-super-nintendo/5311418"&gt;The Register&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;Technology&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.nytimes.com/2026/11/21/science/outages-tech-history.html"&gt;NYT analysis: AI-driven outages and attacks fit a historical pattern of innovation causing failure first&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 21, 11:02&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;The NYT argues that if AI is contributing to this week's outages and cyberattacks, it fits history, where new technologies often cause calamitous failures before they improve life. It is analysis rather than new reporting, and no cause for the outages has been confirmed. It lands in the middle of the debate over AI-accelerated patching.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;It frames the week's run of outages for a mainstream audience, but it does not establish AI as the cause.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.nytimes.com/2026/11/21/science/outages-tech-history.html"&gt;NYT Technology&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theregister.com/science/2026/11/21/nasa-mars-rover-and-orbiter-suffer-glitches/5311360"&gt;NASA's Mars rover and orbiter both suffer glitches&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 21, 08:47&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;The Register reports that NASA's Mars rover and an orbiter have each hit technical problems. The summary gives no detail on the severity, the cause or the impact on missions.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;It is a reminder that the week's technical failures are not confined to Earth, though the scale of the problems is unclear.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.theregister.com/science/2026/11/21/nasa-mars-rover-and-orbiter-suffer-glitches/5311360"&gt;The Register&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://blog.tymscar.com/posts/studiodisplayethernet/"&gt;A monitor was cutting one user's download speed by 75%&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 21, 11:36&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;A blog post tracing a slow connection to a display's built-in Ethernet drew 274 points and 129 comments on Hacker News. It describes the monitor as the cause of a 75% drop in download speed. The summary gives no further technical detail.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;It is a practical troubleshooting case that is widely read by developers, and it is worth a look if you use docks or displays with built-in networking.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://blog.tymscar.com/posts/studiodisplayethernet/"&gt;tymscar blog&lt;/a&gt; · &lt;a href="https://news.ycombinator.com/item?id=50587875"&gt;Hacker News&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h2&gt;Business &amp;amp; Markets&lt;/h2&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.nytimes.com/2026/11/21/business/anthropic-stock-wall-street-silicon-valley.html"&gt;Anthropic's record IPO meets a rocky first full trading day as markets slide on AI spending worries&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 21, 11:03&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;NYT reports that Anthropic broke records with its initial public offering this week, then had a rocky first full day of trading as markets plunged on worries about AI spending. It describes a disconnect between Wall Street and Silicon Valley. This follows the S&amp;amp;P 500 entering correction territory on Friday.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;The market is separating the success of one AI listing from doubts about the wider AI buildout, which affects funding and valuations across the sector.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.nytimes.com/2026/11/21/business/anthropic-stock-wall-street-silicon-valley.html"&gt;NYT Business&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.politico.eu/article/costa-cuts-proposed-eu-budget-by-44billion-euros/?utm_source=RSS_Feed&amp;amp;utm_medium=RSS&amp;amp;utm_campaign=RSS_Syndication"&gt;EU's Costa cuts proposed budget by €44B and plans a Big Tech tax&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 21, 11:44&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Politico reports that European Council President António Costa has cut the proposed EU budget by €44 billion. Brussels plans a tax on Big Tech to raise billions for the next budget cycle. The summary gives no rate or scope for the tax.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;A new EU levy aimed at large technology companies is a regulatory signal, though the design is still unknown.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.politico.eu/article/costa-cuts-proposed-eu-budget-by-44billion-euros/?utm_source=RSS_Feed&amp;amp;utm_medium=RSS&amp;amp;utm_campaign=RSS_Syndication"&gt;Politico EU&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.theverge.com/transportation/1038448/harbinger-ev-startup-240m-series-d-fedex-army-trucks"&gt;Electric truck maker Harbinger raises $240M Series D, backed by a $300M FedEx order and a military contract&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 21, 13:00&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Harbinger raised $240 million in a Series D round earlier this month, according to The Verge. The company also has a $300 million FedEx order and a new US military contract. It focuses on Class 4-6 delivery vans and box trucks, skipping consumer EVs.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;It is a funding round above $50 million that shows capital going to commercial EVs while legacy automakers pull back.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.theverge.com/transportation/1038448/harbinger-ev-startup-240m-series-d-fedex-army-trucks"&gt;The Verge&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;h3&gt;&lt;a href="https://www.politico.eu/article/russian-threats-less-hybrid-von-der-leyen-says-assassination-plot-ukrainian-rapper-kyivstoner-denmark/?utm_source=RSS_Feed&amp;amp;utm_medium=RSS&amp;amp;utm_campaign=RSS_Syndication"&gt;Von der Leyen says Russian threats are 'less and less hybrid' after Denmark thwarts an assassination plot&lt;/a&gt;&lt;/h3&gt;&lt;br&gt;
-&lt;em&gt;Nov 21, 12:43&lt;/em&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Danish authorities said they thwarted a Russian plan to kill a Ukrainian rapper in September. European Commission President Ursula von der Leyen said that Russian threats are becoming 'less and less hybrid'. The summary gives no detail on how the plot was foiled.&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;It signals a rising Russian threat in Europe, which affects security posture and risk assessments for companies operating there.&lt;/em&gt;&lt;/blockquote&gt;&lt;/p&gt;&lt;br&gt;
-&lt;p&gt;Sources: &lt;a href="https://www.politico.eu/article/russian-threats-less-hybrid-von-der-leyen-says-assassination-plot-ukrainian-rapper-kyivstoner-denmark/?utm_source=RSS_Feed&amp;amp;utm_medium=RSS&amp;amp;utm_campaign=RSS_Syndication"&gt;Politico EU&lt;/a&gt;&lt;br&gt;
 &lt;/p&gt;</content>
   </entry>
 </feed>
